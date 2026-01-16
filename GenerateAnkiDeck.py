@@ -1,6 +1,5 @@
 import os
 
-import italian_dictionary as it_dict
 import genanki
 import hashlib
 import json
@@ -44,6 +43,19 @@ class Word():
         self.data = data.split(",")
         self.italian = self.data[0]
         self.english = self.data[1]
+        try:
+            self.part_of_speech = self.data[2]
+            self.__gender = self.data[3]
+            self.pronunciation = self.data[4]
+        except:
+            pass
+
+    @property
+    def gender(self):
+        if self.part_of_speech == "noun":
+            return self.__gender
+        else:
+            return None
 
 class VerbLang():
     def __init__(self, io=None, tu=None, lui_lei=None, noi=None, voi=None, loro=None, reflexive=None):
@@ -227,6 +239,51 @@ def get_verb_model(regular=True):
         css=custom_css
     )
 
+def get_model():
+    templates = []
+    fields = [{'name': 'Italian'},
+              {'name': 'English'},
+              {'name': 'Part of Speech'},
+              {'name': 'Gender'},
+              {'name': 'Pronunciation'}]
+
+    card_css = ".card {font-family: arial; font-size: 25px; text-align: center; color: black; background-color: white;}"
+    irregular_css = '.irregular_verb {color: red; font-size: 40px}'
+    irregular_front_css = '.irregular_front {color: red;}'
+
+    custom_css = f"{card_css} {irregular_css} {irregular_front_css}"
+
+    templates.append({
+        'name': f'En->It',
+        'qfmt': f'{{{{English}}}}',
+        'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{Italian}}}}<br><br><b>Part of Speech:</b> {{{{Part of Speech}}}}<br><b><b>Gender:</b> {{{{Gender}}}}</b><br><b>Pronunciation:</b> {{{{Pronunciation}}}}'})
+    templates.append({
+        'name': f'It->En',
+        'qfmt': f'{{{{Italian}}}}',
+        'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{English}}}}<br><br><b>Part of Speech:</b> {{{{Part of Speech}}}}<br><b><b>Gender:</b> {{{{Gender}}}}</b><br><b>Pronunciation:</b> {{{{Pronunciation}}}}',
+
+    })
+
+    id = stable_id("WordModel_stuff")
+    name = "Words"
+
+    return genanki.Model(
+        model_id=id,
+        name=name,
+        fields=fields,
+        templates=templates,
+        css=custom_css
+    )
+
+def get_anki_word_note(model, word: Word):
+    return genanki.Note(guid=stable_id(word.italian),
+                        model=model,
+                        fields=[word.italian,
+                                word.english,
+                                word.part_of_speech,
+                                word.gender,
+                                word.pronunciation])
+
 def get_anki_verb_note(model, verb: Verb):
     return genanki.Note(guid=stable_id(verb.infinitive),
                         model=model,
@@ -250,6 +307,7 @@ def get_anki_verb_note(model, verb: Verb):
 def main():
 
     verb_model = get_verb_model()
+    word_model = get_model()
     irregular_verb_model = get_verb_model(regular=False)
     verbs_per_deck = 10
 
@@ -258,45 +316,65 @@ def main():
         deck_id=1260383378,
         name="ItalianVocab")
 
-    for file in files:
-        with open(os.path.join("./VocabData", file), "r", encoding='utf-8') as f:
-            lines = f.readlines()
+    with open(os.path.join("./VocabData", "verb_output.csv"), "r", encoding='utf-8') as f:
+        lines = f.readlines()
 
-            first_word: Verb
+        first_word: Verb
 
-            notes = []
-            for line in lines:
+        notes = []
+        for line in lines:
 
-                print(line)
+            print(line)
 
-                verb = Verb(line)
+            verb = Verb(line)
 
-                if verb.regular == REGULAR:
-                    model = verb_model
-                else:
-                    model = irregular_verb_model
+            if verb.regular == REGULAR:
+                model = verb_model
+            else:
+                model = irregular_verb_model
 
-                if len(notes) == 0:
-                    first_word = verb
+            if len(notes) == 0:
+                first_word = verb
 
-                notes.append(get_anki_verb_note(model, verb))
+            notes.append(get_anki_verb_note(model, verb))
 
-                if len(notes) >= verbs_per_deck or line == lines[-1]:
-                    first = first_word.infinitive
-                    last = verb.infinitive
-                    unique_extension = f"Verbs_{first}_{last}"
-                    name = f"ItalianVocab::{unique_extension}"
-                    deck = genanki.Deck(
-                        deck_id=stable_id(name),
-                        name=name
-                    )
+            if len(notes) >= verbs_per_deck or line == lines[-1]:
+                first = first_word.infinitive
+                last = verb.infinitive
+                unique_extension = f"Verbs_{first}_{last}"
+                name = f"ItalianVocab::{unique_extension}"
+                deck = genanki.Deck(
+                    deck_id=stable_id(name),
+                    name=name
+                )
 
-                    for note in notes:
-                        deck.add_note(note)
+                for note in notes:
+                    deck.add_note(note)
 
-                    genanki.Package(deck).write_to_file(os.path.join("./Decks", f"{unique_extension}.apkg"))
-                    print(f"Wrote {unique_extension}.apkg")
-                    notes = []
+                genanki.Package(deck).write_to_file(os.path.join("./Decks", f"{unique_extension}.apkg"))
+                print(f"Wrote {unique_extension}.apkg")
+                notes = []
+
+    with open(os.path.join("./VocabData", "vocab_output.csv"), "r", encoding='utf-8') as f:
+        lines = f.readlines()
+
+        notes = []
+        for line in lines:
+            print(line)
+
+            word = Word(line)
+            model = word_model
+
+            notes.append(get_anki_word_note(model, word))
+
+        name = f"ItalianVocab::Vocab"
+        deck = genanki.Deck(
+            deck_id=stable_id(name),
+            name=name
+        )
+        for note in notes:
+            deck.add_note(note)
+        genanki.Package(deck).write_to_file(os.path.join("./Decks", "vocab.apkg"))
 
 if __name__ == "__main__":
     main()

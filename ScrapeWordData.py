@@ -13,8 +13,6 @@ from time import sleep
 import json
 from bs4 import BeautifulSoup
 
-import italian_dictionary
-
 
 def remove_accents(input_str):
   nfkd_form = unicodedata.normalize('NFKD', input_str)
@@ -55,7 +53,8 @@ try:
     i = terms[0].strip()
     english = terms[1]
 
-    url = "https://dictionary.cambridge.org/dictionary/italian-english/" + i.replace(' ', '-').lower()
+    url_i = i.split('/')[0]
+    url = "https://dictionary.cambridge.org/dictionary/italian-english/" + url_i.replace(' ', '-').lower()
     url = remove_accents(url)
     print(f"{i}: {url}")
 

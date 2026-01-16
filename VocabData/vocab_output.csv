@@ -2,7 +2,7 @@ abito,dress,noun,masculine,'abito
 acqua,water,noun,feminine,'akːwa
 adesso,now,adverb,N/A,a'dɛsːo
 adulto,adult,adjective,N/A,a'dulto
-aereo/aeroplano,airplane,adjective,N/A,ˈmɪs.ɪŋ
+aeroplano,airplane,noun,masculine,aero'plano, areo'plano
 agosto,August,noun,masculine,a'ɡosto
 aiuto,help,noun,masculine,a'juto
 albergo,hotel,noun,masculine,al'bɛrɡo
@@ -41,11 +41,11 @@ basket,basketball,,N/A,Not Found
 basso,low/small,adjective,N/A,'basːo
 bello,beautiful/nice,adjective,N/A,'bɛlːo
 bene,well,adverb,N/A,'bɛne
-bevanda/bibita,drink,adjective,N/A,ˈmɪs.ɪŋ
+bevanda/bibita,drink,noun,feminine,be'vanda
 bianco,white,adjective,N/A,'bjanko
 biondo,blonde,adjective,N/A,'bjondo
 bicchiere,(drinking) glass,noun,masculine,bi'kːjɛre
-bici/bicicletta,bicycle,adjective,N/A,ˈmɪs.ɪŋ
+bicicletta,bicycle,noun,feminine,bitʃi'kletːa
 biglietto,ticket,noun,masculine,bi'ʎetːo
 birra,beer,noun,feminine,'birːa
 biscotto,cookie,noun,masculine,bis'kɔtːːo
@@ -171,7 +171,7 @@ finestra,window,noun,feminine,fi'nɛstra
 fiore,flower,noun,masculine,'fjore
 fiume,river,noun,masculine,'fjume
 formaggio,cheese,noun,masculine,for'madːʒo
-foto/fotografia,photo,adjective,N/A,ˈmɪs.ɪŋ
+foto/fotografia,photo,noun,N/A,Not Found
 frase,sentence,noun,feminine,'fraze
 fratello,brother,noun,masculine,fra'tɛlːo
 freddo,cold,adjective,N/A,'fredːo
@@ -217,7 +217,7 @@ interessante,interesting,adjective,N/A,intere'sːante
 inverno,winter,noun,masculine,in'vɛrno
 italiano,Italian,adjective,N/A,ita'ljano
 jeans,jeans,noun,invariable,dʒins
-là/lì,there,adjective,N/A,ˈmɪs.ɪŋ
+lì,there,pronoun,N/A,li
 largo,wide,adjective,N/A,'larɡo
 latte,milk,noun,masculine,'latːe
 lavagna,blackboard,noun,feminine,la'vaɲa
@@ -289,7 +289,7 @@ nove,nine,adjective,N/A,'nɔve
 novembre,November,noun,masculine,no'vɛmbre
 numero,number,noun,masculine,'numero
 nuovo,new,adjective,N/A,'nwɔvo
-o/oppure,or,adjective,N/A,ˈmɪs.ɪŋ
+o,or,noun,invariable,o
 occhiali,reading glasses,noun,masculine,o'kːjali
 occhio,eye,noun,masculine,'ɔkːjo
 oggi,today,adverb,N/A,'ɔdːʒi
@@ -302,3 +302,172 @@ otto,eight,adjective,N/A,'ɔtːo
 ottobre,October,noun,masculine,o'tːobre
 padre,father,noun,masculine,'padre
 pagina,page,noun,feminine,'padʒina
+paio,pair,noun,masculine,'pajo
+palla,ball,noun,feminine,'palːa
+pane,bread,noun,masculine,'pane
+panino,sandwich,noun,masculine,pa'nino
+pantaloni,pants,noun plural,N/A,Not Found
+papà,dad,noun,masculine,'papa
+parcheggio,parking lot,noun,masculine,par'kedːʒo
+parco,park,noun,masculine,'parko
+parola,word,noun,feminine,pa'rɔla
+parte,part,noun,feminine,'parte
+Pasqua,Easter,noun,feminine,'paskwa
+pasta,pasta,noun,feminine,'pasta
+patata,potato,noun,feminine,pa'tata
+pecora,sheep,noun,feminine,'pɛkora
+penna,pen,noun,feminine,'penːa
+per favore,please,,N/A,Not Found
+perché,why/because,adverb,N/A,per'ke
+persona,person,noun,feminine,per'sona
+pesce,fish,noun,masculine,'peʃe
+piano,floor (of a house),adjective,N/A,'pjano
+pianta,plant,noun,feminine,'pjanta
+piatto,dish,adjective,N/A,'pjatːo
+piatto,flat,adjective,N/A,'pjatːo
+piccolo,small/little,adjective,N/A,'pikːolo
+picnic,picnic,noun,invariable,pik'nik
+piede,foot,noun,masculine,'pjɛde
+pioggia,rain,noun,feminine,'pjɔdːʒa
+piscina,swimming pool,noun,feminine,pi'ʃina
+pizza,pizza,noun,feminine,'pitːsa
+pizzeria,pizzeria,noun,feminine,pitːse'ria
+pomeriggio,afternoon,noun,masculine,pome'ridːʒo
+pomodoro,tomato,noun,masculine,pomo'dɔro
+porta,door,noun,feminine,'pɔrta
+possibile,possible,adjective,N/A,po'sːibile
+posto,place,noun,masculine,'posto, 'pɔsto
+povero,poor,adjective,N/A,'pɔvero
+pranzo,lunch,noun,masculine,'prandzo
+preferito,favorite,adjective,N/A,prefe'rito
+prego,you’re welcome,interjection,N/A,'preɡo
+presto,soon,adverb,N/A,'prɛsto
+prima,before,adverb,N/A,‘prima
+primavera,spring,noun,feminine,prima'vɛra
+primo,first,adjective,N/A,'primo
+problema,problem,noun,masculine,pro'blɛma
+programma,program,noun,masculine,pro'ɡramːa
+pronto,ready,adjective,N/A,'pronto
+prossimo,next,adjective,N/A,'prɔsːimo
+pulito,clean,adjective,N/A,pu'lito
+qui,here,adverb,N/A,kwi
+qualche,some,adjective,N/A,'kwalke
+qualche volta,sometimes,,N/A,Not Found
+qualcosa,something,pronoun,N/A,kwal'kɔsa
+qualcuno,someone,pronoun,N/A,kwal'kuno
+quale,which,adjective,N/A,'kwale
+quando,when,adverb,N/A,'kwando
+quanto,how much,agg.interr., pron.interr.,N/A,'kwanto
+quattordici,fourteen,adjective,N/A,kwa'tːorditʃi
+quattro,four,adjective,N/A,'kwatːro
+quello,that,adjective,N/A,'kwelːo
+questo,this,adjective,N/A,'kwesto
+quindici,fifteen,adjective,N/A,'kwinditʃi
+radio,radio,noun,feminine,'radjo
+ragazza,girl,noun,feminine,ra'ɡatːsa
+ragazzo,boy,noun,masculine,ra'ɡatːso
+regalo,gift/present,noun,masculine,re'ɡalo
+ricco,rich,adjective,N/A,'rikːo
+risposta,answer,noun,feminine,ris'pɔsta
+ristorante,restaurant,noun,masculine,risto'rante
+rosso,red,adjective,N/A,'rosːo
+rumore,noise,noun,masculine,ru'more
+sabato,Saturday,noun,masculine,sa'bato
+sale,salt,noun,masculine,'sale
+salotto,living room,noun,masculine,sa'lɔtːo
+sbagliato,wrong,adjective,N/A,zba'ʎato
+scarpa,shoe,noun,feminine,'skarpa
+scatola,box,noun,feminine,'skatola
+schiena,back,noun,feminine,'skjɛna
+scrittura,writing,noun,feminine,skri'tːura
+scrivania,desk,noun,feminine,skriva'nia
+scuola,school,noun,feminine,'skwɔla
+secondo,second (place),adjective,N/A,se'kondo
+secondo,second (time),adjective,N/A,se'kondo
+sedia,chair,noun,feminine,'sɛdja
+sedici,sixteen,adjective,N/A,'seditʃi
+sei,six,adjective,N/A,sɛj
+semplice,simple,adjective,N/A,'semplit∫e
+sempre,always,adverb,N/A,'sɛmpre
+sera,evening,noun,feminine,'sera
+sete,thirst,noun,feminine,'sete
+sette,seven,adjective,N/A,'sɛtːe
+settembre,September,noun,masculine,se'tːɛmbre
+settimana,week,noun,feminine,setːi'mana
+sicuro,sure/safe,adjective,N/A,si'kuro
+signora,Mrs,noun,feminine,si'ɲora
+signore,Mr,noun,masculine,si'ɲore
+sinistra,left (direction),noun,feminine,sinis'tra
+soggetto,subject,adjective,N/A,so'dːʒɛtːo
+soldi,money,noun plural,N/A,Not Found
+sole,sun,noun,masculine,'sole
+solo,just/only,adjective,N/A,'solo
+sopra,over/above,preposition,N/A,'sopra
+sorella,sister,noun,feminine,so'rɛlːa
+sotto,below/under,preposition,N/A,'sotːo
+spesa,grocery shopping,noun,feminine,'spesa
+spesso,often,adjective,N/A,'spesːo
+spiaggia,beach,noun,feminine,'spjadːʒa
+sporco,dirty,adjective,N/A,'spɔrko
+sport,sport,noun,invariable,spɔrt
+stanco,tired,adjective,N/A,'stanko
+stanza,room,noun,feminine,'stantsa
+stasera,tonight,adverb,N/A,sta'sera
+stazione,station,noun,feminine,sta'tsjone
+stesso,same,adjective,N/A,'stesːo
+strada,road/street,noun,feminine,'strada
+studente,student (male),noun,masculine,stu'dɛnte
+studentessa,student (female),noun,N/A,Not Found
+succo,juice,noun,masculine,'sukːo
+supermercato,supermarket,noun,masculine,supermer'kato
+tanto,much,adjective,N/A,'tanto
+tardi,late,adverb,N/A,'tardi
+tavolo,table,noun,masculine,'tavolo
+taxi,taxi,noun,masculine,'taksi
+tazza,mug,noun,feminine,'tatːsa
+tazzina,cup,noun,feminine,ta'tːsina
+tè,tea,pronoun,N/A,te
+telefono,phone,noun,masculine,te'lɛfono
+televisione,TV,noun,feminine,televi'zjone
+tempo,time/weather,noun,masculine,'tɛmpo
+tennis,tennis,noun,invariable,'tɛnːis
+testa,head,noun,feminine,'tɛsta
+testo,text,noun,masculine,'tɛsto
+tiepido,warm,adjective,N/A,'tjɛpido
+torta,cake,noun,feminine,'torta
+tre,three,adjective,N/A,tre
+tredici,thirteen,adjective,N/A,'treditʃi
+treno,train,noun,masculine,'trɛno
+triste,sad,adjective,N/A,'triste
+troppo,too much,adjective,N/A,'trɔpːo
+tutto,all/everything,adjective,N/A,'tutːo
+uccello,bird,noun,masculine,u'tːʃɛlːo
+ufficio,office,noun,masculine,u'fːitʃo
+ultimo,last,adjective,N/A,'ultimo
+undici,eleven,adjective,N/A,'unditʃi
+università,university,noun,feminine,universi'ta
+uno,one,article,N/A,'uno
+uomo,man,noun,masculine,'wɔmo
+uovo,egg,noun,masculine,'wɔvo
+vacanze,holidays,,N/A,Not Found
+vaso,vase,noun,masculine,'vazo
+vecchio,old,adjective,N/A,'vɛkːjo
+veloce,fast,adjective,N/A,ve'lotʃe
+venerdì,Friday,noun,masculine,vener'di
+venti,twenty,adjective,N/A,'venti
+vento,wind,noun,masculine,'vɛnto
+verde,green,adjective,N/A,'verde
+verdura,vegetables,noun,feminine,ver'dura
+vestiti,clothes,noun plural,N/A,Not Found
+vetro,glass,noun,masculine,'vetro
+via,street,noun,feminine,'via
+viaggio,trip/travel/journey,noun,masculine,'vjadːʒo
+vicino,near,adjective,N/A,vi't∫ino
+vino,wine,noun,masculine,'vino
+visita,visit,noun,feminine,'vizita
+vita,life,noun,feminine,'vita
+weekend,weekend,noun,masculine,wi'kɛnd
+zaino,rucksack,noun,masculine,'dzajno
+zero,zero,noun,masculine,'dzɛro
+zoo,zoo,noun,invariable,'dzɔː
+zucchero,sugar,noun,masculine,'tsukːero
