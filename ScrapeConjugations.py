@@ -20,6 +20,9 @@ try:
     # create empty data list
     data = []
 
+  with open('patterns/verb_exceptions.json') as verb_exceptions_file:
+    verb_exceptions = json.load(verb_exceptions_file)
+
   # loop through vocab input
   for i in vocab_search:
     url = "https://cooljugator.com/it/" + i
@@ -45,11 +48,33 @@ try:
       # scrape the online data
       for j in search:
         conjug = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-form").text
-        conjug_eng = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-translation").text
+        data.append(conjug)  # append to existing data
+        data.append(",")  # insert a tab
 
-        #print(conjug)
-        data.append(conjug) # append to existing data
-        data.append(",") # insert a tab
+        if i in verb_exceptions["translations"].keys():
+          tense = "".join([c for c in j if not c.isdigit()])  # Getting letters
+          pronoun = "".join([c for c in j if c.isdigit()])  # Getting numbers
+
+          eng_inf = verb_exceptions["translations"][i][tense]
+
+          if pronoun == "1": #--------------------------I
+            conjug_eng = f"I {eng_inf}"
+          elif pronoun == "2": #------------------------You
+            conjug_eng = f"You {eng_inf}"
+          elif pronoun == "3": #------------------------He/She/It
+            conjug_eng = f"He/She/It {eng_inf}"
+          elif pronoun == "4": #------------------------We
+            conjug_eng = f"We {eng_inf}"
+          elif pronoun == "5": #------------------------You All
+            conjug_eng = f"You all {eng_inf}"
+          elif pronoun == "6": #------------------------They
+            conjug_eng = f"They {eng_inf}"
+          else:
+            conjug_eng = f"BROKEN"
+
+        else:
+          conjug_eng = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-translation").text
+
         data.append(conjug_eng)
         data.append(",")
 

@@ -46,36 +46,62 @@ class Word():
         self.english = self.data[1]
 
 class VerbLang():
-    def __init__(self, io=None, tu=None, lui_lei=None, noi=None, voi=None, loro=None):
-        self.io = io
-        self.tu = tu
-        self.lui_lei = lui_lei
-        self.noi = noi
-        self.voi = voi
-        self.loro = loro
+    def __init__(self, io=None, tu=None, lui_lei=None, noi=None, voi=None, loro=None, reflexive=None):
+        self.__io = io
+        self.__tu = tu
+        self.__lui_lei = lui_lei
+        self.__noi = noi
+        self.__voi = voi
+        self.__loro = loro
+        self.__reflexive = reflexive
+
+    @property
+    def io(self):
+        if self.__reflexive == REFLEXIVE and self.__io.startswith("I "):
+            return f"{self.__io} myself"
+        return self.__io
+
+    @property
+    def tu(self):
+        if self.__reflexive == REFLEXIVE and self.__tu.startswith("You"):
+            return f"{self.__tu} yourself"
+        return self.__tu
+
+    @property
+    def lui_lei(self):
+        if self.__reflexive == REFLEXIVE and self.__lui_lei.startswith("He"):
+            return f"{self.__lui_lei} him/her/itself"
+        return self.__lui_lei
+
+    @property
+    def noi(self):
+        if self.__reflexive == REFLEXIVE and self.__noi.startswith("We"):
+            return f"{self.__noi} ourselves"
+        return self.__noi
+
+    @property
+    def voi(self):
+        if self.__reflexive == REFLEXIVE and self.__voi.startswith("You all"):
+            return f"{self.__voi} yourselves"
+        return self.__voi
+
+    @property
+    def loro(self):
+        if self.__reflexive == REFLEXIVE and self.__loro.startswith("They"):
+            return f"{self.__loro} themselves"
+        return self.__loro
+
 
 class VerbTense():
-    def __init__(self, tense=None, ending=None, io=None, i=None, tu=None, you=None, lui_lei=None, he_she=None, noi=None, we=None, voi=None, you_all=None, loro=None, they=None):
-        print(tense)
-        print(ending)
-        print(we)
-        print(noi)
-        self.english = VerbLang(i, you, he_she, we, you_all, they)
-        self.italian = VerbLang(io, tu, lui_lei, noi, voi, loro)
+    def __init__(self, tense=None, ending=None, reflexive=None, io=None, i=None, tu=None, you=None, lui_lei=None, he_she=None, noi=None, we=None, voi=None, you_all=None, loro=None, they=None):
+        self.english = VerbLang(i, you, he_she, we, you_all, they, reflexive)
+        self.italian = VerbLang(io, tu, lui_lei, noi, voi, loro, reflexive)
         self.tense = tense
         self.ending = ending
 
     @property
     def regular(self):
         regular_endings = VERB_PATTERNS[self.tense][self.ending]
-
-        if self.ending == "arsi":
-            print("REFLEXIVE VERB")
-            print(self.ending)
-            print(self.italian.io)
-            print(self.italian.tu)
-            print(regular_endings['io'])
-            print(regular_endings['tu'])
 
         if not self.italian.io.endswith(regular_endings['io']):
             return False
@@ -97,15 +123,15 @@ class Verb(Word):
     def __init__(self, data):
         super().__init__(data)
 
-        self.part_of_speech = "Verb"                                                                #It      #En
-        self.present = VerbTense("present", self.ending, self.data[2], self.data[3],   #I
-                                                               self.data[4], self.data[5],   #You
-                                                               self.data[6], self.data[7],   #HeSheIt
-                                                               self.data[8], self.data[9],   #We
-                                                               self.data[10], self.data[11], #YouAll
-                                                               self.data[12], self.data[13]) #They
+        self.part_of_speech = "Verb"
+        self.present = VerbTense("present", self.ending, self.reflexive,
+                                 self.data[2], self.data[3],   #I
+                                 self.data[4], self.data[5],   #You
+                                 self.data[6], self.data[7],   #HeSheIt
+                                 self.data[8], self.data[9],   #We
+                                 self.data[10], self.data[11], #YouAll
+                                 self.data[12], self.data[13]) #They
 
-        print(self.present.italian.io)
 
     @property
     def infinitive(self) -> str:
@@ -180,7 +206,9 @@ def get_verb_model(regular=True):
             templates.append({
                 'name': f'{tense} {pronoun} - It->En',
                 'qfmt': f'{{{{{tense} {pronoun} - IT}}}}',
-                'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{{tense} {pronoun} - EN}}}}<br><br><b>Infinitive:</b> {{{{Infinitive}}}}<br><b>{{{{Reflexive}}}}</b><br><b><div class={regular_tag}>{{{{Regular}}}}</div></b>'})
+                'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{{tense} {pronoun} - EN}}}}<br><br><b>Infinitive:</b> {{{{Infinitive}}}}<br><b>{{{{Reflexive}}}}</b><br><b><div class={regular_tag}>{{{{Regular}}}}</div></b>',
+
+            })
             fields.append({'name': f'{tense} {pronoun} - IT'})
             fields.append({'name': f'{tense} {pronoun} - EN'})
 
