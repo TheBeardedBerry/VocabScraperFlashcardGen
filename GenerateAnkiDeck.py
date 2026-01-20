@@ -44,18 +44,35 @@ class Word():
         self.italian = self.data[0]
         self.english = self.data[1]
         try:
-            self.part_of_speech = self.data[2]
-            self.__gender = self.data[3]
-            self.pronunciation = self.data[4]
+            if self.data[2]:
+                self.part_of_speech = self.data[2]
+            else:
+                self.part_of_speech = ""
         except:
-            pass
+            self.part_of_speech = ""
+
+        try:
+            if self.data[3]:
+                self.__gender = self.data[3]
+            else:
+                self.__gender = ""
+        except:
+            self.__gender = ""
+
+        try:
+            if self.data[4]:
+                self.pronunciation = self.data[4]
+            else:
+                self.pronunciation = ""
+        except:
+            self.pronunciation = ""
 
     @property
     def gender(self):
         if self.part_of_speech == "noun":
             return self.__gender
         else:
-            return None
+            return "N/A"
 
 class VerbLang():
     def __init__(self, io=None, tu=None, lui_lei=None, noi=None, voi=None, loro=None, reflexive=None):
@@ -276,7 +293,7 @@ def get_model():
     )
 
 def get_anki_word_note(model, word: Word):
-    return genanki.Note(guid=stable_id(word.italian),
+    return genanki.Note(guid=stable_id(f"{word.italian}{word.english}"),
                         model=model,
                         fields=[word.italian,
                                 word.english,
@@ -304,77 +321,84 @@ def get_anki_verb_note(model, verb: Verb):
                                 verb.present.italian.loro,
                                 verb.present.english.loro])
 
-def main():
+def main(generate_verb_cards: bool = True, generate_vocab_cards: bool = True, language: str = 'Italian'):
 
     verb_model = get_verb_model()
     word_model = get_model()
     irregular_verb_model = get_verb_model(regular=False)
     verbs_per_deck = 10
 
+    deck_language = language
+    deck_level = "A1"
+
+
     files = os.listdir("./VocabData")
-    deck = genanki.Deck(
-        deck_id=1260383378,
-        name="ItalianVocab")
 
-    with open(os.path.join("./VocabData", "verb_output.csv"), "r", encoding='utf-8') as f:
-        lines = f.readlines()
+    if generate_verb_cards:
+        with open(os.path.join("./VocabData", "verb_output.csv"), "r", encoding='utf-8') as f:
+            lines = f.readlines()
 
-        first_word: Verb
+            first_word: Verb
 
-        notes = []
-        for line in lines:
 
-            print(line)
+            deck_type = "Verbs"
 
-            verb = Verb(line)
+            notes = []
+            for line in lines:
+                print(line)
+                verb = Verb(line)
 
-            if verb.regular == REGULAR:
-                model = verb_model
-            else:
-                model = irregular_verb_model
+                if verb.regular == REGULAR:
+                    model = verb_model
+                else:
+                    model = irregular_verb_model
 
-            if len(notes) == 0:
-                first_word = verb
+                if len(notes) == 0:
+                    first_word = verb
 
-            notes.append(get_anki_verb_note(model, verb))
+                notes.append(get_anki_verb_note(model, verb))
 
-            if len(notes) >= verbs_per_deck or line == lines[-1]:
-                first = first_word.infinitive
-                last = verb.infinitive
-                unique_extension = f"Verbs_{first}_{last}"
-                name = f"ItalianVocab::{unique_extension}"
-                deck = genanki.Deck(
-                    deck_id=stable_id(name),
-                    name=name
-                )
+                if len(notes) >= verbs_per_deck or line == lines[-1]:
+                    first = first_word.infinitive
+                    last = verb.infinitive
+                    unique_extension = f"{first}_{last}"
+                    id_name = f"Italian::Verbs_{unique_extension}"
+                    name = f"{deck_language}::{deck_level}::{deck_type}::{unique_extension}"
+                    deck = genanki.Deck(
+                        deck_id=stable_id(name),
+                        name=name
+                    )
 
-                for note in notes:
-                    deck.add_note(note)
+                    for note in notes:
+                        deck.add_note(note)
 
-                genanki.Package(deck).write_to_file(os.path.join("./Decks", f"{unique_extension}.apkg"))
-                print(f"Wrote {unique_extension}.apkg")
-                notes = []
+                    file_name = f"{deck_level}_{deck_type}_{unique_extension}.apkg"
+                    genanki.Package(deck).write_to_file(os.path.join("./Decks", file_name))
+                    print(f"Wrote {file_name}")
+                    notes = []
 
-    with open(os.path.join("./VocabData", "vocab_output.csv"), "r", encoding='utf-8') as f:
-        lines = f.readlines()
 
-        notes = []
-        for line in lines:
-            print(line)
-
-            word = Word(line)
+    if generate_vocab_cards:
+        with open(os.path.join("./VocabData", "vocab_output.csv"), "r", encoding='utf-8') as f:
+            lines = f.readlines()
             model = word_model
+            notes = []
+            for line in lines:
+                word = Word(line)
+                notes.append(get_anki_word_note(model, word))
 
-            notes.append(get_anki_word_note(model, word))
+            deck_type = "Vocab"
+            name = f"{deck_language}::{deck_level}::{deck_type}"
+            deck = genanki.Deck(
+                deck_id=stable_id(name),
+                name=name
+            )
+            for note in notes:
+                deck.add_note(note)
 
-        name = f"ItalianVocab::Vocab"
-        deck = genanki.Deck(
-            deck_id=stable_id(name),
-            name=name
-        )
-        for note in notes:
-            deck.add_note(note)
-        genanki.Package(deck).write_to_file(os.path.join("./Decks", "vocab.apkg"))
+            file_name = f"{deck_level}_{deck_type}.apkg"
+            genanki.Package(deck).write_to_file(os.path.join("./Decks", file_name))
+            print(f"Wrote {file_name}")
 
 if __name__ == "__main__":
-    main()
+    main(True, True)
