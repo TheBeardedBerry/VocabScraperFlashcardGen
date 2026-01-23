@@ -225,6 +225,14 @@ def get_verb_model(regular=True):
     else:
         regular_tag = 'irregular_verb'
 
+    templates.append({
+        'name': f'Infinitive - En->It',
+        'qfmt': f'{{{{English}}}}',
+        'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{Infinitive}}}}<br><br><b>Infinitive:</b> {{{{Infinitive}}}}<br><b><div class={regular_tag}>{{{{Regular}}}}</div></b>'})
+    templates.append({
+         'name': f'Infinitive - It->En',
+         'qfmt': f'{{{{Infinitive}}}}',
+         'afmt': f'{{{{FrontSide}}}}<hr id="answer">{{{{English}}}}<br><br><b>Infinitive:</b> {{{{Infinitive}}}}<br><b>{{{{Reflexive}}}}</b><br><b><div class={regular_tag}>{{{{Regular}}}}</div></b>',})
 
     for tense in tenses:
         for pronoun in pronouns:
@@ -401,4 +409,4 @@ def main(generate_verb_cards: bool = True, generate_vocab_cards: bool = True, la
             print(f"Wrote {file_name}")
 
 if __name__ == "__main__":
-    main(True, True)
+    main(True, False)
