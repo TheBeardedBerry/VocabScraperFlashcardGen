@@ -249,6 +249,7 @@ def get_verb_model(regular=True):
             fields.append({'name': f'{tense} {pronoun} - IT'})
             fields.append({'name': f'{tense} {pronoun} - EN'})
 
+
     if regular:
         id = stable_id("VerbModel_stuff")
         name = "Verbs"
