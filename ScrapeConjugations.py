@@ -10,97 +10,110 @@
 import requests  # lib to make web requests
 import json
 from bs4 import BeautifulSoup
-import utils
-from os import rename
+import helpers, shutil
+from os import rename, path
+from verb_scraper import VerbScraper
 
+output_json = 'VocabData/verb_data.json'
+temp_output_json = 'VocabData/temp_verb_data.json'
 output_file = 'VocabData/verb_output.csv'
 temp_output_file = 'VocabData/temp_verb_output.csv'
 
-# read in url-list
-try:
-  with open('A1_Verbs.txt') as vocab_input:
-    vocab_search = []
-    vocab_search = [line.rstrip() for line in vocab_input]
+verb_template = {
+  "locked": False, # this tells the program to skip this because the term had to be written by hand.
+  "override": {}
+}
 
-    # create empty data list
-    data = []
+pronoun_translations = {
+  "io": "I",
+  "tu": "You",
+  "lui": "He/She/It",
+  "noi": "We",
+  "voi": "You all",
+  "loro": "They"
+}
 
-  with open('patterns/verb_exceptions.json') as verb_exceptions_file:
-    verb_exceptions = json.load(verb_exceptions_file)
+languages = [
+  "en",
+  "it"
+]
+def scrape_conjugations(OnlyMissing=False):
 
-  # loop through vocab input
-  for i in vocab_search:
-    url = "https://cooljugator.com/it/" + i
-    print(f"{i}: {url}")
+  scraper = VerbScraper()
 
-    # note search vocab to output data list
-    data.append(i)
-    data.append(",") # insert a tab
+  verb_data = {}
+  if path.exists(output_json):
+    with open(output_json) as existing_verb_data:
+      verb_data = json.load(existing_verb_data)
 
-    # download content from the web url
-    try:
-      html = requests.get(url)
-      soup = BeautifulSoup(html.content, "html.parser")
-      
-      search = ["present1", "present2", "present3", "present4", "present5", "present6"]#, "past1", "past2", "past3", "past4", "past5", "past6"]
-              #present_perfect1
-              #preterite1
-              #future1
-      english = soup.find(id="mainform_translation").text
-      data.append(english)
-      data.append(",")
+  try:
+    with (open('A1_Verbs.txt') as verb_list_file):
+      verb_list = []
+      verb_list = [line.rstrip() for line in verb_list_file]
 
-      # scrape the online data
-      for j in search:
-        conjug = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-form").text
-        data.append(conjug)  # append to existing data
-        data.append(",")  # insert a tab
+      # create empty data list
+      data = []
 
-        if i in verb_exceptions["translations"].keys():
-          tense = "".join([c for c in j if not c.isdigit()])  # Getting letters
-          pronoun = "".join([c for c in j if c.isdigit()])  # Getting numbers
+    with open('patterns/verb_exceptions.json') as verb_exceptions_file:
+      verb_exceptions = json.load(verb_exceptions_file)
 
-          eng_inf = verb_exceptions["translations"][i][tense]
+    # loop through vocab input
+    for verb in verb_list:
 
-          if pronoun == "1": #--------------------------I
-            conjug_eng = f"I {eng_inf}"
-          elif pronoun == "2": #------------------------You
-            conjug_eng = f"You {eng_inf}"
-          elif pronoun == "3": #------------------------He/She/It
-            conjug_eng = f"He/She/It {eng_inf}"
-          elif pronoun == "4": #------------------------We
-            conjug_eng = f"We {eng_inf}"
-          elif pronoun == "5": #------------------------You All
-            conjug_eng = f"You all {eng_inf}"
-          elif pronoun == "6": #------------------------They
-            conjug_eng = f"They {eng_inf}"
+      if verb in verb_data.keys():
+        current_verb_data = verb_data[verb]
+      else:
+        current_verb_data = verb_template
+
+      # run through all of the tense, pronoun combinations and either populate a list with everything OR only the missing items.
+      missing_data = []
+      for tense in scraper.tenses:
+        for pronoun in scraper.pronouns:
+          if OnlyMissing and current_verb_data:
+            try:
+              it = current_verb_data[tense]["it"][pronoun]
+              en = current_verb_data[tense]["en"][pronoun]
+            except KeyError:
+              missing_data.append([tense, pronoun])
           else:
-            conjug_eng = f"BROKEN"
+            missing_data.append([tense, pronoun])
+
+      #add infinitive translation in if its missing
+      if not "en" in current_verb_data:
+        missing_data.append(["infinitive", ""])
+
+      #try:
+      for data in missing_data:
+        tense, pronoun = data
+
+        current_verb_data = helpers.add_default_tense(current_verb_data, tense, scraper.pronouns, languages)
+
+        if tense == "infinitive":
+          current_verb_data["infinitive"] = scraper.get_conjugation(verb, tense, pronoun, "en")
+          continue
+
+        it_conj = scraper.get_conjugation(verb, tense, pronoun, "it")
+
+        if tense in current_verb_data["override"].keys():
+          eng_override = current_verb_data["override"][tense]
+          en_conj = f"{pronoun_translations[pronoun]} {eng_override}"
 
         else:
-          conjug_eng = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-translation").text
+          en_conj = scraper.get_conjugation(verb, tense, pronoun, "en")
 
-        data.append(conjug_eng)
-        data.append(",")
+        current_verb_data[tense]["it"][pronoun] = it_conj
+        current_verb_data[tense]["en"][pronoun] = en_conj
 
+      verb_data[verb] = current_verb_data
 
-    except:
-      print('error: No online data found')
+    with open(output_json,'w', encoding="utf-8") as verb_output:
+      verb_output.write(json.dumps(verb_data, indent=4))
 
-    data.append("\n")
+    # helpers.backup_file(output_file)
+    # rename(temp_output_file, output_file)
 
-    vocab_output = open(temp_output_file,'w', encoding="utf-8")
-    
-    for x in range(len(data)):
-      #print(data[x])
-      vocab_output.write(data[x])
+  except IOError:
+    print('error: Vocab Input file does not exist')
 
-    vocab_output.close()
-
-  utils.backup_file(output_file)
-  rename(temp_output_file, output_file)
-
-except IOError:
-  print('error: Vocab Input file does not exist')
-
-# EOF
+if __name__ == "__main__":
+  scrape_conjugations(OnlyMissing=True)

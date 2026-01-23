@@ -12,12 +12,10 @@ from random import randint
 from time import sleep
 import json
 from bs4 import BeautifulSoup
-import utils
+import helpers
 from os import rename
 
-def remove_accents(input_str):
-  nfkd_form = unicodedata.normalize('NFKD', input_str)
-  return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
+
 
 #
 # url = "https://dictionary.cambridge.org/dictionary/italian-english/bello"
@@ -58,7 +56,7 @@ try:
 
     url_i = i.split('/')[0]
     url = "https://dictionary.cambridge.org/dictionary/italian-english/" + url_i.replace(' ', '-').lower()
-    url = remove_accents(url)
+    url = utils.remove_accents(url)
     print(f"{i}: {url}")
 
     # note search vocab to output data list
