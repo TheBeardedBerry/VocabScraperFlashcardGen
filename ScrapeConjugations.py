@@ -10,6 +10,11 @@
 import requests  # lib to make web requests
 import json
 from bs4 import BeautifulSoup
+import utils
+from os import rename
+
+output_file = 'VocabData/verb_output.csv'
+temp_output_file = 'VocabData/temp_verb_output.csv'
 
 # read in url-list
 try:
@@ -84,13 +89,16 @@ try:
 
     data.append("\n")
 
-    vocab_output = open('VocabData/verb_output.csv','w', encoding="utf-8")
+    vocab_output = open(temp_output_file,'w', encoding="utf-8")
     
     for x in range(len(data)):
       #print(data[x])
       vocab_output.write(data[x])
 
     vocab_output.close()
+
+  utils.backup_file(output_file)
+  rename(temp_output_file, output_file)
 
 except IOError:
   print('error: Vocab Input file does not exist')

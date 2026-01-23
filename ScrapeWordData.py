@@ -12,7 +12,8 @@ from random import randint
 from time import sleep
 import json
 from bs4 import BeautifulSoup
-
+import utils
+from os import rename
 
 def remove_accents(input_str):
   nfkd_form = unicodedata.normalize('NFKD', input_str)
@@ -34,7 +35,9 @@ def remove_accents(input_str):
 #
 # quit()
 # read in url-list
-output_location = "VocabData/vocab_output.csv"
+output_file = "VocabData/vocab_output.csv"
+temp_output_file = "VocabData/temp_vocab_output.csv"
+
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 genders = ["feminine", "masculine"]
 
@@ -101,42 +104,15 @@ try:
 
       data.append(pronunciation)
 
-      # current_ending = None
-      # regular = True
-      # for ending in verb_endings:
-      #   if i.endswith(ending):
-      #     current_ending = ending
-      #
-      # if not current_ending:
-      #   print(f"{i} doesnt end with a known ending. Marking irregular")
-      #   regular = False
-      #
-      # # scrape the online data
-      # for j in search:
-      #   conjug = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-form").text
-      #   conjug_eng = soup.find(id=j).find(class_="forms-wrapper").find(class_="meta-translation").text
-      #
-      #   if regular:
-      #
-      #     for pronoun in verb_patterns['pronouns']:
-      #       pattern = verb_patterns['present'][current_ending][pronoun]
-      #       if conjug.endswith(pattern):
-      #         break
-      #     else:
-      #       regular = False
-      #
-      #   #print(conjug)
-      #   data.append(conjug) # append to existing data
-      #   data.append(",") # insert a tab
-      #   data.append(conjug_eng)
-
       data.append("\n")
 
     except:
       data.append("\n")
       print('error: No online data found')
 
-    vocab_output = open(output_location, 'w', encoding="utf-8")
+
+
+    vocab_output = open(temp_output_file, 'w', encoding="utf-8")
 
     for x in range(len(data)):
       #print(data[x])
@@ -144,6 +120,8 @@ try:
 
     vocab_output.close()
 
+  utils.backup_file(output_file)
+  rename(temp_output_file, output_file)
 except IOError:
 
   print('error: Vocab Input file does not exist')
