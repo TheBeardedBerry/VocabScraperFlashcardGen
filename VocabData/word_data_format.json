@@ -1,0 +1,11 @@
+{
+  "italian": "aereo",
+  "italian_pronunciation": "/aero'plano/",
+  "english": "airplane, plane, aircraft",
+  "part_of_speech": "noun",
+  "gender": "masculine",
+  "example": "L'inventore presentò il suo progetto per un nuovo tipo di aeroplano.",
+  "example_english": "The inventor presented his project for a new type of airplane.",
+  "common_synonyms": "aeroplano",
+  "context": "Aereo is more modern and used for any kind of aircraft. Aeroplano is used for historical aircraft and propeller planes."
+}

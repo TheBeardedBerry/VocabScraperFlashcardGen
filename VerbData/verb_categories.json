@@ -1,0 +1,74 @@
+{
+  "classification": {
+    "regular_are": [
+      "abitare", "aiutare", "amare", "arrivare", "ascoltare", "aspettare",
+      "ballare", "cambiare", "camminare", "cantare", "cavalcare", "cenare",
+      "cercare", "chiamare", "cominciare", "comprare", "controllare", "costare",
+      "creare", "cucinare", "danzare", "dimenticare", "disegnare", "entrare",
+      "fermare", "fumare", "giocare", "guardare", "guidare", "imparare",
+      "incontrare", "indossare", "iniziare", "insegnare", "inviare", "invitare",
+      "lasciare", "lavare", "lavorare", "mandare", "mangiare", "mostrare",
+      "nuotare", "pagare", "parcheggiare", "parlare", "pensare", "portare",
+      "pranzare", "ricordare", "studiare", "suonare", "telefonare", "usare",
+      "viaggiare", "visitare", "volare"
+    ],
+    "regular_ere": [
+      "credere", "correre", "leggere", "mettere", "prendere", "ridere",
+      "rispondere", "scrivere", "vedere", "vivere"
+    ],
+    "regular_ire_type1": [
+      "aprire", "partire", "sentire", "uscire"
+    ],
+    "regular_ire_type2": [
+      "capire", "finire", "pulire"
+    ],
+    "irregular": [
+      "essere", "avere", "andare", "fare", "dare", "dire", "stare", "venire",
+      "bere", "piacere", "piovere", "potere", "volere", "conoscere", "chiedere",
+      "chiudere", "morire", "ottenere", "scegliere"
+    ],
+    "reflexive": [
+      "alzarsi", "divertirsi", "preoccuparsi", "scusarsi", "sedersi", "svegliarsi"
+    ]
+  },
+  "auxiliary_usage": {
+    "essere": [
+      "essere", "andare", "arrivare", "entrare", "partire", "uscire", "venire",
+      "morire", "stare", "alzarsi", "divertirsi", "preoccuparsi", "scusarsi",
+      "sedersi", "svegliarsi", "piacere", "costare"
+    ],
+    "avere": [
+      "abitare", "aiutare", "amare", "ascoltare", "aspettare", "avere", "ballare",
+      "bere", "cambiare", "camminare", "cantare", "capire", "cavalcare", "cenare",
+      "cercare", "chiamare", "chiedere", "chiudere", "cominciare", "comprare",
+      "conoscere", "controllare", "correre", "creare", "credere", "cucinare",
+      "danzare", "dare", "dimenticare", "dire", "disegnare", "fare", "fermare",
+      "finire", "fumare", "giocare", "guardare", "guidare", "imparare", "incontrare",
+      "indossare", "iniziare", "insegnare", "inviare", "invitare", "lasciare",
+      "lavare", "lavorare", "leggere", "mandare", "mangiare", "mettere", "mostrare",
+      "nuotare", "ottenere", "pagare", "parcheggiare", "parlare", "pensare",
+      "piovere", "portare", "potere", "pranzare", "prendere", "pulire", "ricordare",
+      "ridere", "rispondere", "scegliere", "scrivere", "sentire", "studiare",
+      "suonare", "telefonare", "usare", "vedere", "viaggiare", "visitare",
+      "vivere", "volare", "volere"
+    ]
+  },
+  "special_cases": {
+    "reflexive_notes": "Reflexive verbs use reflexive pronouns (mi, ti, si, ci, vi, si) and essere as auxiliary",
+    "piacere_note": "Piacere is typically used in 3rd person singular/plural with indirect object pronouns",
+    "piovere_note": "Piovere is an impersonal verb, typically used only in 3rd person singular",
+    "spelling_changes": {
+      "care_gare": "Verbs ending in -care/-gare add 'h' before 'i' in certain forms",
+      "ciare_giare": "Verbs ending in -ciare/-giare drop the 'i' before endings starting with 'i'"
+    }
+  },
+  "total_count": {
+    "regular_are": 56,
+    "regular_ere": 10,
+    "regular_ire_type1": 4,
+    "regular_ire_type2": 3,
+    "irregular": 19,
+    "reflexive": 6,
+    "total": 99
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "infinitive": "mostrare",
+  "infinitive_pronunciation": "/mosˈtraːre/",
+  "english": "to show",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+    "io": {
+      "conjugation": "mostro",
+      "pronunciation": "/ˈmostro/",
+      "english": "I show",
+      "example": "Mostro le foto del viaggio.",
+      "example_english": "I show the vacation photos."
+    },
+    "tu": {
+      "conjugation": "mostri",
+      "pronunciation": "/ˈmostri/",
+      "english": "you show",
+      "example": "Mostri sempre i documenti?",
+      "example_english": "Do you always show the documents?"
+    },
+    "lui": {
+      "conjugation": "mostra",
+      "pronunciation": "/ˈmostra/",
+      "english": "he/she/it shows",
+      "example": "Mostra grande coraggio.",
+      "example_english": "She shows great courage."
+    },
+    "noi": {
+      "conjugation": "mostriamo",
+      "pronunciation": "/mosˈtrjaːmo/",
+      "english": "we show",
+      "example": "Mostriamo la nostra cultura.",
+      "example_english": "We show our culture."
+    },
+    "voi": {
+      "conjugation": "mostrate",
+      "pronunciation": "/mosˈtraːte/",
+      "english": "you show",
+      "example": "Mostrate rispetto per gli anziani.",
+      "example_english": "You show respect for the elderly."
+    },
+    "loro": {
+      "conjugation": "mostrano",
+      "pronunciation": "/ˈmostrano/",
+      "english": "they show",
+      "example": "Mostrano interesse per l'arte.",
+      "example_english": "They show interest in art."
+    }
+    },
+    "futuro_semplice": {
+    "io": {
+      "conjugation": "mostrerò",
+      "pronunciation": "/mostreˈroː/",
+      "english": "I will show",
+      "example": "Mostrerò la mia collezione.",
+      "example_english": "I will show my collection."
+    },
+    "tu": {
+      "conjugation": "mostrerai",
+      "pronunciation": "/mostreˈraːi/",
+      "english": "you (informal) will show",
+      "example": "Mostrerai il tuo talento?",
+      "example_english": "Will you show your talent?"
+    },
+    "lui": {
+      "conjugation": "mostrerà",
+      "pronunciation": "/mostreˈraː/",
+      "english": "he/she/it will show",
+      "example": "Mostrerà il percorso giusto.",
+      "example_english": "He will show the right path."
+    },
+    "noi": {
+      "conjugation": "mostreremo",
+      "pronunciation": "/mostreˈreːmo/",
+      "english": "we will show",
+      "example": "Mostreremo i risultati domani.",
+      "example_english": "We will show the results tomorrow."
+    },
+    "voi": {
+      "conjugation": "mostrerete",
+      "pronunciation": "/mostreˈreːte/",
+      "english": "you (plural) will show",
+      "example": "Mostrerete le prove?",
+      "example_english": "Will you show the evidence?"
+    },
+    "loro": {
+      "conjugation": "mostreranno",
+      "pronunciation": "/mostreˈranno/",
+      "english": "they will show",
+      "example": "Mostreranno il nuovo progetto.",
+      "example_english": "They will show the new project."
+    }
+    },
+    "passato_prossimo": {
+    "io": {
+      "conjugation": "ho mostrato",
+      "pronunciation": "/ˈɔ mosˈtraːto/",
+      "english": "I showed",
+      "example": "Ho mostrato la strada al turista.",
+      "example_english": "I showed the way to the tourist."
+    },
+    "tu": {
+      "conjugation": "hai mostrato",
+      "pronunciation": "/ˈaːi mosˈtraːto/",
+      "english": "you (informal) showed",
+      "example": "Hai mostrato molto interesse.",
+      "example_english": "You showed great interest."
+    },
+    "lui": {
+      "conjugation": "ha mostrato",
+      "pronunciation": "/ˈa mosˈtraːto/",
+      "english": "he/she/it showed",
+      "example": "Ha mostrato grande pazienza.",
+      "example_english": "She showed great patience."
+    },
+    "noi": {
+      "conjugation": "abbiamo mostrato",
+      "pronunciation": "/abˈbjaːmo mosˈtraːto/",
+      "english": "we showed",
+      "example": "Abbiamo mostrato le nostre carte.",
+      "example_english": "We showed our cards."
+    },
+    "voi": {
+      "conjugation": "avete mostrato",
+      "pronunciation": "/aˈveːte mosˈtraːto/",
+      "english": "you (plural) showed",
+      "example": "Avete mostrato coraggio.",
+      "example_english": "You showed courage."
+    },
+    "loro": {
+      "conjugation": "hanno mostrato",
+      "pronunciation": "/ˈanno mosˈtraːto/",
+      "english": "they showed",
+      "example": "Hanno mostrato i loro lavori.",
+      "example_english": "They showed their work."
+    }
+    }
+  },
+  "participio_passato": {
+    "form": "mostrato",
+    "pronunciation": "/mosˈtraːto/",
+    "english": "shown",
+    "example": "Un film mostrato al cinema.",
+    "example_english": "A film shown at the cinema."
+  }
+}

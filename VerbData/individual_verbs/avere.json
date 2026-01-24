@@ -1,0 +1,148 @@
+{
+  "infinitive": "avere",
+  "infinitive_pronunciation": "/a'vere/",
+  "english": "to have",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "ho",
+        "pronunciation": "/'ɔ/",
+        "english": "I have",
+        "example": "Io ho una famiglia meravigliosa.",
+        "example_english": "I have a wonderful family."
+      },
+      "tu": {
+        "conjugation": "hai",
+        "pronunciation": "/'ai/",
+        "english": "you have",
+        "example": "Tu hai sempre ottime idee per i progetti.",
+        "example_english": "You always have great ideas for projects."
+      },
+      "lui": {
+        "conjugation": "ha",
+        "pronunciation": "/'a/",
+        "english": "he/she/it has",
+        "example": "Mia nonna ha novant'anni ma è ancora molto attiva.",
+        "example_english": "My grandmother is ninety years old but she's still very active."
+      },
+      "noi": {
+        "conjugation": "abbiamo",
+        "pronunciation": "/ab'bjamo/",
+        "english": "we have",
+        "example": "Noi abbiamo bisogno di più tempo per finire.",
+        "example_english": "We need more time to finish."
+      },
+      "voi": {
+        "conjugation": "avete",
+        "pronunciation": "/a'vete/",
+        "english": "you have",
+        "example": "Voi avete ragione su questa questione.",
+        "example_english": "You are right about this matter."
+      },
+      "loro": {
+        "conjugation": "hanno",
+        "pronunciation": "/'anno/",
+        "english": "they have",
+        "example": "I miei colleghi hanno molta esperienza nel settore.",
+        "example_english": "My colleagues have a lot of experience in the field."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "avrò",
+        "pronunciation": "/a'vro/",
+        "english": "I will have",
+        "example": "La prossima settimana avrò più tempo libero.",
+        "example_english": "Next week I will have more free time."
+      },
+      "tu": {
+        "conjugation": "avrai",
+        "pronunciation": "/a'vrai/",
+        "english": "you will have",
+        "example": "Tu avrai sicuramente successo con questo progetto.",
+        "example_english": "You will surely have success with this project."
+      },
+      "lui": {
+        "conjugation": "avrà",
+        "pronunciation": "/a'vra/",
+        "english": "he/she/it will have",
+        "example": "Il bambino avrà tre anni il mese prossimo.",
+        "example_english": "The child will be three years old next month."
+      },
+      "noi": {
+        "conjugation": "avremo",
+        "pronunciation": "/a'vremo/",
+        "english": "we will have",
+        "example": "Domani avremo ospiti per cena.",
+        "example_english": "Tomorrow we will have guests for dinner."
+      },
+      "voi": {
+        "conjugation": "avrete",
+        "pronunciation": "/a'vrete/",
+        "english": "you will have",
+        "example": "Voi avrete l'opportunità di viaggiare molto.",
+        "example_english": "You will have the opportunity to travel a lot."
+      },
+      "loro": {
+        "conjugation": "avranno",
+        "pronunciation": "/a'vranno/",
+        "english": "they will have",
+        "example": "Gli studenti avranno gli esami la settimana prossima.",
+        "example_english": "The students will have exams next week."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho avuto",
+        "pronunciation": "/'ɔ a'vuto/",
+        "english": "I had/have had",
+        "example": "Ho avuto un'esperienza incredibile durante il viaggio.",
+        "example_english": "I had an incredible experience during the trip."
+      },
+      "tu": {
+        "conjugation": "hai avuto",
+        "pronunciation": "/'ai a'vuto/",
+        "english": "you had/have had",
+        "example": "Tu hai avuto la possibilità di studiare all'estero.",
+        "example_english": "You had the chance to study abroad."
+      },
+      "lui": {
+        "conjugation": "ha avuto",
+        "pronunciation": "/'a a'vuto/",
+        "english": "he/she/it had/has had",
+        "example": "Il direttore ha avuto una riunione importante stamattina.",
+        "example_english": "The director had an important meeting this morning."
+      },
+      "noi": {
+        "conjugation": "abbiamo avuto",
+        "pronunciation": "/ab'bjamo a'vuto/",
+        "english": "we had/have had",
+        "example": "Abbiamo avuto molte difficoltà all'inizio del progetto.",
+        "example_english": "We had many difficulties at the beginning of the project."
+      },
+      "voi": {
+        "conjugation": "avete avuto",
+        "pronunciation": "/a'vete a'vuto/",
+        "english": "you had/have had",
+        "example": "Voi avete avuto fortuna a trovare quell'appartamento.",
+        "example_english": "You were lucky to find that apartment."
+      },
+      "loro": {
+        "conjugation": "hanno avuto",
+        "pronunciation": "/'anno a'vuto/",
+        "english": "they had/have had",
+        "example": "I miei genitori hanno avuto una vita molto interessante.",
+        "example_english": "My parents have had a very interesting life."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "avuto",
+    "pronunciation": "/a'vuto/",
+    "english": "had",
+    "example": "Dopo aver avuto quella conversazione, tutto è cambiato.",
+    "example_english": "After having had that conversation, everything changed."
+  }
+}

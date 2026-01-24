@@ -1,0 +1,144 @@
+{
+  "infinitive": "correre",
+  "infinitive_pronunciation": "COHRRehreh",
+  "english": "to run",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "corro",
+      "pronunciation": "COHrroh",
+      "english": "I run",
+      "example": "Io corro ogni giorno.",
+      "example_english": "I run every day."
+    },
+    "tu": {
+      "conjugation": "corri",
+      "pronunciation": "COHrree",
+      "english": "you run",
+      "example": "Tu corri bene.",
+      "example_english": "You run well."
+    },
+    "lui": {
+      "conjugation": "corre",
+      "pronunciation": "COHrreh",
+      "english": "he/she/it runs",
+      "example": "Lei corre molto.",
+      "example_english": "She run a lot."
+    },
+    "noi": {
+      "conjugation": "corriamo",
+      "pronunciation": "COHRREeahmoh",
+      "english": "we run",
+      "example": "Noi corriamo insieme.",
+      "example_english": "We run together."
+    },
+    "voi": {
+      "conjugation": "correte",
+      "pronunciation": "COHRRehteh",
+      "english": "you run",
+      "example": "Voi correte bene?",
+      "example_english": "Do you run well?"
+    },
+    "loro": {
+      "conjugation": "corrono",
+      "pronunciation": "COHRRohnoh",
+      "english": "they run",
+      "example": "Loro corrono spesso.",
+      "example_english": "They run often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "correrò",
+      "pronunciation": "COHRrehrò",
+      "english": "I will run",
+      "example": "Io correrò ogni giorno.",
+      "example_english": "I run every day."
+    },
+    "tu": {
+      "conjugation": "correrai",
+      "pronunciation": "COHRREhrahee",
+      "english": "you (informal) will run",
+      "example": "Tu correrai bene.",
+      "example_english": "You run well."
+    },
+    "lui": {
+      "conjugation": "correrà",
+      "pronunciation": "COHRrehrà",
+      "english": "he/she/it will run",
+      "example": "Lei correrà molto.",
+      "example_english": "She run a lot."
+    },
+    "noi": {
+      "conjugation": "correremo",
+      "pronunciation": "COHRREhrehmoh",
+      "english": "we will run",
+      "example": "Noi correremo insieme.",
+      "example_english": "We run together."
+    },
+    "voi": {
+      "conjugation": "correrete",
+      "pronunciation": "COHRREhrehteh",
+      "english": "you (plural) will run",
+      "example": "Voi correrete bene?",
+      "example_english": "Do you run well?"
+    },
+    "loro": {
+      "conjugation": "correranno",
+      "pronunciation": "COHRREHrahnnoh",
+      "english": "they will run",
+      "example": "Loro correranno spesso.",
+      "example_english": "They run often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho corruto",
+      "pronunciation": "hoh cohrrootoh",
+      "english": "I runed",
+      "example": "Ieri ho corruto.",
+      "example_english": "Yesterday i runed."
+    },
+    "tu": {
+      "conjugation": "hai corruto",
+      "pronunciation": "HAhee",
+      "english": "you (informal) runed",
+      "example": "Ieri hai corruto.",
+      "example_english": "Yesterday you (informal) runed."
+    },
+    "lui": {
+      "conjugation": "ha corruto",
+      "pronunciation": "hah cohrrootoh",
+      "english": "he/she/it runed",
+      "example": "Ieri ha corruto.",
+      "example_english": "Yesterday he/she/it runed."
+    },
+    "noi": {
+      "conjugation": "abbiamo corruto",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we runed",
+      "example": "Ieri abbiamo corruto.",
+      "example_english": "Yesterday we runed."
+    },
+    "voi": {
+      "conjugation": "avete corruto",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) runed",
+      "example": "Ieri avete corruto.",
+      "example_english": "Yesterday you (plural) runed."
+    },
+    "loro": {
+      "conjugation": "hanno corruto",
+      "pronunciation": "HAHnnoh",
+      "english": "they runed",
+      "example": "Ieri hanno corruto.",
+      "example_english": "Yesterday they runed."
+    }
+  },
+  "participio_passato": {
+    "form": "corruto",
+    "pronunciation": "COHRRootoh",
+    "english": "runed"
+  }
+}

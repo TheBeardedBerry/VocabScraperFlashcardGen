@@ -1,0 +1,148 @@
+{
+  "infinitive": "chiedere",
+  "infinitive_pronunciation": "/ˈkjɛdere/",
+  "english": "to ask",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "chiedo",
+        "pronunciation": "/ˈkjɛdo/",
+        "english": "I ask",
+        "example": "Io chiedo sempre il permesso prima di entrare.",
+        "example_english": "I always ask for permission before entering."
+      },
+      "tu": {
+        "conjugation": "chiedi",
+        "pronunciation": "/ˈkjɛdi/",
+        "english": "you ask",
+        "example": "Tu chiedi troppe domande difficili.",
+        "example_english": "You ask too many difficult questions."
+      },
+      "lui": {
+        "conjugation": "chiede",
+        "pronunciation": "/ˈkjɛde/",
+        "english": "he/she/it asks",
+        "example": "Lei chiede aiuto quando ne ha bisogno.",
+        "example_english": "She asks for help when she needs it."
+      },
+      "noi": {
+        "conjugation": "chiediamo",
+        "pronunciation": "/kjeˈdjamo/",
+        "english": "we ask",
+        "example": "Noi chiediamo informazioni al banco dell'informazione.",
+        "example_english": "We ask for information at the information desk."
+      },
+      "voi": {
+        "conjugation": "chiedete",
+        "pronunciation": "/kjeˈdete/",
+        "english": "you ask",
+        "example": "Voi chiedete sempre il conto separato al ristorante?",
+        "example_english": "Do you always ask for separate checks at the restaurant?"
+      },
+      "loro": {
+        "conjugation": "chiedono",
+        "pronunciation": "/ˈkjɛdono/",
+        "english": "they ask",
+        "example": "Loro chiedono consigli ai professori.",
+        "example_english": "They ask for advice from professors."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "chiederò",
+        "pronunciation": "/kjedeˈro/",
+        "english": "I will ask",
+        "example": "Chiederò al direttore se posso prendere una pausa.",
+        "example_english": "I will ask the director if I can take a break."
+      },
+      "tu": {
+        "conjugation": "chiederai",
+        "pronunciation": "/kjedeˈrai/",
+        "english": "you will ask",
+        "example": "Tu chiederai alla segretaria l'orario degli appuntamenti.",
+        "example_english": "You will ask the secretary for the appointment schedule."
+      },
+      "lui": {
+        "conjugation": "chiederà",
+        "pronunciation": "/kjedeˈra/",
+        "english": "he/she/it will ask",
+        "example": "Lei chiederà un aumento di stipendio.",
+        "example_english": "She will ask for a salary increase."
+      },
+      "noi": {
+        "conjugation": "chiederemo",
+        "pronunciation": "/kjedeˈremo/",
+        "english": "we will ask",
+        "example": "Chiederemo al comune il permesso per l'evento.",
+        "example_english": "We will ask the city for permission for the event."
+      },
+      "voi": {
+        "conjugation": "chiederete",
+        "pronunciation": "/kjedeˈrete/",
+        "english": "you will ask",
+        "example": "Voi chiederete alla guida turistica maggiori dettagli.",
+        "example_english": "You will ask the tour guide for more details."
+      },
+      "loro": {
+        "conjugation": "chiederanno",
+        "pronunciation": "/kjedeˈranno/",
+        "english": "they will ask",
+        "example": "Loro chiederanno uno sconto per il gruppo.",
+        "example_english": "They will ask for a group discount."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho chiesto",
+        "pronunciation": "/o ˈkjɛsto/",
+        "english": "I asked/have asked",
+        "example": "Ho chiesto al cameriere di portare il menu.",
+        "example_english": "I asked the waiter to bring the menu."
+      },
+      "tu": {
+        "conjugation": "hai chiesto",
+        "pronunciation": "/ai ˈkjɛsto/",
+        "english": "you asked/have asked",
+        "example": "Hai chiesto alla farmacista un consiglio per il mal di testa.",
+        "example_english": "You asked the pharmacist for advice about the headache."
+      },
+      "lui": {
+        "conjugation": "ha chiesto",
+        "pronunciation": "/a ˈkjɛsto/",
+        "english": "he/she/it asked/has asked",
+        "example": "Il cliente ha chiesto di parlare con il direttore.",
+        "example_english": "The customer asked to speak with the manager."
+      },
+      "noi": {
+        "conjugation": "abbiamo chiesto",
+        "pronunciation": "/abˈbjamo ˈkjɛsto/",
+        "english": "we asked/have asked",
+        "example": "Abbiamo chiesto al professore di spiegare meglio la lezione.",
+        "example_english": "We asked the professor to explain the lesson better."
+      },
+      "voi": {
+        "conjugation": "avete chiesto",
+        "pronunciation": "/aˈvete ˈkjɛsto/",
+        "english": "you asked/have asked",
+        "example": "Avete chiesto il numero di telefono dell'hotel?",
+        "example_english": "Did you ask for the hotel's phone number?"
+      },
+      "loro": {
+        "conjugation": "hanno chiesto",
+        "pronunciation": "/ˈanno ˈkjɛsto/",
+        "english": "they asked/have asked",
+        "example": "Hanno chiesto di rimandare l'appuntamento.",
+        "example_english": "They asked to postpone the appointment."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "chiesto",
+    "pronunciation": "/ˈkjɛsto/",
+    "english": "asked",
+    "example": "La domanda chiesta durante l'intervista era molto difficile.",
+    "example_english": "The question asked during the interview was very difficult."
+  }
+}

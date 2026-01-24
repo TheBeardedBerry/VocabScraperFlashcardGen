@@ -1,0 +1,156 @@
+{
+  "infinitive": "mettere",
+  "infinitive_pronunciation": "/ˈmet.te.re/",
+  "english": "to put",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "metto",
+        "pronunciation": "/ˈmet.to/",
+        "english": "I put",
+        "example": "Metto sempre le chiavi nello stesso posto.",
+        "example_english": "I always put the keys in the same place."
+      },
+      "tu": {
+        "conjugation": "metti",
+        "pronunciation": "/ˈmet.ti/",
+        "english": "you put",
+        "example": "Tu metti troppo zucchero nel caffè.",
+        "example_english": "You put too much sugar in your coffee."
+      },
+      "lui": {
+        "conjugation": "mette",
+        "pronunciation": "/ˈmet.te/",
+        "english": "he/she/it puts",
+        "example": "Lei mette sempre il cappotto nell'armadio.",
+        "example_english": "She always puts her coat in the wardrobe."
+      },
+      "noi": {
+        "conjugation": "mettiamo",
+        "pronunciation": "/met.ˈtja.mo/",
+        "english": "we put",
+        "example": "Noi mettiamo i piatti nel lavastoviglie.",
+        "example_english": "We put the dishes in the dishwasher."
+      },
+      "voi": {
+        "conjugation": "mettete",
+        "pronunciation": "/met.ˈte.te/",
+        "english": "you put",
+        "example": "Voi mettete ordine nella stanza?",
+        "example_english": "Do you tidy up the room?"
+      },
+      "loro": {
+        "conjugation": "mettono",
+        "pronunciation": "/ˈmet.to.no/",
+        "english": "they put",
+        "example": "Loro mettono i soldi in banca.",
+        "example_english": "They put money in the bank."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho messo",
+        "pronunciation": "/o ˈmes.so/",
+        "english": "I put/have put",
+        "example": "Ieri ho messo ordine in casa.",
+        "example_english": "Yesterday I tidied up the house."
+      },
+      "tu": {
+        "conjugation": "hai messo",
+        "pronunciation": "/ˈaj ˈmes.so/",
+        "english": "you put/have put",
+        "example": "Hai messo la password sicura?",
+        "example_english": "Did you put a secure password?"
+      },
+      "lui": {
+        "conjugation": "ha messo",
+        "pronunciation": "/a ˈmes.so/",
+        "english": "he/she/it put/has put",
+        "example": "Ha messo da parte dei risparmi.",
+        "example_english": "He put aside some savings."
+      },
+      "noi": {
+        "conjugation": "abbiamo messo",
+        "pronunciation": "/ab.ˈbja.mo ˈmes.so/",
+        "english": "we put/have put",
+        "example": "Abbiamo messo le foto nell'album.",
+        "example_english": "We put the photos in the album."
+      },
+      "voi": {
+        "conjugation": "avete messo",
+        "pronunciation": "/a.ˈve.te ˈmes.so/",
+        "english": "you put/have put",
+        "example": "Avete messo benzina alla macchina?",
+        "example_english": "Did you put gas in the car?"
+      },
+      "loro": {
+        "conjugation": "hanno messo",
+        "pronunciation": "/ˈan.no ˈmes.so/",
+        "english": "they put/have put",
+        "example": "Hanno messo una nuova regola.",
+        "example_english": "They put a new rule in place."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "metterò",
+        "pronunciation": "/met.te.ˈrɔ/",
+        "english": "I will put",
+        "example": "Metterò tutto in ordine domani.",
+        "example_english": "I will put everything in order tomorrow."
+      },
+      "tu": {
+        "conjugation": "metterai",
+        "pronunciation": "/met.te.ˈraj/",
+        "english": "you will put",
+        "example": "Tu metterai fine a questa discussione.",
+        "example_english": "You will put an end to this discussion."
+      },
+      "lui": {
+        "conjugation": "metterà",
+        "pronunciation": "/met.te.ˈra/",
+        "english": "he/she/it will put",
+        "example": "Lei metterà tutto per iscritto.",
+        "example_english": "She will put everything in writing."
+      },
+      "noi": {
+        "conjugation": "metteremo",
+        "pronunciation": "/met.te.ˈre.mo/",
+        "english": "we will put",
+        "example": "Noi metteremo radici in questa città.",
+        "example_english": "We will put down roots in this city."
+      },
+      "voi": {
+        "conjugation": "metterete",
+        "pronunciation": "/met.te.ˈre.te/",
+        "english": "you will put",
+        "example": "Voi metterete al primo posto la famiglia?",
+        "example_english": "Will you put family first?"
+      },
+      "loro": {
+        "conjugation": "metteranno",
+        "pronunciation": "/met.te.ˈran.no/",
+        "english": "they will put",
+        "example": "Loro metteranno in atto il piano.",
+        "example_english": "They will put the plan into action."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "messo",
+    "pronunciation": "/ˈmes.so/",
+    "english": "put",
+    "examples": [
+      {
+        "italian": "Il libro è stato messo sulla scrivania.",
+        "english": "The book was put on the desk."
+      },
+      {
+        "italian": "Una volta messo ordine, ci sentiremo meglio.",
+        "english": "Once we have tidied up, we will feel better."
+      }
+    ]
+  }
+}

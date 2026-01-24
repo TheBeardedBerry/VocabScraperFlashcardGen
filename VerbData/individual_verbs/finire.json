@@ -1,0 +1,156 @@
+{
+  "infinitive": "finire",
+  "infinitive_pronunciation": "/fi.ˈni.re/",
+  "english": "to finish",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "finisco",
+        "pronunciation": "/fi.ˈni.sko/",
+        "english": "I finish",
+        "example": "Finisco sempre quello che comincio.",
+        "example_english": "I always finish what I start."
+      },
+      "tu": {
+        "conjugation": "finisci",
+        "pronunciation": "/fi.ˈni.ʃi/",
+        "english": "you finish",
+        "example": "Tu finisci i compiti prima di uscire?",
+        "example_english": "Do you finish homework before going out?"
+      },
+      "lui": {
+        "conjugation": "finisce",
+        "pronunciation": "/fi.ˈni.ʃe/",
+        "english": "he/she/it finishes",
+        "example": "Lei finisce il lavoro alle sei.",
+        "example_english": "She finishes work at six."
+      },
+      "noi": {
+        "conjugation": "finiamo",
+        "pronunciation": "/fi.ˈnja.mo/",
+        "english": "we finish",
+        "example": "Noi finiamo di cenare e poi usciamo.",
+        "example_english": "We finish dinner and then go out."
+      },
+      "voi": {
+        "conjugation": "finite",
+        "pronunciation": "/fi.ˈni.te/",
+        "english": "you finish",
+        "example": "Voi finite sempre tutto quello che avete nel piatto?",
+        "example_english": "Do you always finish everything on your plate?"
+      },
+      "loro": {
+        "conjugation": "finiscono",
+        "pronunciation": "/fi.ˈni.sko.no/",
+        "english": "they finish",
+        "example": "Loro finiscono la scuola a giugno.",
+        "example_english": "They finish school in June."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho finito",
+        "pronunciation": "/o fi.ˈni.to/",
+        "english": "I finished/have finished",
+        "example": "Ieri ho finito di leggere quel libro.",
+        "example_english": "Yesterday I finished reading that book."
+      },
+      "tu": {
+        "conjugation": "hai finito",
+        "pronunciation": "/ˈaj fi.ˈni.to/",
+        "english": "you finished/have finished",
+        "example": "Hai finito i tuoi doveri?",
+        "example_english": "Have you finished your duties?"
+      },
+      "lui": {
+        "conjugation": "ha finito",
+        "pronunciation": "/a fi.ˈni.to/",
+        "english": "he/she/it finished/has finished",
+        "example": "Ha finito di studiare molto tardi.",
+        "example_english": "He finished studying very late."
+      },
+      "noi": {
+        "conjugation": "abbiamo finito",
+        "pronunciation": "/ab.ˈbja.mo fi.ˈni.to/",
+        "english": "we finished/have finished",
+        "example": "Abbiamo finito tutti i preparativi.",
+        "example_english": "We finished all the preparations."
+      },
+      "voi": {
+        "conjugation": "avete finito",
+        "pronunciation": "/a.ˈve.te fi.ˈni.to/",
+        "english": "you finished/have finished",
+        "example": "Avete finito di discutere?",
+        "example_english": "Have you finished discussing?"
+      },
+      "loro": {
+        "conjugation": "hanno finito",
+        "pronunciation": "/ˈan.no fi.ˈni.to/",
+        "english": "they finished/have finished",
+        "example": "Hanno finito il progetto in tempo.",
+        "example_english": "They finished the project on time."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "finirò",
+        "pronunciation": "/fi.ni.ˈrɔ/",
+        "english": "I will finish",
+        "example": "Finirò questo lavoro entro domani.",
+        "example_english": "I will finish this work by tomorrow."
+      },
+      "tu": {
+        "conjugation": "finirai",
+        "pronunciation": "/fi.ni.ˈraj/",
+        "english": "you will finish",
+        "example": "Tu finirai l'università l'anno prossimo.",
+        "example_english": "You will finish university next year."
+      },
+      "lui": {
+        "conjugation": "finirà",
+        "pronunciation": "/fi.ni.ˈra/",
+        "english": "he/she/it will finish",
+        "example": "Lei finirà di scrivere il libro a maggio.",
+        "example_english": "She will finish writing the book in May."
+      },
+      "noi": {
+        "conjugation": "finiremo",
+        "pronunciation": "/fi.ni.ˈre.mo/",
+        "english": "we will finish",
+        "example": "Noi finiremo il viaggio in Grecia.",
+        "example_english": "We will finish the trip in Greece."
+      },
+      "voi": {
+        "conjugation": "finirete",
+        "pronunciation": "/fi.ni.ˈre.te/",
+        "english": "you will finish",
+        "example": "Voi finirete di mangiare prima di noi?",
+        "example_english": "Will you finish eating before us?"
+      },
+      "loro": {
+        "conjugation": "finiranno",
+        "pronunciation": "/fi.ni.ˈran.no/",
+        "english": "they will finish",
+        "example": "Loro finiranno la costruzione della casa.",
+        "example_english": "They will finish building the house."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "finito",
+    "pronunciation": "/fi.ˈni.to/",
+    "english": "finished",
+    "examples": [
+      {
+        "italian": "Il compito è stato finito in tempo.",
+        "english": "The assignment was finished on time."
+      },
+      {
+        "italian": "Una volta finito il film, andremo a casa.",
+        "english": "Once the movie is finished, we will go home."
+      }
+    ]
+  }
+}

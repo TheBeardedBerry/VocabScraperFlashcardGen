@@ -1,0 +1,148 @@
+{
+  "infinitive": "lasciare",
+  "infinitive_pronunciation": "/laʃˈʃaːre/",
+  "english": "to leave/to let",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+    "io": {
+      "conjugation": "lascio",
+      "pronunciation": "/ˈlaʃʃo/",
+      "english": "I leave/let",
+      "example": "Lascio sempre un messaggio.",
+      "example_english": "I always leave a message."
+    },
+    "tu": {
+      "conjugation": "lasci",
+      "pronunciation": "/ˈlaʃʃi/",
+      "english": "you leave/let",
+      "example": "Lasci la porta aperta?",
+      "example_english": "Do you leave the door open?"
+    },
+    "lui": {
+      "conjugation": "lascia",
+      "pronunciation": "/ˈlaʃʃa/",
+      "english": "he/she/it leaves/lets",
+      "example": "Lascia i bambini a scuola.",
+      "example_english": "She leaves the children at school."
+    },
+    "noi": {
+      "conjugation": "lasciamo",
+      "pronunciation": "/laʃˈʃaːmo/",
+      "english": "we leave/let",
+      "example": "Lasciamo tutto com'è.",
+      "example_english": "We leave everything as it is."
+    },
+    "voi": {
+      "conjugation": "lasciate",
+      "pronunciation": "/laʃˈʃaːte/",
+      "english": "you leave/let",
+      "example": "Lasciate le chiavi sul tavolo.",
+      "example_english": "You leave the keys on the table."
+    },
+    "loro": {
+      "conjugation": "lasciano",
+      "pronunciation": "/ˈlaʃʃano/",
+      "english": "they leave/let",
+      "example": "Lasciano sempre una mancia.",
+      "example_english": "They always leave a tip."
+    }
+    },
+    "futuro_semplice": {
+    "io": {
+      "conjugation": "lascierò",
+      "pronunciation": "/laʃʃeˈroː/",
+      "english": "I will leave/let",
+      "example": "Lascierò la città domani.",
+      "example_english": "I will leave the city tomorrow."
+    },
+    "tu": {
+      "conjugation": "lascierai",
+      "pronunciation": "/laʃʃeˈraːi/",
+      "english": "you (informal) will leave/let",
+      "example": "Lascerai un bel ricordo.",
+      "example_english": "You will leave a beautiful memory."
+    },
+    "lui": {
+      "conjugation": "lascierà",
+      "pronunciation": "/laʃʃeˈraː/",
+      "english": "he/she/it will leave/let",
+      "example": "Lascerà il lavoro presto.",
+      "example_english": "He will leave work early."
+    },
+    "noi": {
+      "conjugation": "lascieremo",
+      "pronunciation": "/laʃʃeˈreːmo/",
+      "english": "we will leave/let",
+      "example": "Lasceremo la casa ai figli.",
+      "example_english": "We will leave the house to our children."
+    },
+    "voi": {
+      "conjugation": "lascierete",
+      "pronunciation": "/laʃʃeˈreːte/",
+      "english": "you (plural) will leave/let",
+      "example": "Lascerete tutto in ordine?",
+      "example_english": "Will you leave everything tidy?"
+    },
+    "loro": {
+      "conjugation": "lascieranno",
+      "pronunciation": "/laʃʃeˈranno/",
+      "english": "they will leave/let",
+      "example": "Lasceranno la decisione a noi.",
+      "example_english": "They will leave the decision to us."
+    }
+    },
+    "passato_prossimo": {
+    "io": {
+      "conjugation": "ho lasciato",
+      "pronunciation": "/ˈɔ laʃˈʃaːto/",
+      "english": "I left",
+      "example": "Ho lasciato le chiavi in macchina.",
+      "example_english": "I left the keys in the car."
+    },
+    "tu": {
+      "conjugation": "hai lasciato",
+      "pronunciation": "/ˈaːi laʃˈʃaːto/",
+      "english": "you (informal) left",
+      "example": "Hai lasciato un messaggio?",
+      "example_english": "Did you leave a message?"
+    },
+    "lui": {
+      "conjugation": "ha lasciato",
+      "pronunciation": "/ˈa laʃˈʃaːto/",
+      "english": "he/she/it left",
+      "example": "Ha lasciato il marito.",
+      "example_english": "She left her husband."
+    },
+    "noi": {
+      "conjugation": "abbiamo lasciato",
+      "pronunciation": "/abˈbjaːmo laʃˈʃaːto/",
+      "english": "we left",
+      "example": "Abbiamo lasciato la festa presto.",
+      "example_english": "We left the party early."
+    },
+    "voi": {
+      "conjugation": "avete lasciato",
+      "pronunciation": "/aˈveːte laʃˈʃaːto/",
+      "english": "you (plural) left",
+      "example": "Avete lasciato tutto pulito.",
+      "example_english": "You left everything clean."
+    },
+    "loro": {
+      "conjugation": "hanno lasciato",
+      "pronunciation": "/ˈanno laʃˈʃaːto/",
+      "english": "they left",
+      "example": "Hanno lasciato l'ufficio tardi.",
+      "example_english": "They left the office late."
+    }
+    }
+  },
+  "participio_passato": {
+    "form": "lasciato",
+    "pronunciation": "/laʃˈʃaːto/",
+    "english": "left",
+    "example": "Il lavoro lasciato in sospeso.",
+    "example_english": "The work left pending."
+  }
+}

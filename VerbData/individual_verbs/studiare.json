@@ -1,0 +1,148 @@
+{
+  "infinitive": "studiare",
+  "infinitive_pronunciation": "/stu'djare/",
+  "english": "to study",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "studio",
+        "pronunciation": "/'studjo/",
+        "english": "I study",
+        "example": "Studio medicina all'università di Roma.",
+        "example_english": "I study medicine at the University of Rome."
+      },
+      "tu": {
+        "conjugation": "studi",
+        "pronunciation": "/'studji/",
+        "english": "you study",
+        "example": "Studi sempre fino a tardi?",
+        "example_english": "Do you always study until late?"
+      },
+      "lui": {
+        "conjugation": "studia",
+        "pronunciation": "/'studja/",
+        "english": "he/she/it studies",
+        "example": "Anna studia per diventare avvocato.",
+        "example_english": "Anna studies to become a lawyer."
+      },
+      "noi": {
+        "conjugation": "studiamo",
+        "pronunciation": "/stu'djamo/",
+        "english": "we study",
+        "example": "Studiamo insieme per l'esame di matematica.",
+        "example_english": "We study together for the math exam."
+      },
+      "voi": {
+        "conjugation": "studiate",
+        "pronunciation": "/stu'djate/",
+        "english": "you study",
+        "example": "Studiate in biblioteca o a casa?",
+        "example_english": "Do you study at the library or at home?"
+      },
+      "loro": {
+        "conjugation": "studiano",
+        "pronunciation": "/'studjano/",
+        "english": "they study",
+        "example": "I miei figli studiano lingue straniere.",
+        "example_english": "My children study foreign languages."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "studierò",
+        "pronunciation": "/studje'ro/",
+        "english": "I will study",
+        "example": "L'anno prossimo studierò in Germania.",
+        "example_english": "Next year I will study in Germany."
+      },
+      "tu": {
+        "conjugation": "studierai",
+        "pronunciation": "/studje'rai/",
+        "english": "you will study",
+        "example": "Studierai ingegneria dopo il diploma?",
+        "example_english": "Will you study engineering after graduation?"
+      },
+      "lui": {
+        "conjugation": "studierà",
+        "pronunciation": "/studje'ra/",
+        "english": "he/she/it will study",
+        "example": "Marco studierà economia aziendale.",
+        "example_english": "Marco will study business economics."
+      },
+      "noi": {
+        "conjugation": "studieremo",
+        "pronunciation": "/studje'remo/",
+        "english": "we will study",
+        "example": "Studieremo tutto il weekend per l'esame.",
+        "example_english": "We will study all weekend for the exam."
+      },
+      "voi": {
+        "conjugation": "studierete",
+        "pronunciation": "/studje'rete/",
+        "english": "you will study",
+        "example": "Studierete all'estero il prossimo semestre?",
+        "example_english": "Will you study abroad next semester?"
+      },
+      "loro": {
+        "conjugation": "studieranno",
+        "pronunciation": "/studje'ranno/",
+        "english": "they will study",
+        "example": "Studieranno informatica alla nuova università.",
+        "example_english": "They will study computer science at the new university."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho studiato",
+        "pronunciation": "/o stu'djato/",
+        "english": "I studied/have studied",
+        "example": "Ho studiato francese per cinque anni.",
+        "example_english": "I studied French for five years."
+      },
+      "tu": {
+        "conjugation": "hai studiato",
+        "pronunciation": "/ai stu'djato/",
+        "english": "you studied/have studied",
+        "example": "Hai studiato abbastanza per l'interrogazione?",
+        "example_english": "Have you studied enough for the oral exam?"
+      },
+      "lui": {
+        "conjugation": "ha studiato",
+        "pronunciation": "/a stu'djato/",
+        "english": "he/she/it studied/has studied",
+        "example": "Mia sorella ha studiato pianoforte da bambina.",
+        "example_english": "My sister studied piano as a child."
+      },
+      "noi": {
+        "conjugation": "abbiamo studiato",
+        "pronunciation": "/ab'bjamo stu'djato/",
+        "english": "we studied/have studied",
+        "example": "Abbiamo studiato tutta la notte per l'esame.",
+        "example_english": "We studied all night for the exam."
+      },
+      "voi": {
+        "conjugation": "avete studiato",
+        "pronunciation": "/a'vete stu'djato/",
+        "english": "you studied/have studied",
+        "example": "Avete già studiato questo argomento l'anno scorso?",
+        "example_english": "Did you already study this topic last year?"
+      },
+      "loro": {
+        "conjugation": "hanno studiato",
+        "pronunciation": "/'anno stu'djato/",
+        "english": "they studied/have studied",
+        "example": "Hanno studiato insieme alla scuola di specializzazione.",
+        "example_english": "They studied together at graduate school."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "studiato",
+    "pronunciation": "/stu'djato/",
+    "english": "studied",
+    "example": "Il corso è stato studiato per principianti.",
+    "example_english": "The course was designed for beginners."
+  }
+}

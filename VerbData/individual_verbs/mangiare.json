@@ -1,0 +1,148 @@
+{
+  "infinitive": "mangiare",
+  "infinitive_pronunciation": "/man'dʒare/",
+  "english": "to eat",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "mangio",
+        "pronunciation": "/'mandʒo/",
+        "english": "I eat",
+        "example": "Mangio sempre la colazione alle otto.",
+        "example_english": "I always eat breakfast at eight."
+      },
+      "tu": {
+        "conjugation": "mangi",
+        "pronunciation": "/'mandʒi/",
+        "english": "you eat",
+        "example": "Che cosa mangi di solito a pranzo?",
+        "example_english": "What do you usually eat for lunch?"
+      },
+      "lui": {
+        "conjugation": "mangia",
+        "pronunciation": "/'mandʒa/",
+        "english": "he/she/it eats",
+        "example": "Mia figlia mangia solo verdure fresche.",
+        "example_english": "My daughter eats only fresh vegetables."
+      },
+      "noi": {
+        "conjugation": "mangiamo",
+        "pronunciation": "/man'dʒamo/",
+        "english": "we eat",
+        "example": "Noi mangiamo insieme ogni domenica.",
+        "example_english": "We eat together every Sunday."
+      },
+      "voi": {
+        "conjugation": "mangiate",
+        "pronunciation": "/man'dʒate/",
+        "english": "you eat",
+        "example": "Mangiate abbastanza frutta e verdura?",
+        "example_english": "Do you eat enough fruits and vegetables?"
+      },
+      "loro": {
+        "conjugation": "mangiano",
+        "pronunciation": "/'mandʒano/",
+        "english": "they eat",
+        "example": "I miei gatti mangiano solo cibo di qualità.",
+        "example_english": "My cats eat only quality food."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "mangierò",
+        "pronunciation": "/mandʒe'ro/",
+        "english": "I will eat",
+        "example": "Stasera mangierò al ristorante giapponese.",
+        "example_english": "Tonight I will eat at the Japanese restaurant."
+      },
+      "tu": {
+        "conjugation": "mangierai",
+        "pronunciation": "/mandʒe'rai/",
+        "english": "you will eat",
+        "example": "Cosa mangierai al matrimonio domani?",
+        "example_english": "What will you eat at the wedding tomorrow?"
+      },
+      "lui": {
+        "conjugation": "mangierà",
+        "pronunciation": "/mandʒe'ra/",
+        "english": "he/she/it will eat",
+        "example": "Il bambino mangierà solo se ha fame.",
+        "example_english": "The child will eat only if he's hungry."
+      },
+      "noi": {
+        "conjugation": "mangieremo",
+        "pronunciation": "/mandʒe'remo/",
+        "english": "we will eat",
+        "example": "Durante le vacanze mangieremo specialità locali.",
+        "example_english": "During the vacation we will eat local specialties."
+      },
+      "voi": {
+        "conjugation": "mangierete",
+        "pronunciation": "/mandʒe'rete/",
+        "english": "you will eat",
+        "example": "Mangierete da noi per Natale?",
+        "example_english": "Will you eat at our place for Christmas?"
+      },
+      "loro": {
+        "conjugation": "mangieranno",
+        "pronunciation": "/mandʒe'ranno/",
+        "english": "they will eat",
+        "example": "Gli ospiti mangieranno il dolce dopo cena.",
+        "example_english": "The guests will eat dessert after dinner."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho mangiato",
+        "pronunciation": "/o man'dʒato/",
+        "english": "I ate/have eaten",
+        "example": "Ho mangiato troppo gelato ieri sera.",
+        "example_english": "I ate too much ice cream last night."
+      },
+      "tu": {
+        "conjugation": "hai mangiato",
+        "pronunciation": "/ai man'dʒato/",
+        "english": "you ate/have eaten",
+        "example": "Hai già mangiato o preparo qualcosa?",
+        "example_english": "Have you already eaten or should I prepare something?"
+      },
+      "lui": {
+        "conjugation": "ha mangiato",
+        "pronunciation": "/a man'dʒato/",
+        "english": "he/she/it ate/has eaten",
+        "example": "Marco ha mangiato tutto il tiramisù.",
+        "example_english": "Marco ate all the tiramisu."
+      },
+      "noi": {
+        "conjugation": "abbiamo mangiato",
+        "pronunciation": "/ab'bjamo man'dʒato/",
+        "english": "we ate/have eaten",
+        "example": "Abbiamo mangiato una pizza deliziosa ieri.",
+        "example_english": "We ate a delicious pizza yesterday."
+      },
+      "voi": {
+        "conjugation": "avete mangiato",
+        "pronunciation": "/a'vete man'dʒato/",
+        "english": "you ate/have eaten",
+        "example": "Avete mangiato abbastanza o volete altro?",
+        "example_english": "Have you eaten enough or do you want more?"
+      },
+      "loro": {
+        "conjugation": "hanno mangiato",
+        "pronunciation": "/'anno man'dʒato/",
+        "english": "they ate/have eaten",
+        "example": "I bambini hanno mangiato tutta la torta.",
+        "example_english": "The children ate the whole cake."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "mangiato",
+    "pronunciation": "/man'dʒato/",
+    "english": "eaten",
+    "example": "Il pranzo è stato mangiato in fretta.",
+    "example_english": "Lunch was eaten in a hurry."
+  }
+}

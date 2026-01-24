@@ -1,0 +1,32 @@
+{
+  "infinitive": "conoscere",
+  "infinitive_pronunciation": "koh-noh-SHEH-reh",
+  "english": "to know/to meet",
+  "regular": false,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {"conjugation": "conosco", "pronunciation": "koh-NOHS-koh", "english": "I know", "example": "Io conosco Maria.", "example_english": "I know Maria."},
+    "tu": {"conjugation": "conosci", "pronunciation": "koh-NOHS-chee", "english": "you know", "example": "Tu conosci la città?", "example_english": "Do you know the city?"},
+    "lui": {"conjugation": "conosce", "pronunciation": "koh-NOHS-cheh", "english": "he/she/it knows", "example": "Lei conosce l'italiano.", "example_english": "She knows Italian."},
+    "noi": {"conjugation": "conosciamo", "pronunciation": "koh-noh-SHAH-moh", "english": "we know", "example": "Noi conosciamo la strada.", "example_english": "We know the way."},
+    "voi": {"conjugation": "conoscete", "pronunciation": "koh-noh-SHEH-teh", "english": "you know", "example": "Voi conoscete Roma?", "example_english": "Do you know Rome?"},
+    "loro": {"conjugation": "conoscono", "pronunciation": "koh-NOHS-koh-noh", "english": "they know", "example": "Loro conoscono tutti.", "example_english": "They know everyone."}
+  },
+  "futuro_simplice": {
+    "io": {"conjugation": "conoscerò", "pronunciation": "koh-noh-sheh-ROH", "english": "I will know", "example": "Conoscerò la verità.", "example_english": "I will know the truth."},
+    "tu": {"conjugation": "conoscerai", "pronunciation": "koh-noh-sheh-RAH-ee", "english": "you will know", "example": "Tu conoscerai molte persone.", "example_english": "You will know many people."},
+    "lui": {"conjugation": "conoscerà", "pronunciation": "koh-noh-sheh-RAH", "english": "he/she/it will know", "example": "Lei conoscerà la città.", "example_english": "She will know the city."},
+    "noi": {"conjugation": "conosceremo", "pronunciation": "koh-noh-sheh-REH-moh", "english": "we will know", "example": "Conosceremo la risposta.", "example_english": "We will know the answer."},
+    "voi": {"conjugation": "conoscerete", "pronunciation": "koh-noh-sheh-REH-teh", "english": "you will know", "example": "Voi conoscerete presto.", "example_english": "You will know soon."},
+    "loro": {"conjugation": "conosceranno", "pronunciation": "koh-noh-sheh-RAHN-noh", "english": "they will know", "example": "Loro conosceranno la strada.", "example_english": "They will know the way."}
+  },
+  "passato_prossimo": {
+    "io": {"conjugation": "ho conosciuto", "pronunciation": "oh koh-noh-SHOO-toh", "english": "I knew/have known", "example": "Ho conosciuto Maria ieri.", "example_english": "I met Maria yesterday."},
+    "tu": {"conjugation": "hai conosciuto", "pronunciation": "AH-ee koh-noh-SHOO-toh", "english": "you knew/have known", "example": "Hai conosciuto la città.", "example_english": "You got to know the city."},
+    "lui": {"conjugation": "ha conosciuto", "pronunciation": "ah koh-noh-SHOO-toh", "english": "he/she/it knew/has known", "example": "Lei ha conosciuto mio fratello.", "example_english": "She met my brother."},
+    "noi": {"conjugation": "abbiamo conosciuto", "pronunciation": "ahb-bee-AH-moh koh-noh-SHOO-toh", "english": "we knew/have known", "example": "Abbiamo conosciuto la famiglia.", "example_english": "We met the family."},
+    "voi": {"conjugation": "avete conosciuto", "pronunciation": "ah-VEH-teh koh-noh-SHOO-toh", "english": "you knew/have known", "example": "Avete conosciuto Roma?", "example_english": "Did you get to know Rome?"},
+    "loro": {"conjugation": "hanno conosciuto", "pronunciation": "AHN-noh koh-noh-SHOO-toh", "english": "they knew/have known", "example": "Hanno conosciuto molte persone.", "example_english": "They met many people."}
+  },
+  "participio_passato": {"form": "conosciuto", "pronunciation": "koh-noh-SHOO-toh", "english": "known"}
+}

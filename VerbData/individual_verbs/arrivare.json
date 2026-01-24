@@ -1,0 +1,144 @@
+{
+  "infinitive": "arrivare",
+  "infinitive_pronunciation": "AHRREEvahreh",
+  "english": "to arrive",
+  "regular": true,
+  "auxiliary": "essere",
+  "presente": {
+    "io": {
+      "conjugation": "arrivo",
+      "pronunciation": "AHRReevoh",
+      "english": "I arrive",
+      "example": "Io arrivo ogni giorno.",
+      "example_english": "I arrive every day."
+    },
+    "tu": {
+      "conjugation": "arrivi",
+      "pronunciation": "AHRReevee",
+      "english": "you arrive",
+      "example": "Tu arrivi bene.",
+      "example_english": "You arrive well."
+    },
+    "lui": {
+      "conjugation": "arriva",
+      "pronunciation": "AHRReevah",
+      "english": "he/she/it arrives",
+      "example": "Lei arriva molto.",
+      "example_english": "She arrive a lot."
+    },
+    "noi": {
+      "conjugation": "arriviamo",
+      "pronunciation": "AHRREEVeeahmoh",
+      "english": "we arrive",
+      "example": "Noi arriviamo insieme.",
+      "example_english": "We arrive together."
+    },
+    "voi": {
+      "conjugation": "arrivate",
+      "pronunciation": "AHRREEvahteh",
+      "english": "you arrive",
+      "example": "Voi arrivate bene?",
+      "example_english": "Do you arrive well?"
+    },
+    "loro": {
+      "conjugation": "arrivano",
+      "pronunciation": "AHRREEvahnoh",
+      "english": "they arrive",
+      "example": "Loro arrivano spesso.",
+      "example_english": "They arrive often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "arriverò",
+      "pronunciation": "AHRREevehrò",
+      "english": "I will arrive",
+      "example": "Io arriverò ogni giorno.",
+      "example_english": "I arrive every day."
+    },
+    "tu": {
+      "conjugation": "arriverai",
+      "pronunciation": "AHRREEVehrahee",
+      "english": "you (informal) will arrive",
+      "example": "Tu arriverai bene.",
+      "example_english": "You arrive well."
+    },
+    "lui": {
+      "conjugation": "arriverà",
+      "pronunciation": "AHRREevehrà",
+      "english": "he/she/it will arrive",
+      "example": "Lei arriverà molto.",
+      "example_english": "She arrive a lot."
+    },
+    "noi": {
+      "conjugation": "arriveremo",
+      "pronunciation": "AHRREEVehrehmoh",
+      "english": "we will arrive",
+      "example": "Noi arriveremo insieme.",
+      "example_english": "We arrive together."
+    },
+    "voi": {
+      "conjugation": "arriverete",
+      "pronunciation": "AHRREEVehrehteh",
+      "english": "you (plural) will arrive",
+      "example": "Voi arriverete bene?",
+      "example_english": "Do you arrive well?"
+    },
+    "loro": {
+      "conjugation": "arriveranno",
+      "pronunciation": "AHRREEVEhrahnnoh",
+      "english": "they will arrive",
+      "example": "Loro arriveranno spesso.",
+      "example_english": "They arrive often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "sono arrivato/a",
+      "pronunciation": "SOHnoh",
+      "english": "I arrived",
+      "example": "Ieri sono arrivato/a.",
+      "example_english": "Yesterday i arrived."
+    },
+    "tu": {
+      "conjugation": "sei arrivato/a",
+      "pronunciation": "SEhee",
+      "english": "you (informal) arrived",
+      "example": "Ieri sei arrivato/a.",
+      "example_english": "Yesterday you (informal) arrived."
+    },
+    "lui": {
+      "conjugation": "è arrivato/a",
+      "pronunciation": "è ahrreevahtoh/ah",
+      "english": "he/she/it arrived",
+      "example": "Ieri è arrivato/a.",
+      "example_english": "Yesterday he/she/it arrived."
+    },
+    "noi": {
+      "conjugation": "siamo arrivato/a",
+      "pronunciation": "SEEAhmoh",
+      "english": "we arrived",
+      "example": "Ieri siamo arrivato/a.",
+      "example_english": "Yesterday we arrived."
+    },
+    "voi": {
+      "conjugation": "siete arrivato/a",
+      "pronunciation": "SEEEhteh",
+      "english": "you (plural) arrived",
+      "example": "Ieri siete arrivato/a.",
+      "example_english": "Yesterday you (plural) arrived."
+    },
+    "loro": {
+      "conjugation": "sono arrivato/a",
+      "pronunciation": "SOHnoh",
+      "english": "they arrived",
+      "example": "Ieri sono arrivato/a.",
+      "example_english": "Yesterday they arrived."
+    }
+  },
+  "participio_passato": {
+    "form": "arrivato/a",
+    "pronunciation": "AHRREEvahtoh",
+    "english": "arrived"
+  }
+}

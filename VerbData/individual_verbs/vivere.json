@@ -1,0 +1,144 @@
+{
+  "infinitive": "vivere",
+  "infinitive_pronunciation": "VEEVehreh",
+  "english": "to live",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "vivo",
+      "pronunciation": "VEEvoh",
+      "english": "I live",
+      "example": "Io vivo ogni giorno.",
+      "example_english": "I live every day."
+    },
+    "tu": {
+      "conjugation": "vivi",
+      "pronunciation": "VEEvee",
+      "english": "you live",
+      "example": "Tu vivi bene.",
+      "example_english": "You live well."
+    },
+    "lui": {
+      "conjugation": "vive",
+      "pronunciation": "VEEveh",
+      "english": "he/she/it lives",
+      "example": "Lei vive molto.",
+      "example_english": "She live a lot."
+    },
+    "noi": {
+      "conjugation": "viviamo",
+      "pronunciation": "VEEVEeahmoh",
+      "english": "we live",
+      "example": "Noi viviamo insieme.",
+      "example_english": "We live together."
+    },
+    "voi": {
+      "conjugation": "vivete",
+      "pronunciation": "VEEVehteh",
+      "english": "you live",
+      "example": "Voi vivete bene?",
+      "example_english": "Do you live well?"
+    },
+    "loro": {
+      "conjugation": "vivono",
+      "pronunciation": "VEEVohnoh",
+      "english": "they live",
+      "example": "Loro vivono spesso.",
+      "example_english": "They live often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "viverò",
+      "pronunciation": "VEEVehrò",
+      "english": "I will live",
+      "example": "Io viverò ogni giorno.",
+      "example_english": "I live every day."
+    },
+    "tu": {
+      "conjugation": "viverai",
+      "pronunciation": "VEEVEhrahee",
+      "english": "you (informal) will live",
+      "example": "Tu viverai bene.",
+      "example_english": "You live well."
+    },
+    "lui": {
+      "conjugation": "viverà",
+      "pronunciation": "VEEVehrà",
+      "english": "he/she/it will live",
+      "example": "Lei viverà molto.",
+      "example_english": "She live a lot."
+    },
+    "noi": {
+      "conjugation": "viveremo",
+      "pronunciation": "VEEVEHrehmoh",
+      "english": "we will live",
+      "example": "Noi viveremo insieme.",
+      "example_english": "We live together."
+    },
+    "voi": {
+      "conjugation": "viverete",
+      "pronunciation": "VEEVEHrehteh",
+      "english": "you (plural) will live",
+      "example": "Voi viverete bene?",
+      "example_english": "Do you live well?"
+    },
+    "loro": {
+      "conjugation": "viveranno",
+      "pronunciation": "VEEVEHrahnnoh",
+      "english": "they will live",
+      "example": "Loro viveranno spesso.",
+      "example_english": "They live often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho vivuto",
+      "pronunciation": "hoh veevootoh",
+      "english": "I lived",
+      "example": "Ieri ho vivuto.",
+      "example_english": "Yesterday i lived."
+    },
+    "tu": {
+      "conjugation": "hai vivuto",
+      "pronunciation": "HAhee",
+      "english": "you (informal) lived",
+      "example": "Ieri hai vivuto.",
+      "example_english": "Yesterday you (informal) lived."
+    },
+    "lui": {
+      "conjugation": "ha vivuto",
+      "pronunciation": "hah veevootoh",
+      "english": "he/she/it lived",
+      "example": "Ieri ha vivuto.",
+      "example_english": "Yesterday he/she/it lived."
+    },
+    "noi": {
+      "conjugation": "abbiamo vivuto",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we lived",
+      "example": "Ieri abbiamo vivuto.",
+      "example_english": "Yesterday we lived."
+    },
+    "voi": {
+      "conjugation": "avete vivuto",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) lived",
+      "example": "Ieri avete vivuto.",
+      "example_english": "Yesterday you (plural) lived."
+    },
+    "loro": {
+      "conjugation": "hanno vivuto",
+      "pronunciation": "HAHnnoh",
+      "english": "they lived",
+      "example": "Ieri hanno vivuto.",
+      "example_english": "Yesterday they lived."
+    }
+  },
+  "participio_passato": {
+    "form": "vivuto",
+    "pronunciation": "VEEVootoh",
+    "english": "lived"
+  }
+}

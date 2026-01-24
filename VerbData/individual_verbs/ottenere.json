@@ -1,0 +1,24 @@
+{
+  "infinitive": "ottenere",
+  "infinitive_pronunciation": "MANUAL_INPUT_NEEDED",
+  "english": "to get/to obtain",
+  "regular": false,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "MANUAL_INPUT_NEEDED",
+      "pronunciation": "MANUAL_INPUT_NEEDED",
+      "english": "MANUAL_INPUT_NEEDED",
+      "example": "MANUAL_INPUT_NEEDED",
+      "example_english": "MANUAL_INPUT_NEEDED"
+    },
+    "tu": "MANUAL_INPUT_NEEDED",
+    "lui_lei": "MANUAL_INPUT_NEEDED",
+    "noi": "MANUAL_INPUT_NEEDED",
+    "voi": "MANUAL_INPUT_NEEDED",
+    "loro": "MANUAL_INPUT_NEEDED"
+  },
+  "passato_prossimo": "MANUAL_INPUT_NEEDED",
+  "futuro_simplice": "MANUAL_INPUT_NEEDED",
+  "participio_passato": "MANUAL_INPUT_NEEDED"
+}
