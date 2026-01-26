@@ -1,0 +1,144 @@
+{
+  "infinitive": "indossare",
+  "infinitive_pronunciation": "EENDOHssahreh",
+  "english": "to wear",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "indosso",
+      "pronunciation": "EENDOhssoh",
+      "english": "I wear",
+      "example": "Io indosso ogni giorno.",
+      "example_english": "I wear every day."
+    },
+    "tu": {
+      "conjugation": "indossi",
+      "pronunciation": "EENDOhssee",
+      "english": "you wear",
+      "example": "Tu indossi bene.",
+      "example_english": "You wear well."
+    },
+    "lui": {
+      "conjugation": "indossa",
+      "pronunciation": "EENDOhssah",
+      "english": "he/she/it wears",
+      "example": "Lei indossa molto.",
+      "example_english": "She wear a lot."
+    },
+    "noi": {
+      "conjugation": "indossiamo",
+      "pronunciation": "EENDOHSseeahmoh",
+      "english": "we wear",
+      "example": "Noi indossiamo insieme.",
+      "example_english": "We wear together."
+    },
+    "voi": {
+      "conjugation": "indossate",
+      "pronunciation": "EENDOHssahteh",
+      "english": "you wear",
+      "example": "Voi indossate bene?",
+      "example_english": "Do you wear well?"
+    },
+    "loro": {
+      "conjugation": "indossano",
+      "pronunciation": "EENDOHssahnoh",
+      "english": "they wear",
+      "example": "Loro indossano spesso.",
+      "example_english": "They wear often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "indosserò",
+      "pronunciation": "EENDOHssehrò",
+      "english": "I will wear",
+      "example": "Io indosserò ogni giorno.",
+      "example_english": "I wear every day."
+    },
+    "tu": {
+      "conjugation": "indosserai",
+      "pronunciation": "EENDOHSsehrahee",
+      "english": "you (informal) will wear",
+      "example": "Tu indosserai bene.",
+      "example_english": "You wear well."
+    },
+    "lui": {
+      "conjugation": "indosserà",
+      "pronunciation": "EENDOHssehrà",
+      "english": "he/she/it will wear",
+      "example": "Lei indosserà molto.",
+      "example_english": "She wear a lot."
+    },
+    "noi": {
+      "conjugation": "indosseremo",
+      "pronunciation": "EENDOHSSehrehmoh",
+      "english": "we will wear",
+      "example": "Noi indosseremo insieme.",
+      "example_english": "We wear together."
+    },
+    "voi": {
+      "conjugation": "indosserete",
+      "pronunciation": "EENDOHSSehrehteh",
+      "english": "you (plural) will wear",
+      "example": "Voi indosserete bene?",
+      "example_english": "Do you wear well?"
+    },
+    "loro": {
+      "conjugation": "indosseranno",
+      "pronunciation": "EENDOHSSehrahnnoh",
+      "english": "they will wear",
+      "example": "Loro indosseranno spesso.",
+      "example_english": "They wear often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho indossato",
+      "pronunciation": "hoh eendohssahtoh",
+      "english": "I weared",
+      "example": "Ieri ho indossato.",
+      "example_english": "Yesterday i weared."
+    },
+    "tu": {
+      "conjugation": "hai indossato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) weared",
+      "example": "Ieri hai indossato.",
+      "example_english": "Yesterday you (informal) weared."
+    },
+    "lui": {
+      "conjugation": "ha indossato",
+      "pronunciation": "hah eendohssahtoh",
+      "english": "he/she/it weared",
+      "example": "Ieri ha indossato.",
+      "example_english": "Yesterday he/she/it weared."
+    },
+    "noi": {
+      "conjugation": "abbiamo indossato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we weared",
+      "example": "Ieri abbiamo indossato.",
+      "example_english": "Yesterday we weared."
+    },
+    "voi": {
+      "conjugation": "avete indossato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) weared",
+      "example": "Ieri avete indossato.",
+      "example_english": "Yesterday you (plural) weared."
+    },
+    "loro": {
+      "conjugation": "hanno indossato",
+      "pronunciation": "HAHnnoh",
+      "english": "they weared",
+      "example": "Ieri hanno indossato.",
+      "example_english": "Yesterday they weared."
+    }
+  },
+  "participio_passato": {
+    "form": "indossato",
+    "pronunciation": "EENDOHssahtoh",
+    "english": "weared"
+  }
+}

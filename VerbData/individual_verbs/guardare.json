@@ -5,8 +5,8 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "osservare, vedere",
-  "context": "viewing, watching, observing",
+  "synonyms": "osservare,vedere",
+  "context": "To look at or watch something actively and intentionally",
   "tenses": {
     "presente": {
       "io": {

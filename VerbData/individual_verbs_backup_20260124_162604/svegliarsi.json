@@ -1,0 +1,145 @@
+{
+  "infinitive": "svegliarsi",
+  "infinitive_pronunciation": "SVEHLYEeahrsee",
+  "english": "to wake up",
+  "regular": true,
+  "auxiliary": "essere",
+  "reflexive": true,
+  "presente": {
+    "io": {
+      "conjugation": "mi sveglio",
+      "pronunciation": "mee svehlyeeoh",
+      "english": "I wake up",
+      "example": "Io mi sveglio ogni giorno.",
+      "example_english": "I wake up every day."
+    },
+    "tu": {
+      "conjugation": "ti sveglii",
+      "pronunciation": "tee svehlyeeee",
+      "english": "you wake up",
+      "example": "Tu ti sveglii bene.",
+      "example_english": "You wake up well."
+    },
+    "lui": {
+      "conjugation": "si sveglia",
+      "pronunciation": "see svehlyeeah",
+      "english": "he/she/it wake ups",
+      "example": "Lei si sveglia molto.",
+      "example_english": "She wake up a lot."
+    },
+    "noi": {
+      "conjugation": "ci svegliiamo",
+      "pronunciation": "cee svehlyeeeeahmoh",
+      "english": "we wake up",
+      "example": "Noi ci svegliiamo insieme.",
+      "example_english": "We wake up together."
+    },
+    "voi": {
+      "conjugation": "vi svegliate",
+      "pronunciation": "vee svehlyeeahteh",
+      "english": "you wake up",
+      "example": "Voi vi svegliate bene?",
+      "example_english": "Do you wake up well?"
+    },
+    "loro": {
+      "conjugation": "si svegliano",
+      "pronunciation": "see svehlyeeahnoh",
+      "english": "they wake up",
+      "example": "Loro si svegliano spesso.",
+      "example_english": "They wake up often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "mi sveglierò",
+      "pronunciation": "mee svehlyeeehrò",
+      "english": "I will wake up",
+      "example": "Io mi sveglierò ogni giorno.",
+      "example_english": "I wake up every day."
+    },
+    "tu": {
+      "conjugation": "ti sveglierai",
+      "pronunciation": "tee svehlyeeehrahee",
+      "english": "you (informal) will wake up",
+      "example": "Tu ti sveglierai bene.",
+      "example_english": "You wake up well."
+    },
+    "lui": {
+      "conjugation": "si sveglierà",
+      "pronunciation": "see svehlyeeehrà",
+      "english": "he/she/it will wake up",
+      "example": "Lei si sveglierà molto.",
+      "example_english": "She wake up a lot."
+    },
+    "noi": {
+      "conjugation": "ci sveglieremo",
+      "pronunciation": "cee svehlyeeehrehmoh",
+      "english": "we will wake up",
+      "example": "Noi ci sveglieremo insieme.",
+      "example_english": "We wake up together."
+    },
+    "voi": {
+      "conjugation": "vi sveglierete",
+      "pronunciation": "vee svehlyeeehrehteh",
+      "english": "you (plural) will wake up",
+      "example": "Voi vi sveglierete bene?",
+      "example_english": "Do you wake up well?"
+    },
+    "loro": {
+      "conjugation": "si sveglieranno",
+      "pronunciation": "see svehlyeeehrahnnoh",
+      "english": "they will wake up",
+      "example": "Loro si sveglieranno spesso.",
+      "example_english": "They wake up often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "mi sono svegliato/a",
+      "pronunciation": "mee sohnoh svehlyeeahtoh/ah",
+      "english": "I wake uped",
+      "example": "Ieri mi sono svegliato/a.",
+      "example_english": "Yesterday i wake uped."
+    },
+    "tu": {
+      "conjugation": "ti sei svegliato/a",
+      "pronunciation": "tee sehee svehlyeeahtoh/ah",
+      "english": "you (informal) wake uped",
+      "example": "Ieri ti sei svegliato/a.",
+      "example_english": "Yesterday you (informal) wake uped."
+    },
+    "lui": {
+      "conjugation": "si è svegliato/a",
+      "pronunciation": "see è svehlyeeahtoh/ah",
+      "english": "he/she/it wake uped",
+      "example": "Ieri si è svegliato/a.",
+      "example_english": "Yesterday he/she/it wake uped."
+    },
+    "noi": {
+      "conjugation": "ci siamo svegliato/a",
+      "pronunciation": "cee seeahmoh svehlyeeahtoh/ah",
+      "english": "we wake uped",
+      "example": "Ieri ci siamo svegliato/a.",
+      "example_english": "Yesterday we wake uped."
+    },
+    "voi": {
+      "conjugation": "vi siete svegliato/a",
+      "pronunciation": "vee seeehteh svehlyeeahtoh/ah",
+      "english": "you (plural) wake uped",
+      "example": "Ieri vi siete svegliato/a.",
+      "example_english": "Yesterday you (plural) wake uped."
+    },
+    "loro": {
+      "conjugation": "si sono svegliato/a",
+      "pronunciation": "see sohnoh svehlyeeahtoh/ah",
+      "english": "they wake uped",
+      "example": "Ieri si sono svegliato/a.",
+      "example_english": "Yesterday they wake uped."
+    }
+  },
+  "participio_passato": {
+    "form": "svegliato/a",
+    "pronunciation": "SVEHLYeeahtoh",
+    "english": "wake uped"
+  }
+}

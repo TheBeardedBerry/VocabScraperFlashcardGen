@@ -1,6 +1,6 @@
 {
   "infinitive": "chiudere",
-  "infinitive_pronunciation": "/ˈkju.de.re/",
+  "infinitive_pronunciation": "/ˈkjudere/",
   "english": "to close",
   "regular": false,
   "auxiliary": "avere",
@@ -10,43 +10,43 @@
         "conjugation": "chiudo",
         "pronunciation": "/ˈkju.do/",
         "english": "I close",
-        "example": "Chiudo sempre la porta a chiave.",
-        "example_english": "I always lock the door."
+        "example": "Chiudo sempre tutte le finestre di casa prima di andare a dormire per sicurezza",
+        "example_english": "I always close all house windows before going to sleep for security"
       },
       "tu": {
         "conjugation": "chiudi",
         "pronunciation": "/ˈkju.di/",
         "english": "you close",
-        "example": "Tu chiudi gli occhi per rilassarti.",
-        "example_english": "You close your eyes to relax."
+        "example": "Tu chiudi mai la porta a chiave quando esci di casa anche per poco tempo?",
+        "example_english": "Do you ever lock the door when you leave home even for a short time?"
       },
       "lui": {
         "conjugation": "chiude",
         "pronunciation": "/ˈkju.de/",
         "english": "he/she/it closes",
-        "example": "Lei chiude il negozio alle sei.",
-        "example_english": "She closes the shop at six."
+        "example": "Lei chiude il negozio ogni sera alle otto precise dopo una lunga giornata di lavoro",
+        "example_english": "She closes the store every evening at exactly eight after a long work day"
       },
       "noi": {
         "conjugation": "chiudiamo",
         "pronunciation": "/kju.ˈdja.mo/",
         "english": "we close",
-        "example": "Noi chiudiamo le finestre prima di uscire.",
-        "example_english": "We close the windows before going out."
+        "example": "Chiudiamo sempre il gas prima di partire per le vacanze per evitare incidenti domestici",
+        "example_english": "We always turn off the gas before leaving for vacation to avoid domestic accidents"
       },
       "voi": {
         "conjugation": "chiudete",
         "pronunciation": "/kju.ˈde.te/",
         "english": "you close",
-        "example": "Voi chiudete sempre in tempo?",
-        "example_english": "Do you always close on time?"
+        "example": "Voi chiudete spesso gli occhi durante i film di paura o riuscite a guardare tutto?",
+        "example_english": "Do you often close your eyes during scary movies or can you watch everything?"
       },
       "loro": {
         "conjugation": "chiudono",
         "pronunciation": "/ˈkju.do.no/",
         "english": "they close",
-        "example": "Loro chiudono l'ufficio tardi.",
-        "example_english": "They close the office late."
+        "example": "Chiudono il bar molto tardi perché molti clienti vengono dopo il lavoro serale",
+        "example_english": "They close the bar very late because many customers come after evening work"
       }
     },
     "passato_prossimo": {
@@ -54,43 +54,43 @@
         "conjugation": "ho chiuso",
         "pronunciation": "/o ˈkju.so/",
         "english": "I closed/have closed",
-        "example": "Ieri ho chiuso tutti i conti in sospeso.",
-        "example_english": "Yesterday I closed all pending accounts."
+        "example": "Ho chiuso la porta dell'ufficio e sono andato direttamente a casa per riposarmi",
+        "example_english": "I closed the office door and went directly home to rest"
       },
       "tu": {
         "conjugation": "hai chiuso",
         "pronunciation": "/ˈaj ˈkju.so/",
         "english": "you closed/have closed",
-        "example": "Hai chiuso bene il rubinetto?",
-        "example_english": "Did you close the faucet properly?"
+        "example": "Hai chiuso bene il rubinetto dell'acqua o continua ancora a gocciolare fastidiosamente?",
+        "example_english": "Did you close the water faucet properly or does it still keep dripping annoyingly?"
       },
       "lui": {
         "conjugation": "ha chiuso",
         "pronunciation": "/a ˈkju.so/",
         "english": "he/she/it closed/has closed",
-        "example": "Ha chiuso la conversazione bruscamente.",
-        "example_english": "He closed the conversation abruptly."
+        "example": "Ha chiuso gli occhi e ha fatto un respiro profondo prima di entrare nell'aula",
+        "example_english": "He closed his eyes and took a deep breath before entering the classroom"
       },
       "noi": {
         "conjugation": "abbiamo chiuso",
         "pronunciation": "/ab.ˈbja.mo ˈkju.so/",
         "english": "we closed/have closed",
-        "example": "Abbiamo chiuso il progetto con successo.",
-        "example_english": "We closed the project successfully."
+        "example": "Abbiamo chiuso tutte le comunicazioni con quella ditta dopo il comportamento scorretto che hanno tenuto",
+        "example_english": "We closed all communications with that company after the incorrect behavior they showed"
       },
       "voi": {
         "conjugation": "avete chiuso",
         "pronunciation": "/a.ˈve.te ˈkju.so/",
         "english": "you closed/have closed",
-        "example": "Avete chiuso la valigia?",
-        "example_english": "Have you closed the suitcase?"
+        "example": "Avete chiuso tutti i contratti in sospeso prima della fine dell'anno fiscale aziendale?",
+        "example_english": "Did you close all pending contracts before the end of the company's fiscal year?"
       },
       "loro": {
         "conjugation": "hanno chiuso",
         "pronunciation": "/ˈan.no ˈkju.so/",
         "english": "they closed/have closed",
-        "example": "Hanno chiuso l'accordo ieri sera.",
-        "example_english": "They closed the deal last night."
+        "example": "Hanno chiuso il ristorante per ristrutturazioni che dureranno almeno due mesi completi",
+        "example_english": "They closed the restaurant for renovations that will last at least two complete months"
       }
     },
     "futuro_semplice": {
@@ -98,43 +98,43 @@
         "conjugation": "chiuderò",
         "pronunciation": "/kju.de.ˈrɔ/",
         "english": "I will close",
-        "example": "Chiuderò l'azienda se necessario.",
-        "example_english": "I will close the company if necessary."
+        "example": "Chiuderò definitivamente questo capitolo della mia vita e inizierò una nuova avventura all'estero",
+        "example_english": "I will definitively close this chapter of my life and start a new adventure abroad"
       },
       "tu": {
         "conjugation": "chiuderai",
         "pronunciation": "/kju.de.ˈraj/",
         "english": "you will close",
-        "example": "Tu chiuderai il capitolo più difficile.",
-        "example_english": "You will close the most difficult chapter."
+        "example": "Tu chiuderai finalmente il conto bancario che non usi più da molti anni?",
+        "example_english": "Will you finally close the bank account you haven't used for many years?"
       },
       "lui": {
         "conjugation": "chiuderà",
         "pronunciation": "/kju.de.ˈra/",
         "english": "he/she/it will close",
-        "example": "Lei chiuderà con il passato definitivamente.",
-        "example_english": "She will close with the past definitively."
+        "example": "Lei chiuderà la valigia domani mattina prima di partire per il viaggio di lavoro",
+        "example_english": "She will close the suitcase tomorrow morning before leaving for the business trip"
       },
       "noi": {
         "conjugation": "chiuderemo",
         "pronunciation": "/kju.de.ˈre.mo/",
         "english": "we will close",
-        "example": "Noi chiuderemo presto per le vacanze.",
-        "example_english": "We will close early for vacation."
+        "example": "Chiuderemo tutti i progetti in corso prima di andare in ferie estive per due settimane",
+        "example_english": "We will close all ongoing projects before going on summer vacation for two weeks"
       },
       "voi": {
         "conjugation": "chiuderete",
         "pronunciation": "/kju.de.ˈre.te/",
         "english": "you will close",
-        "example": "Voi chiuderete la discussione?",
-        "example_english": "Will you close the discussion?"
+        "example": "Voi chiuderete la società se i debiti continueranno ad aumentare senza controllo?",
+        "example_english": "Will you close the company if debts continue to increase without control?"
       },
       "loro": {
         "conjugation": "chiuderanno",
         "pronunciation": "/kju.de.ˈran.no/",
         "english": "they will close",
-        "example": "Loro chiuderanno il cerchio delle indagini.",
-        "example_english": "They will close the circle of investigations."
+        "example": "Chiuderanno la strada principale per lavori di manutenzione che dureranno tre giorni",
+        "example_english": "They will close the main road for maintenance work that will last three days"
       }
     }
   },
@@ -151,6 +151,11 @@
         "italian": "Una volta chiuso il libro, ho riflettuto sulla storia.",
         "english": "Once I closed the book, I reflected on the story."
       }
-    ]
-  }
+    ],
+    "example": "Il negozio chiuso riaprirà domani.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To close doors, windows, or end something",
+  "synonyms": "serrare,sigillare"
 }

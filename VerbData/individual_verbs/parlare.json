@@ -144,5 +144,8 @@
     "english": "spoken",
     "example": "La lingua italiana è parlata in tutto il mondo.",
     "example_english": "The Italian language is spoken all over the world."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "General speaking; both casual conversation and formal speech",
+  "synonyms": "conversare,chiacchierare,comunicare"
 }

@@ -1,6 +1,6 @@
 {
   "infinitive": "iniziare",
-  "infinitive_pronunciation": "/i.ni.ˈtsia.re/",
+  "infinitive_pronunciation": "/initsi'are/",
   "english": "to start/to begin",
   "regular": true,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta iniziato il lavoro, bisogna finirlo.",
         "english": "Once work is started, it must be finished."
       }
-    ]
-  }
+    ],
+    "example": "Il corso iniziato è molto interessante.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To begin or start something new; commence",
+  "synonyms": "cominciare,avviare"
 }

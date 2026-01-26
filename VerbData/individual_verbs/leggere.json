@@ -1,6 +1,6 @@
 {
   "infinitive": "leggere",
-  "infinitive_pronunciation": "/ˈled.dʒe.re/",
+  "infinitive_pronunciation": "/'leggere/",
   "english": "to read",
   "regular": false,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta letto l'articolo, ho capito tutto.",
         "english": "Once I had read the article, I understood everything."
       }
-    ]
-  }
+    ],
+    "example": "Il libro letto era molto avvincente.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To read books, newspapers, or written text",
+  "synonyms": "studiare,scorrere"
 }

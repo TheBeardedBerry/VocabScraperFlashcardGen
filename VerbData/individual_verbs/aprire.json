@@ -1,6 +1,6 @@
 {
   "infinitive": "aprire",
-  "infinitive_pronunciation": "/a.ˈpri.re/",
+  "infinitive_pronunciation": "/a'prire/",
   "english": "to open",
   "regular": false,
   "auxiliary": "avere",
@@ -10,43 +10,43 @@
         "conjugation": "apro",
         "pronunciation": "/ˈa.pro/",
         "english": "I open",
-        "example": "Apro la finestra per far entrare aria fresca.",
-        "example_english": "I open the window to let fresh air in."
+        "example": "Apro sempre tutte le finestre di casa la mattina per far entrare aria fresca",
+        "example_english": "I always open all the house windows in the morning to let fresh air in"
       },
       "tu": {
         "conjugation": "apri",
         "pronunciation": "/ˈa.pri/",
         "english": "you open",
-        "example": "Tu apri sempre la porta agli ospiti.",
-        "example_english": "You always open the door for guests."
+        "example": "Tu apri il negozio ogni giorno alle otto precise o dipende dal traffico?",
+        "example_english": "Do you open the store every day at exactly eight or does it depend on traffic?"
       },
       "lui": {
         "conjugation": "apre",
         "pronunciation": "/ˈa.pre/",
         "english": "he/she/it opens",
-        "example": "Lei apre il negozio alle otto.",
-        "example_english": "She opens the shop at eight."
+        "example": "Lei apre la porta di casa solo dopo aver guardato attentamente dallo spioncino",
+        "example_english": "She opens the house door only after carefully looking through the peephole"
       },
       "noi": {
         "conjugation": "apriamo",
         "pronunciation": "/a.ˈprja.mo/",
         "english": "we open",
-        "example": "Noi apriamo i regali insieme.",
-        "example_english": "We open the presents together."
+        "example": "Apriamo insieme questo regalo di matrimonio per vedere cosa ci hanno portato",
+        "example_english": "Let's open this wedding gift together to see what they brought us"
       },
       "voi": {
         "conjugation": "aprite",
         "pronunciation": "/a.ˈpri.te/",
         "english": "you open",
-        "example": "Voi aprite spesso questo cassetto?",
-        "example_english": "Do you open this drawer often?"
+        "example": "Voi aprite sempre i libri di testo prima di iniziare a studiare seriamente?",
+        "example_english": "Do you always open textbooks before starting to study seriously?"
       },
       "loro": {
         "conjugation": "aprono",
         "pronunciation": "/ˈa.pro.no/",
         "english": "they open",
-        "example": "Loro aprono una nuova filiale.",
-        "example_english": "They open a new branch."
+        "example": "Aprono il ristorante solo per cena perché preferiscono dedicare il pomeriggio alla preparazione",
+        "example_english": "They open the restaurant only for dinner because they prefer to dedicate the afternoon to preparation"
       }
     },
     "passato_prossimo": {
@@ -54,43 +54,43 @@
         "conjugation": "ho aperto",
         "pronunciation": "/o a.ˈper.to/",
         "english": "I opened/have opened",
-        "example": "Ieri ho aperto un conto in banca.",
-        "example_english": "Yesterday I opened a bank account."
+        "example": "Ho aperto il computer per controllare le email importanti arrivate durante la notte",
+        "example_english": "I opened the computer to check important emails that arrived during the night"
       },
       "tu": {
         "conjugation": "hai aperto",
         "pronunciation": "/ˈaj a.ˈper.to/",
         "english": "you opened/have opened",
-        "example": "Hai aperto il file che ti ho mandato?",
-        "example_english": "Did you open the file I sent you?"
+        "example": "Hai aperto l'armadio per scegliere il vestito più elegante per la festa stasera?",
+        "example_english": "Did you open the closet to choose the most elegant dress for tonight's party?"
       },
       "lui": {
         "conjugation": "ha aperto",
         "pronunciation": "/a a.ˈper.to/",
         "english": "he/she/it opened/has opened",
-        "example": "Ha aperto la lettera con attenzione.",
-        "example_english": "He opened the letter carefully."
+        "example": "Ha aperto cautamente la porta del garage per verificare se l'auto era ancora",
+        "example_english": "He cautiously opened the garage door to check if the car was still there"
       },
       "noi": {
         "conjugation": "abbiamo aperto",
         "pronunciation": "/ab.ˈbja.mo a.ˈper.to/",
         "english": "we opened/have opened",
-        "example": "Abbiamo aperto una discussione interessante.",
-        "example_english": "We opened an interesting discussion."
+        "example": "Abbiamo aperto tutti i pacchi di Natale insieme davanti al camino acceso",
+        "example_english": "We opened all Christmas packages together in front of the fireplace"
       },
       "voi": {
         "conjugation": "avete aperto",
         "pronunciation": "/a.ˈve.te a.ˈper.to/",
         "english": "you opened/have opened",
-        "example": "Avete aperto tutti i lucchetti?",
-        "example_english": "Have you opened all the locks?"
+        "example": "Avete aperto la bottiglia di vino pregiato che conservavate per l'occasione speciale?",
+        "example_english": "Did you open the fine wine bottle you were saving for the special occasion?"
       },
       "loro": {
         "conjugation": "hanno aperto",
         "pronunciation": "/ˈan.no a.ˈper.to/",
         "english": "they opened/have opened",
-        "example": "Hanno aperto le porte al pubblico.",
-        "example_english": "They opened the doors to the public."
+        "example": "Hanno aperto il museo al pubblico dopo tre anni di restauri e miglioramenti",
+        "example_english": "They opened the museum to the public after three years of restorations and improvements"
       }
     },
     "futuro_semplice": {
@@ -98,43 +98,43 @@
         "conjugation": "aprirò",
         "pronunciation": "/a.pri.ˈrɔ/",
         "english": "I will open",
-        "example": "Aprirò il mio studio il mese prossimo.",
-        "example_english": "I will open my studio next month."
+        "example": "Aprirò la mia attività commerciale il prossimo mese dopo aver ottenuto tutte le licenze",
+        "example_english": "I will open my business next month after obtaining all the licenses"
       },
       "tu": {
         "conjugation": "aprirai",
         "pronunciation": "/a.pri.ˈraj/",
         "english": "you will open",
-        "example": "Tu aprirai la cerimonia con un discorso.",
-        "example_english": "You will open the ceremony with a speech."
+        "example": "Tu aprirai finalmente il conto bancario che rimandi da settimane per pigrizia?",
+        "example_english": "Will you finally open the bank account you've been putting off for weeks due to laziness?"
       },
       "lui": {
         "conjugation": "aprirà",
         "pronunciation": "/a.pri.ˈra/",
         "english": "he/she/it will open",
-        "example": "Lei aprirà un nuovo capitolo della sua vita.",
-        "example_english": "She will open a new chapter in her life."
+        "example": "Lei aprirà la lettera importante solo quando avrà il coraggio di affrontare la verità",
+        "example_english": "She will open the important letter only when she has the courage to face the truth"
       },
       "noi": {
         "conjugation": "apriremo",
         "pronunciation": "/a.pri.ˈre.mo/",
         "english": "we will open",
-        "example": "Noi apriremo il museo al pubblico.",
-        "example_english": "We will open the museum to the public."
+        "example": "Apriremo la scuola di danza che sogniamo da anni nel quartiere della città",
+        "example_english": "We will open the dance school we've been dreaming of for years in the city neighborhood"
       },
       "voi": {
         "conjugation": "aprirete",
         "pronunciation": "/a.pri.ˈre.te/",
         "english": "you will open",
-        "example": "Voi aprirete la strada a nuove opportunità.",
-        "example_english": "You will open the way to new opportunities."
+        "example": "Voi aprirete il vostro cuore a nuove esperienze durante il viaggio in Asia?",
+        "example_english": "Will you open your hearts to new experiences during the trip to Asia?"
       },
       "loro": {
         "conjugation": "apriranno",
         "pronunciation": "/a.pri.ˈran.no/",
         "english": "they will open",
-        "example": "Loro apriranno tre nuovi ristoranti.",
-        "example_english": "They will open three new restaurants."
+        "example": "Apriranno il nuovo centro commerciale dopo Natale con grande festa di inaugurazione",
+        "example_english": "They will open the new shopping center after Christmas with a big opening party"
       }
     }
   },
@@ -151,6 +151,11 @@
         "italian": "Una volta aperto il pacco, troveremo la sorpresa.",
         "english": "Once the package is opened, we will find the surprise."
       }
-    ]
-  }
+    ],
+    "example": "La porta è stata aperta dal portiere.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To open doors, windows, containers, or begin something new",
+  "synonyms": "schiudere,dischiudere"
 }

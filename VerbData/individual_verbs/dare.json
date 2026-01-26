@@ -1,6 +1,6 @@
 {
   "infinitive": "dare",
-  "infinitive_pronunciation": "/ˈdare/",
+  "infinitive_pronunciation": "/'dare/",
   "english": "to give",
   "regular": false,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "given",
     "example": "Il consiglio dato si è rivelato molto utile.",
     "example_english": "The advice given proved to be very useful."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To give something to someone; transfer possession",
+  "synonyms": "donare,consegnare"
 }

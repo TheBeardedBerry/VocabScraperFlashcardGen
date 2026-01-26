@@ -1,6 +1,6 @@
 {
   "infinitive": "bere",
-  "infinitive_pronunciation": "/ˈbere/",
+  "infinitive_pronunciation": "/'bere/",
   "english": "to drink",
   "regular": false,
   "auxiliary": "avere",
@@ -10,43 +10,43 @@
         "conjugation": "bevo",
         "pronunciation": "/ˈbevo/",
         "english": "I drink",
-        "example": "Io bevo sempre acqua durante i pasti.",
-        "example_english": "I always drink water during meals."
+        "example": "Bevo sempre un bicchiere di acqua tiepida con limone appena mi sveglio la mattina",
+        "example_english": "I always drink a glass of warm water with lemon as soon as I wake up in the morning"
       },
       "tu": {
         "conjugation": "bevi",
         "pronunciation": "/ˈbevi/",
         "english": "you drink",
-        "example": "Tu bevi caffè al mattino?",
-        "example_english": "Do you drink coffee in the morning?"
+        "example": "Tu bevi abbastanza acqua durante la giornata per mantenerti idratato e in salute?",
+        "example_english": "Do you drink enough water during the day to stay hydrated and healthy?"
       },
       "lui": {
         "conjugation": "beve",
         "pronunciation": "/ˈbeve/",
         "english": "he/she/it drinks",
-        "example": "Lei beve solo vino rosso quando cena.",
-        "example_english": "She only drinks red wine when dining."
+        "example": "Lei beve solo vino biologico prodotto nelle migliori cantine della regione toscana",
+        "example_english": "She only drinks organic wine produced in the best cellars of the Tuscan region"
       },
       "noi": {
         "conjugation": "beviamo",
         "pronunciation": "/be'vjamo/",
         "english": "we drink",
-        "example": "Noi beviamo tè verde ogni pomeriggio.",
-        "example_english": "We drink green tea every afternoon."
+        "example": "Beviamo un caffè insieme ogni mattina prima di andare al lavoro nei nostri uffici",
+        "example_english": "We drink coffee together every morning before going to work in our offices"
       },
       "voi": {
         "conjugation": "bevete",
         "pronunciation": "/be'vete/",
         "english": "you drink",
-        "example": "Voi bevete abbastanza acqua ogni giorno?",
-        "example_english": "Do you drink enough water every day?"
+        "example": "Voi bevete mai bevande gassate o preferite sempre succhi di frutta naturali fatti in casa?",
+        "example_english": "Do you ever drink carbonated beverages or do you always prefer homemade natural fruit juices?"
       },
       "loro": {
         "conjugation": "bevono",
         "pronunciation": "/ˈbevono/",
         "english": "they drink",
-        "example": "Loro bevono sempre latte fresco dalla fattoria.",
-        "example_english": "They always drink fresh milk from the farm."
+        "example": "Bevono tè verde giapponese ogni pomeriggio per rilassarsi e purificare il corpo dalle tossine",
+        "example_english": "They drink Japanese green tea every afternoon to relax and purify the body from toxins"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho bevuto",
         "pronunciation": "/'o be'vuto/",
         "english": "I drank/have drunk",
-        "example": "Ho bevuto troppo caffè stamattina.",
-        "example_english": "I drank too much coffee this morning."
+        "example": "Ho bevuto troppo caffè ieri e non sono riuscito a dormire tutta la notte",
+        "example_english": "I drank too much coffee yesterday and couldn't sleep all night"
       },
       "tu": {
         "conjugation": "hai bevuto",
         "pronunciation": "/'ai be'vuto/",
         "english": "you drank/have drunk",
-        "example": "Hai bevuto abbastanza acqua oggi?",
-        "example_english": "Have you drunk enough water today?"
+        "example": "Hai mai bevuto vino così buono durante i tuoi viaggi nelle cantine della Francia?",
+        "example_english": "Have you ever drunk such good wine during your trips to French wine cellars?"
       },
       "lui": {
         "conjugation": "ha bevuto",
         "pronunciation": "/'a be'vuto/",
         "english": "he/she/it drank/has drunk",
-        "example": "Lei ha bevuto un ottimo vino ieri sera.",
-        "example_english": "She drank an excellent wine last night."
+        "example": "Ha bevuto l'ultima goccia d'acqua dalla borraccia durante l'escursione nel deserto africano",
+        "example_english": "He drank the last drop of water from the water bottle during the hike in the African desert"
       },
       "noi": {
         "conjugation": "abbiamo bevuto",
         "pronunciation": "/ab'bjamo be'vuto/",
         "english": "we drank/have drunk",
-        "example": "Abbiamo bevuto birra fredda in spiaggia.",
-        "example_english": "We drank cold beer on the beach."
+        "example": "Abbiamo bevuto limonata fresca sotto l'ombrellone durante la giornata caldissima al mare",
+        "example_english": "We drank fresh lemonade under the umbrella during the very hot day at the beach"
       },
       "voi": {
         "conjugation": "avete bevuto",
         "pronunciation": "/a'vete be'vuto/",
         "english": "you drank/have drunk",
-        "example": "Avete bevuto tutto il succo di frutta?",
-        "example_english": "Have you drunk all the fruit juice?"
+        "example": "Avete bevuto abbastanza liquidi durante la maratona per evitare la disidratazione pericolosa?",
+        "example_english": "Did you drink enough fluids during the marathon to avoid dangerous dehydration?"
       },
       "loro": {
         "conjugation": "hanno bevuto",
         "pronunciation": "/'anno be'vuto/",
         "english": "they drank/have drunk",
-        "example": "Hanno bevuto latte caldo prima di dormire.",
-        "example_english": "They drank warm milk before sleeping."
+        "example": "Hanno bevuto un brindisi con prosecco per celebrare l'apertura del loro nuovo negozio",
+        "example_english": "They drank a toast with prosecco to celebrate the opening of their new store"
       }
     }
   },
@@ -144,5 +144,8 @@
     "english": "drunk",
     "example": "Il vino bevuto alla cena era eccellente.",
     "example_english": "The wine drunk at dinner was excellent."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To drink liquids; irregular verb with stem changes",
+  "synonyms": "bibere"
 }

@@ -1,145 +1,152 @@
 {
   "infinitive": "sedersi",
-  "infinitive_pronunciation": "SEHDEhrsee",
+  "infinitive_pronunciation": "/se'dersi/",
   "english": "to sit down",
   "regular": true,
   "auxiliary": "essere",
   "reflexive": true,
-  "presente": {
-    "io": {
-      "conjugation": "mi sedo",
-      "pronunciation": "mee sehdoh",
-      "english": "I sit down",
-      "example": "Io mi sedo ogni giorno.",
-      "example_english": "I sit down every day."
-    },
-    "tu": {
-      "conjugation": "ti sedi",
-      "pronunciation": "tee sehdee",
-      "english": "you sit down",
-      "example": "Tu ti sedi bene.",
-      "example_english": "You sit down well."
-    },
-    "lui": {
-      "conjugation": "si sede",
-      "pronunciation": "see sehdeh",
-      "english": "he/she/it sit downs",
-      "example": "Lei si sede molto.",
-      "example_english": "She sit down a lot."
-    },
-    "noi": {
-      "conjugation": "ci sediamo",
-      "pronunciation": "cee sehdeeahmoh",
-      "english": "we sit down",
-      "example": "Noi ci sediamo insieme.",
-      "example_english": "We sit down together."
-    },
-    "voi": {
-      "conjugation": "vi sedete",
-      "pronunciation": "vee sehdehteh",
-      "english": "you sit down",
-      "example": "Voi vi sedete bene?",
-      "example_english": "Do you sit down well?"
-    },
-    "loro": {
-      "conjugation": "si sedono",
-      "pronunciation": "see sehdohnoh",
-      "english": "they sit down",
-      "example": "Loro si sedono spesso.",
-      "example_english": "They sit down often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "mi sederò",
-      "pronunciation": "mee sehdehrò",
-      "english": "I will sit down",
-      "example": "Io mi sederò ogni giorno.",
-      "example_english": "I sit down every day."
-    },
-    "tu": {
-      "conjugation": "ti sederai",
-      "pronunciation": "tee sehdehrahee",
-      "english": "you (informal) will sit down",
-      "example": "Tu ti sederai bene.",
-      "example_english": "You sit down well."
-    },
-    "lui": {
-      "conjugation": "si sederà",
-      "pronunciation": "see sehdehrà",
-      "english": "he/she/it will sit down",
-      "example": "Lei si sederà molto.",
-      "example_english": "She sit down a lot."
-    },
-    "noi": {
-      "conjugation": "ci sederemo",
-      "pronunciation": "cee sehdehrehmoh",
-      "english": "we will sit down",
-      "example": "Noi ci sederemo insieme.",
-      "example_english": "We sit down together."
-    },
-    "voi": {
-      "conjugation": "vi sederete",
-      "pronunciation": "vee sehdehrehteh",
-      "english": "you (plural) will sit down",
-      "example": "Voi vi sederete bene?",
-      "example_english": "Do you sit down well?"
-    },
-    "loro": {
-      "conjugation": "si sederanno",
-      "pronunciation": "see sehdehrahnnoh",
-      "english": "they will sit down",
-      "example": "Loro si sederanno spesso.",
-      "example_english": "They sit down often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "mi sono seduto/a",
-      "pronunciation": "mee sohnoh sehdootoh/ah",
-      "english": "I sit downed",
-      "example": "Ieri mi sono seduto/a.",
-      "example_english": "Yesterday i sit downed."
-    },
-    "tu": {
-      "conjugation": "ti sei seduto/a",
-      "pronunciation": "tee sehee sehdootoh/ah",
-      "english": "you (informal) sit downed",
-      "example": "Ieri ti sei seduto/a.",
-      "example_english": "Yesterday you (informal) sit downed."
-    },
-    "lui": {
-      "conjugation": "si è seduto/a",
-      "pronunciation": "see è sehdootoh/ah",
-      "english": "he/she/it sit downed",
-      "example": "Ieri si è seduto/a.",
-      "example_english": "Yesterday he/she/it sit downed."
-    },
-    "noi": {
-      "conjugation": "ci siamo seduto/a",
-      "pronunciation": "cee seeahmoh sehdootoh/ah",
-      "english": "we sit downed",
-      "example": "Ieri ci siamo seduto/a.",
-      "example_english": "Yesterday we sit downed."
-    },
-    "voi": {
-      "conjugation": "vi siete seduto/a",
-      "pronunciation": "vee seeehteh sehdootoh/ah",
-      "english": "you (plural) sit downed",
-      "example": "Ieri vi siete seduto/a.",
-      "example_english": "Yesterday you (plural) sit downed."
-    },
-    "loro": {
-      "conjugation": "si sono seduto/a",
-      "pronunciation": "see sohnoh sehdootoh/ah",
-      "english": "they sit downed",
-      "example": "Ieri si sono seduto/a.",
-      "example_english": "Yesterday they sit downed."
-    }
-  },
   "participio_passato": {
     "form": "seduto/a",
-    "pronunciation": "SEHDootoh",
-    "english": "sit downed"
+    "pronunciation": "/seduto/",
+    "english": "sit downed",
+    "example": "Si è seduto sul divano comodo.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "Reflexive: to sit down or take a seat",
+  "synonyms": "accomodarsi,mettersi seduto",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "mi sedo",
+        "pronunciation": "/mi sedo/",
+        "english": "I sit myself down",
+        "example": "Io mi sedo ogni giorno.",
+        "example_english": "I sit down every day."
+      },
+      "tu": {
+        "conjugation": "ti sedi",
+        "pronunciation": "/ti sedi/",
+        "english": "you sit yourself down",
+        "example": "Tu ti sedi bene.",
+        "example_english": "You sit down well."
+      },
+      "lui": {
+        "conjugation": "si sede",
+        "pronunciation": "/si sede/",
+        "english": "he/she/it sit himself/herself downs",
+        "example": "Lei si sede molto.",
+        "example_english": "She sit down a lot."
+      },
+      "noi": {
+        "conjugation": "ci sediamo",
+        "pronunciation": "/ci sediamo/",
+        "english": "we sit ourselves down",
+        "example": "Noi ci sediamo insieme.",
+        "example_english": "We sit down together."
+      },
+      "voi": {
+        "conjugation": "vi sedete",
+        "pronunciation": "/vi sedete/",
+        "english": "you sit yourselves down",
+        "example": "Voi vi sedete bene?",
+        "example_english": "Do you sit down well?"
+      },
+      "loro": {
+        "conjugation": "si sedono",
+        "pronunciation": "/si sedono/",
+        "english": "they sit themselves down",
+        "example": "Loro si sedono spesso.",
+        "example_english": "They sit down often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "mi sederò",
+        "pronunciation": "/mi sederò/",
+        "english": "I will sit myself down",
+        "example": "Io mi sederò ogni giorno.",
+        "example_english": "I sit down every day."
+      },
+      "tu": {
+        "conjugation": "ti sederai",
+        "pronunciation": "/ti sederai/",
+        "english": "you (informal) will sit yourself down",
+        "example": "Tu ti sederai bene.",
+        "example_english": "You sit down well."
+      },
+      "lui": {
+        "conjugation": "si sederà",
+        "pronunciation": "/si sederà/",
+        "english": "he/she/it will sit himself/herself down",
+        "example": "Lei si sederà molto.",
+        "example_english": "She sit down a lot."
+      },
+      "noi": {
+        "conjugation": "ci sederemo",
+        "pronunciation": "/ci sederemo/",
+        "english": "we will sit ourselves down",
+        "example": "Noi ci sederemo insieme.",
+        "example_english": "We sit down together."
+      },
+      "voi": {
+        "conjugation": "vi sederete",
+        "pronunciation": "/vi sederete/",
+        "english": "you (plural) will sit yourselves down",
+        "example": "Voi vi sederete bene?",
+        "example_english": "Do you sit down well?"
+      },
+      "loro": {
+        "conjugation": "si sederanno",
+        "pronunciation": "/si sederanno/",
+        "english": "they will sit themselves down",
+        "example": "Loro si sederanno spesso.",
+        "example_english": "They sit down often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "mi sono seduto/a",
+        "pronunciation": "/mi sono seduto/a/",
+        "english": "I sit myself downed",
+        "example": "Ieri mi sono seduto/a.",
+        "example_english": "Yesterday i sit downed."
+      },
+      "tu": {
+        "conjugation": "ti sei seduto/a",
+        "pronunciation": "/ti sei seduto/a/",
+        "english": "you (informal) sit yourself downed",
+        "example": "Ieri ti sei seduto/a.",
+        "example_english": "Yesterday you (informal) sit downed."
+      },
+      "lui": {
+        "conjugation": "si è seduto/a",
+        "pronunciation": "/si è seduto/a/",
+        "english": "he/she/it sit himself/herself downed",
+        "example": "Ieri si è seduto/a.",
+        "example_english": "Yesterday he/she/it sit downed."
+      },
+      "noi": {
+        "conjugation": "ci siamo seduto/a",
+        "pronunciation": "/ci siamo seduto/a/",
+        "english": "we sit ourselves downed",
+        "example": "Ieri ci siamo seduto/a.",
+        "example_english": "Yesterday we sit downed."
+      },
+      "voi": {
+        "conjugation": "vi siete seduto/a",
+        "pronunciation": "/vi siete seduto/a/",
+        "english": "you (plural) sit yourselves downed",
+        "example": "Ieri vi siete seduto/a.",
+        "example_english": "Yesterday you (plural) sit downed."
+      },
+      "loro": {
+        "conjugation": "si sono seduto/a",
+        "pronunciation": "/si sono seduto/a/",
+        "english": "they sit themselves downed",
+        "example": "Ieri si sono seduto/a.",
+        "example_english": "Yesterday they sit downed."
+      }
+    }
   }
 }

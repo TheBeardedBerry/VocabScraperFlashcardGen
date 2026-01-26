@@ -1,6 +1,6 @@
 {
   "infinitive": "mettere",
-  "infinitive_pronunciation": "/ˈmet.te.re/",
+  "infinitive_pronunciation": "/'mettere/",
   "english": "to put",
   "regular": false,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta messo ordine, ci sentiremo meglio.",
         "english": "Once we have tidied up, we will feel better."
       }
-    ]
-  }
+    ],
+    "example": "L'oggetto messo è al posto giusto.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To put or place objects in specific locations",
+  "synonyms": "posare,collocare"
 }

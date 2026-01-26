@@ -1,141 +1,141 @@
 {
   "infinitive": "aspettare",
-  "infinitive_pronunciation": "/aspetˈtaːre/",
+  "infinitive_pronunciation": "/aspet'tare/",
   "english": "to wait",
   "regular": true,
   "auxiliary": "avere",
   "tenses": {
     "presente": {
-    "io": {
-      "conjugation": "aspetto",
-      "pronunciation": "/asˈpetto/",
-      "english": "I wait",
-      "example": "Aspetto l'autobus da mezz'ora.",
-      "example_english": "I've been waiting for the bus for half an hour."
-    },
-    "tu": {
-      "conjugation": "aspetti",
-      "pronunciation": "AHSPEhttee",
-      "english": "you wait",
-      "example": "Tu aspetti bene.",
-      "example_english": "You wait well."
-    },
-    "lui": {
-      "conjugation": "aspetta",
-      "pronunciation": "AHSPEhttah",
-      "english": "he/she/it waits",
-      "example": "Lei aspetta molto.",
-      "example_english": "She wait a lot."
-    },
-    "noi": {
-      "conjugation": "aspettiamo",
-      "pronunciation": "AHSPEHTteeahmoh",
-      "english": "we wait",
-      "example": "Noi aspettiamo insieme.",
-      "example_english": "We wait together."
-    },
-    "voi": {
-      "conjugation": "aspettate",
-      "pronunciation": "AHSPEHttahteh",
-      "english": "you wait",
-      "example": "Voi aspettate bene?",
-      "example_english": "Do you wait well?"
-    },
-    "loro": {
-      "conjugation": "aspettano",
-      "pronunciation": "AHSPEHttahnoh",
-      "english": "they wait",
-      "example": "Loro aspettano spesso.",
-      "example_english": "They wait often."
-    }
+      "io": {
+        "conjugation": "aspetto",
+        "pronunciation": "/asˈpetto/",
+        "english": "I wait",
+        "example": "Aspetto sempre l'autobus numero venti alla fermata vicino al supermercato del centro",
+        "example_english": "I always wait for bus number twenty at the stop near the downtown supermarket"
+      },
+      "tu": {
+        "conjugation": "aspetti",
+        "pronunciation": "/aspetti/",
+        "english": "you wait",
+        "example": "Tu aspetti ancora una risposta dalla università per la domanda di iscrizione?",
+        "example_english": "Are you still waiting for a response from the university for the enrollment application?"
+      },
+      "lui": {
+        "conjugation": "aspetta",
+        "pronunciation": "/aspetta/",
+        "english": "he/she/it waits",
+        "example": "Lei aspetta il fidanzato davanti al cinema per andare a vedere il nuovo film romantico",
+        "example_english": "She waits for her boyfriend in front of the cinema to go see the new romantic movie"
+      },
+      "noi": {
+        "conjugation": "aspettiamo",
+        "pronunciation": "/aspettiamo/",
+        "english": "we wait",
+        "example": "Aspettiamo tutti insieme l'arrivo del treno che porterà i nostri parenti dalla Sicilia",
+        "example_english": "We all wait together for the arrival of the train that will bring our relatives from Sicily"
+      },
+      "voi": {
+        "conjugation": "aspettate",
+        "pronunciation": "/aspettate/",
+        "english": "you wait",
+        "example": "Voi aspettate sempre l'ultimo momento per prenotare le vacanze estive al mare?",
+        "example_english": "Do you always wait until the last moment to book summer beach vacations?"
+      },
+      "loro": {
+        "conjugation": "aspettano",
+        "pronunciation": "/aspettano/",
+        "english": "they wait",
+        "example": "Aspettano con ansia i risultati dell'esame di medicina che hanno sostenuto settimana scorsa",
+        "example_english": "They anxiously wait for the medical exam results they took last week"
+      }
     },
     "futuro_semplice": {
-    "io": {
-      "conjugation": "aspetterò",
-      "pronunciation": "AHSPEHttehrò",
-      "english": "I will wait",
-      "example": "Io aspetterò ogni giorno.",
-      "example_english": "I wait every day."
+      "io": {
+        "conjugation": "aspetterò",
+        "pronunciation": "/aspetterò/",
+        "english": "I will wait",
+        "example": "Aspetterò il momento giusto per dire la verità a mia madre sulla situazione",
+        "example_english": "I will wait for the right moment to tell my mother the truth about the situation"
+      },
+      "tu": {
+        "conjugation": "aspetterai",
+        "pronunciation": "/aspetterai/",
+        "english": "you (informal) will wait",
+        "example": "Tu aspetterai la fine della pandemia per organizzare il viaggio dei tuoi sogni?",
+        "example_english": "Will you wait for the end of the pandemic to organize your dream trip?"
+      },
+      "lui": {
+        "conjugation": "aspetterà",
+        "pronunciation": "/aspetterà/",
+        "english": "he/she/it will wait",
+        "example": "Lei aspetterà che i figli crescano prima di riprendere a lavorare a tempo pieno",
+        "example_english": "She will wait for the children to grow up before returning to full-time work"
+      },
+      "noi": {
+        "conjugation": "aspetteremo",
+        "pronunciation": "/aspetteremo/",
+        "english": "we will wait",
+        "example": "Aspetteremo che finisca la pioggia prima di uscire per la passeggiata nel parco",
+        "example_english": "We will wait for the rain to stop before going out for a walk in the park"
+      },
+      "voi": {
+        "conjugation": "aspetterete",
+        "pronunciation": "/aspetterete/",
+        "english": "you (plural) will wait",
+        "example": "Voi aspetterete che si liberi un tavolo al ristorante o andremo da un'altra parte?",
+        "example_english": "Will you wait for a table to become free at the restaurant or shall we go somewhere else?"
+      },
+      "loro": {
+        "conjugation": "aspetteranno",
+        "pronunciation": "/aspetteranno/",
+        "english": "they will wait",
+        "example": "Aspetteranno il tramonto per scattare le fotografie più belle durante la gita romantica",
+        "example_english": "They will wait for sunset to take the most beautiful photographs during the romantic trip"
+      }
     },
-    "tu": {
-      "conjugation": "aspetterai",
-      "pronunciation": "AHSPEHTtehrahee",
-      "english": "you (informal) will wait",
-      "example": "Tu aspetterai bene.",
-      "example_english": "You wait well."
-    },
-    "lui": {
-      "conjugation": "aspetterà",
-      "pronunciation": "AHSPEHttehrà",
-      "english": "he/she/it will wait",
-      "example": "Lei aspetterà molto.",
-      "example_english": "She wait a lot."
-    },
-    "noi": {
-      "conjugation": "aspetteremo",
-      "pronunciation": "AHSPEHTTehrehmoh",
-      "english": "we will wait",
-      "example": "Noi aspetteremo insieme.",
-      "example_english": "We wait together."
-    },
-    "voi": {
-      "conjugation": "aspetterete",
-      "pronunciation": "AHSPEHTTehrehteh",
-      "english": "you (plural) will wait",
-      "example": "Voi aspetterete bene?",
-      "example_english": "Do you wait well?"
-    },
-    "loro": {
-      "conjugation": "aspetteranno",
-      "pronunciation": "AHSPEHTTehrahnnoh",
-      "english": "they will wait",
-      "example": "Loro aspetteranno spesso.",
-      "example_english": "They wait often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho aspettato",
-      "pronunciation": "hoh ahspehttahtoh",
-      "english": "I waited",
-      "example": "Ieri ho aspettato.",
-      "example_english": "Yesterday i waited."
-    },
-    "tu": {
-      "conjugation": "hai aspettato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) waited",
-      "example": "Ieri hai aspettato.",
-      "example_english": "Yesterday you (informal) waited."
-    },
-    "lui": {
-      "conjugation": "ha aspettato",
-      "pronunciation": "hah ahspehttahtoh",
-      "english": "he/she/it waited",
-      "example": "Ieri ha aspettato.",
-      "example_english": "Yesterday he/she/it waited."
-    },
-    "noi": {
-      "conjugation": "abbiamo aspettato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we waited",
-      "example": "Ieri abbiamo aspettato.",
-      "example_english": "Yesterday we waited."
-    },
-    "voi": {
-      "conjugation": "avete aspettato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) waited",
-      "example": "Ieri avete aspettato.",
-      "example_english": "Yesterday you (plural) waited."
-    },
-    "loro": {
-      "conjugation": "hanno aspettato",
-      "pronunciation": "HAHnnoh",
-      "english": "they waited",
-      "example": "Ieri hanno aspettato.",
-      "example_english": "Yesterday they waited."
-    }
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho aspettato",
+        "pronunciation": "/ho aspettato/",
+        "english": "I waited",
+        "example": "Ho aspettato due ore dal dentista perché aveva avuto un'emergenza con un altro paziente",
+        "example_english": "I waited two hours at the dentist because he had an emergency with another patient"
+      },
+      "tu": {
+        "conjugation": "hai aspettato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) waited",
+        "example": "Hai aspettato abbastanza a lungo una promozione sul lavoro o è il momento di cambiare?",
+        "example_english": "Have you waited long enough for a promotion at work or is it time to change?"
+      },
+      "lui": {
+        "conjugation": "ha aspettato",
+        "pronunciation": "/ha aspettato/",
+        "english": "he/she/it waited",
+        "example": "Ha aspettato che tutti se ne andassero prima di confessare i suoi veri sentimenti",
+        "example_english": "He waited for everyone to leave before confessing his true feelings"
+      },
+      "noi": {
+        "conjugation": "abbiamo aspettato",
+        "pronunciation": "/abbiamo/",
+        "english": "we waited",
+        "example": "Abbiamo aspettato il momento perfetto per comprare la casa dei nostri sogni",
+        "example_english": "We waited for the perfect moment to buy the house of our dreams"
+      },
+      "voi": {
+        "conjugation": "avete aspettato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) waited",
+        "example": "Avete aspettato invano l'arrivo degli amici che avevano promesso di venire alla festa?",
+        "example_english": "Did you wait in vain for the arrival of friends who had promised to come to the party?"
+      },
+      "loro": {
+        "conjugation": "hanno aspettato",
+        "pronunciation": "/hanno/",
+        "english": "they waited",
+        "example": "Hanno aspettato anni prima di realizzare il progetto di aprire un ristorante insieme",
+        "example_english": "They waited years before realizing the project of opening a restaurant together"
+      }
     }
   },
   "participio_passato": {
@@ -144,5 +144,8 @@
     "english": "waited",
     "example": "Un treno aspettato con ansia.",
     "example_english": "A train anxiously waited for."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To wait for someone or something; requires direct object",
+  "synonyms": "attendere,attendere"
 }

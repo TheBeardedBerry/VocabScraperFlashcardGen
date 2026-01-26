@@ -5,51 +5,51 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "sadfs",
-  "context": "fdsafds",
+  "synonyms": "vivere,risiedere",
+  "context": "Used for place of residence; permanent dwelling vs temporary stays",
   "tenses": {
     "presente": {
       "io": {
         "conjugation": "abito",
         "pronunciation": "/'abito/",
         "english": "I live",
-        "example": "Io abito in un appartamento moderno.",
-        "example_english": "I live in a modern apartment."
+        "example": "Abito in una casa moderna con tre camere da letto nel centro della città",
+        "example_english": "I live in a modern house with three bedrooms in the city center"
       },
       "tu": {
         "conjugation": "abiti",
         "pronunciation": "/'abiti/",
         "english": "you live",
-        "example": "Tu abiti ancora con i tuoi genitori?",
-        "example_english": "Do you still live with your parents?"
+        "example": "Tu abiti ancora con i tuoi genitori nella casa dove sei cresciuto?",
+        "example_english": "Do you still live with your parents in the house where you grew up?"
       },
       "lui": {
         "conjugation": "abita",
         "pronunciation": "/'abita/",
         "english": "he/she/it lives",
-        "example": "Maria abita in una casa bellissima.",
-        "example_english": "Maria lives in a beautiful house."
+        "example": "Lei abita in un appartamento elegante al quinto piano con vista sul mare",
+        "example_english": "She lives in an elegant apartment on the fifth floor with a sea view"
       },
       "noi": {
         "conjugation": "abitiamo",
         "pronunciation": "/abi'tjamo/",
         "english": "we live",
-        "example": "Noi abitiamo vicino al parco.",
-        "example_english": "We live near the park."
+        "example": "Noi abitiamo in periferia perché cerchiamo più spazio e tranquillità per la famiglia",
+        "example_english": "We live in the suburbs because we seek more space and tranquility for the family"
       },
       "voi": {
         "conjugation": "abitate",
         "pronunciation": "/abi'tate/",
         "english": "you live",
-        "example": "Voi abitate in periferia o in centro?",
-        "example_english": "Do you live in the suburbs or downtown?"
+        "example": "Voi abitate troppo lontano dall'ufficio e perdete due ore al giorno nel traffico",
+        "example_english": "You live too far from the office and lose two hours a day in traffic"
       },
       "loro": {
         "conjugation": "abitano",
         "pronunciation": "/'abitano/",
         "english": "they live",
-        "example": "I miei nonni abitano in campagna.",
-        "example_english": "My grandparents live in the countryside."
+        "example": "Loro abitano in una villa storica che apparteneva ai nonni da tre generazioni",
+        "example_english": "They live in a historic villa that has belonged to grandparents for three generations"
       }
     },
     "futuro_simplice": {
@@ -101,43 +101,43 @@
         "conjugation": "ho abitato",
         "pronunciation": "/o abi'tato/",
         "english": "I lived/have lived",
-        "example": "Ho abitato a Parigi per cinque anni.",
-        "example_english": "I lived in Paris for five years."
+        "example": "Ho abitato in cinque città diverse durante la mia carriera universitaria e lavorativa",
+        "example_english": "I lived in five different cities during my university and work career"
       },
       "tu": {
         "conjugation": "hai abitato",
         "pronunciation": "/ai abi'tato/",
         "english": "you lived/have lived",
-        "example": "Hai mai abitato in una grande città?",
-        "example_english": "Have you ever lived in a big city?"
+        "example": "Hai abitato in quella zona abbastanza a lungo da conoscere tutti i vicini?",
+        "example_english": "Have you lived in that area long enough to know all the neighbors?"
       },
       "lui": {
         "conjugation": "ha abitato",
         "pronunciation": "/a abi'tato/",
         "english": "he/she/it lived/has lived",
-        "example": "Mia sorella ha abitato all'estero.",
-        "example_english": "My sister lived abroad."
+        "example": "Ha abitato in quella casa per vent'anni prima di trasferirsi in campagna",
+        "example_english": "He lived in that house for twenty years before moving to the countryside"
       },
       "noi": {
         "conjugation": "abbiamo abitato",
         "pronunciation": "/ab'bjamo abi'tato/",
         "english": "we lived/have lived",
-        "example": "Abbiamo abitato insieme per due anni.",
-        "example_english": "We lived together for two years."
+        "example": "Abbiamo abitato in centro città fino a quando sono nati i bambini",
+        "example_english": "We lived in the city center until the children were born"
       },
       "voi": {
         "conjugation": "avete abitato",
         "pronunciation": "/a'vete abi'tato/",
         "english": "you lived/have lived",
-        "example": "Avete abitato sempre nello stesso quartiere?",
-        "example_english": "Have you always lived in the same neighborhood?"
+        "example": "Avete abitato in molti paesi diversi grazie al lavoro diplomatico di vostro padre",
+        "example_english": "You lived in many different countries thanks to your father's diplomatic work"
       },
       "loro": {
         "conjugation": "hanno abitato",
         "pronunciation": "/'anno abi'tato/",
         "english": "they lived/have lived",
-        "example": "Hanno abitato in quella casa per vent'anni.",
-        "example_english": "They lived in that house for twenty years."
+        "example": "Hanno abitato insieme per tre anni prima di decidere di sposarsi definitivamente",
+        "example_english": "They lived together for three years before deciding to get married permanently"
       }
     }
   },

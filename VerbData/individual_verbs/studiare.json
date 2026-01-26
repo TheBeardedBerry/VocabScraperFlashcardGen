@@ -144,5 +144,8 @@
     "english": "studied",
     "example": "Il corso è stato studiato per principianti.",
     "example_english": "The course was designed for beginners."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To study academic subjects or learn through formal education",
+  "synonyms": "imparare,esaminare"
 }

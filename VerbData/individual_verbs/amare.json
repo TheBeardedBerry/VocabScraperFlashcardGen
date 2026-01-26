@@ -1,144 +1,151 @@
 {
   "infinitive": "amare",
-  "infinitive_pronunciation": "AHMAhreh",
+  "infinitive_pronunciation": "/a'mare/",
   "english": "to love",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "amo",
-      "pronunciation": "AHmoh",
-      "english": "I love",
-      "example": "Io amo ogni giorno.",
-      "example_english": "I love every day."
-    },
-    "tu": {
-      "conjugation": "ami",
-      "pronunciation": "AHmee",
-      "english": "you love",
-      "example": "Tu ami bene.",
-      "example_english": "You love well."
-    },
-    "lui": {
-      "conjugation": "ama",
-      "pronunciation": "AHmah",
-      "english": "he/she/it loves",
-      "example": "Lei ama molto.",
-      "example_english": "She love a lot."
-    },
-    "noi": {
-      "conjugation": "amiamo",
-      "pronunciation": "AHMEEahmoh",
-      "english": "we love",
-      "example": "Noi amiamo insieme.",
-      "example_english": "We love together."
-    },
-    "voi": {
-      "conjugation": "amate",
-      "pronunciation": "AHMAhteh",
-      "english": "you love",
-      "example": "Voi amate bene?",
-      "example_english": "Do you love well?"
-    },
-    "loro": {
-      "conjugation": "amano",
-      "pronunciation": "AHMAhnoh",
-      "english": "they love",
-      "example": "Loro amano spesso.",
-      "example_english": "They love often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "amerò",
-      "pronunciation": "AHMehrò",
-      "english": "I will love",
-      "example": "Io amerò ogni giorno.",
-      "example_english": "I love every day."
-    },
-    "tu": {
-      "conjugation": "amerai",
-      "pronunciation": "AHMEHrahee",
-      "english": "you (informal) will love",
-      "example": "Tu amerai bene.",
-      "example_english": "You love well."
-    },
-    "lui": {
-      "conjugation": "amerà",
-      "pronunciation": "AHMehrà",
-      "english": "he/she/it will love",
-      "example": "Lei amerà molto.",
-      "example_english": "She love a lot."
-    },
-    "noi": {
-      "conjugation": "ameremo",
-      "pronunciation": "AHMEHrehmoh",
-      "english": "we will love",
-      "example": "Noi ameremo insieme.",
-      "example_english": "We love together."
-    },
-    "voi": {
-      "conjugation": "amerete",
-      "pronunciation": "AHMEHrehteh",
-      "english": "you (plural) will love",
-      "example": "Voi amerete bene?",
-      "example_english": "Do you love well?"
-    },
-    "loro": {
-      "conjugation": "ameranno",
-      "pronunciation": "AHMEHRahnnoh",
-      "english": "they will love",
-      "example": "Loro ameranno spesso.",
-      "example_english": "They love often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho amato",
-      "pronunciation": "hoh ahmahtoh",
-      "english": "I loved",
-      "example": "Ieri ho amato.",
-      "example_english": "Yesterday i loved."
-    },
-    "tu": {
-      "conjugation": "hai amato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) loved",
-      "example": "Ieri hai amato.",
-      "example_english": "Yesterday you (informal) loved."
-    },
-    "lui": {
-      "conjugation": "ha amato",
-      "pronunciation": "hah ahmahtoh",
-      "english": "he/she/it loved",
-      "example": "Ieri ha amato.",
-      "example_english": "Yesterday he/she/it loved."
-    },
-    "noi": {
-      "conjugation": "abbiamo amato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we loved",
-      "example": "Ieri abbiamo amato.",
-      "example_english": "Yesterday we loved."
-    },
-    "voi": {
-      "conjugation": "avete amato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) loved",
-      "example": "Ieri avete amato.",
-      "example_english": "Yesterday you (plural) loved."
-    },
-    "loro": {
-      "conjugation": "hanno amato",
-      "pronunciation": "HAHnnoh",
-      "english": "they loved",
-      "example": "Ieri hanno amato.",
-      "example_english": "Yesterday they loved."
-    }
-  },
   "participio_passato": {
     "form": "amato",
-    "pronunciation": "AHMAhtoh",
-    "english": "loved"
+    "pronunciation": "/amato/",
+    "english": "loved",
+    "example": "Una persona molto amata da tutti.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "Strong emotional attachment; romantic love or deep affection",
+  "synonyms": "adorare,voler bene",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "amo",
+        "pronunciation": "/amo/",
+        "english": "I love",
+        "example": "Amo profondamente la musica classica e vado spesso ai concerti della filarmonica cittadina",
+        "example_english": "I deeply love classical music and often go to concerts by the city philharmonic"
+      },
+      "tu": {
+        "conjugation": "ami",
+        "pronunciation": "/ami/",
+        "english": "you love",
+        "example": "Tu ami cucinare piatti tradizionali italiani per tutta la famiglia ogni domenica sera?",
+        "example_english": "Do you love cooking traditional Italian dishes for the whole family every Sunday evening?"
+      },
+      "lui": {
+        "conjugation": "ama",
+        "pronunciation": "/ama/",
+        "english": "he/she/it loves",
+        "example": "Lei ama viaggiare in paesi esotici e scoprire culture completamente diverse dalla sua",
+        "example_english": "She loves traveling to exotic countries and discovering cultures completely different from hers"
+      },
+      "noi": {
+        "conjugation": "amiamo",
+        "pronunciation": "/amiamo/",
+        "english": "we love",
+        "example": "Noi amiamo passare le vacanze estive nella casa al mare dei nostri nonni",
+        "example_english": "We love spending summer vacations at our grandparents' house by the sea"
+      },
+      "voi": {
+        "conjugation": "amate",
+        "pronunciation": "/amate/",
+        "english": "you love",
+        "example": "Voi amate leggere romanzi di avventura sotto l'albero del giardino nelle giornate soleggiate",
+        "example_english": "You love reading adventure novels under the garden tree on sunny days"
+      },
+      "loro": {
+        "conjugation": "amano",
+        "pronunciation": "/amano/",
+        "english": "they love",
+        "example": "Loro amano ballare il tango argentino ogni venerdì sera nella scuola di danza",
+        "example_english": "They love dancing Argentine tango every Friday evening at the dance school"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "amerò",
+        "pronunciation": "/amerò/",
+        "english": "I will love",
+        "example": "Io amerò ogni giorno.",
+        "example_english": "I love every day."
+      },
+      "tu": {
+        "conjugation": "amerai",
+        "pronunciation": "/amerai/",
+        "english": "you (informal) will love",
+        "example": "Tu amerai bene.",
+        "example_english": "You love well."
+      },
+      "lui": {
+        "conjugation": "amerà",
+        "pronunciation": "/amerà/",
+        "english": "he/she/it will love",
+        "example": "Lei amerà molto.",
+        "example_english": "She love a lot."
+      },
+      "noi": {
+        "conjugation": "ameremo",
+        "pronunciation": "/ameremo/",
+        "english": "we will love",
+        "example": "Noi ameremo insieme.",
+        "example_english": "We love together."
+      },
+      "voi": {
+        "conjugation": "amerete",
+        "pronunciation": "/amerete/",
+        "english": "you (plural) will love",
+        "example": "Voi amerete bene?",
+        "example_english": "Do you love well?"
+      },
+      "loro": {
+        "conjugation": "ameranno",
+        "pronunciation": "/ameranno/",
+        "english": "they will love",
+        "example": "Loro ameranno spesso.",
+        "example_english": "They love often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho amato",
+        "pronunciation": "/ho amato/",
+        "english": "I loved",
+        "example": "Ho amato profondamente quella persona per molti anni prima di capire l'incompatibilità caratteriale",
+        "example_english": "I deeply loved that person for many years before understanding the character incompatibility"
+      },
+      "tu": {
+        "conjugation": "hai amato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) loved",
+        "example": "Hai mai amato qualcuno così tanto da essere disposto a cambiare città per lui?",
+        "example_english": "Have you ever loved someone so much that you were willing to change cities for them?"
+      },
+      "lui": {
+        "conjugation": "ha amato",
+        "pronunciation": "/ha amato/",
+        "english": "he/she/it loved",
+        "example": "Ha amato la montagna fin da bambino e ora lavora come guida alpina",
+        "example_english": "He has loved mountains since childhood and now works as a mountain guide"
+      },
+      "noi": {
+        "conjugation": "abbiamo amato",
+        "pronunciation": "/abbiamo/",
+        "english": "we loved",
+        "example": "Abbiamo amato quel ristorante dal primo momento e ora ci andiamo ogni anniversario",
+        "example_english": "We loved that restaurant from the first moment and now go there every anniversary"
+      },
+      "voi": {
+        "conjugation": "avete amato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) loved",
+        "example": "Avete amato così tanto quel film che lo avete guardato cinque volte consecutive?",
+        "example_english": "Did you love that movie so much that you watched it five times in a row?"
+      },
+      "loro": {
+        "conjugation": "hanno amato",
+        "pronunciation": "/hanno/",
+        "english": "they loved",
+        "example": "Hanno amato quella casa al primo sguardo e hanno deciso di comprarla immediatamente",
+        "example_english": "They loved that house at first sight and decided to buy it immediately"
+      }
+    }
   }
 }

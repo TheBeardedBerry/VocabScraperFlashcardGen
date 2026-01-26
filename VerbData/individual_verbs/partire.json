@@ -1,6 +1,6 @@
 {
   "infinitive": "partire",
-  "infinitive_pronunciation": "/par.ˈti.re/",
+  "infinitive_pronunciation": "/par'tire/",
   "english": "to leave/to depart",
   "regular": true,
   "auxiliary": "essere",
@@ -158,6 +158,11 @@
         "italian": "Una volta partiti, non tornammo più.",
         "english": "Once we had left, we never returned."
       }
-    ]
-  }
+    ],
+    "example": "È partito stamattina per Milano.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To leave/depart for destinations; motion verb with essere",
+  "synonyms": "andare via,allontanarsi"
 }

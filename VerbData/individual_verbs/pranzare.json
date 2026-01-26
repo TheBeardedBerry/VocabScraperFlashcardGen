@@ -1,144 +1,151 @@
 {
   "infinitive": "pranzare",
-  "infinitive_pronunciation": "PRAHNzahreh",
+  "infinitive_pronunciation": "/pran'tsare/",
   "english": "to have lunch",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "pranzo",
-      "pronunciation": "PRAHnzoh",
-      "english": "I have lunch",
-      "example": "Io pranzo ogni giorno.",
-      "example_english": "I have lunch every day."
-    },
-    "tu": {
-      "conjugation": "pranzi",
-      "pronunciation": "PRAHnzee",
-      "english": "you have lunch",
-      "example": "Tu pranzi bene.",
-      "example_english": "You have lunch well."
-    },
-    "lui": {
-      "conjugation": "pranza",
-      "pronunciation": "PRAHnzah",
-      "english": "he/she/it have lunchs",
-      "example": "Lei pranza molto.",
-      "example_english": "She have lunch a lot."
-    },
-    "noi": {
-      "conjugation": "pranziamo",
-      "pronunciation": "PRAHNZeeahmoh",
-      "english": "we have lunch",
-      "example": "Noi pranziamo insieme.",
-      "example_english": "We have lunch together."
-    },
-    "voi": {
-      "conjugation": "pranzate",
-      "pronunciation": "PRAHNzahteh",
-      "english": "you have lunch",
-      "example": "Voi pranzate bene?",
-      "example_english": "Do you have lunch well?"
-    },
-    "loro": {
-      "conjugation": "pranzano",
-      "pronunciation": "PRAHNzahnoh",
-      "english": "they have lunch",
-      "example": "Loro pranzano spesso.",
-      "example_english": "They have lunch often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "pranzerò",
-      "pronunciation": "PRAHNzehrò",
-      "english": "I will have lunch",
-      "example": "Io pranzerò ogni giorno.",
-      "example_english": "I have lunch every day."
-    },
-    "tu": {
-      "conjugation": "pranzerai",
-      "pronunciation": "PRAHNZehrahee",
-      "english": "you (informal) will have lunch",
-      "example": "Tu pranzerai bene.",
-      "example_english": "You have lunch well."
-    },
-    "lui": {
-      "conjugation": "pranzerà",
-      "pronunciation": "PRAHNzehrà",
-      "english": "he/she/it will have lunch",
-      "example": "Lei pranzerà molto.",
-      "example_english": "She have lunch a lot."
-    },
-    "noi": {
-      "conjugation": "pranzeremo",
-      "pronunciation": "PRAHNZEhrehmoh",
-      "english": "we will have lunch",
-      "example": "Noi pranzeremo insieme.",
-      "example_english": "We have lunch together."
-    },
-    "voi": {
-      "conjugation": "pranzerete",
-      "pronunciation": "PRAHNZEhrehteh",
-      "english": "you (plural) will have lunch",
-      "example": "Voi pranzerete bene?",
-      "example_english": "Do you have lunch well?"
-    },
-    "loro": {
-      "conjugation": "pranzeranno",
-      "pronunciation": "PRAHNZEhrahnnoh",
-      "english": "they will have lunch",
-      "example": "Loro pranzeranno spesso.",
-      "example_english": "They have lunch often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho pranzato",
-      "pronunciation": "hoh prahnzahtoh",
-      "english": "I have lunched",
-      "example": "Ieri ho pranzato.",
-      "example_english": "Yesterday i have lunched."
-    },
-    "tu": {
-      "conjugation": "hai pranzato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) have lunched",
-      "example": "Ieri hai pranzato.",
-      "example_english": "Yesterday you (informal) have lunched."
-    },
-    "lui": {
-      "conjugation": "ha pranzato",
-      "pronunciation": "hah prahnzahtoh",
-      "english": "he/she/it have lunched",
-      "example": "Ieri ha pranzato.",
-      "example_english": "Yesterday he/she/it have lunched."
-    },
-    "noi": {
-      "conjugation": "abbiamo pranzato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we have lunched",
-      "example": "Ieri abbiamo pranzato.",
-      "example_english": "Yesterday we have lunched."
-    },
-    "voi": {
-      "conjugation": "avete pranzato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) have lunched",
-      "example": "Ieri avete pranzato.",
-      "example_english": "Yesterday you (plural) have lunched."
-    },
-    "loro": {
-      "conjugation": "hanno pranzato",
-      "pronunciation": "HAHnnoh",
-      "english": "they have lunched",
-      "example": "Ieri hanno pranzato.",
-      "example_english": "Yesterday they have lunched."
-    }
-  },
   "participio_passato": {
     "form": "pranzato",
-    "pronunciation": "PRAHNzahtoh",
-    "english": "have lunched"
+    "pronunciation": "/pranzato/",
+    "english": "have lunched",
+    "example": "Il pranzo pranzato era leggero.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To have lunch; midday meal specifically",
+  "synonyms": "fare pranzo",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "pranzo",
+        "pronunciation": "/pranzo/",
+        "english": "I have lunch",
+        "example": "Io pranzo ogni giorno.",
+        "example_english": "I have lunch every day."
+      },
+      "tu": {
+        "conjugation": "pranzi",
+        "pronunciation": "/pranzi/",
+        "english": "you have lunch",
+        "example": "Tu pranzi bene.",
+        "example_english": "You have lunch well."
+      },
+      "lui": {
+        "conjugation": "pranza",
+        "pronunciation": "/pranza/",
+        "english": "he/she/it have lunchs",
+        "example": "Lei pranza molto.",
+        "example_english": "She have lunch a lot."
+      },
+      "noi": {
+        "conjugation": "pranziamo",
+        "pronunciation": "/pranziamo/",
+        "english": "we have lunch",
+        "example": "Noi pranziamo insieme.",
+        "example_english": "We have lunch together."
+      },
+      "voi": {
+        "conjugation": "pranzate",
+        "pronunciation": "/pranzate/",
+        "english": "you have lunch",
+        "example": "Voi pranzate bene?",
+        "example_english": "Do you have lunch well?"
+      },
+      "loro": {
+        "conjugation": "pranzano",
+        "pronunciation": "/pranzano/",
+        "english": "they have lunch",
+        "example": "Loro pranzano spesso.",
+        "example_english": "They have lunch often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "pranzerò",
+        "pronunciation": "/pranzerò/",
+        "english": "I will have lunch",
+        "example": "Io pranzerò ogni giorno.",
+        "example_english": "I have lunch every day."
+      },
+      "tu": {
+        "conjugation": "pranzerai",
+        "pronunciation": "/pranzerai/",
+        "english": "you (informal) will have lunch",
+        "example": "Tu pranzerai bene.",
+        "example_english": "You have lunch well."
+      },
+      "lui": {
+        "conjugation": "pranzerà",
+        "pronunciation": "/pranzerà/",
+        "english": "he/she/it will have lunch",
+        "example": "Lei pranzerà molto.",
+        "example_english": "She have lunch a lot."
+      },
+      "noi": {
+        "conjugation": "pranzeremo",
+        "pronunciation": "/pranzeremo/",
+        "english": "we will have lunch",
+        "example": "Noi pranzeremo insieme.",
+        "example_english": "We have lunch together."
+      },
+      "voi": {
+        "conjugation": "pranzerete",
+        "pronunciation": "/pranzerete/",
+        "english": "you (plural) will have lunch",
+        "example": "Voi pranzerete bene?",
+        "example_english": "Do you have lunch well?"
+      },
+      "loro": {
+        "conjugation": "pranzeranno",
+        "pronunciation": "/pranzeranno/",
+        "english": "they will have lunch",
+        "example": "Loro pranzeranno spesso.",
+        "example_english": "They have lunch often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho pranzato",
+        "pronunciation": "/ho pranzato/",
+        "english": "I have lunched",
+        "example": "Ieri ho pranzato.",
+        "example_english": "Yesterday i have lunched."
+      },
+      "tu": {
+        "conjugation": "hai pranzato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) have lunched",
+        "example": "Ieri hai pranzato.",
+        "example_english": "Yesterday you (informal) have lunched."
+      },
+      "lui": {
+        "conjugation": "ha pranzato",
+        "pronunciation": "/ha pranzato/",
+        "english": "he/she/it have lunched",
+        "example": "Ieri ha pranzato.",
+        "example_english": "Yesterday he/she/it have lunched."
+      },
+      "noi": {
+        "conjugation": "abbiamo pranzato",
+        "pronunciation": "/abbiamo/",
+        "english": "we have lunched",
+        "example": "Ieri abbiamo pranzato.",
+        "example_english": "Yesterday we have lunched."
+      },
+      "voi": {
+        "conjugation": "avete pranzato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) have lunched",
+        "example": "Ieri avete pranzato.",
+        "example_english": "Yesterday you (plural) have lunched."
+      },
+      "loro": {
+        "conjugation": "hanno pranzato",
+        "pronunciation": "/hanno/",
+        "english": "they have lunched",
+        "example": "Ieri hanno pranzato.",
+        "example_english": "Yesterday they have lunched."
+      }
+    }
   }
 }

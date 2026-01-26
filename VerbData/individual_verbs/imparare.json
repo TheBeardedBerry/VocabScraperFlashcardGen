@@ -1,6 +1,6 @@
 {
   "infinitive": "imparare",
-  "infinitive_pronunciation": "/im.pa.ˈra.re/",
+  "infinitive_pronunciation": "/impa'rare/",
   "english": "to learn",
   "regular": true,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta imparata la tecnica, sarà più facile.",
         "english": "Once the technique is learned, it will be easier."
       }
-    ]
-  }
+    ],
+    "example": "La lezione imparata è stata utile.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To learn new skills, knowledge, or information",
+  "synonyms": "apprendere,studiare"
 }

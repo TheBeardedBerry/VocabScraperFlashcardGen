@@ -1,32 +1,151 @@
 {
   "infinitive": "conoscere",
-  "infinitive_pronunciation": "koh-noh-SHEH-reh",
+  "infinitive_pronunciation": "/ko'noʃʃere/",
   "english": "to know/to meet",
   "regular": false,
   "auxiliary": "avere",
-  "presente": {
-    "io": {"conjugation": "conosco", "pronunciation": "koh-NOHS-koh", "english": "I know", "example": "Io conosco Maria.", "example_english": "I know Maria."},
-    "tu": {"conjugation": "conosci", "pronunciation": "koh-NOHS-chee", "english": "you know", "example": "Tu conosci la città?", "example_english": "Do you know the city?"},
-    "lui": {"conjugation": "conosce", "pronunciation": "koh-NOHS-cheh", "english": "he/she/it knows", "example": "Lei conosce l'italiano.", "example_english": "She knows Italian."},
-    "noi": {"conjugation": "conosciamo", "pronunciation": "koh-noh-SHAH-moh", "english": "we know", "example": "Noi conosciamo la strada.", "example_english": "We know the way."},
-    "voi": {"conjugation": "conoscete", "pronunciation": "koh-noh-SHEH-teh", "english": "you know", "example": "Voi conoscete Roma?", "example_english": "Do you know Rome?"},
-    "loro": {"conjugation": "conoscono", "pronunciation": "koh-NOHS-koh-noh", "english": "they know", "example": "Loro conoscono tutti.", "example_english": "They know everyone."}
+  "participio_passato": {
+    "form": "conosciuto",
+    "pronunciation": "/ko-no-shu-to/",
+    "english": "known",
+    "example": "La persona conosciuta è molto simpatica.",
+    "example_english": "Example in English"
   },
-  "futuro_simplice": {
-    "io": {"conjugation": "conoscerò", "pronunciation": "koh-noh-sheh-ROH", "english": "I will know", "example": "Conoscerò la verità.", "example_english": "I will know the truth."},
-    "tu": {"conjugation": "conoscerai", "pronunciation": "koh-noh-sheh-RAH-ee", "english": "you will know", "example": "Tu conoscerai molte persone.", "example_english": "You will know many people."},
-    "lui": {"conjugation": "conoscerà", "pronunciation": "koh-noh-sheh-RAH", "english": "he/she/it will know", "example": "Lei conoscerà la città.", "example_english": "She will know the city."},
-    "noi": {"conjugation": "conosceremo", "pronunciation": "koh-noh-sheh-REH-moh", "english": "we will know", "example": "Conosceremo la risposta.", "example_english": "We will know the answer."},
-    "voi": {"conjugation": "conoscerete", "pronunciation": "koh-noh-sheh-REH-teh", "english": "you will know", "example": "Voi conoscerete presto.", "example_english": "You will know soon."},
-    "loro": {"conjugation": "conosceranno", "pronunciation": "koh-noh-sheh-RAHN-noh", "english": "they will know", "example": "Loro conosceranno la strada.", "example_english": "They will know the way."}
-  },
-  "passato_prossimo": {
-    "io": {"conjugation": "ho conosciuto", "pronunciation": "oh koh-noh-SHOO-toh", "english": "I knew/have known", "example": "Ho conosciuto Maria ieri.", "example_english": "I met Maria yesterday."},
-    "tu": {"conjugation": "hai conosciuto", "pronunciation": "AH-ee koh-noh-SHOO-toh", "english": "you knew/have known", "example": "Hai conosciuto la città.", "example_english": "You got to know the city."},
-    "lui": {"conjugation": "ha conosciuto", "pronunciation": "ah koh-noh-SHOO-toh", "english": "he/she/it knew/has known", "example": "Lei ha conosciuto mio fratello.", "example_english": "She met my brother."},
-    "noi": {"conjugation": "abbiamo conosciuto", "pronunciation": "ahb-bee-AH-moh koh-noh-SHOO-toh", "english": "we knew/have known", "example": "Abbiamo conosciuto la famiglia.", "example_english": "We met the family."},
-    "voi": {"conjugation": "avete conosciuto", "pronunciation": "ah-VEH-teh koh-noh-SHOO-toh", "english": "you knew/have known", "example": "Avete conosciuto Roma?", "example_english": "Did you get to know Rome?"},
-    "loro": {"conjugation": "hanno conosciuto", "pronunciation": "AHN-noh koh-noh-SHOO-toh", "english": "they knew/have known", "example": "Hanno conosciuto molte persone.", "example_english": "They met many people."}
-  },
-  "participio_passato": {"form": "conosciuto", "pronunciation": "koh-noh-SHOO-toh", "english": "known"}
+  "part_of_speech": "verb",
+  "context": "To know people, places, or be familiar with; vs sapere (facts)",
+  "synonyms": "sapere (persone/luoghi)",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "conosco",
+        "pronunciation": "/ko-nos-ko/",
+        "english": "I know",
+        "example": "Conosco molto bene questa città perché ci vivo da quando sono nato trent'anni fa",
+        "example_english": "I know this city very well because I've lived here since I was born thirty years ago"
+      },
+      "tu": {
+        "conjugation": "conosci",
+        "pronunciation": "/ko-nos-chi/",
+        "english": "you know",
+        "example": "Tu conosci qualche ristorante buono in questa zona dove possiamo andare stasera a cena?",
+        "example_english": "Do you know any good restaurants in this area where we can go for dinner tonight?"
+      },
+      "lui": {
+        "conjugation": "conosce",
+        "pronunciation": "/ko-nos-che/",
+        "english": "he/she/it knows",
+        "example": "Lei conosce perfettamente cinque lingue straniere grazie ai suoi numerosi viaggi internazionali",
+        "example_english": "She perfectly knows five foreign languages thanks to her numerous international travels"
+      },
+      "noi": {
+        "conjugation": "conosciamo",
+        "pronunciation": "/ko-no-sha-mo/",
+        "english": "we know",
+        "example": "Conosciamo tutti i segreti di questa ricetta tradizionale che passa di generazione in generazione",
+        "example_english": "We know all the secrets of this traditional recipe that passes from generation to generation"
+      },
+      "voi": {
+        "conjugation": "conoscete",
+        "pronunciation": "/ko-no-she-te/",
+        "english": "you know",
+        "example": "Voi conoscete la strada per arrivare al centro commerciale nuovo o serve il navigatore?",
+        "example_english": "Do you know the way to get to the new shopping center or do we need GPS?"
+      },
+      "loro": {
+        "conjugation": "conoscono",
+        "pronunciation": "/ko-nos-ko-no/",
+        "english": "they know",
+        "example": "Conoscono ogni angolo di questa biblioteca perché studiano qui da molti anni consecutivi",
+        "example_english": "They know every corner of this library because they've been studying here for many consecutive years"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "conoscerò",
+        "pronunciation": "/ko-no-she-ro/",
+        "english": "I will know",
+        "example": "Conoscerò la verità.",
+        "example_english": "I will know the truth."
+      },
+      "tu": {
+        "conjugation": "conoscerai",
+        "pronunciation": "/ko-no-she-ra-i/",
+        "english": "you will know",
+        "example": "Tu conoscerai molte persone.",
+        "example_english": "You will know many people."
+      },
+      "lui": {
+        "conjugation": "conoscerà",
+        "pronunciation": "/ko-no-she-ra/",
+        "english": "he/she/it will know",
+        "example": "Lei conoscerà la città.",
+        "example_english": "She will know the city."
+      },
+      "noi": {
+        "conjugation": "conosceremo",
+        "pronunciation": "/ko-no-she-re-mo/",
+        "english": "we will know",
+        "example": "Conosceremo la risposta.",
+        "example_english": "We will know the answer."
+      },
+      "voi": {
+        "conjugation": "conoscerete",
+        "pronunciation": "/ko-no-she-re-te/",
+        "english": "you will know",
+        "example": "Voi conoscerete presto.",
+        "example_english": "You will know soon."
+      },
+      "loro": {
+        "conjugation": "conosceranno",
+        "pronunciation": "/ko-no-she-ran-no/",
+        "english": "they will know",
+        "example": "Loro conosceranno la strada.",
+        "example_english": "They will know the way."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho conosciuto",
+        "pronunciation": "/o ko-no-shu-to/",
+        "english": "I knew/have known",
+        "example": "Ho conosciuto mia moglie durante una festa di compleanno di un amico comune",
+        "example_english": "I met my wife during a birthday party of a mutual friend"
+      },
+      "tu": {
+        "conjugation": "hai conosciuto",
+        "pronunciation": "/a-i ko-no-shu-to/",
+        "english": "you knew/have known",
+        "example": "Hai mai conosciuto una persona famosa durante i tuoi viaggi o eventi speciali?",
+        "example_english": "Have you ever met a famous person during your travels or special events?"
+      },
+      "lui": {
+        "conjugation": "ha conosciuto",
+        "pronunciation": "/a ko-no-shu-to/",
+        "english": "he/she/it knew/has known",
+        "example": "Ha conosciuto il suo migliore amico il primo giorno di scuola elementare molti anni fa",
+        "example_english": "He met his best friend on the first day of elementary school many years ago"
+      },
+      "noi": {
+        "conjugation": "abbiamo conosciuto",
+        "pronunciation": "/ab-bi-a-mo ko-no-shu-to/",
+        "english": "we knew/have known",
+        "example": "Abbiamo conosciuto una famiglia molto ospitale durante la vacanza in quel piccolo paese di montagna",
+        "example_english": "We met a very hospitable family during vacation in that small mountain village"
+      },
+      "voi": {
+        "conjugation": "avete conosciuto",
+        "pronunciation": "/a-ve-te ko-no-shu-to/",
+        "english": "you knew/have known",
+        "example": "Avete conosciuto persone interessanti durante il corso di cucina che avete frequentato insieme?",
+        "example_english": "Did you meet interesting people during the cooking course you attended together?"
+      },
+      "loro": {
+        "conjugation": "hanno conosciuto",
+        "pronunciation": "/an-no ko-no-shu-to/",
+        "english": "they knew/have known",
+        "example": "Hanno conosciuto il dolore della perdita quando il loro cane è morto dopo quindici anni",
+        "example_english": "They experienced the pain of loss when their dog died after fifteen years"
+      }
+    }
+  }
 }

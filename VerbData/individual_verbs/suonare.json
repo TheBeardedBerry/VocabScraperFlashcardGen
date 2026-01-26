@@ -1,144 +1,151 @@
 {
   "infinitive": "suonare",
-  "infinitive_pronunciation": "SOOOHnahreh",
+  "infinitive_pronunciation": "/swo'nare/",
   "english": "to play (instrument)",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "suono",
-      "pronunciation": "SOOOhnoh",
-      "english": "I play (instrument)",
-      "example": "Io suono ogni giorno.",
-      "example_english": "I play (instrument) every day."
-    },
-    "tu": {
-      "conjugation": "suoni",
-      "pronunciation": "SOOOhnee",
-      "english": "you play (instrument)",
-      "example": "Tu suoni bene.",
-      "example_english": "You play (instrument) well."
-    },
-    "lui": {
-      "conjugation": "suona",
-      "pronunciation": "SOOOhnah",
-      "english": "he/she/it play (instrument)s",
-      "example": "Lei suona molto.",
-      "example_english": "She play (instrument) a lot."
-    },
-    "noi": {
-      "conjugation": "suoniamo",
-      "pronunciation": "SOOOHNeeahmoh",
-      "english": "we play (instrument)",
-      "example": "Noi suoniamo insieme.",
-      "example_english": "We play (instrument) together."
-    },
-    "voi": {
-      "conjugation": "suonate",
-      "pronunciation": "SOOOHnahteh",
-      "english": "you play (instrument)",
-      "example": "Voi suonate bene?",
-      "example_english": "Do you play (instrument) well?"
-    },
-    "loro": {
-      "conjugation": "suonano",
-      "pronunciation": "SOOOHnahnoh",
-      "english": "they play (instrument)",
-      "example": "Loro suonano spesso.",
-      "example_english": "They play (instrument) often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "suonerò",
-      "pronunciation": "SOOOHnehrò",
-      "english": "I will play (instrument)",
-      "example": "Io suonerò ogni giorno.",
-      "example_english": "I play (instrument) every day."
-    },
-    "tu": {
-      "conjugation": "suonerai",
-      "pronunciation": "SOOOHNehrahee",
-      "english": "you (informal) will play (instrument)",
-      "example": "Tu suonerai bene.",
-      "example_english": "You play (instrument) well."
-    },
-    "lui": {
-      "conjugation": "suonerà",
-      "pronunciation": "SOOOHnehrà",
-      "english": "he/she/it will play (instrument)",
-      "example": "Lei suonerà molto.",
-      "example_english": "She play (instrument) a lot."
-    },
-    "noi": {
-      "conjugation": "suoneremo",
-      "pronunciation": "SOOOHNEhrehmoh",
-      "english": "we will play (instrument)",
-      "example": "Noi suoneremo insieme.",
-      "example_english": "We play (instrument) together."
-    },
-    "voi": {
-      "conjugation": "suonerete",
-      "pronunciation": "SOOOHNEhrehteh",
-      "english": "you (plural) will play (instrument)",
-      "example": "Voi suonerete bene?",
-      "example_english": "Do you play (instrument) well?"
-    },
-    "loro": {
-      "conjugation": "suoneranno",
-      "pronunciation": "SOOOHNEhrahnnoh",
-      "english": "they will play (instrument)",
-      "example": "Loro suoneranno spesso.",
-      "example_english": "They play (instrument) often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho suonato",
-      "pronunciation": "hoh sooohnahtoh",
-      "english": "I play (instrument)ed",
-      "example": "Ieri ho suonato.",
-      "example_english": "Yesterday i play (instrument)ed."
-    },
-    "tu": {
-      "conjugation": "hai suonato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) play (instrument)ed",
-      "example": "Ieri hai suonato.",
-      "example_english": "Yesterday you (informal) play (instrument)ed."
-    },
-    "lui": {
-      "conjugation": "ha suonato",
-      "pronunciation": "hah sooohnahtoh",
-      "english": "he/she/it play (instrument)ed",
-      "example": "Ieri ha suonato.",
-      "example_english": "Yesterday he/she/it play (instrument)ed."
-    },
-    "noi": {
-      "conjugation": "abbiamo suonato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we play (instrument)ed",
-      "example": "Ieri abbiamo suonato.",
-      "example_english": "Yesterday we play (instrument)ed."
-    },
-    "voi": {
-      "conjugation": "avete suonato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) play (instrument)ed",
-      "example": "Ieri avete suonato.",
-      "example_english": "Yesterday you (plural) play (instrument)ed."
-    },
-    "loro": {
-      "conjugation": "hanno suonato",
-      "pronunciation": "HAHnnoh",
-      "english": "they play (instrument)ed",
-      "example": "Ieri hanno suonato.",
-      "example_english": "Yesterday they play (instrument)ed."
-    }
-  },
   "participio_passato": {
     "form": "suonato",
-    "pronunciation": "SOOOHnahtoh",
-    "english": "play (instrument)ed"
+    "pronunciation": "/suonato/",
+    "english": "play (instrument)ed",
+    "example": "La canzone suonata è molto famosa.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To play musical instruments or ring bells",
+  "synonyms": "strimpellare",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "suono",
+        "pronunciation": "/suono/",
+        "english": "I play (instrument)",
+        "example": "Io suono ogni giorno.",
+        "example_english": "I play (instrument) every day."
+      },
+      "tu": {
+        "conjugation": "suoni",
+        "pronunciation": "/suoni/",
+        "english": "you play (instrument)",
+        "example": "Tu suoni bene.",
+        "example_english": "You play (instrument) well."
+      },
+      "lui": {
+        "conjugation": "suona",
+        "pronunciation": "/suona/",
+        "english": "he/she/it play (instrument)s",
+        "example": "Lei suona molto.",
+        "example_english": "She play (instrument) a lot."
+      },
+      "noi": {
+        "conjugation": "suoniamo",
+        "pronunciation": "/suoniamo/",
+        "english": "we play (instrument)",
+        "example": "Noi suoniamo insieme.",
+        "example_english": "We play (instrument) together."
+      },
+      "voi": {
+        "conjugation": "suonate",
+        "pronunciation": "/suonate/",
+        "english": "you play (instrument)",
+        "example": "Voi suonate bene?",
+        "example_english": "Do you play (instrument) well?"
+      },
+      "loro": {
+        "conjugation": "suonano",
+        "pronunciation": "/suonano/",
+        "english": "they play (instrument)",
+        "example": "Loro suonano spesso.",
+        "example_english": "They play (instrument) often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "suonerò",
+        "pronunciation": "/suonerò/",
+        "english": "I will play (instrument)",
+        "example": "Io suonerò ogni giorno.",
+        "example_english": "I play (instrument) every day."
+      },
+      "tu": {
+        "conjugation": "suonerai",
+        "pronunciation": "/suonerai/",
+        "english": "you (informal) will play (instrument)",
+        "example": "Tu suonerai bene.",
+        "example_english": "You play (instrument) well."
+      },
+      "lui": {
+        "conjugation": "suonerà",
+        "pronunciation": "/suonerà/",
+        "english": "he/she/it will play (instrument)",
+        "example": "Lei suonerà molto.",
+        "example_english": "She play (instrument) a lot."
+      },
+      "noi": {
+        "conjugation": "suoneremo",
+        "pronunciation": "/suoneremo/",
+        "english": "we will play (instrument)",
+        "example": "Noi suoneremo insieme.",
+        "example_english": "We play (instrument) together."
+      },
+      "voi": {
+        "conjugation": "suonerete",
+        "pronunciation": "/suonerete/",
+        "english": "you (plural) will play (instrument)",
+        "example": "Voi suonerete bene?",
+        "example_english": "Do you play (instrument) well?"
+      },
+      "loro": {
+        "conjugation": "suoneranno",
+        "pronunciation": "/suoneranno/",
+        "english": "they will play (instrument)",
+        "example": "Loro suoneranno spesso.",
+        "example_english": "They play (instrument) often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho suonato",
+        "pronunciation": "/ho suonato/",
+        "english": "I play (instrument)ed",
+        "example": "Ieri ho suonato.",
+        "example_english": "Yesterday i play (instrument)ed."
+      },
+      "tu": {
+        "conjugation": "hai suonato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) play (instrument)ed",
+        "example": "Ieri hai suonato.",
+        "example_english": "Yesterday you (informal) play (instrument)ed."
+      },
+      "lui": {
+        "conjugation": "ha suonato",
+        "pronunciation": "/ha suonato/",
+        "english": "he/she/it play (instrument)ed",
+        "example": "Ieri ha suonato.",
+        "example_english": "Yesterday he/she/it play (instrument)ed."
+      },
+      "noi": {
+        "conjugation": "abbiamo suonato",
+        "pronunciation": "/abbiamo/",
+        "english": "we play (instrument)ed",
+        "example": "Ieri abbiamo suonato.",
+        "example_english": "Yesterday we play (instrument)ed."
+      },
+      "voi": {
+        "conjugation": "avete suonato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) play (instrument)ed",
+        "example": "Ieri avete suonato.",
+        "example_english": "Yesterday you (plural) play (instrument)ed."
+      },
+      "loro": {
+        "conjugation": "hanno suonato",
+        "pronunciation": "/hanno/",
+        "english": "they play (instrument)ed",
+        "example": "Ieri hanno suonato.",
+        "example_english": "Yesterday they play (instrument)ed."
+      }
+    }
   }
 }

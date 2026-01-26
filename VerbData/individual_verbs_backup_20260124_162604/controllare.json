@@ -1,0 +1,144 @@
+{
+  "infinitive": "controllare",
+  "infinitive_pronunciation": "COHNTROhllahreh",
+  "english": "to check/to control",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "controllo",
+      "pronunciation": "COHNTRohlloh",
+      "english": "I check/control",
+      "example": "Io controllo ogni giorno.",
+      "example_english": "I check/control every day."
+    },
+    "tu": {
+      "conjugation": "controlli",
+      "pronunciation": "COHNTRohllee",
+      "english": "you check/control",
+      "example": "Tu controlli bene.",
+      "example_english": "You check/control well."
+    },
+    "lui": {
+      "conjugation": "controlla",
+      "pronunciation": "COHNTRohllah",
+      "english": "he/she/it check/controls",
+      "example": "Lei controlla molto.",
+      "example_english": "She check/control a lot."
+    },
+    "noi": {
+      "conjugation": "controlliamo",
+      "pronunciation": "COHNTROHlleeahmoh",
+      "english": "we check/control",
+      "example": "Noi controlliamo insieme.",
+      "example_english": "We check/control together."
+    },
+    "voi": {
+      "conjugation": "controllate",
+      "pronunciation": "COHNTROhllahteh",
+      "english": "you check/control",
+      "example": "Voi controllate bene?",
+      "example_english": "Do you check/control well?"
+    },
+    "loro": {
+      "conjugation": "controllano",
+      "pronunciation": "COHNTROhllahnoh",
+      "english": "they check/control",
+      "example": "Loro controllano spesso.",
+      "example_english": "They check/control often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "controllerò",
+      "pronunciation": "COHNTROhllehrò",
+      "english": "I will check/control",
+      "example": "Io controllerò ogni giorno.",
+      "example_english": "I check/control every day."
+    },
+    "tu": {
+      "conjugation": "controllerai",
+      "pronunciation": "COHNTROHllehrahee",
+      "english": "you (informal) will check/control",
+      "example": "Tu controllerai bene.",
+      "example_english": "You check/control well."
+    },
+    "lui": {
+      "conjugation": "controllerà",
+      "pronunciation": "COHNTROhllehrà",
+      "english": "he/she/it will check/control",
+      "example": "Lei controllerà molto.",
+      "example_english": "She check/control a lot."
+    },
+    "noi": {
+      "conjugation": "controlleremo",
+      "pronunciation": "COHNTROHLlehrehmoh",
+      "english": "we will check/control",
+      "example": "Noi controlleremo insieme.",
+      "example_english": "We check/control together."
+    },
+    "voi": {
+      "conjugation": "controllerete",
+      "pronunciation": "COHNTROHLlehrehteh",
+      "english": "you (plural) will check/control",
+      "example": "Voi controllerete bene?",
+      "example_english": "Do you check/control well?"
+    },
+    "loro": {
+      "conjugation": "controlleranno",
+      "pronunciation": "COHNTROHLlehrahnnoh",
+      "english": "they will check/control",
+      "example": "Loro controlleranno spesso.",
+      "example_english": "They check/control often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho controllato",
+      "pronunciation": "hoh cohntrohllahtoh",
+      "english": "I check/controled",
+      "example": "Ieri ho controllato.",
+      "example_english": "Yesterday i check/controled."
+    },
+    "tu": {
+      "conjugation": "hai controllato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) check/controled",
+      "example": "Ieri hai controllato.",
+      "example_english": "Yesterday you (informal) check/controled."
+    },
+    "lui": {
+      "conjugation": "ha controllato",
+      "pronunciation": "hah cohntrohllahtoh",
+      "english": "he/she/it check/controled",
+      "example": "Ieri ha controllato.",
+      "example_english": "Yesterday he/she/it check/controled."
+    },
+    "noi": {
+      "conjugation": "abbiamo controllato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we check/controled",
+      "example": "Ieri abbiamo controllato.",
+      "example_english": "Yesterday we check/controled."
+    },
+    "voi": {
+      "conjugation": "avete controllato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) check/controled",
+      "example": "Ieri avete controllato.",
+      "example_english": "Yesterday you (plural) check/controled."
+    },
+    "loro": {
+      "conjugation": "hanno controllato",
+      "pronunciation": "HAHnnoh",
+      "english": "they check/controled",
+      "example": "Ieri hanno controllato.",
+      "example_english": "Yesterday they check/controled."
+    }
+  },
+  "participio_passato": {
+    "form": "controllato",
+    "pronunciation": "COHNTROhllahtoh",
+    "english": "check/controled"
+  }
+}

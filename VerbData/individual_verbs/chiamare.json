@@ -5,51 +5,51 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "telefonare, contattare",
-  "context": "calling, telephone, communication",
+  "synonyms": "contattare,telefonare",
+  "context": "To call someone by name or telephone",
   "tenses": {
     "presente": {
       "io": {
         "conjugation": "chiamo",
         "pronunciation": "/'kjamo/",
         "english": "I call",
-        "example": "Io chiamo sempre mia madre la domenica.",
-        "example_english": "I always call my mother on Sunday."
+        "example": "Chiamo sempre mia madre ogni sera per raccontarle com'è andata la giornata al lavoro",
+        "example_english": "I always call my mother every evening to tell her how the work day went"
       },
       "tu": {
         "conjugation": "chiami",
         "pronunciation": "/'kjami/",
         "english": "you call",
-        "example": "Tu chiami spesso i tuoi amici?",
-        "example_english": "Do you often call your friends?"
+        "example": "Tu chiami spesso i tuoi amici al telefono o preferisci inviare messaggi di testo?",
+        "example_english": "Do you often call your friends on the phone or do you prefer sending text messages?"
       },
       "lui": {
         "conjugation": "chiama",
         "pronunciation": "/'kjama/",
         "english": "he/she/it calls",
-        "example": "Maria chiama il dottore per l'appuntamento.",
-        "example_english": "Maria calls the doctor for the appointment."
+        "example": "Lei chiama il medico ogni volta che si sente poco bene anche per sintomi lievi",
+        "example_english": "She calls the doctor every time she feels unwell even for mild symptoms"
       },
       "noi": {
         "conjugation": "chiamiamo",
         "pronunciation": "/kja'mjamo/",
         "english": "we call",
-        "example": "Noi chiamiamo il ristorante per prenotare.",
-        "example_english": "We call the restaurant to make a reservation."
+        "example": "Chiamiamo sempre un taxi quando usciamo la sera per non guidare dopo aver bevuto",
+        "example_english": "We always call a taxi when we go out in the evening to avoid driving after drinking"
       },
       "voi": {
         "conjugation": "chiamate",
         "pronunciation": "/kja'mate/",
         "english": "you call",
-        "example": "Voi chiamate mai il servizio clienti?",
-        "example_english": "Do you ever call customer service?"
+        "example": "Voi chiamate mai i vostri nonni per sentire come stanno e fargli compagnia?",
+        "example_english": "Do you ever call your grandparents to hear how they are and keep them company?"
       },
       "loro": {
         "conjugation": "chiamano",
         "pronunciation": "/'kjamano/",
         "english": "they call",
-        "example": "I bambini chiamano la mamma quando hanno paura.",
-        "example_english": "The children call their mom when they are scared."
+        "example": "Chiamano i vigili del fuoco ogni volta che sentono odore di gas nell'edificio",
+        "example_english": "They call the fire department every time they smell gas in the building"
       }
     },
     "futuro_simplice": {
@@ -101,43 +101,43 @@
         "conjugation": "ho chiamato",
         "pronunciation": "/o kja'mato/",
         "english": "I called/have called",
-        "example": "Ho chiamato il negozio per chiedere informazioni.",
-        "example_english": "I called the store to ask for information."
+        "example": "Ho chiamato il ristorante per prenotare un tavolo per la cena romantica di stasera",
+        "example_english": "I called the restaurant to book a table for tonight's romantic dinner"
       },
       "tu": {
         "conjugation": "hai chiamato",
         "pronunciation": "/ai kja'mato/",
         "english": "you called/have called",
-        "example": "Hai chiamato tuo fratello per il suo compleanno?",
-        "example_english": "Have you called your brother for his birthday?"
+        "example": "Hai chiamato tua sorella per dirle che sei arrivato sano e salvo?",
+        "example_english": "Did you call your sister to tell her you arrived safe and sound?"
       },
       "lui": {
         "conjugation": "ha chiamato",
         "pronunciation": "/a kja'mato/",
         "english": "he/she/it called/has called",
-        "example": "Luca ha chiamato l'ambulanza quando ha visto l'incidente.",
-        "example_english": "Luca called the ambulance when he saw the accident."
+        "example": "Ha chiamato la sua ex fidanzata per chiarire alcuni malintesi del loro rapporto passato",
+        "example_english": "He called his ex-girlfriend to clarify some misunderstandings from their past relationship"
       },
       "noi": {
         "conjugation": "abbiamo chiamato",
         "pronunciation": "/ab'bjamo kja'mato/",
         "english": "we called/have called",
-        "example": "Abbiamo chiamato il numero sbagliato per errore.",
-        "example_english": "We called the wrong number by mistake."
+        "example": "Abbiamo chiamato i vicini di casa per scusarci del rumore della festa",
+        "example_english": "We called the neighbors to apologize for the noise from the party"
       },
       "voi": {
         "conjugation": "avete chiamato",
         "pronunciation": "/a'vete kja'mato/",
         "english": "you called/have called",
-        "example": "Avete chiamato l'hotel per confermare la prenotazione?",
-        "example_english": "Have you called the hotel to confirm the reservation?"
+        "example": "Avete chiamato il servizio clienti per risolvere il problema con la vostra bolletta elettrica?",
+        "example_english": "Did you call customer service to solve the problem with your electricity bill?"
       },
       "loro": {
         "conjugation": "hanno chiamato",
         "pronunciation": "/'anno kja'mato/",
         "english": "they called/have called",
-        "example": "Hanno chiamato i vigili del fuoco per lo scoppio.",
-        "example_english": "They called the fire department for the explosion."
+        "example": "Hanno chiamato la scuola per informare che il figlio era malato e non poteva venire",
+        "example_english": "They called the school to inform that their son was sick and couldn't come"
       }
     }
   },

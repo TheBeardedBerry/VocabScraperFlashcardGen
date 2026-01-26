@@ -1,141 +1,141 @@
 {
   "infinitive": "visitare",
-  "infinitive_pronunciation": "/viziˈtaːre/",
+  "infinitive_pronunciation": "/vizi'tare/",
   "english": "to visit",
   "regular": true,
   "auxiliary": "avere",
   "tenses": {
     "presente": {
-    "io": {
-      "conjugation": "visito",
-      "pronunciation": "/ˈvizito/",
-      "english": "I visit",
-      "example": "Visito il museo ogni mese.",
-      "example_english": "I visit the museum every month."
-    },
-    "tu": {
-      "conjugation": "visiti",
-      "pronunciation": "/ˈviziti/",
-      "english": "you visit",
-      "example": "Visiti spesso i nonni?",
-      "example_english": "Do you often visit your grandparents?"
-    },
-    "lui": {
-      "conjugation": "visita",
-      "pronunciation": "/ˈvizita/",
-      "english": "he/she/it visits",
-      "example": "Visita il dottore ogni anno.",
-      "example_english": "She visits the doctor every year."
-    },
-    "noi": {
-      "conjugation": "visitiamo",
-      "pronunciation": "/viziˈtjaːmo/",
-      "english": "we visit",
-      "example": "Visitiamo Roma questa estate.",
-      "example_english": "We're visiting Rome this summer."
-    },
-    "voi": {
-      "conjugation": "visitate",
-      "pronunciation": "/viziˈtaːte/",
-      "english": "you visit",
-      "example": "Visitate musei o monumenti?",
-      "example_english": "Do you visit museums or monuments?"
-    },
-    "loro": {
-      "conjugation": "visitano",
-      "pronunciation": "/ˈvizitano/",
-      "english": "they visit",
-      "example": "Visitano la città vecchia.",
-      "example_english": "They visit the old city."
-    }
+      "io": {
+        "conjugation": "visito",
+        "pronunciation": "/ˈvizito/",
+        "english": "I visit",
+        "example": "Visito il museo ogni mese.",
+        "example_english": "I visit the museum every month."
+      },
+      "tu": {
+        "conjugation": "visiti",
+        "pronunciation": "/ˈviziti/",
+        "english": "you visit",
+        "example": "Visiti spesso i nonni?",
+        "example_english": "Do you often visit your grandparents?"
+      },
+      "lui": {
+        "conjugation": "visita",
+        "pronunciation": "/ˈvizita/",
+        "english": "he/she/it visits",
+        "example": "Visita il dottore ogni anno.",
+        "example_english": "She visits the doctor every year."
+      },
+      "noi": {
+        "conjugation": "visitiamo",
+        "pronunciation": "/viziˈtjaːmo/",
+        "english": "we visit",
+        "example": "Visitiamo Roma questa estate.",
+        "example_english": "We're visiting Rome this summer."
+      },
+      "voi": {
+        "conjugation": "visitate",
+        "pronunciation": "/viziˈtaːte/",
+        "english": "you visit",
+        "example": "Visitate musei o monumenti?",
+        "example_english": "Do you visit museums or monuments?"
+      },
+      "loro": {
+        "conjugation": "visitano",
+        "pronunciation": "/ˈvizitano/",
+        "english": "they visit",
+        "example": "Visitano la città vecchia.",
+        "example_english": "They visit the old city."
+      }
     },
     "futuro_semplice": {
-    "io": {
-      "conjugation": "visiterò",
-      "pronunciation": "/viziteˈroː/",
-      "english": "I will visit",
-      "example": "Visiterò Parigi il prossimo anno.",
-      "example_english": "I will visit Paris next year."
-    },
-    "tu": {
-      "conjugation": "visiterai",
-      "pronunciation": "/viziteˈraːi/",
-      "english": "you (informal) will visit",
-      "example": "Visiterai la Sicilia?",
-      "example_english": "Will you visit Sicily?"
-    },
-    "lui": {
-      "conjugation": "visiterà",
-      "pronunciation": "/viziteˈraː/",
-      "english": "he/she/it will visit",
-      "example": "Visiterà tutti i continenti.",
-      "example_english": "He will visit all continents."
-    },
-    "noi": {
-      "conjugation": "visiteremo",
-      "pronunciation": "/viziteˈreːmo/",
-      "english": "we will visit",
-      "example": "Visiteremo i nostri amici.",
-      "example_english": "We will visit our friends."
-    },
-    "voi": {
-      "conjugation": "visiterete",
-      "pronunciation": "/viziteˈreːte/",
-      "english": "you (plural) will visit",
-      "example": "Visiterete la fabbrica?",
-      "example_english": "Will you visit the factory?"
-    },
-    "loro": {
-      "conjugation": "visiteranno",
-      "pronunciation": "/viziteˈranno/",
-      "english": "they will visit",
-      "example": "Visiteranno l'Oriente.",
-      "example_english": "They will visit the Orient."
-    }
+      "io": {
+        "conjugation": "visiterò",
+        "pronunciation": "/viziteˈroː/",
+        "english": "I will visit",
+        "example": "Visiterò Parigi il prossimo anno.",
+        "example_english": "I will visit Paris next year."
+      },
+      "tu": {
+        "conjugation": "visiterai",
+        "pronunciation": "/viziteˈraːi/",
+        "english": "you (informal) will visit",
+        "example": "Visiterai la Sicilia?",
+        "example_english": "Will you visit Sicily?"
+      },
+      "lui": {
+        "conjugation": "visiterà",
+        "pronunciation": "/viziteˈraː/",
+        "english": "he/she/it will visit",
+        "example": "Visiterà tutti i continenti.",
+        "example_english": "He will visit all continents."
+      },
+      "noi": {
+        "conjugation": "visiteremo",
+        "pronunciation": "/viziteˈreːmo/",
+        "english": "we will visit",
+        "example": "Visiteremo i nostri amici.",
+        "example_english": "We will visit our friends."
+      },
+      "voi": {
+        "conjugation": "visiterete",
+        "pronunciation": "/viziteˈreːte/",
+        "english": "you (plural) will visit",
+        "example": "Visiterete la fabbrica?",
+        "example_english": "Will you visit the factory?"
+      },
+      "loro": {
+        "conjugation": "visiteranno",
+        "pronunciation": "/viziteˈranno/",
+        "english": "they will visit",
+        "example": "Visiteranno l'Oriente.",
+        "example_english": "They will visit the Orient."
+      }
     },
     "passato_prossimo": {
-    "io": {
-      "conjugation": "ho visitato",
-      "pronunciation": "/ˈɔ viziˈtaːto/",
-      "english": "I visited",
-      "example": "Ho visitato il Colosseo.",
-      "example_english": "I visited the Colosseum."
-    },
-    "tu": {
-      "conjugation": "hai visitato",
-      "pronunciation": "/ˈaːi viziˈtaːto/",
-      "english": "you (informal) visited",
-      "example": "Hai visitato il castello?",
-      "example_english": "Did you visit the castle?"
-    },
-    "lui": {
-      "conjugation": "ha visitato",
-      "pronunciation": "/ˈa viziˈtaːto/",
-      "english": "he/she/it visited",
-      "example": "Ha visitato molti paesi.",
-      "example_english": "She visited many countries."
-    },
-    "noi": {
-      "conjugation": "abbiamo visitato",
-      "pronunciation": "/abˈbjaːmo viziˈtaːto/",
-      "english": "we visited",
-      "example": "Abbiamo visitato Venezia.",
-      "example_english": "We visited Venice."
-    },
-    "voi": {
-      "conjugation": "avete visitato",
-      "pronunciation": "/aˈveːte viziˈtaːto/",
-      "english": "you (plural) visited",
-      "example": "Avete visitato la mostra?",
-      "example_english": "Did you visit the exhibition?"
-    },
-    "loro": {
-      "conjugation": "hanno visitato",
-      "pronunciation": "/ˈanno viziˈtaːto/",
-      "english": "they visited",
-      "example": "Hanno visitato l'Africa.",
-      "example_english": "They visited Africa."
-    }
+      "io": {
+        "conjugation": "ho visitato",
+        "pronunciation": "/ˈɔ viziˈtaːto/",
+        "english": "I visited",
+        "example": "Ho visitato il Colosseo.",
+        "example_english": "I visited the Colosseum."
+      },
+      "tu": {
+        "conjugation": "hai visitato",
+        "pronunciation": "/ˈaːi viziˈtaːto/",
+        "english": "you (informal) visited",
+        "example": "Hai visitato il castello?",
+        "example_english": "Did you visit the castle?"
+      },
+      "lui": {
+        "conjugation": "ha visitato",
+        "pronunciation": "/ˈa viziˈtaːto/",
+        "english": "he/she/it visited",
+        "example": "Ha visitato molti paesi.",
+        "example_english": "She visited many countries."
+      },
+      "noi": {
+        "conjugation": "abbiamo visitato",
+        "pronunciation": "/abˈbjaːmo viziˈtaːto/",
+        "english": "we visited",
+        "example": "Abbiamo visitato Venezia.",
+        "example_english": "We visited Venice."
+      },
+      "voi": {
+        "conjugation": "avete visitato",
+        "pronunciation": "/aˈveːte viziˈtaːto/",
+        "english": "you (plural) visited",
+        "example": "Avete visitato la mostra?",
+        "example_english": "Did you visit the exhibition?"
+      },
+      "loro": {
+        "conjugation": "hanno visitato",
+        "pronunciation": "/ˈanno viziˈtaːto/",
+        "english": "they visited",
+        "example": "Hanno visitato l'Africa.",
+        "example_english": "They visited Africa."
+      }
     }
   },
   "participio_passato": {
@@ -144,5 +144,8 @@
     "english": "visited",
     "example": "Un luogo visitato da molti turisti.",
     "example_english": "A place visited by many tourists."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To visit places, people, or tourist destinations",
+  "synonyms": "andare a trovare"
 }

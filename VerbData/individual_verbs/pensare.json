@@ -1,6 +1,6 @@
 {
   "infinitive": "pensare",
-  "infinitive_pronunciation": "/penˈsaːre/",
+  "infinitive_pronunciation": "/pen'sare/",
   "english": "to think",
   "regular": true,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "thought",
     "example": "Un piano ben pensato.",
     "example_english": "A well-thought plan."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To think, reflect, or consider ideas and possibilities",
+  "synonyms": "riflettere,meditare"
 }

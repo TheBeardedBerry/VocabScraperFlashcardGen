@@ -1,0 +1,144 @@
+{
+  "infinitive": "cambiare",
+  "infinitive_pronunciation": "CAHMBEeahreh",
+  "english": "to change",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "cambio",
+      "pronunciation": "CAHMbeeoh",
+      "english": "I change",
+      "example": "Io cambio ogni giorno.",
+      "example_english": "I change every day."
+    },
+    "tu": {
+      "conjugation": "cambii",
+      "pronunciation": "CAHMbeeee",
+      "english": "you change",
+      "example": "Tu cambii bene.",
+      "example_english": "You change well."
+    },
+    "lui": {
+      "conjugation": "cambia",
+      "pronunciation": "CAHMbeeah",
+      "english": "he/she/it changes",
+      "example": "Lei cambia molto.",
+      "example_english": "She change a lot."
+    },
+    "noi": {
+      "conjugation": "cambiiamo",
+      "pronunciation": "CAHMBEEeeahmoh",
+      "english": "we change",
+      "example": "Noi cambiiamo insieme.",
+      "example_english": "We change together."
+    },
+    "voi": {
+      "conjugation": "cambiate",
+      "pronunciation": "CAHMBEeahteh",
+      "english": "you change",
+      "example": "Voi cambiate bene?",
+      "example_english": "Do you change well?"
+    },
+    "loro": {
+      "conjugation": "cambiano",
+      "pronunciation": "CAHMBEeahnoh",
+      "english": "they change",
+      "example": "Loro cambiano spesso.",
+      "example_english": "They change often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "cambierò",
+      "pronunciation": "CAHMBeeehrò",
+      "english": "I will change",
+      "example": "Io cambierò ogni giorno.",
+      "example_english": "I change every day."
+    },
+    "tu": {
+      "conjugation": "cambierai",
+      "pronunciation": "CAHMBEEehrahee",
+      "english": "you (informal) will change",
+      "example": "Tu cambierai bene.",
+      "example_english": "You change well."
+    },
+    "lui": {
+      "conjugation": "cambierà",
+      "pronunciation": "CAHMBeeehrà",
+      "english": "he/she/it will change",
+      "example": "Lei cambierà molto.",
+      "example_english": "She change a lot."
+    },
+    "noi": {
+      "conjugation": "cambieremo",
+      "pronunciation": "CAHMBEEehrehmoh",
+      "english": "we will change",
+      "example": "Noi cambieremo insieme.",
+      "example_english": "We change together."
+    },
+    "voi": {
+      "conjugation": "cambierete",
+      "pronunciation": "CAHMBEEehrehteh",
+      "english": "you (plural) will change",
+      "example": "Voi cambierete bene?",
+      "example_english": "Do you change well?"
+    },
+    "loro": {
+      "conjugation": "cambieranno",
+      "pronunciation": "CAHMBEEEhrahnnoh",
+      "english": "they will change",
+      "example": "Loro cambieranno spesso.",
+      "example_english": "They change often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho cambiato",
+      "pronunciation": "hoh cahmbeeahtoh",
+      "english": "I changed",
+      "example": "Ieri ho cambiato.",
+      "example_english": "Yesterday i changed."
+    },
+    "tu": {
+      "conjugation": "hai cambiato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) changed",
+      "example": "Ieri hai cambiato.",
+      "example_english": "Yesterday you (informal) changed."
+    },
+    "lui": {
+      "conjugation": "ha cambiato",
+      "pronunciation": "hah cahmbeeahtoh",
+      "english": "he/she/it changed",
+      "example": "Ieri ha cambiato.",
+      "example_english": "Yesterday he/she/it changed."
+    },
+    "noi": {
+      "conjugation": "abbiamo cambiato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we changed",
+      "example": "Ieri abbiamo cambiato.",
+      "example_english": "Yesterday we changed."
+    },
+    "voi": {
+      "conjugation": "avete cambiato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) changed",
+      "example": "Ieri avete cambiato.",
+      "example_english": "Yesterday you (plural) changed."
+    },
+    "loro": {
+      "conjugation": "hanno cambiato",
+      "pronunciation": "HAHnnoh",
+      "english": "they changed",
+      "example": "Ieri hanno cambiato.",
+      "example_english": "Yesterday they changed."
+    }
+  },
+  "participio_passato": {
+    "form": "cambiato",
+    "pronunciation": "CAHMBEeahtoh",
+    "english": "changed"
+  }
+}

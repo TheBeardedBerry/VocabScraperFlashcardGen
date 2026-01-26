@@ -1,6 +1,6 @@
 {
   "infinitive": "telefonare",
-  "infinitive_pronunciation": "/te.le.foˈna.re/",
+  "infinitive_pronunciation": "/telefo'nare/",
   "english": "to phone, to call",
   "regular": true,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "phoned",
     "example": "Ho telefonato a tutti i clienti.",
     "example_english": "I have called all the clients."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To make phone calls or contact by telephone",
+  "synonyms": "chiamare al telefono"
 }

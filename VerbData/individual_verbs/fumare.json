@@ -1,144 +1,151 @@
 {
   "infinitive": "fumare",
-  "infinitive_pronunciation": "FOOMahreh",
+  "infinitive_pronunciation": "/fu'mare/",
   "english": "to smoke",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "fumo",
-      "pronunciation": "FOOmoh",
-      "english": "I smoke",
-      "example": "Io fumo ogni giorno.",
-      "example_english": "I smoke every day."
-    },
-    "tu": {
-      "conjugation": "fumi",
-      "pronunciation": "FOOmee",
-      "english": "you smoke",
-      "example": "Tu fumi bene.",
-      "example_english": "You smoke well."
-    },
-    "lui": {
-      "conjugation": "fuma",
-      "pronunciation": "FOOmah",
-      "english": "he/she/it smokes",
-      "example": "Lei fuma molto.",
-      "example_english": "She smoke a lot."
-    },
-    "noi": {
-      "conjugation": "fumiamo",
-      "pronunciation": "FOOMEeahmoh",
-      "english": "we smoke",
-      "example": "Noi fumiamo insieme.",
-      "example_english": "We smoke together."
-    },
-    "voi": {
-      "conjugation": "fumate",
-      "pronunciation": "FOOMahteh",
-      "english": "you smoke",
-      "example": "Voi fumate bene?",
-      "example_english": "Do you smoke well?"
-    },
-    "loro": {
-      "conjugation": "fumano",
-      "pronunciation": "FOOMahnoh",
-      "english": "they smoke",
-      "example": "Loro fumano spesso.",
-      "example_english": "They smoke often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "fumerò",
-      "pronunciation": "FOOMehrò",
-      "english": "I will smoke",
-      "example": "Io fumerò ogni giorno.",
-      "example_english": "I smoke every day."
-    },
-    "tu": {
-      "conjugation": "fumerai",
-      "pronunciation": "FOOMEhrahee",
-      "english": "you (informal) will smoke",
-      "example": "Tu fumerai bene.",
-      "example_english": "You smoke well."
-    },
-    "lui": {
-      "conjugation": "fumerà",
-      "pronunciation": "FOOMehrà",
-      "english": "he/she/it will smoke",
-      "example": "Lei fumerà molto.",
-      "example_english": "She smoke a lot."
-    },
-    "noi": {
-      "conjugation": "fumeremo",
-      "pronunciation": "FOOMEHrehmoh",
-      "english": "we will smoke",
-      "example": "Noi fumeremo insieme.",
-      "example_english": "We smoke together."
-    },
-    "voi": {
-      "conjugation": "fumerete",
-      "pronunciation": "FOOMEHrehteh",
-      "english": "you (plural) will smoke",
-      "example": "Voi fumerete bene?",
-      "example_english": "Do you smoke well?"
-    },
-    "loro": {
-      "conjugation": "fumeranno",
-      "pronunciation": "FOOMEHrahnnoh",
-      "english": "they will smoke",
-      "example": "Loro fumeranno spesso.",
-      "example_english": "They smoke often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho fumato",
-      "pronunciation": "hoh foomahtoh",
-      "english": "I smoked",
-      "example": "Ieri ho fumato.",
-      "example_english": "Yesterday i smoked."
-    },
-    "tu": {
-      "conjugation": "hai fumato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) smoked",
-      "example": "Ieri hai fumato.",
-      "example_english": "Yesterday you (informal) smoked."
-    },
-    "lui": {
-      "conjugation": "ha fumato",
-      "pronunciation": "hah foomahtoh",
-      "english": "he/she/it smoked",
-      "example": "Ieri ha fumato.",
-      "example_english": "Yesterday he/she/it smoked."
-    },
-    "noi": {
-      "conjugation": "abbiamo fumato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we smoked",
-      "example": "Ieri abbiamo fumato.",
-      "example_english": "Yesterday we smoked."
-    },
-    "voi": {
-      "conjugation": "avete fumato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) smoked",
-      "example": "Ieri avete fumato.",
-      "example_english": "Yesterday you (plural) smoked."
-    },
-    "loro": {
-      "conjugation": "hanno fumato",
-      "pronunciation": "HAHnnoh",
-      "english": "they smoked",
-      "example": "Ieri hanno fumato.",
-      "example_english": "Yesterday they smoked."
-    }
-  },
   "participio_passato": {
     "form": "fumato",
-    "pronunciation": "FOOMahtoh",
-    "english": "smoked"
+    "pronunciation": "/fumato/",
+    "english": "smoked",
+    "example": "Le sigarette fumate danneggiano la salute.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To smoke cigarettes or other substances",
+  "synonyms": "accendere (sigarette)",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "fumo",
+        "pronunciation": "/fumo/",
+        "english": "I smoke",
+        "example": "Io fumo ogni giorno.",
+        "example_english": "I smoke every day."
+      },
+      "tu": {
+        "conjugation": "fumi",
+        "pronunciation": "/fumi/",
+        "english": "you smoke",
+        "example": "Tu fumi bene.",
+        "example_english": "You smoke well."
+      },
+      "lui": {
+        "conjugation": "fuma",
+        "pronunciation": "/fuma/",
+        "english": "he/she/it smokes",
+        "example": "Lei fuma molto.",
+        "example_english": "She smoke a lot."
+      },
+      "noi": {
+        "conjugation": "fumiamo",
+        "pronunciation": "/fumiamo/",
+        "english": "we smoke",
+        "example": "Noi fumiamo insieme.",
+        "example_english": "We smoke together."
+      },
+      "voi": {
+        "conjugation": "fumate",
+        "pronunciation": "/fumate/",
+        "english": "you smoke",
+        "example": "Voi fumate bene?",
+        "example_english": "Do you smoke well?"
+      },
+      "loro": {
+        "conjugation": "fumano",
+        "pronunciation": "/fumano/",
+        "english": "they smoke",
+        "example": "Loro fumano spesso.",
+        "example_english": "They smoke often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "fumerò",
+        "pronunciation": "/fumerò/",
+        "english": "I will smoke",
+        "example": "Io fumerò ogni giorno.",
+        "example_english": "I smoke every day."
+      },
+      "tu": {
+        "conjugation": "fumerai",
+        "pronunciation": "/fumerai/",
+        "english": "you (informal) will smoke",
+        "example": "Tu fumerai bene.",
+        "example_english": "You smoke well."
+      },
+      "lui": {
+        "conjugation": "fumerà",
+        "pronunciation": "/fumerà/",
+        "english": "he/she/it will smoke",
+        "example": "Lei fumerà molto.",
+        "example_english": "She smoke a lot."
+      },
+      "noi": {
+        "conjugation": "fumeremo",
+        "pronunciation": "/fumeremo/",
+        "english": "we will smoke",
+        "example": "Noi fumeremo insieme.",
+        "example_english": "We smoke together."
+      },
+      "voi": {
+        "conjugation": "fumerete",
+        "pronunciation": "/fumerete/",
+        "english": "you (plural) will smoke",
+        "example": "Voi fumerete bene?",
+        "example_english": "Do you smoke well?"
+      },
+      "loro": {
+        "conjugation": "fumeranno",
+        "pronunciation": "/fumeranno/",
+        "english": "they will smoke",
+        "example": "Loro fumeranno spesso.",
+        "example_english": "They smoke often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho fumato",
+        "pronunciation": "/ho fumato/",
+        "english": "I smoked",
+        "example": "Ieri ho fumato.",
+        "example_english": "Yesterday i smoked."
+      },
+      "tu": {
+        "conjugation": "hai fumato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) smoked",
+        "example": "Ieri hai fumato.",
+        "example_english": "Yesterday you (informal) smoked."
+      },
+      "lui": {
+        "conjugation": "ha fumato",
+        "pronunciation": "/ha fumato/",
+        "english": "he/she/it smoked",
+        "example": "Ieri ha fumato.",
+        "example_english": "Yesterday he/she/it smoked."
+      },
+      "noi": {
+        "conjugation": "abbiamo fumato",
+        "pronunciation": "/abbiamo/",
+        "english": "we smoked",
+        "example": "Ieri abbiamo fumato.",
+        "example_english": "Yesterday we smoked."
+      },
+      "voi": {
+        "conjugation": "avete fumato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) smoked",
+        "example": "Ieri avete fumato.",
+        "example_english": "Yesterday you (plural) smoked."
+      },
+      "loro": {
+        "conjugation": "hanno fumato",
+        "pronunciation": "/hanno/",
+        "english": "they smoked",
+        "example": "Ieri hanno fumato.",
+        "example_english": "Yesterday they smoked."
+      }
+    }
   }
 }

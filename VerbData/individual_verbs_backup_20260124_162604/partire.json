@@ -1,0 +1,163 @@
+{
+  "infinitive": "partire",
+  "infinitive_pronunciation": "/par.ˈti.re/",
+  "english": "to leave/to depart",
+  "regular": true,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "parto",
+        "pronunciation": "/ˈpar.to/",
+        "english": "I leave",
+        "example": "Parto per Milano domattina.",
+        "example_english": "I leave for Milan tomorrow morning."
+      },
+      "tu": {
+        "conjugation": "parti",
+        "pronunciation": "/ˈpar.ti/",
+        "english": "you leave",
+        "example": "Tu parti sempre in orario?",
+        "example_english": "Do you always leave on time?"
+      },
+      "lui": {
+        "conjugation": "parte",
+        "pronunciation": "/ˈpar.te/",
+        "english": "he/she/it leaves",
+        "example": "Lei parte per le vacanze lunedì.",
+        "example_english": "She leaves for vacation on Monday."
+      },
+      "noi": {
+        "conjugation": "partiamo",
+        "pronunciation": "/par.ˈtja.mo/",
+        "english": "we leave",
+        "example": "Noi partiamo insieme per il viaggio.",
+        "example_english": "We leave together for the trip."
+      },
+      "voi": {
+        "conjugation": "partite",
+        "pronunciation": "/par.ˈti.te/",
+        "english": "you leave",
+        "example": "Voi partite prima di noi?",
+        "example_english": "Are you leaving before us?"
+      },
+      "loro": {
+        "conjugation": "partono",
+        "pronunciation": "/ˈpar.to.no/",
+        "english": "they leave",
+        "example": "Loro partono con il treno delle otto.",
+        "example_english": "They leave on the eight o'clock train."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono partito/a",
+        "pronunciation": "/ˈso.no par.ˈti.to ˈa/",
+        "english": "I left/have left",
+        "example": "Ieri sono partito molto presto.",
+        "example_english": "Yesterday I left very early."
+      },
+      "tu": {
+        "conjugation": "sei partito/a",
+        "pronunciation": "/ˈsej par.ˈti.to ˈa/",
+        "english": "you left/have left",
+        "example": "Sei partito senza salutarmi?",
+        "example_english": "Did you leave without saying goodbye?"
+      },
+      "lui": {
+        "conjugation": "è partito",
+        "pronunciation": "/ˈɛ par.ˈti.to/",
+        "english": "he left/has left",
+        "example": "È partito per l'America la settimana scorsa.",
+        "example_english": "He left for America last week."
+      },
+      "lei": {
+        "conjugation": "è partita",
+        "pronunciation": "/ˈɛ par.ˈti.ta/",
+        "english": "she left/has left",
+        "example": "È partita con il primo volo del mattino.",
+        "example_english": "She left on the first morning flight."
+      },
+      "noi": {
+        "conjugation": "siamo partiti/e",
+        "pronunciation": "/ˈsja.mo par.ˈti.ti ˈe/",
+        "english": "we left/have left",
+        "example": "Siamo partiti subito dopo cena.",
+        "example_english": "We left right after dinner."
+      },
+      "voi": {
+        "conjugation": "siete partiti/e",
+        "pronunciation": "/ˈsje.te par.ˈti.ti ˈe/",
+        "english": "you left/have left",
+        "example": "Siete partiti senza controllare il tempo?",
+        "example_english": "Did you leave without checking the weather?"
+      },
+      "loro": {
+        "conjugation": "sono partiti/e",
+        "pronunciation": "/ˈso.no par.ˈti.ti ˈe/",
+        "english": "they left/have left",
+        "example": "Sono partiti questa mattina alle sei.",
+        "example_english": "They left this morning at six."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "partirò",
+        "pronunciation": "/par.ti.ˈrɔ/",
+        "english": "I will leave",
+        "example": "Partirò per le ferie ad agosto.",
+        "example_english": "I will leave for vacation in August."
+      },
+      "tu": {
+        "conjugation": "partirai",
+        "pronunciation": "/par.ti.ˈraj/",
+        "english": "you will leave",
+        "example": "Tu partirai con noi o da solo?",
+        "example_english": "Will you leave with us or alone?"
+      },
+      "lui": {
+        "conjugation": "partirà",
+        "pronunciation": "/par.ti.ˈra/",
+        "english": "he/she/it will leave",
+        "example": "Lei partirà non appena sarà pronta.",
+        "example_english": "She will leave as soon as she is ready."
+      },
+      "noi": {
+        "conjugation": "partiremo",
+        "pronunciation": "/par.ti.ˈre.mo/",
+        "english": "we will leave",
+        "example": "Noi partiremo all'alba per evitare il traffico.",
+        "example_english": "We will leave at dawn to avoid traffic."
+      },
+      "voi": {
+        "conjugation": "partirete",
+        "pronunciation": "/par.ti.ˈre.te/",
+        "english": "you will leave",
+        "example": "Voi partirete dal binario numero tre.",
+        "example_english": "You will leave from platform number three."
+      },
+      "loro": {
+        "conjugation": "partiranno",
+        "pronunciation": "/par.ti.ˈran.no/",
+        "english": "they will leave",
+        "example": "Loro partiranno quando avranno finito.",
+        "example_english": "They will leave when they have finished."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "partito/a/i/e",
+    "pronunciation": "/par.ˈti.to ˈa ˈi ˈe/",
+    "english": "left/departed",
+    "examples": [
+      {
+        "italian": "Il treno è partito in ritardo.",
+        "english": "The train left late."
+      },
+      {
+        "italian": "Una volta partiti, non tornammo più.",
+        "english": "Once we had left, we never returned."
+      }
+    ]
+  }
+}

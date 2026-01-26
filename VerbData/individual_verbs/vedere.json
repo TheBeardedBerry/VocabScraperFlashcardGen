@@ -1,6 +1,6 @@
 {
   "infinitive": "vedere",
-  "infinitive_pronunciation": "/ve.ˈde.re/",
+  "infinitive_pronunciation": "/ve'dere/",
   "english": "to see",
   "regular": false,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta visto il panorama, non lo dimenticherai mai.",
         "english": "Once you have seen the view, you will never forget it."
       }
-    ]
-  }
+    ],
+    "example": "Il film visto ieri sera era eccellente.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To see with eyes or watch visually; observe",
+  "synonyms": "guardare,osservare"
 }

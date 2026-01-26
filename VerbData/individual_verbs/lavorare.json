@@ -144,5 +144,8 @@
     "english": "worked",
     "example": "Il metallo è stato lavorato a mano dall'artigiano.",
     "example_english": "The metal was worked by hand by the craftsman."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To work at a job or perform labor for income",
+  "synonyms": "operare,faticare"
 }

@@ -1,6 +1,6 @@
 {
   "infinitive": "invitare",
-  "infinitive_pronunciation": "/in.viˈta.re/",
+  "infinitive_pronunciation": "/invi'tare/",
   "english": "to invite",
   "regular": true,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "invited",
     "example": "Sono stato invitato alla festa.",
     "example_english": "I was invited to the party."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To invite someone to events, parties, or gatherings",
+  "synonyms": "chiamare"
 }

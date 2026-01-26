@@ -1,144 +1,151 @@
 {
   "infinitive": "cenare",
-  "infinitive_pronunciation": "CEHNahreh",
+  "infinitive_pronunciation": "/tʃe'nare/",
   "english": "to have dinner",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "ceno",
-      "pronunciation": "CEHnoh",
-      "english": "I have dinner",
-      "example": "Io ceno ogni giorno.",
-      "example_english": "I have dinner every day."
-    },
-    "tu": {
-      "conjugation": "ceni",
-      "pronunciation": "CEHnee",
-      "english": "you have dinner",
-      "example": "Tu ceni bene.",
-      "example_english": "You have dinner well."
-    },
-    "lui": {
-      "conjugation": "cena",
-      "pronunciation": "CEHnah",
-      "english": "he/she/it have dinners",
-      "example": "Lei cena molto.",
-      "example_english": "She have dinner a lot."
-    },
-    "noi": {
-      "conjugation": "ceniamo",
-      "pronunciation": "CEHNEeahmoh",
-      "english": "we have dinner",
-      "example": "Noi ceniamo insieme.",
-      "example_english": "We have dinner together."
-    },
-    "voi": {
-      "conjugation": "cenate",
-      "pronunciation": "CEHNahteh",
-      "english": "you have dinner",
-      "example": "Voi cenate bene?",
-      "example_english": "Do you have dinner well?"
-    },
-    "loro": {
-      "conjugation": "cenano",
-      "pronunciation": "CEHNahnoh",
-      "english": "they have dinner",
-      "example": "Loro cenano spesso.",
-      "example_english": "They have dinner often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "cenerò",
-      "pronunciation": "CEHNehrò",
-      "english": "I will have dinner",
-      "example": "Io cenerò ogni giorno.",
-      "example_english": "I have dinner every day."
-    },
-    "tu": {
-      "conjugation": "cenerai",
-      "pronunciation": "CEHNEhrahee",
-      "english": "you (informal) will have dinner",
-      "example": "Tu cenerai bene.",
-      "example_english": "You have dinner well."
-    },
-    "lui": {
-      "conjugation": "cenerà",
-      "pronunciation": "CEHNehrà",
-      "english": "he/she/it will have dinner",
-      "example": "Lei cenerà molto.",
-      "example_english": "She have dinner a lot."
-    },
-    "noi": {
-      "conjugation": "ceneremo",
-      "pronunciation": "CEHNEHrehmoh",
-      "english": "we will have dinner",
-      "example": "Noi ceneremo insieme.",
-      "example_english": "We have dinner together."
-    },
-    "voi": {
-      "conjugation": "cenerete",
-      "pronunciation": "CEHNEHrehteh",
-      "english": "you (plural) will have dinner",
-      "example": "Voi cenerete bene?",
-      "example_english": "Do you have dinner well?"
-    },
-    "loro": {
-      "conjugation": "ceneranno",
-      "pronunciation": "CEHNEHrahnnoh",
-      "english": "they will have dinner",
-      "example": "Loro ceneranno spesso.",
-      "example_english": "They have dinner often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho cenato",
-      "pronunciation": "hoh cehnahtoh",
-      "english": "I have dinnered",
-      "example": "Ieri ho cenato.",
-      "example_english": "Yesterday i have dinnered."
-    },
-    "tu": {
-      "conjugation": "hai cenato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) have dinnered",
-      "example": "Ieri hai cenato.",
-      "example_english": "Yesterday you (informal) have dinnered."
-    },
-    "lui": {
-      "conjugation": "ha cenato",
-      "pronunciation": "hah cehnahtoh",
-      "english": "he/she/it have dinnered",
-      "example": "Ieri ha cenato.",
-      "example_english": "Yesterday he/she/it have dinnered."
-    },
-    "noi": {
-      "conjugation": "abbiamo cenato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we have dinnered",
-      "example": "Ieri abbiamo cenato.",
-      "example_english": "Yesterday we have dinnered."
-    },
-    "voi": {
-      "conjugation": "avete cenato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) have dinnered",
-      "example": "Ieri avete cenato.",
-      "example_english": "Yesterday you (plural) have dinnered."
-    },
-    "loro": {
-      "conjugation": "hanno cenato",
-      "pronunciation": "HAHnnoh",
-      "english": "they have dinnered",
-      "example": "Ieri hanno cenato.",
-      "example_english": "Yesterday they have dinnered."
-    }
-  },
   "participio_passato": {
     "form": "cenato",
-    "pronunciation": "CEHNahtoh",
-    "english": "have dinnered"
+    "pronunciation": "/cenato/",
+    "english": "have dinnered",
+    "example": "La cena cenata è stata deliziosa.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To have dinner; evening meal specifically",
+  "synonyms": "pranzare (sera)",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "ceno",
+        "pronunciation": "/ceno/",
+        "english": "I have dinner",
+        "example": "Ceno sempre alle otto di sera con tutta la famiglia riunita intorno al tavolo",
+        "example_english": "I always have dinner at eight in the evening with the whole family gathered around the table"
+      },
+      "tu": {
+        "conjugation": "ceni",
+        "pronunciation": "/ceni/",
+        "english": "you have dinner",
+        "example": "Tu ceni spesso al ristorante o preferisci cucinare a casa con ingredienti freschi?",
+        "example_english": "Do you often dine at restaurants or do you prefer cooking at home with fresh ingredients?"
+      },
+      "lui": {
+        "conjugation": "cena",
+        "pronunciation": "/cena/",
+        "english": "he/she/it have dinners",
+        "example": "Lei cena elegantemente nei migliori ristoranti della città durante gli appuntamenti romantici",
+        "example_english": "She dines elegantly in the best city restaurants during romantic dates"
+      },
+      "noi": {
+        "conjugation": "ceniamo",
+        "pronunciation": "/ceniamo/",
+        "english": "we have dinner",
+        "example": "Ceniamo insieme ogni venerdì sera per mantenere vive le tradizioni della nostra famiglia",
+        "example_english": "We dine together every Friday evening to keep our family traditions alive"
+      },
+      "voi": {
+        "conjugation": "cenate",
+        "pronunciation": "/cenate/",
+        "english": "you have dinner",
+        "example": "Voi cenate mai fuori durante la settimana o riservate i ristoranti per il weekend?",
+        "example_english": "Do you ever dine out during the week or do you reserve restaurants for weekends?"
+      },
+      "loro": {
+        "conjugation": "cenano",
+        "pronunciation": "/cenano/",
+        "english": "they have dinner",
+        "example": "Cenano sempre tardi perché tornano dal lavoro dopo le nove di sera",
+        "example_english": "They always dine late because they return from work after nine in the evening"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "cenerò",
+        "pronunciation": "/cenerò/",
+        "english": "I will have dinner",
+        "example": "Io cenerò ogni giorno.",
+        "example_english": "I have dinner every day."
+      },
+      "tu": {
+        "conjugation": "cenerai",
+        "pronunciation": "/cenerai/",
+        "english": "you (informal) will have dinner",
+        "example": "Tu cenerai bene.",
+        "example_english": "You have dinner well."
+      },
+      "lui": {
+        "conjugation": "cenerà",
+        "pronunciation": "/cenerà/",
+        "english": "he/she/it will have dinner",
+        "example": "Lei cenerà molto.",
+        "example_english": "She have dinner a lot."
+      },
+      "noi": {
+        "conjugation": "ceneremo",
+        "pronunciation": "/ceneremo/",
+        "english": "we will have dinner",
+        "example": "Noi ceneremo insieme.",
+        "example_english": "We have dinner together."
+      },
+      "voi": {
+        "conjugation": "cenerete",
+        "pronunciation": "/cenerete/",
+        "english": "you (plural) will have dinner",
+        "example": "Voi cenerete bene?",
+        "example_english": "Do you have dinner well?"
+      },
+      "loro": {
+        "conjugation": "ceneranno",
+        "pronunciation": "/ceneranno/",
+        "english": "they will have dinner",
+        "example": "Loro ceneranno spesso.",
+        "example_english": "They have dinner often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho cenato",
+        "pronunciation": "/ho cenato/",
+        "english": "I have dinnered",
+        "example": "Ho cenato magnificamente ieri sera in quel ristorante che mi avevi consigliato",
+        "example_english": "I dined magnificently last night at that restaurant you had recommended to me"
+      },
+      "tu": {
+        "conjugation": "hai cenato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) have dinnered",
+        "example": "Hai cenato abbastanza o vuoi ancora un po' di dolce che ha preparato tua madre?",
+        "example_english": "Did you dine enough or do you want some more dessert that your mother prepared?"
+      },
+      "lui": {
+        "conjugation": "ha cenato",
+        "pronunciation": "/ha cenato/",
+        "english": "he/she/it have dinnered",
+        "example": "Ha cenato da solo leggendo un libro interessante nella tranquillità della sua cucina",
+        "example_english": "He dined alone reading an interesting book in the tranquility of his kitchen"
+      },
+      "noi": {
+        "conjugation": "abbiamo cenato",
+        "pronunciation": "/abbiamo/",
+        "english": "we have dinnered",
+        "example": "Abbiamo cenato sulla terrazza ammirando il tramonto spettacolare sul mare calmo",
+        "example_english": "We dined on the terrace admiring the spectacular sunset over the calm sea"
+      },
+      "voi": {
+        "conjugation": "avete cenato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) have dinnered",
+        "example": "Avete cenato bene durante la vostra vacanza in Francia o il cibo non vi piaceva?",
+        "example_english": "Did you dine well during your vacation in France or didn't you like the food?"
+      },
+      "loro": {
+        "conjugation": "hanno cenato",
+        "pronunciation": "/hanno/",
+        "english": "they have dinnered",
+        "example": "Hanno cenato insieme per discutere i dettagli importanti del progetto lavorativo comune",
+        "example_english": "They dined together to discuss important details of the common work project"
+      }
+    }
   }
 }

@@ -1,0 +1,144 @@
+{
+  "infinitive": "lavare",
+  "infinitive_pronunciation": "LAHVahreh",
+  "english": "to wash",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "lavo",
+      "pronunciation": "LAHvoh",
+      "english": "I wash",
+      "example": "Io lavo ogni giorno.",
+      "example_english": "I wash every day."
+    },
+    "tu": {
+      "conjugation": "lavi",
+      "pronunciation": "LAHvee",
+      "english": "you wash",
+      "example": "Tu lavi bene.",
+      "example_english": "You wash well."
+    },
+    "lui": {
+      "conjugation": "lava",
+      "pronunciation": "LAHvah",
+      "english": "he/she/it washs",
+      "example": "Lei lava molto.",
+      "example_english": "She wash a lot."
+    },
+    "noi": {
+      "conjugation": "laviamo",
+      "pronunciation": "LAHVEeahmoh",
+      "english": "we wash",
+      "example": "Noi laviamo insieme.",
+      "example_english": "We wash together."
+    },
+    "voi": {
+      "conjugation": "lavate",
+      "pronunciation": "LAHVahteh",
+      "english": "you wash",
+      "example": "Voi lavate bene?",
+      "example_english": "Do you wash well?"
+    },
+    "loro": {
+      "conjugation": "lavano",
+      "pronunciation": "LAHVahnoh",
+      "english": "they wash",
+      "example": "Loro lavano spesso.",
+      "example_english": "They wash often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "laverò",
+      "pronunciation": "LAHVehrò",
+      "english": "I will wash",
+      "example": "Io laverò ogni giorno.",
+      "example_english": "I wash every day."
+    },
+    "tu": {
+      "conjugation": "laverai",
+      "pronunciation": "LAHVEhrahee",
+      "english": "you (informal) will wash",
+      "example": "Tu laverai bene.",
+      "example_english": "You wash well."
+    },
+    "lui": {
+      "conjugation": "laverà",
+      "pronunciation": "LAHVehrà",
+      "english": "he/she/it will wash",
+      "example": "Lei laverà molto.",
+      "example_english": "She wash a lot."
+    },
+    "noi": {
+      "conjugation": "laveremo",
+      "pronunciation": "LAHVEHrehmoh",
+      "english": "we will wash",
+      "example": "Noi laveremo insieme.",
+      "example_english": "We wash together."
+    },
+    "voi": {
+      "conjugation": "laverete",
+      "pronunciation": "LAHVEHrehteh",
+      "english": "you (plural) will wash",
+      "example": "Voi laverete bene?",
+      "example_english": "Do you wash well?"
+    },
+    "loro": {
+      "conjugation": "laveranno",
+      "pronunciation": "LAHVEHrahnnoh",
+      "english": "they will wash",
+      "example": "Loro laveranno spesso.",
+      "example_english": "They wash often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho lavato",
+      "pronunciation": "hoh lahvahtoh",
+      "english": "I washed",
+      "example": "Ieri ho lavato.",
+      "example_english": "Yesterday i washed."
+    },
+    "tu": {
+      "conjugation": "hai lavato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) washed",
+      "example": "Ieri hai lavato.",
+      "example_english": "Yesterday you (informal) washed."
+    },
+    "lui": {
+      "conjugation": "ha lavato",
+      "pronunciation": "hah lahvahtoh",
+      "english": "he/she/it washed",
+      "example": "Ieri ha lavato.",
+      "example_english": "Yesterday he/she/it washed."
+    },
+    "noi": {
+      "conjugation": "abbiamo lavato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we washed",
+      "example": "Ieri abbiamo lavato.",
+      "example_english": "Yesterday we washed."
+    },
+    "voi": {
+      "conjugation": "avete lavato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) washed",
+      "example": "Ieri avete lavato.",
+      "example_english": "Yesterday you (plural) washed."
+    },
+    "loro": {
+      "conjugation": "hanno lavato",
+      "pronunciation": "HAHnnoh",
+      "english": "they washed",
+      "example": "Ieri hanno lavato.",
+      "example_english": "Yesterday they washed."
+    }
+  },
+  "participio_passato": {
+    "form": "lavato",
+    "pronunciation": "LAHVahtoh",
+    "english": "washed"
+  }
+}

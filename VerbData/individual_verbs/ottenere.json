@@ -1,24 +1,151 @@
 {
   "infinitive": "ottenere",
-  "infinitive_pronunciation": "MANUAL_INPUT_NEEDED",
+  "infinitive_pronunciation": "/otte'nere/",
   "english": "to get/to obtain",
   "regular": false,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "MANUAL_INPUT_NEEDED",
-      "pronunciation": "MANUAL_INPUT_NEEDED",
-      "english": "MANUAL_INPUT_NEEDED",
-      "example": "MANUAL_INPUT_NEEDED",
-      "example_english": "MANUAL_INPUT_NEEDED"
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "ottengo",
+        "pronunciation": "/ot'tengo/",
+        "english": "I get/obtain",
+        "example": "Ottengo sempre buoni risultati quando studio.",
+        "example_english": "I always get good results when I study."
+      },
+      "tu": {
+        "conjugation": "ottieni",
+        "pronunciation": "/ot'tjɛni/",
+        "english": "you get/obtain",
+        "example": "Tu ottieni quello che vuoi con la gentilezza.",
+        "example_english": "You get what you want with kindness."
+      },
+      "lui": {
+        "conjugation": "ottiene",
+        "pronunciation": "/ot'tjɛne/",
+        "english": "he/she/it gets/obtains",
+        "example": "Lei ottiene sempre il massimo dei voti.",
+        "example_english": "She always gets the highest grades."
+      },
+      "noi": {
+        "conjugation": "otteniamo",
+        "pronunciation": "/otte'njamo/",
+        "english": "we get/obtain",
+        "example": "Otteniamo il permesso prima di procedere.",
+        "example_english": "We get permission before proceeding."
+      },
+      "voi": {
+        "conjugation": "ottenete",
+        "pronunciation": "/otte'nete/",
+        "english": "you get/obtain",
+        "example": "Voi ottenete sconti speciali come clienti fedeli.",
+        "example_english": "You get special discounts as loyal customers."
+      },
+      "loro": {
+        "conjugation": "ottengono",
+        "pronunciation": "/ot'tengono/",
+        "english": "they get/obtain",
+        "example": "Loro ottengono sempre ciò che desiderano.",
+        "example_english": "They always get what they desire."
+      }
     },
-    "tu": "MANUAL_INPUT_NEEDED",
-    "lui_lei": "MANUAL_INPUT_NEEDED",
-    "noi": "MANUAL_INPUT_NEEDED",
-    "voi": "MANUAL_INPUT_NEEDED",
-    "loro": "MANUAL_INPUT_NEEDED"
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "otterrò",
+        "pronunciation": "/otter'ro/",
+        "english": "I will get/obtain",
+        "example": "Otterrò la laurea il prossimo anno.",
+        "example_english": "I will get my degree next year."
+      },
+      "tu": {
+        "conjugation": "otterrai",
+        "pronunciation": "/otter'rai/",
+        "english": "you will get/obtain",
+        "example": "Tu otterrai sicuramente il lavoro.",
+        "example_english": "You will definitely get the job."
+      },
+      "lui": {
+        "conjugation": "otterrà",
+        "pronunciation": "/otter'ra/",
+        "english": "he/she/it will get/obtain",
+        "example": "Lei otterrà il riconoscimento che merita.",
+        "example_english": "She will get the recognition she deserves."
+      },
+      "noi": {
+        "conjugation": "otterremo",
+        "pronunciation": "/otter'remo/",
+        "english": "we will get/obtain",
+        "example": "Otterremo i biglietti per il concerto.",
+        "example_english": "We will get tickets for the concert."
+      },
+      "voi": {
+        "conjugation": "otterrete",
+        "pronunciation": "/otter'rete/",
+        "english": "you will get/obtain",
+        "example": "Voi otterrete una risposta entro domani.",
+        "example_english": "You will get an answer by tomorrow."
+      },
+      "loro": {
+        "conjugation": "otterranno",
+        "pronunciation": "/otter'ranno/",
+        "english": "they will get/obtain",
+        "example": "Loro otterranno i documenti necessari.",
+        "example_english": "They will get the necessary documents."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho ottenuto",
+        "pronunciation": "/'o otte'nuto/",
+        "english": "I got/have obtained",
+        "example": "Ho ottenuto finalmente il visto per viaggiare.",
+        "example_english": "I finally got the visa to travel."
+      },
+      "tu": {
+        "conjugation": "hai ottenuto",
+        "pronunciation": "/'ai otte'nuto/",
+        "english": "you got/have obtained",
+        "example": "Hai ottenuto un ottimo punteggio all'esame.",
+        "example_english": "You got an excellent score on the exam."
+      },
+      "lui": {
+        "conjugation": "ha ottenuto",
+        "pronunciation": "/'a otte'nuto/",
+        "english": "he/she/it got/has obtained",
+        "example": "Ha ottenuto una promozione al lavoro.",
+        "example_english": "He got a promotion at work."
+      },
+      "noi": {
+        "conjugation": "abbiamo ottenuto",
+        "pronunciation": "/ab'bjamo otte'nuto/",
+        "english": "we got/have obtained",
+        "example": "Abbiamo ottenuto l'approvazione del progetto.",
+        "example_english": "We got approval for the project."
+      },
+      "voi": {
+        "conjugation": "avete ottenuto",
+        "pronunciation": "/a'vete otte'nuto/",
+        "english": "you got/have obtained",
+        "example": "Avete ottenuto tutto quello che volevate?",
+        "example_english": "Did you get everything you wanted?"
+      },
+      "loro": {
+        "conjugation": "hanno ottenuto",
+        "pronunciation": "/'anno otte'nuto/",
+        "english": "they got/have obtained",
+        "example": "Hanno ottenuto i risultati sperati.",
+        "example_english": "They got the results they hoped for."
+      }
+    }
   },
-  "passato_prossimo": "MANUAL_INPUT_NEEDED",
-  "futuro_simplice": "MANUAL_INPUT_NEEDED",
-  "participio_passato": "MANUAL_INPUT_NEEDED"
+  "participio_passato": {
+    "form": "ottenuto",
+    "pronunciation": "/otte'nuto/",
+    "english": "obtained/gotten",
+    "example": "Il risultato ottenuto è eccellente.",
+    "example_english": "The result obtained is excellent."
+  },
+  "part_of_speech": "verb",
+  "context": "Formal term for getting or acquiring something through effort or process",
+  "synonyms": "ricevere,conseguire"
 }

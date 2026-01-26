@@ -5,8 +5,8 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "divertirsi, scherzare",
-  "context": "games, sports, playing",
+  "synonyms": "divertirsi,spassarsi",
+  "context": "To play games, sports, or engage in recreational activities",
   "tenses": {
     "presente": {
       "io": {

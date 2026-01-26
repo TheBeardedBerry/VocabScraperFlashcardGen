@@ -1,6 +1,6 @@
 {
   "infinitive": "stare",
-  "infinitive_pronunciation": "/ˈstare/",
+  "infinitive_pronunciation": "/'stare/",
   "english": "to stay/to be",
   "regular": false,
   "auxiliary": "essere",
@@ -144,5 +144,8 @@
     "english": "stayed/been",
     "example": "La situazione è stata difficile per tutti.",
     "example_english": "The situation has been difficult for everyone."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "Temporary states, location, progressive tenses; vs essere for permanent",
+  "synonyms": "essere,rimanere"
 }

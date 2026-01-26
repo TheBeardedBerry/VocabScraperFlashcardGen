@@ -1,6 +1,6 @@
 {
   "infinitive": "finire",
-  "infinitive_pronunciation": "/fi.ˈni.re/",
+  "infinitive_pronunciation": "/fi'nire/",
   "english": "to finish",
   "regular": true,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta finito il film, andremo a casa.",
         "english": "Once the movie is finished, we will go home."
       }
-    ]
-  }
+    ],
+    "example": "Il progetto finito è stato consegnato in tempo.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To finish or complete something; -isc verb expansion",
+  "synonyms": "completare,terminare"
 }

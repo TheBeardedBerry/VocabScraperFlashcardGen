@@ -144,5 +144,8 @@
     "english": "traveled",
     "example": "La strada è molto viaggiata dai turisti.",
     "example_english": "The road is heavily traveled by tourists."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To travel for business, pleasure, or exploration",
+  "synonyms": "spostarsi,andare in giro"
 }

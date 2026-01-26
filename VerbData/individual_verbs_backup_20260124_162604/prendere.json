@@ -1,0 +1,156 @@
+{
+  "infinitive": "prendere",
+  "infinitive_pronunciation": "/ˈpren.de.re/",
+  "english": "to take",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "prendo",
+        "pronunciation": "/ˈpren.do/",
+        "english": "I take",
+        "example": "Prendo l'autobus ogni mattina.",
+        "example_english": "I take the bus every morning."
+      },
+      "tu": {
+        "conjugation": "prendi",
+        "pronunciation": "/ˈpren.di/",
+        "english": "you take",
+        "example": "Tu prendi sempre buone decisioni.",
+        "example_english": "You always make good decisions."
+      },
+      "lui": {
+        "conjugation": "prende",
+        "pronunciation": "/ˈpren.de/",
+        "english": "he/she/it takes",
+        "example": "Lei prende un caffè al bar.",
+        "example_english": "She takes a coffee at the bar."
+      },
+      "noi": {
+        "conjugation": "prendiamo",
+        "pronunciation": "/pren.ˈdja.mo/",
+        "english": "we take",
+        "example": "Noi prendiamo una pausa insieme.",
+        "example_english": "We take a break together."
+      },
+      "voi": {
+        "conjugation": "prendete",
+        "pronunciation": "/pren.ˈde.te/",
+        "english": "you take",
+        "example": "Voi prendete appunti durante la lezione?",
+        "example_english": "Do you take notes during the lesson?"
+      },
+      "loro": {
+        "conjugation": "prendono",
+        "pronunciation": "/ˈpren.do.no/",
+        "english": "they take",
+        "example": "Loro prendono il treno delle sette.",
+        "example_english": "They take the seven o'clock train."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho preso",
+        "pronunciation": "/o ˈpre.so/",
+        "english": "I took/have taken",
+        "example": "Ieri ho preso il giorno libero.",
+        "example_english": "Yesterday I took the day off."
+      },
+      "tu": {
+        "conjugation": "hai preso",
+        "pronunciation": "/ˈaj ˈpre.so/",
+        "english": "you took/have taken",
+        "example": "Hai preso le medicine oggi?",
+        "example_english": "Did you take your medicine today?"
+      },
+      "lui": {
+        "conjugation": "ha preso",
+        "pronunciation": "/a ˈpre.so/",
+        "english": "he/she/it took/has taken",
+        "example": "Ha preso una decisione importante.",
+        "example_english": "He made an important decision."
+      },
+      "noi": {
+        "conjugation": "abbiamo preso",
+        "pronunciation": "/ab.ˈbja.mo ˈpre.so/",
+        "english": "we took/have taken",
+        "example": "Abbiamo preso la strada panoramica.",
+        "example_english": "We took the scenic route."
+      },
+      "voi": {
+        "conjugation": "avete preso",
+        "pronunciation": "/a.ˈve.te ˈpre.so/",
+        "english": "you took/have taken",
+        "example": "Avete preso posto in prima fila?",
+        "example_english": "Did you take seats in the front row?"
+      },
+      "loro": {
+        "conjugation": "hanno preso",
+        "pronunciation": "/ˈan.no ˈpre.so/",
+        "english": "they took/have taken",
+        "example": "Hanno preso l'iniziativa.",
+        "example_english": "They took the initiative."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "prenderò",
+        "pronunciation": "/pren.de.ˈrɔ/",
+        "english": "I will take",
+        "example": "Prenderò una laurea in medicina.",
+        "example_english": "I will get a degree in medicine."
+      },
+      "tu": {
+        "conjugation": "prenderai",
+        "pronunciation": "/pren.de.ˈraj/",
+        "english": "you will take",
+        "example": "Tu prenderai il volo delle otto.",
+        "example_english": "You will take the eight o'clock flight."
+      },
+      "lui": {
+        "conjugation": "prenderà",
+        "pronunciation": "/pren.de.ˈra/",
+        "english": "he/she/it will take",
+        "example": "Lei prenderà il posto del direttore.",
+        "example_english": "She will take the director's position."
+      },
+      "noi": {
+        "conjugation": "prenderemo",
+        "pronunciation": "/pren.de.ˈre.mo/",
+        "english": "we will take",
+        "example": "Noi prenderemo provvedimenti.",
+        "example_english": "We will take measures."
+      },
+      "voi": {
+        "conjugation": "prenderete",
+        "pronunciation": "/pren.de.ˈre.te/",
+        "english": "you will take",
+        "example": "Voi prenderete parte al progetto?",
+        "example_english": "Will you take part in the project?"
+      },
+      "loro": {
+        "conjugation": "prenderanno",
+        "pronunciation": "/pren.de.ˈran.no/",
+        "english": "they will take",
+        "example": "Loro prenderanno una decisione domani.",
+        "example_english": "They will make a decision tomorrow."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "preso",
+    "pronunciation": "/ˈpre.so/",
+    "english": "taken",
+    "examples": [
+      {
+        "italian": "Il treno è stato preso all'ultimo momento.",
+        "english": "The train was taken at the last moment."
+      },
+      {
+        "italian": "Una volta presa la decisione, non ci ripensò.",
+        "english": "Once the decision was made, he didn't reconsider."
+      }
+    ]
+  }
+}

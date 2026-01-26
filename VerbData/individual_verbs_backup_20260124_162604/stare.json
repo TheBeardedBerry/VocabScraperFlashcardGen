@@ -1,0 +1,148 @@
+{
+  "infinitive": "stare",
+  "infinitive_pronunciation": "/ˈstare/",
+  "english": "to stay/to be",
+  "regular": false,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "sto",
+        "pronunciation": "/sto/",
+        "english": "I stay/am",
+        "example": "Io sto a casa oggi.",
+        "example_english": "I am staying at home today."
+      },
+      "tu": {
+        "conjugation": "stai",
+        "pronunciation": "/stai/",
+        "english": "you stay/are",
+        "example": "Tu stai bene?",
+        "example_english": "Are you well?"
+      },
+      "lui": {
+        "conjugation": "sta",
+        "pronunciation": "/sta/",
+        "english": "he/she/it stays/is",
+        "example": "Lei sta studiando per l'esame.",
+        "example_english": "She is studying for the exam."
+      },
+      "noi": {
+        "conjugation": "stiamo",
+        "pronunciation": "/ˈstjamo/",
+        "english": "we stay/are",
+        "example": "Noi stiamo preparando la cena.",
+        "example_english": "We are preparing dinner."
+      },
+      "voi": {
+        "conjugation": "state",
+        "pronunciation": "/ˈstate/",
+        "english": "you stay/are",
+        "example": "Voi state attenti alla lezione?",
+        "example_english": "Are you paying attention to the lesson?"
+      },
+      "loro": {
+        "conjugation": "stanno",
+        "pronunciation": "/ˈstanno/",
+        "english": "they stay/are",
+        "example": "Loro stanno dormendo adesso.",
+        "example_english": "They are sleeping now."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "starò",
+        "pronunciation": "/sta'ro/",
+        "english": "I will stay/be",
+        "example": "Domani starò qui tutto il giorno.",
+        "example_english": "Tomorrow I will stay here all day."
+      },
+      "tu": {
+        "conjugation": "starai",
+        "pronunciation": "/sta'rai/",
+        "english": "you will stay/be",
+        "example": "Tu starai meglio dopo la medicina.",
+        "example_english": "You will feel better after the medicine."
+      },
+      "lui": {
+        "conjugation": "starà",
+        "pronunciation": "/sta'ra/",
+        "english": "he/she/it will stay/be",
+        "example": "Lei starà a casa questo weekend.",
+        "example_english": "She will stay home this weekend."
+      },
+      "noi": {
+        "conjugation": "staremo",
+        "pronunciation": "/sta'remo/",
+        "english": "we will stay/be",
+        "example": "Staremo insieme per le vacanze.",
+        "example_english": "We will stay together for the holidays."
+      },
+      "voi": {
+        "conjugation": "starete",
+        "pronunciation": "/sta'rete/",
+        "english": "you will stay/be",
+        "example": "Voi starete attenti in classe.",
+        "example_english": "You will pay attention in class."
+      },
+      "loro": {
+        "conjugation": "staranno",
+        "pronunciation": "/sta'ranno/",
+        "english": "they will stay/be",
+        "example": "Loro staranno zitti durante il film.",
+        "example_english": "They will stay quiet during the movie."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono stato/a",
+        "pronunciation": "/ˈsono ˈstato/ta/",
+        "english": "I stayed/was",
+        "example": "Ieri sono stato a casa tutto il giorno.",
+        "example_english": "Yesterday I stayed home all day."
+      },
+      "tu": {
+        "conjugation": "sei stato/a",
+        "pronunciation": "/sei ˈstato/ta/",
+        "english": "you stayed/were",
+        "example": "Sei stato bravo durante la presentazione.",
+        "example_english": "You were good during the presentation."
+      },
+      "lui": {
+        "conjugation": "è stato/a",
+        "pronunciation": "/ˈɛ ˈstato/ta/",
+        "english": "he/she/it stayed/was",
+        "example": "È stata zitta per tutta la riunione.",
+        "example_english": "She was quiet during the entire meeting."
+      },
+      "noi": {
+        "conjugation": "siamo stati/e",
+        "pronunciation": "/ˈsjamo ˈstati/te/",
+        "english": "we stayed/were",
+        "example": "Siamo stati molto attenti alle istruzioni.",
+        "example_english": "We were very attentive to the instructions."
+      },
+      "voi": {
+        "conjugation": "siete stati/e",
+        "pronunciation": "/ˈsjɛte ˈstati/te/",
+        "english": "you stayed/were",
+        "example": "Siete stati pazienti con i bambini.",
+        "example_english": "You were patient with the children."
+      },
+      "loro": {
+        "conjugation": "sono stati/e",
+        "pronunciation": "/ˈsono ˈstati/te/",
+        "english": "they stayed/were",
+        "example": "Sono stati qui fino a tardi.",
+        "example_english": "They stayed here until late."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "stato/a/i/e",
+    "pronunciation": "/ˈstato/ta/ti/te/",
+    "english": "stayed/been",
+    "example": "La situazione è stata difficile per tutti.",
+    "example_english": "The situation has been difficult for everyone."
+  }
+}

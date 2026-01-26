@@ -144,5 +144,8 @@
     "english": "come",
     "example": "È venuto il momento di partire.",
     "example_english": "The time to leave has come."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To come toward speaker; motion verb using essere auxiliary",
+  "synonyms": "arrivare,giungere"
 }

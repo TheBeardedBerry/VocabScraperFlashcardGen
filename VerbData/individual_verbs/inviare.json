@@ -1,141 +1,141 @@
 {
   "infinitive": "inviare",
-  "infinitive_pronunciation": "/inviˈaːre/",
+  "infinitive_pronunciation": "/invi'are/",
   "english": "to send",
   "regular": true,
   "auxiliary": "avere",
   "tenses": {
     "presente": {
-    "io": {
-      "conjugation": "invio",
-      "pronunciation": "/ˈinvjo/",
-      "english": "I send",
-      "example": "Invio sempre una conferma.",
-      "example_english": "I always send a confirmation."
-    },
-    "tu": {
-      "conjugation": "invii",
-      "pronunciation": "/ˈinviː/",
-      "english": "you send",
-      "example": "Invii foto dal viaggio?",
-      "example_english": "Are you sending photos from the trip?"
-    },
-    "lui": {
-      "conjugation": "invia",
-      "pronunciation": "/ˈinvia/",
-      "english": "he/she/it sends",
-      "example": "Invia report ogni settimana.",
-      "example_english": "She sends reports every week."
-    },
-    "noi": {
-      "conjugation": "inviiamo",
-      "pronunciation": "/inviˈjaːmo/",
-      "english": "we send",
-      "example": "Inviiamo i documenti via email.",
-      "example_english": "We send the documents via email."
-    },
-    "voi": {
-      "conjugation": "inviate",
-      "pronunciation": "/inviˈaːte/",
-      "english": "you send",
-      "example": "Inviate tutto per posta?",
-      "example_english": "Do you send everything by mail?"
-    },
-    "loro": {
-      "conjugation": "inviano",
-      "pronunciation": "/ˈinvjano/",
-      "english": "they send",
-      "example": "Inviano merci in tutto il mondo.",
-      "example_english": "They send goods worldwide."
-    }
+      "io": {
+        "conjugation": "invio",
+        "pronunciation": "/ˈinvjo/",
+        "english": "I send",
+        "example": "Invio sempre una conferma.",
+        "example_english": "I always send a confirmation."
+      },
+      "tu": {
+        "conjugation": "invii",
+        "pronunciation": "/ˈinviː/",
+        "english": "you send",
+        "example": "Invii foto dal viaggio?",
+        "example_english": "Are you sending photos from the trip?"
+      },
+      "lui": {
+        "conjugation": "invia",
+        "pronunciation": "/ˈinvia/",
+        "english": "he/she/it sends",
+        "example": "Invia report ogni settimana.",
+        "example_english": "She sends reports every week."
+      },
+      "noi": {
+        "conjugation": "inviiamo",
+        "pronunciation": "/inviˈjaːmo/",
+        "english": "we send",
+        "example": "Inviiamo i documenti via email.",
+        "example_english": "We send the documents via email."
+      },
+      "voi": {
+        "conjugation": "inviate",
+        "pronunciation": "/inviˈaːte/",
+        "english": "you send",
+        "example": "Inviate tutto per posta?",
+        "example_english": "Do you send everything by mail?"
+      },
+      "loro": {
+        "conjugation": "inviano",
+        "pronunciation": "/ˈinvjano/",
+        "english": "they send",
+        "example": "Inviano merci in tutto il mondo.",
+        "example_english": "They send goods worldwide."
+      }
     },
     "futuro_semplice": {
-    "io": {
-      "conjugation": "invierò",
-      "pronunciation": "/invjeˈroː/",
-      "english": "I will send",
-      "example": "Invierò la proposta domani.",
-      "example_english": "I will send the proposal tomorrow."
-    },
-    "tu": {
-      "conjugation": "invierai",
-      "pronunciation": "/invjeˈraːi/",
-      "english": "you (informal) will send",
-      "example": "Invierai il tuo curriculum?",
-      "example_english": "Will you send your resume?"
-    },
-    "lui": {
-      "conjugation": "invierà",
-      "pronunciation": "/invjeˈraː/",
-      "english": "he/she/it will send",
-      "example": "Invierà le istruzioni via fax.",
-      "example_english": "He will send the instructions by fax."
-    },
-    "noi": {
-      "conjugation": "invieremo",
-      "pronunciation": "/invjeˈreːmo/",
-      "english": "we will send",
-      "example": "Invieremo un rappresentante.",
-      "example_english": "We will send a representative."
-    },
-    "voi": {
-      "conjugation": "invierete",
-      "pronunciation": "/invjeˈreːte/",
-      "english": "you (plural) will send",
-      "example": "Invierete tutto oggi?",
-      "example_english": "Will you send everything today?"
-    },
-    "loro": {
-      "conjugation": "invieranno",
-      "pronunciation": "/invjeˈranno/",
-      "english": "they will send",
-      "example": "Invieranno i materiali lunedì.",
-      "example_english": "They will send the materials on Monday."
-    }
+      "io": {
+        "conjugation": "invierò",
+        "pronunciation": "/invjeˈroː/",
+        "english": "I will send",
+        "example": "Invierò la proposta domani.",
+        "example_english": "I will send the proposal tomorrow."
+      },
+      "tu": {
+        "conjugation": "invierai",
+        "pronunciation": "/invjeˈraːi/",
+        "english": "you (informal) will send",
+        "example": "Invierai il tuo curriculum?",
+        "example_english": "Will you send your resume?"
+      },
+      "lui": {
+        "conjugation": "invierà",
+        "pronunciation": "/invjeˈraː/",
+        "english": "he/she/it will send",
+        "example": "Invierà le istruzioni via fax.",
+        "example_english": "He will send the instructions by fax."
+      },
+      "noi": {
+        "conjugation": "invieremo",
+        "pronunciation": "/invjeˈreːmo/",
+        "english": "we will send",
+        "example": "Invieremo un rappresentante.",
+        "example_english": "We will send a representative."
+      },
+      "voi": {
+        "conjugation": "invierete",
+        "pronunciation": "/invjeˈreːte/",
+        "english": "you (plural) will send",
+        "example": "Invierete tutto oggi?",
+        "example_english": "Will you send everything today?"
+      },
+      "loro": {
+        "conjugation": "invieranno",
+        "pronunciation": "/invjeˈranno/",
+        "english": "they will send",
+        "example": "Invieranno i materiali lunedì.",
+        "example_english": "They will send the materials on Monday."
+      }
     },
     "passato_prossimo": {
-    "io": {
-      "conjugation": "ho inviato",
-      "pronunciation": "/ˈɔ inviˈaːto/",
-      "english": "I sent",
-      "example": "Ho inviato l'email stamattina.",
-      "example_english": "I sent the email this morning."
-    },
-    "tu": {
-      "conjugation": "hai inviato",
-      "pronunciation": "/ˈaːi inviˈaːto/",
-      "english": "you (informal) sent",
-      "example": "Hai inviato la domanda?",
-      "example_english": "Did you send the application?"
-    },
-    "lui": {
-      "conjugation": "ha inviato",
-      "pronunciation": "/ˈa inviˈaːto/",
-      "english": "he/she/it sent",
-      "example": "Ha inviato i dati al cliente.",
-      "example_english": "She sent the data to the client."
-    },
-    "noi": {
-      "conjugation": "abbiamo inviato",
-      "pronunciation": "/abˈbjaːmo inviˈaːto/",
-      "english": "we sent",
-      "example": "Abbiamo inviato tutto in tempo.",
-      "example_english": "We sent everything on time."
-    },
-    "voi": {
-      "conjugation": "avete inviato",
-      "pronunciation": "/aˈveːte inviˈaːto/",
-      "english": "you (plural) sent",
-      "example": "Avete inviato le foto?",
-      "example_english": "Did you send the photos?"
-    },
-    "loro": {
-      "conjugation": "hanno inviato",
-      "pronunciation": "/ˈanno inviˈaːto/",
-      "english": "they sent",
-      "example": "Hanno inviato l'ordine ieri.",
-      "example_english": "They sent the order yesterday."
-    }
+      "io": {
+        "conjugation": "ho inviato",
+        "pronunciation": "/ˈɔ inviˈaːto/",
+        "english": "I sent",
+        "example": "Ho inviato l'email stamattina.",
+        "example_english": "I sent the email this morning."
+      },
+      "tu": {
+        "conjugation": "hai inviato",
+        "pronunciation": "/ˈaːi inviˈaːto/",
+        "english": "you (informal) sent",
+        "example": "Hai inviato la domanda?",
+        "example_english": "Did you send the application?"
+      },
+      "lui": {
+        "conjugation": "ha inviato",
+        "pronunciation": "/ˈa inviˈaːto/",
+        "english": "he/she/it sent",
+        "example": "Ha inviato i dati al cliente.",
+        "example_english": "She sent the data to the client."
+      },
+      "noi": {
+        "conjugation": "abbiamo inviato",
+        "pronunciation": "/abˈbjaːmo inviˈaːto/",
+        "english": "we sent",
+        "example": "Abbiamo inviato tutto in tempo.",
+        "example_english": "We sent everything on time."
+      },
+      "voi": {
+        "conjugation": "avete inviato",
+        "pronunciation": "/aˈveːte inviˈaːto/",
+        "english": "you (plural) sent",
+        "example": "Avete inviato le foto?",
+        "example_english": "Did you send the photos?"
+      },
+      "loro": {
+        "conjugation": "hanno inviato",
+        "pronunciation": "/ˈanno inviˈaːto/",
+        "english": "they sent",
+        "example": "Hanno inviato l'ordine ieri.",
+        "example_english": "They sent the order yesterday."
+      }
     }
   },
   "participio_passato": {
@@ -144,5 +144,8 @@
     "english": "sent",
     "example": "Un messaggio inviato per errore.",
     "example_english": "A message sent by mistake."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To send messages, packages, or electronic communications",
+  "synonyms": "mandare,spedire"
 }

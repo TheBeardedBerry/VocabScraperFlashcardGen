@@ -1,6 +1,6 @@
 {
   "infinitive": "sentire",
-  "infinitive_pronunciation": "/sen.ˈti.re/",
+  "infinitive_pronunciation": "/sen'tire/",
   "english": "to hear/to feel",
   "regular": true,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta sentito questo profumo, non lo dimenticherai.",
         "english": "Once you have smelled this fragrance, you won't forget it."
       }
-    ]
-  }
+    ],
+    "example": "La musica sentita era molto rilassante.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "Can mean both 'to hear' and 'to feel' depending on context",
+  "synonyms": "udire,percepire"
 }

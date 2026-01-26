@@ -145,5 +145,8 @@
     "english": "pleased/liked",
     "example": "Il regalo è molto piaciuto a tutti.",
     "example_english": "Everyone really liked the gift."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To like/please; typically used as 'mi piace' (it pleases me)",
+  "synonyms": "gradire"
 }

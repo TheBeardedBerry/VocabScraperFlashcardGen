@@ -1,6 +1,6 @@
 {
   "infinitive": "cercare",
-  "infinitive_pronunciation": "/t͡ʃerˈka.re/",
+  "infinitive_pronunciation": "/tʃer'kare/",
   "english": "to search, to look for",
   "regular": true,
   "auxiliary": "avere",
@@ -10,43 +10,43 @@
         "conjugation": "cerco",
         "pronunciation": "/ˈt͡ʃer.ko/",
         "english": "I search",
-        "example": "Cerco le chiavi da un'ora.",
-        "example_english": "I've been looking for the keys for an hour."
+        "example": "Cerco sempre le chiavi di casa nei posti più improbabili quando ho fretta di uscire",
+        "example_english": "I always look for house keys in the most unlikely places when I'm in a hurry to leave"
       },
       "tu": {
         "conjugation": "cerchi",
         "pronunciation": "/ˈt͡ʃer.ki/",
         "english": "you search",
-        "example": "Che cosa cerchi?",
-        "example_english": "What are you looking for?"
+        "example": "Tu cerchi mai informazioni online prima di comprare prodotti costosi per la casa?",
+        "example_english": "Do you ever search for information online before buying expensive products for the house?"
       },
       "lui": {
         "conjugation": "cerca",
         "pronunciation": "/ˈt͡ʃer.ka/",
         "english": "he/she/it searches",
-        "example": "Lei cerca lavoro da mesi.",
-        "example_english": "She has been looking for work for months."
+        "example": "Lei cerca costantemente nuove opportunità di lavoro per migliorare la sua situazione economica",
+        "example_english": "She constantly seeks new job opportunities to improve her economic situation"
       },
       "noi": {
         "conjugation": "cerchiamo",
         "pronunciation": "/t͡ʃerˈkja.mo/",
         "english": "we search",
-        "example": "Cerchiamo un ristorante aperto.",
-        "example_english": "We're looking for an open restaurant."
+        "example": "Cerchiamo insieme la soluzione migliore per risolvere questo problema complicato della matematica",
+        "example_english": "We search together for the best solution to solve this complicated math problem"
       },
       "voi": {
         "conjugation": "cercate",
         "pronunciation": "/t͡ʃerˈka.te/",
         "english": "you search",
-        "example": "Cercate ancora quella strada?",
-        "example_english": "Are you still looking for that street?"
+        "example": "Voi cercate spesso consigli dai vostri amici prima di prendere decisioni importanti?",
+        "example_english": "Do you often seek advice from your friends before making important decisions?"
       },
       "loro": {
         "conjugation": "cercano",
         "pronunciation": "/ˈt͡ʃer.ka.no/",
         "english": "they search",
-        "example": "Cercano casa da vendere.",
-        "example_english": "They're looking for a house to sell."
+        "example": "Cercano un appartamento più grande perché la famiglia sta crescendo e servono più spazi",
+        "example_english": "They're looking for a bigger apartment because the family is growing and they need more space"
       }
     },
     "futuro_semplice": {
@@ -54,43 +54,43 @@
         "conjugation": "cercherò",
         "pronunciation": "/t͡ʃerˈke.ro/",
         "english": "I will search",
-        "example": "Cercherò di aiutarti.",
-        "example_english": "I will try to help you."
+        "example": "Cercherò un nuovo lavoro dopo aver finito l'università e ottenuto la laurea in economia",
+        "example_english": "I will look for a new job after finishing university and getting my degree in economics"
       },
       "tu": {
         "conjugation": "cercherai",
         "pronunciation": "/t͡ʃerˈke.raj/",
         "english": "you will search",
-        "example": "Tu cercherai una soluzione?",
-        "example_english": "Will you look for a solution?"
+        "example": "Tu cercherai finalmente l'amore vero dopo aver chiuso definitivamente con il passato sentimentale?",
+        "example_english": "Will you finally look for true love after definitively closing with your sentimental past?"
       },
       "lui": {
         "conjugation": "cercherà",
         "pronunciation": "/t͡ʃerˈke.ra/",
         "english": "he/she/it will search",
-        "example": "Lei cercherà un nuovo lavoro.",
-        "example_english": "She will look for a new job."
+        "example": "Lei cercherà una casa al mare per trascorrere le vacanze estive con tutta la famiglia",
+        "example_english": "She will look for a house by the sea to spend summer holidays with the whole family"
       },
       "noi": {
         "conjugation": "cercheremo",
         "pronunciation": "/t͡ʃerˈke.re.mo/",
         "english": "we will search",
-        "example": "Cercheremo insieme la verità.",
-        "example_english": "We will search for the truth together."
+        "example": "Cercheremo di capire meglio la situazione prima di prendere qualsiasi decisione affrettata",
+        "example_english": "We will try to better understand the situation before making any hasty decisions"
       },
       "voi": {
         "conjugation": "cercherete",
         "pronunciation": "/t͡ʃerˈke.re.te/",
         "english": "you will search",
-        "example": "Cercherete ancora qui?",
-        "example_english": "Will you still search here?"
+        "example": "Voi cercherete di risparmiare denaro durante i prossimi mesi per comprare l'auto nuova?",
+        "example_english": "Will you try to save money during the next months to buy the new car?"
       },
       "loro": {
         "conjugation": "cercheranno",
         "pronunciation": "/t͡ʃerˈke.ran.no/",
         "english": "they will search",
-        "example": "Cercheranno fino a trovarla.",
-        "example_english": "They will search until they find her."
+        "example": "Cercheranno di risolvere il conflitto familiare che va avanti da troppi mesi",
+        "example_english": "They will try to resolve the family conflict that has been going on for too many months"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho cercato",
         "pronunciation": "/o t͡ʃerˈka.to/",
         "english": "I searched",
-        "example": "Ho cercato dappertutto.",
-        "example_english": "I searched everywhere."
+        "example": "Ho cercato per ore il documento importante che avevo messo in un posto sicuro",
+        "example_english": "I searched for hours for the important document I had put in a safe place"
       },
       "tu": {
         "conjugation": "hai cercato",
         "pronunciation": "/aj t͡ʃerˈka.to/",
         "english": "you searched",
-        "example": "Hai cercato nel cassetto?",
-        "example_english": "Did you look in the drawer?"
+        "example": "Hai mai cercato di contattare i tuoi vecchi amici del liceo dopo tutti questi anni?",
+        "example_english": "Have you ever tried to contact your old high school friends after all these years?"
       },
       "lui": {
         "conjugation": "ha cercato",
         "pronunciation": "/a t͡ʃerˈka.to/",
         "english": "he/she/it searched",
-        "example": "Ha cercato di chiamarci.",
-        "example_english": "He tried to call us."
+        "example": "Ha cercato di spiegare la situazione ma nessuno voleva ascoltare le sue ragioni valide",
+        "example_english": "He tried to explain the situation but no one wanted to listen to his valid reasons"
       },
       "noi": {
         "conjugation": "abbiamo cercato",
         "pronunciation": "/abˈbja.mo t͡ʃerˈka.to/",
         "english": "we searched",
-        "example": "Abbiamo cercato una farmacia aperta.",
-        "example_english": "We looked for an open pharmacy."
+        "example": "Abbiamo cercato il gatto per tutto il quartiere quando è scappato di casa",
+        "example_english": "We searched for the cat throughout the neighborhood when it escaped from home"
       },
       "voi": {
         "conjugation": "avete cercato",
         "pronunciation": "/aˈve.te t͡ʃerˈka.to/",
         "english": "you searched",
-        "example": "Avete cercato nella biblioteca?",
-        "example_english": "Did you search in the library?"
+        "example": "Avete cercato di convincere i vostri genitori a lasciarvi andare alla festa di sabato?",
+        "example_english": "Did you try to convince your parents to let you go to Saturday's party?"
       },
       "loro": {
         "conjugation": "hanno cercato",
         "pronunciation": "/ˈan.no t͡ʃerˈka.to/",
         "english": "they searched",
-        "example": "Hanno cercato per ore.",
-        "example_english": "They searched for hours."
+        "example": "Hanno cercato di nascondere la verità ma alla fine tutto è venuto alla luce",
+        "example_english": "They tried to hide the truth but in the end everything came to light"
       }
     }
   },
@@ -144,5 +144,8 @@
     "english": "searched",
     "example": "L'oggetto cercato non si trova.",
     "example_english": "The searched-for object cannot be found."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To look for or search; seeking something specific",
+  "synonyms": "ricercare,investigare"
 }

@@ -5,51 +5,51 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "sentire, udire",
-  "context": "listening, music, audio",
+  "synonyms": "sentire,udire",
+  "context": "Active, intentional listening (music, instructions) vs passively hearing",
   "tenses": {
     "presente": {
       "io": {
         "conjugation": "ascolto",
         "pronunciation": "/a'skolto/",
         "english": "I listen",
-        "example": "Io ascolto musica classica quando studio.",
-        "example_english": "I listen to classical music when I study."
+        "example": "Ascolto sempre musica jazz mentre cucino perché mi rilassa e mi ispira creatività",
+        "example_english": "I always listen to jazz music while cooking because it relaxes me and inspires creativity"
       },
       "tu": {
         "conjugation": "ascolti",
         "pronunciation": "/a'skolti/",
         "english": "you listen",
-        "example": "Tu ascolti mai podcast italiani?",
-        "example_english": "Do you ever listen to Italian podcasts?"
+        "example": "Tu ascolti mai i consigli di tua madre o preferisci imparare dai tuoi errori?",
+        "example_english": "Do you ever listen to your mother's advice or do you prefer learning from your mistakes?"
       },
       "lui": {
         "conjugation": "ascolta",
         "pronunciation": "/a'skolta/",
         "english": "he/she/it listens",
-        "example": "Marta ascolta sempre la radio in macchina.",
-        "example_english": "Marta always listens to the radio in the car."
+        "example": "Lei ascolta attentamente ogni parola del professore durante le lezioni di filosofia italiana",
+        "example_english": "She carefully listens to every word of the professor during Italian philosophy lessons"
       },
       "noi": {
         "conjugation": "ascoltiamo",
         "pronunciation": "/askol'tjamo/",
         "english": "we listen",
-        "example": "Noi ascoltiamo i consigli dei nostri genitori.",
-        "example_english": "We listen to our parents' advice."
+        "example": "Ascoltiamo le notizie alla radio ogni mattina mentre facciamo colazione insieme",
+        "example_english": "We listen to the news on the radio every morning while having breakfast together"
       },
       "voi": {
         "conjugation": "ascoltate",
         "pronunciation": "/askol'tate/",
         "english": "you listen",
-        "example": "Voi ascoltate spesso concerti dal vivo?",
-        "example_english": "Do you often listen to live concerts?"
+        "example": "Voi ascoltate spesso podcast educativi durante i lunghi viaggi in auto per imparare?",
+        "example_english": "Do you often listen to educational podcasts during long car trips to learn?"
       },
       "loro": {
         "conjugation": "ascoltano",
         "pronunciation": "/a'skoltano/",
         "english": "they listen",
-        "example": "Gli studenti ascoltano attentamente la lezione.",
-        "example_english": "The students listen carefully to the lesson."
+        "example": "Ascoltano musica classica ogni sera per rilassarsi dopo una giornata di lavoro intenso",
+        "example_english": "They listen to classical music every evening to relax after an intense work day"
       }
     },
     "futuro_simplice": {
@@ -101,43 +101,43 @@
         "conjugation": "ho ascoltato",
         "pronunciation": "/o askol'tato/",
         "english": "I listened/have listened",
-        "example": "Ho ascoltato una canzone bellissima alla radio.",
-        "example_english": "I listened to a beautiful song on the radio."
+        "example": "Ho ascoltato un concerto meraviglioso ieri sera che mi ha emozionato profondamente",
+        "example_english": "I listened to a wonderful concert last night that moved me deeply"
       },
       "tu": {
         "conjugation": "hai ascoltato",
         "pronunciation": "/ai askol'tato/",
         "english": "you listened/have listened",
-        "example": "Hai ascoltato le ultime notizie oggi?",
-        "example_english": "Have you listened to the latest news today?"
+        "example": "Hai ascoltato le previsioni del tempo prima di decidere di organizzare il picnic?",
+        "example_english": "Did you listen to the weather forecast before deciding to organize the picnic?"
       },
       "lui": {
         "conjugation": "ha ascoltato",
         "pronunciation": "/a askol'tato/",
         "english": "he/she/it listened/has listened",
-        "example": "Elena ha ascoltato il discorso del sindaco.",
-        "example_english": "Elena listened to the mayor's speech."
+        "example": "Ha ascoltato pazientemente tutti i problemi dei suoi studenti durante l'ora di ricevimento",
+        "example_english": "He patiently listened to all his students' problems during office hours"
       },
       "noi": {
         "conjugation": "abbiamo ascoltato",
         "pronunciation": "/ab'bjamo askol'tato/",
         "english": "we listened/have listened",
-        "example": "Abbiamo ascoltato jazz tutta la sera.",
-        "example_english": "We listened to jazz all evening."
+        "example": "Abbiamo ascoltato la storia affascinante del nonno sui tempi della sua gioventù",
+        "example_english": "We listened to grandfather's fascinating story about the times of his youth"
       },
       "voi": {
         "conjugation": "avete ascoltato",
         "pronunciation": "/a'vete askol'tato/",
         "english": "you listened/have listened",
-        "example": "Avete ascoltato l'intervista in diretta?",
-        "example_english": "Have you listened to the live interview?"
+        "example": "Avete ascoltato l'annuncio importante del direttore durante l'assemblea di ieri mattina?",
+        "example_english": "Did you listen to the director's important announcement during yesterday morning's assembly?"
       },
       "loro": {
         "conjugation": "hanno ascoltato",
         "pronunciation": "/'anno askol'tato/",
         "english": "they listened/have listened",
-        "example": "Hanno ascoltato musica folk per ore.",
-        "example_english": "They listened to folk music for hours."
+        "example": "Hanno ascoltato attentamente le istruzioni prima di iniziare l'esperimento scientifico complesso",
+        "example_english": "They carefully listened to instructions before starting the complex scientific experiment"
       }
     }
   },

@@ -1,0 +1,144 @@
+{
+  "infinitive": "amare",
+  "infinitive_pronunciation": "AHMAhreh",
+  "english": "to love",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "amo",
+      "pronunciation": "AHmoh",
+      "english": "I love",
+      "example": "Io amo ogni giorno.",
+      "example_english": "I love every day."
+    },
+    "tu": {
+      "conjugation": "ami",
+      "pronunciation": "AHmee",
+      "english": "you love",
+      "example": "Tu ami bene.",
+      "example_english": "You love well."
+    },
+    "lui": {
+      "conjugation": "ama",
+      "pronunciation": "AHmah",
+      "english": "he/she/it loves",
+      "example": "Lei ama molto.",
+      "example_english": "She love a lot."
+    },
+    "noi": {
+      "conjugation": "amiamo",
+      "pronunciation": "AHMEEahmoh",
+      "english": "we love",
+      "example": "Noi amiamo insieme.",
+      "example_english": "We love together."
+    },
+    "voi": {
+      "conjugation": "amate",
+      "pronunciation": "AHMAhteh",
+      "english": "you love",
+      "example": "Voi amate bene?",
+      "example_english": "Do you love well?"
+    },
+    "loro": {
+      "conjugation": "amano",
+      "pronunciation": "AHMAhnoh",
+      "english": "they love",
+      "example": "Loro amano spesso.",
+      "example_english": "They love often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "amerò",
+      "pronunciation": "AHMehrò",
+      "english": "I will love",
+      "example": "Io amerò ogni giorno.",
+      "example_english": "I love every day."
+    },
+    "tu": {
+      "conjugation": "amerai",
+      "pronunciation": "AHMEHrahee",
+      "english": "you (informal) will love",
+      "example": "Tu amerai bene.",
+      "example_english": "You love well."
+    },
+    "lui": {
+      "conjugation": "amerà",
+      "pronunciation": "AHMehrà",
+      "english": "he/she/it will love",
+      "example": "Lei amerà molto.",
+      "example_english": "She love a lot."
+    },
+    "noi": {
+      "conjugation": "ameremo",
+      "pronunciation": "AHMEHrehmoh",
+      "english": "we will love",
+      "example": "Noi ameremo insieme.",
+      "example_english": "We love together."
+    },
+    "voi": {
+      "conjugation": "amerete",
+      "pronunciation": "AHMEHrehteh",
+      "english": "you (plural) will love",
+      "example": "Voi amerete bene?",
+      "example_english": "Do you love well?"
+    },
+    "loro": {
+      "conjugation": "ameranno",
+      "pronunciation": "AHMEHRahnnoh",
+      "english": "they will love",
+      "example": "Loro ameranno spesso.",
+      "example_english": "They love often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho amato",
+      "pronunciation": "hoh ahmahtoh",
+      "english": "I loved",
+      "example": "Ieri ho amato.",
+      "example_english": "Yesterday i loved."
+    },
+    "tu": {
+      "conjugation": "hai amato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) loved",
+      "example": "Ieri hai amato.",
+      "example_english": "Yesterday you (informal) loved."
+    },
+    "lui": {
+      "conjugation": "ha amato",
+      "pronunciation": "hah ahmahtoh",
+      "english": "he/she/it loved",
+      "example": "Ieri ha amato.",
+      "example_english": "Yesterday he/she/it loved."
+    },
+    "noi": {
+      "conjugation": "abbiamo amato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we loved",
+      "example": "Ieri abbiamo amato.",
+      "example_english": "Yesterday we loved."
+    },
+    "voi": {
+      "conjugation": "avete amato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) loved",
+      "example": "Ieri avete amato.",
+      "example_english": "Yesterday you (plural) loved."
+    },
+    "loro": {
+      "conjugation": "hanno amato",
+      "pronunciation": "HAHnnoh",
+      "english": "they loved",
+      "example": "Ieri hanno amato.",
+      "example_english": "Yesterday they loved."
+    }
+  },
+  "participio_passato": {
+    "form": "amato",
+    "pronunciation": "AHMAhtoh",
+    "english": "loved"
+  }
+}

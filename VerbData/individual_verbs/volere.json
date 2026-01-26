@@ -144,5 +144,8 @@
     "english": "wanted/wished",
     "example": "Il risultato voluto è stato ottenuto.",
     "example_english": "The desired result has been achieved."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "Modal verb expressing desire, wish, or intention",
+  "synonyms": "desiderare,bramare"
 }

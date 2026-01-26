@@ -144,5 +144,8 @@
     "english": "eaten",
     "example": "Il pranzo è stato mangiato in fretta.",
     "example_english": "Lunch was eaten in a hurry."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To eat food; consumption of meals or snacks",
+  "synonyms": "consumare,nutrirsi"
 }

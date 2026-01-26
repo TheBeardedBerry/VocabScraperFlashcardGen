@@ -1,6 +1,6 @@
 {
   "infinitive": "uscire",
-  "infinitive_pronunciation": "/uʃˈʃire/",
+  "infinitive_pronunciation": "/u'ʃire/",
   "english": "to go out/to exit",
   "regular": false,
   "auxiliary": "essere",
@@ -144,5 +144,8 @@
     "english": "gone out/exited",
     "example": "Il treno è uscito dai binari per un guasto.",
     "example_english": "The train went off the tracks due to a malfunction."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To exit, go out, or leave enclosed spaces; motion with essere",
+  "synonyms": "andare fuori,partire"
 }

@@ -5,51 +5,51 @@
   "regular": true,
   "auxiliary": "avere",
   "part_of_speech": "verb",
-  "synonyms": "assistere, sostenere",
-  "context": "helping, assistance, support",
+  "synonyms": "assistere,supportare,soccorrere",
+  "context": "To provide assistance or support to someone in need",
   "tenses": {
     "presente": {
       "io": {
         "conjugation": "aiuto",
         "pronunciation": "/a'juto/",
         "english": "I help",
-        "example": "Io aiuto sempre mia nonna con la spesa.",
-        "example_english": "I always help my grandmother with the shopping."
+        "example": "Aiuto sempre mia nonna a fare la spesa perché non riesce più a portare le borse pesanti",
+        "example_english": "I always help my grandmother with shopping because she can no longer carry heavy bags"
       },
       "tu": {
         "conjugation": "aiuti",
         "pronunciation": "/a'juti/",
         "english": "you help",
-        "example": "Tu aiuti spesso i tuoi compagni con i compiti?",
-        "example_english": "Do you often help your classmates with homework?"
+        "example": "Tu aiuti spesso i tuoi compagni di classe con i compiti di matematica più difficili",
+        "example_english": "You often help your classmates with the most difficult math homework"
       },
       "lui": {
         "conjugation": "aiuta",
         "pronunciation": "/a'juta/",
         "english": "he/she/it helps",
-        "example": "Paolo aiuta suo fratello a studiare matematica.",
-        "example_english": "Paolo helps his brother study mathematics."
+        "example": "Lei aiuta i bambini del quartiere a imparare a leggere durante il tempo libero",
+        "example_english": "She helps neighborhood children learn to read during her free time"
       },
       "noi": {
         "conjugation": "aiutiamo",
         "pronunciation": "/aju'tjamo/",
         "english": "we help",
-        "example": "Noi aiutiamo i volontari a preparare il pranzo.",
-        "example_english": "We help the volunteers prepare lunch."
+        "example": "Noi aiutiamo l'associazione locale organizzando eventi di raccolta fondi ogni mese",
+        "example_english": "We help the local association by organizing fundraising events every month"
       },
       "voi": {
         "conjugation": "aiutate",
         "pronunciation": "/aju'tate/",
         "english": "you help",
-        "example": "Voi aiutate mai le persone anziane?",
-        "example_english": "Do you ever help elderly people?"
+        "example": "Voi aiutate sempre chi ha bisogno senza mai chiedere nulla in cambio",
+        "example_english": "You always help those in need without ever asking for anything in return"
       },
       "loro": {
         "conjugation": "aiutano",
         "pronunciation": "/a'jutano/",
         "english": "they help",
-        "example": "Gli studenti aiutano il professore a organizzare la biblioteca.",
-        "example_english": "The students help the professor organize the library."
+        "example": "Loro aiutano i genitori anziani con le faccende domestiche ogni fine settimana",
+        "example_english": "They help their elderly parents with household chores every weekend"
       }
     },
     "futuro_simplice": {
@@ -101,43 +101,43 @@
         "conjugation": "ho aiutato",
         "pronunciation": "/o aju'tato/",
         "english": "I helped/have helped",
-        "example": "Ho aiutato un turista a trovare la strada.",
-        "example_english": "I helped a tourist find the way."
+        "example": "Ho aiutato il mio vicino a riparare il tetto della sua casa dopo la tempesta",
+        "example_english": "I helped my neighbor repair his house roof after the storm"
       },
       "tu": {
         "conjugation": "hai aiutato",
         "pronunciation": "/ai aju'tato/",
         "english": "you helped/have helped",
-        "example": "Hai aiutato tua madre in cucina?",
-        "example_english": "Have you helped your mother in the kitchen?"
+        "example": "Hai aiutato tua sorella a organizzare il matrimonio perfetto con tutti i dettagli",
+        "example_english": "Have you helped your sister organize the perfect wedding with all the details?"
       },
       "lui": {
         "conjugation": "ha aiutato",
         "pronunciation": "/a aju'tato/",
         "english": "he/she/it helped/has helped",
-        "example": "Elena ha aiutato l'anziana signora a attraversare la strada.",
-        "example_english": "Elena helped the elderly lady cross the street."
+        "example": "Ha aiutato molti studenti a superare gli esami più difficili dell'università",
+        "example_english": "He helped many students pass the most difficult university exams"
       },
       "noi": {
         "conjugation": "abbiamo aiutato",
         "pronunciation": "/ab'bjamo aju'tato/",
         "english": "we helped/have helped",
-        "example": "Abbiamo aiutato i pompieri a spegnere l'incendio.",
-        "example_english": "We helped the firefighters extinguish the fire."
+        "example": "Abbiamo aiutato la famiglia in difficoltà a trovare una nuova casa dignitosa",
+        "example_english": "We helped the family in difficulty find a new decent home"
       },
       "voi": {
         "conjugation": "avete aiutato",
         "pronunciation": "/a'vete aju'tato/",
         "english": "you helped/have helped",
-        "example": "Avete aiutato i senzatetto durante l'inverno?",
-        "example_english": "Have you helped the homeless during the winter?"
+        "example": "Avete aiutato l'intera squadra a vincere il campionato con il vostro supporto costante",
+        "example_english": "You helped the entire team win the championship with your constant support"
       },
       "loro": {
         "conjugation": "hanno aiutato",
         "pronunciation": "/'anno aju'tato/",
         "english": "they helped/have helped",
-        "example": "Hanno aiutato la comunità dopo l'alluvione.",
-        "example_english": "They helped the community after the flood."
+        "example": "Hanno aiutato tutti i rifugiati a trovare lavoro e casa nella nuova città",
+        "example_english": "They helped all refugees find work and housing in the new city"
       }
     }
   },

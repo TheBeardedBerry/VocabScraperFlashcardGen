@@ -1,0 +1,144 @@
+{
+  "infinitive": "guidare",
+  "infinitive_pronunciation": "GOOEEdahreh",
+  "english": "to drive",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "guido",
+      "pronunciation": "GOOEedoh",
+      "english": "I drive",
+      "example": "Io guido ogni giorno.",
+      "example_english": "I drive every day."
+    },
+    "tu": {
+      "conjugation": "guidi",
+      "pronunciation": "GOOEedee",
+      "english": "you drive",
+      "example": "Tu guidi bene.",
+      "example_english": "You drive well."
+    },
+    "lui": {
+      "conjugation": "guida",
+      "pronunciation": "GOOEedah",
+      "english": "he/she/it drives",
+      "example": "Lei guida molto.",
+      "example_english": "She drive a lot."
+    },
+    "noi": {
+      "conjugation": "guidiamo",
+      "pronunciation": "GOOEEDeeahmoh",
+      "english": "we drive",
+      "example": "Noi guidiamo insieme.",
+      "example_english": "We drive together."
+    },
+    "voi": {
+      "conjugation": "guidate",
+      "pronunciation": "GOOEEdahteh",
+      "english": "you drive",
+      "example": "Voi guidate bene?",
+      "example_english": "Do you drive well?"
+    },
+    "loro": {
+      "conjugation": "guidano",
+      "pronunciation": "GOOEEdahnoh",
+      "english": "they drive",
+      "example": "Loro guidano spesso.",
+      "example_english": "They drive often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "guiderò",
+      "pronunciation": "GOOEEdehrò",
+      "english": "I will drive",
+      "example": "Io guiderò ogni giorno.",
+      "example_english": "I drive every day."
+    },
+    "tu": {
+      "conjugation": "guiderai",
+      "pronunciation": "GOOEEDehrahee",
+      "english": "you (informal) will drive",
+      "example": "Tu guiderai bene.",
+      "example_english": "You drive well."
+    },
+    "lui": {
+      "conjugation": "guiderà",
+      "pronunciation": "GOOEEdehrà",
+      "english": "he/she/it will drive",
+      "example": "Lei guiderà molto.",
+      "example_english": "She drive a lot."
+    },
+    "noi": {
+      "conjugation": "guideremo",
+      "pronunciation": "GOOEEDEhrehmoh",
+      "english": "we will drive",
+      "example": "Noi guideremo insieme.",
+      "example_english": "We drive together."
+    },
+    "voi": {
+      "conjugation": "guiderete",
+      "pronunciation": "GOOEEDEhrehteh",
+      "english": "you (plural) will drive",
+      "example": "Voi guiderete bene?",
+      "example_english": "Do you drive well?"
+    },
+    "loro": {
+      "conjugation": "guideranno",
+      "pronunciation": "GOOEEDEhrahnnoh",
+      "english": "they will drive",
+      "example": "Loro guideranno spesso.",
+      "example_english": "They drive often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho guidato",
+      "pronunciation": "hoh gooeedahtoh",
+      "english": "I drived",
+      "example": "Ieri ho guidato.",
+      "example_english": "Yesterday i drived."
+    },
+    "tu": {
+      "conjugation": "hai guidato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) drived",
+      "example": "Ieri hai guidato.",
+      "example_english": "Yesterday you (informal) drived."
+    },
+    "lui": {
+      "conjugation": "ha guidato",
+      "pronunciation": "hah gooeedahtoh",
+      "english": "he/she/it drived",
+      "example": "Ieri ha guidato.",
+      "example_english": "Yesterday he/she/it drived."
+    },
+    "noi": {
+      "conjugation": "abbiamo guidato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we drived",
+      "example": "Ieri abbiamo guidato.",
+      "example_english": "Yesterday we drived."
+    },
+    "voi": {
+      "conjugation": "avete guidato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) drived",
+      "example": "Ieri avete guidato.",
+      "example_english": "Yesterday you (plural) drived."
+    },
+    "loro": {
+      "conjugation": "hanno guidato",
+      "pronunciation": "HAHnnoh",
+      "english": "they drived",
+      "example": "Ieri hanno guidato.",
+      "example_english": "Yesterday they drived."
+    }
+  },
+  "participio_passato": {
+    "form": "guidato",
+    "pronunciation": "GOOEEdahtoh",
+    "english": "drived"
+  }
+}

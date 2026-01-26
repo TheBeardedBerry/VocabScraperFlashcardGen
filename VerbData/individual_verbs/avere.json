@@ -10,43 +10,43 @@
         "conjugation": "ho",
         "pronunciation": "/'ɔ/",
         "english": "I have",
-        "example": "Io ho una famiglia meravigliosa.",
-        "example_english": "I have a wonderful family."
+        "example": "Ho sempre fame verso le undici di mattina perché faccio colazione molto presto",
+        "example_english": "I'm always hungry around eleven in the morning because I have breakfast very early"
       },
       "tu": {
         "conjugation": "hai",
         "pronunciation": "/'ai/",
         "english": "you have",
-        "example": "Tu hai sempre ottime idee per i progetti.",
-        "example_english": "You always have great ideas for projects."
+        "example": "Tu hai abbastanza tempo libero per dedicarti ai tuoi hobby preferiti durante la settimana?",
+        "example_english": "Do you have enough free time to dedicate to your favorite hobbies during the week?"
       },
       "lui": {
         "conjugation": "ha",
         "pronunciation": "/'a/",
         "english": "he/she/it has",
-        "example": "Mia nonna ha novant'anni ma è ancora molto attiva.",
-        "example_english": "My grandmother is ninety years old but she's still very active."
+        "example": "Lei ha una collezione impressionante di libri antichi nella sua biblioteca personale di casa",
+        "example_english": "She has an impressive collection of antique books in her personal home library"
       },
       "noi": {
         "conjugation": "abbiamo",
         "pronunciation": "/ab'bjamo/",
         "english": "we have",
-        "example": "Noi abbiamo bisogno di più tempo per finire.",
-        "example_english": "We need more time to finish."
+        "example": "Abbiamo tutti i documenti necessari per richiedere il visto per viaggiare negli Stati Uniti",
+        "example_english": "We have all the necessary documents to apply for a visa to travel to the United States"
       },
       "voi": {
         "conjugation": "avete",
         "pronunciation": "/a'vete/",
         "english": "you have",
-        "example": "Voi avete ragione su questa questione.",
-        "example_english": "You are right about this matter."
+        "example": "Voi avete mai avuto l'opportunità di visitare i musei più famosi dell'Europa occidentale?",
+        "example_english": "Have you ever had the opportunity to visit the most famous museums in Western Europe?"
       },
       "loro": {
         "conjugation": "hanno",
         "pronunciation": "/'anno/",
         "english": "they have",
-        "example": "I miei colleghi hanno molta esperienza nel settore.",
-        "example_english": "My colleagues have a lot of experience in the field."
+        "example": "Hanno una casa bellissima in campagna dove passano tutti i weekend primaverili ed estivi",
+        "example_english": "They have a beautiful house in the countryside where they spend all spring and summer weekends"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho avuto",
         "pronunciation": "/'ɔ a'vuto/",
         "english": "I had/have had",
-        "example": "Ho avuto un'esperienza incredibile durante il viaggio.",
-        "example_english": "I had an incredible experience during the trip."
+        "example": "Ho avuto una giornata incredibilmente bella passeggiando per le strade del centro storico",
+        "example_english": "I had an incredibly beautiful day walking through the streets of the historic center"
       },
       "tu": {
         "conjugation": "hai avuto",
         "pronunciation": "/'ai a'vuto/",
         "english": "you had/have had",
-        "example": "Tu hai avuto la possibilità di studiare all'estero.",
-        "example_english": "You had the chance to study abroad."
+        "example": "Hai avuto problemi con il computer nuovo che hai comprato la settimana scorsa?",
+        "example_english": "Did you have problems with the new computer you bought last week?"
       },
       "lui": {
         "conjugation": "ha avuto",
         "pronunciation": "/'a a'vuto/",
         "english": "he/she/it had/has had",
-        "example": "Il direttore ha avuto una riunione importante stamattina.",
-        "example_english": "The director had an important meeting this morning."
+        "example": "Ha avuto molto coraggio ad affrontare quella situazione difficile e delicata da solo",
+        "example_english": "He had a lot of courage to face that difficult and delicate situation alone"
       },
       "noi": {
         "conjugation": "abbiamo avuto",
         "pronunciation": "/ab'bjamo a'vuto/",
         "english": "we had/have had",
-        "example": "Abbiamo avuto molte difficoltà all'inizio del progetto.",
-        "example_english": "We had many difficulties at the beginning of the project."
+        "example": "Abbiamo avuto l'onore di incontrare il sindaco durante la cerimonia di inaugurazione del parco",
+        "example_english": "We had the honor of meeting the mayor during the park inauguration ceremony"
       },
       "voi": {
         "conjugation": "avete avuto",
         "pronunciation": "/a'vete a'vuto/",
         "english": "you had/have had",
-        "example": "Voi avete avuto fortuna a trovare quell'appartamento.",
-        "example_english": "You were lucky to find that apartment."
+        "example": "Avete avuto tempo di visitare la mostra d'arte contemporanea prima della sua chiusura?",
+        "example_english": "Did you have time to visit the contemporary art exhibition before its closing?"
       },
       "loro": {
         "conjugation": "hanno avuto",
         "pronunciation": "/'anno a'vuto/",
         "english": "they had/have had",
-        "example": "I miei genitori hanno avuto una vita molto interessante.",
-        "example_english": "My parents have had a very interesting life."
+        "example": "Hanno avuto la possibilità di viaggiare in tutto il mondo grazie al loro lavoro",
+        "example_english": "They had the possibility to travel all over the world thanks to their work"
       }
     }
   },
@@ -144,5 +144,8 @@
     "english": "had",
     "example": "Dopo aver avuto quella conversazione, tutto è cambiato.",
     "example_english": "After having had that conversation, everything changed."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "Possession and auxiliary verb for compound tenses with most verbs",
+  "synonyms": "possedere,tenere"
 }

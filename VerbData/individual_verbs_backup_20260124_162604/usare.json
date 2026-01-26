@@ -1,0 +1,144 @@
+{
+  "infinitive": "usare",
+  "infinitive_pronunciation": "OOSAhreh",
+  "english": "to use",
+  "regular": true,
+  "auxiliary": "avere",
+  "presente": {
+    "io": {
+      "conjugation": "uso",
+      "pronunciation": "OOsoh",
+      "english": "I use",
+      "example": "Io uso ogni giorno.",
+      "example_english": "I use every day."
+    },
+    "tu": {
+      "conjugation": "usi",
+      "pronunciation": "OOsee",
+      "english": "you use",
+      "example": "Tu usi bene.",
+      "example_english": "You use well."
+    },
+    "lui": {
+      "conjugation": "usa",
+      "pronunciation": "OOsah",
+      "english": "he/she/it uses",
+      "example": "Lei usa molto.",
+      "example_english": "She use a lot."
+    },
+    "noi": {
+      "conjugation": "usiamo",
+      "pronunciation": "OOSEEahmoh",
+      "english": "we use",
+      "example": "Noi usiamo insieme.",
+      "example_english": "We use together."
+    },
+    "voi": {
+      "conjugation": "usate",
+      "pronunciation": "OOSAhteh",
+      "english": "you use",
+      "example": "Voi usate bene?",
+      "example_english": "Do you use well?"
+    },
+    "loro": {
+      "conjugation": "usano",
+      "pronunciation": "OOSAhnoh",
+      "english": "they use",
+      "example": "Loro usano spesso.",
+      "example_english": "They use often."
+    }
+  },
+  "futuro_simplice": {
+    "io": {
+      "conjugation": "userò",
+      "pronunciation": "OOSehrò",
+      "english": "I will use",
+      "example": "Io userò ogni giorno.",
+      "example_english": "I use every day."
+    },
+    "tu": {
+      "conjugation": "userai",
+      "pronunciation": "OOSEHrahee",
+      "english": "you (informal) will use",
+      "example": "Tu userai bene.",
+      "example_english": "You use well."
+    },
+    "lui": {
+      "conjugation": "userà",
+      "pronunciation": "OOSehrà",
+      "english": "he/she/it will use",
+      "example": "Lei userà molto.",
+      "example_english": "She use a lot."
+    },
+    "noi": {
+      "conjugation": "useremo",
+      "pronunciation": "OOSEHrehmoh",
+      "english": "we will use",
+      "example": "Noi useremo insieme.",
+      "example_english": "We use together."
+    },
+    "voi": {
+      "conjugation": "userete",
+      "pronunciation": "OOSEHrehteh",
+      "english": "you (plural) will use",
+      "example": "Voi userete bene?",
+      "example_english": "Do you use well?"
+    },
+    "loro": {
+      "conjugation": "useranno",
+      "pronunciation": "OOSEHRahnnoh",
+      "english": "they will use",
+      "example": "Loro useranno spesso.",
+      "example_english": "They use often."
+    }
+  },
+  "passato_prossimo": {
+    "io": {
+      "conjugation": "ho usato",
+      "pronunciation": "hoh oosahtoh",
+      "english": "I used",
+      "example": "Ieri ho usato.",
+      "example_english": "Yesterday i used."
+    },
+    "tu": {
+      "conjugation": "hai usato",
+      "pronunciation": "HAhee",
+      "english": "you (informal) used",
+      "example": "Ieri hai usato.",
+      "example_english": "Yesterday you (informal) used."
+    },
+    "lui": {
+      "conjugation": "ha usato",
+      "pronunciation": "hah oosahtoh",
+      "english": "he/she/it used",
+      "example": "Ieri ha usato.",
+      "example_english": "Yesterday he/she/it used."
+    },
+    "noi": {
+      "conjugation": "abbiamo usato",
+      "pronunciation": "AHBBEeahmoh",
+      "english": "we used",
+      "example": "Ieri abbiamo usato.",
+      "example_english": "Yesterday we used."
+    },
+    "voi": {
+      "conjugation": "avete usato",
+      "pronunciation": "AHVEhteh",
+      "english": "you (plural) used",
+      "example": "Ieri avete usato.",
+      "example_english": "Yesterday you (plural) used."
+    },
+    "loro": {
+      "conjugation": "hanno usato",
+      "pronunciation": "HAHnnoh",
+      "english": "they used",
+      "example": "Ieri hanno usato.",
+      "example_english": "Yesterday they used."
+    }
+  },
+  "participio_passato": {
+    "form": "usato",
+    "pronunciation": "OOSAhtoh",
+    "english": "used"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "infinitive": "cominciare",
+  "infinitive_pronunciation": "/ko.min.ˈtʃa.re/",
+  "english": "to begin/to start",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "comincio",
+        "pronunciation": "/ko.ˈmin.tʃo/",
+        "english": "I begin",
+        "example": "Comincio sempre dalla prima pagina.",
+        "example_english": "I always begin from the first page."
+      },
+      "tu": {
+        "conjugation": "cominci",
+        "pronunciation": "/ko.ˈmin.tʃi/",
+        "english": "you begin",
+        "example": "Tu cominci a capire l'argomento?",
+        "example_english": "Are you beginning to understand the topic?"
+      },
+      "lui": {
+        "conjugation": "comincia",
+        "pronunciation": "/ko.ˈmin.tʃa/",
+        "english": "he/she/it begins",
+        "example": "Lei comincia il discorso con una barzelletta.",
+        "example_english": "She begins the speech with a joke."
+      },
+      "noi": {
+        "conjugation": "cominciamo",
+        "pronunciation": "/ko.min.ˈtʃa.mo/",
+        "english": "we begin",
+        "example": "Noi cominciamo il meeting alle dieci.",
+        "example_english": "We begin the meeting at ten."
+      },
+      "voi": {
+        "conjugation": "cominciate",
+        "pronunciation": "/ko.min.ˈtʃa.te/",
+        "english": "you begin",
+        "example": "Voi cominciate a sentirvi meglio?",
+        "example_english": "Are you beginning to feel better?"
+      },
+      "loro": {
+        "conjugation": "cominciano",
+        "pronunciation": "/ko.ˈmin.tʃa.no/",
+        "english": "they begin",
+        "example": "Loro cominciano a studiare presto.",
+        "example_english": "They begin studying early."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho cominciato",
+        "pronunciation": "/o ko.min.ˈtʃa.to/",
+        "english": "I began/have begun",
+        "example": "Ieri ho cominciato un nuovo hobby.",
+        "example_english": "Yesterday I began a new hobby."
+      },
+      "tu": {
+        "conjugation": "hai cominciato",
+        "pronunciation": "/ˈaj ko.min.ˈtʃa.to/",
+        "english": "you began/have begun",
+        "example": "Hai cominciato a leggere il libro?",
+        "example_english": "Have you begun reading the book?"
+      },
+      "lui": {
+        "conjugation": "ha cominciato",
+        "pronunciation": "/a ko.min.ˈtʃa.to/",
+        "english": "he/she/it began/has begun",
+        "example": "Ha cominciato a piovere stamattina.",
+        "example_english": "It began to rain this morning."
+      },
+      "noi": {
+        "conjugation": "abbiamo cominciato",
+        "pronunciation": "/ab.ˈbja.mo ko.min.ˈtʃa.to/",
+        "english": "we began/have begun",
+        "example": "Abbiamo cominciato a lavorare insieme.",
+        "example_english": "We began working together."
+      },
+      "voi": {
+        "conjugation": "avete cominciato",
+        "pronunciation": "/a.ˈve.te ko.min.ˈtʃa.to/",
+        "english": "you began/have begun",
+        "example": "Avete cominciato la preparazione?",
+        "example_english": "Have you begun the preparation?"
+      },
+      "loro": {
+        "conjugation": "hanno cominciato",
+        "pronunciation": "/ˈan.no ko.min.ˈtʃa.to/",
+        "english": "they began/have begun",
+        "example": "Hanno cominciato le iscrizioni oggi.",
+        "example_english": "They began registrations today."
+      }
+    },
+    "futuro_semplice": {
+      "io": {
+        "conjugation": "comincerò",
+        "pronunciation": "/ko.min.tʃe.ˈrɔ/",
+        "english": "I will begin",
+        "example": "Comincerò a studiare medicina.",
+        "example_english": "I will begin studying medicine."
+      },
+      "tu": {
+        "conjugation": "comincerai",
+        "pronunciation": "/ko.min.tʃe.ˈraj/",
+        "english": "you will begin",
+        "example": "Tu comincerai dal capitolo secondo.",
+        "example_english": "You will begin from the second chapter."
+      },
+      "lui": {
+        "conjugation": "comincerà",
+        "pronunciation": "/ko.min.tʃe.ˈra/",
+        "english": "he/she/it will begin",
+        "example": "Lei comincerà il nuovo lavoro lunedì.",
+        "example_english": "She will begin the new job on Monday."
+      },
+      "noi": {
+        "conjugation": "cominceremo",
+        "pronunciation": "/ko.min.tʃe.ˈre.mo/",
+        "english": "we will begin",
+        "example": "Noi cominceremo un progetto importante.",
+        "example_english": "We will begin an important project."
+      },
+      "voi": {
+        "conjugation": "comincerete",
+        "pronunciation": "/ko.min.tʃe.ˈre.te/",
+        "english": "you will begin",
+        "example": "Voi comincerete le lezioni a settembre?",
+        "example_english": "Will you begin classes in September?"
+      },
+      "loro": {
+        "conjugation": "cominceranno",
+        "pronunciation": "/ko.min.tʃe.ˈran.no/",
+        "english": "they will begin",
+        "example": "Loro cominceranno con gli esercizi base.",
+        "example_english": "They will begin with basic exercises."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "cominciato",
+    "pronunciation": "/ko.min.ˈtʃa.to/",
+    "english": "begun/started",
+    "examples": [
+      {
+        "italian": "Il lavoro è stato cominciato questa mattina.",
+        "english": "The work was begun this morning."
+      },
+      {
+        "italian": "Una volta cominciato, non si può più tornare indietro.",
+        "english": "Once begun, you can't go back."
+      }
+    ]
+  }
+}

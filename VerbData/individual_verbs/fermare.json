@@ -1,144 +1,151 @@
 {
   "infinitive": "fermare",
-  "infinitive_pronunciation": "FEHRMahreh",
+  "infinitive_pronunciation": "/fer'mare/",
   "english": "to stop",
   "regular": true,
   "auxiliary": "avere",
-  "presente": {
-    "io": {
-      "conjugation": "fermo",
-      "pronunciation": "FEHrmoh",
-      "english": "I stop",
-      "example": "Io fermo ogni giorno.",
-      "example_english": "I stop every day."
-    },
-    "tu": {
-      "conjugation": "fermi",
-      "pronunciation": "FEHrmee",
-      "english": "you stop",
-      "example": "Tu fermi bene.",
-      "example_english": "You stop well."
-    },
-    "lui": {
-      "conjugation": "ferma",
-      "pronunciation": "FEHrmah",
-      "english": "he/she/it stops",
-      "example": "Lei ferma molto.",
-      "example_english": "She stop a lot."
-    },
-    "noi": {
-      "conjugation": "fermiamo",
-      "pronunciation": "FEHRMEeahmoh",
-      "english": "we stop",
-      "example": "Noi fermiamo insieme.",
-      "example_english": "We stop together."
-    },
-    "voi": {
-      "conjugation": "fermate",
-      "pronunciation": "FEHRMahteh",
-      "english": "you stop",
-      "example": "Voi fermate bene?",
-      "example_english": "Do you stop well?"
-    },
-    "loro": {
-      "conjugation": "fermano",
-      "pronunciation": "FEHRMahnoh",
-      "english": "they stop",
-      "example": "Loro fermano spesso.",
-      "example_english": "They stop often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "fermerò",
-      "pronunciation": "FEHRmehrò",
-      "english": "I will stop",
-      "example": "Io fermerò ogni giorno.",
-      "example_english": "I stop every day."
-    },
-    "tu": {
-      "conjugation": "fermerai",
-      "pronunciation": "FEHRMEhrahee",
-      "english": "you (informal) will stop",
-      "example": "Tu fermerai bene.",
-      "example_english": "You stop well."
-    },
-    "lui": {
-      "conjugation": "fermerà",
-      "pronunciation": "FEHRmehrà",
-      "english": "he/she/it will stop",
-      "example": "Lei fermerà molto.",
-      "example_english": "She stop a lot."
-    },
-    "noi": {
-      "conjugation": "fermeremo",
-      "pronunciation": "FEHRMEhrehmoh",
-      "english": "we will stop",
-      "example": "Noi fermeremo insieme.",
-      "example_english": "We stop together."
-    },
-    "voi": {
-      "conjugation": "fermerete",
-      "pronunciation": "FEHRMEhrehteh",
-      "english": "you (plural) will stop",
-      "example": "Voi fermerete bene?",
-      "example_english": "Do you stop well?"
-    },
-    "loro": {
-      "conjugation": "fermeranno",
-      "pronunciation": "FEHRMEHrahnnoh",
-      "english": "they will stop",
-      "example": "Loro fermeranno spesso.",
-      "example_english": "They stop often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "ho fermato",
-      "pronunciation": "hoh fehrmahtoh",
-      "english": "I stoped",
-      "example": "Ieri ho fermato.",
-      "example_english": "Yesterday i stoped."
-    },
-    "tu": {
-      "conjugation": "hai fermato",
-      "pronunciation": "HAhee",
-      "english": "you (informal) stoped",
-      "example": "Ieri hai fermato.",
-      "example_english": "Yesterday you (informal) stoped."
-    },
-    "lui": {
-      "conjugation": "ha fermato",
-      "pronunciation": "hah fehrmahtoh",
-      "english": "he/she/it stoped",
-      "example": "Ieri ha fermato.",
-      "example_english": "Yesterday he/she/it stoped."
-    },
-    "noi": {
-      "conjugation": "abbiamo fermato",
-      "pronunciation": "AHBBEeahmoh",
-      "english": "we stoped",
-      "example": "Ieri abbiamo fermato.",
-      "example_english": "Yesterday we stoped."
-    },
-    "voi": {
-      "conjugation": "avete fermato",
-      "pronunciation": "AHVEhteh",
-      "english": "you (plural) stoped",
-      "example": "Ieri avete fermato.",
-      "example_english": "Yesterday you (plural) stoped."
-    },
-    "loro": {
-      "conjugation": "hanno fermato",
-      "pronunciation": "HAHnnoh",
-      "english": "they stoped",
-      "example": "Ieri hanno fermato.",
-      "example_english": "Yesterday they stoped."
-    }
-  },
   "participio_passato": {
     "form": "fermato",
-    "pronunciation": "FEHRMahtoh",
-    "english": "stoped"
+    "pronunciation": "/fermato/",
+    "english": "stoped",
+    "example": "L'auto fermata era parcheggiata male.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To stop something in motion; halt movement",
+  "synonyms": "arrestare,bloccare",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "fermo",
+        "pronunciation": "/fermo/",
+        "english": "I stop",
+        "example": "Io fermo ogni giorno.",
+        "example_english": "I stop every day."
+      },
+      "tu": {
+        "conjugation": "fermi",
+        "pronunciation": "/fermi/",
+        "english": "you stop",
+        "example": "Tu fermi bene.",
+        "example_english": "You stop well."
+      },
+      "lui": {
+        "conjugation": "ferma",
+        "pronunciation": "/ferma/",
+        "english": "he/she/it stops",
+        "example": "Lei ferma molto.",
+        "example_english": "She stop a lot."
+      },
+      "noi": {
+        "conjugation": "fermiamo",
+        "pronunciation": "/fermiamo/",
+        "english": "we stop",
+        "example": "Noi fermiamo insieme.",
+        "example_english": "We stop together."
+      },
+      "voi": {
+        "conjugation": "fermate",
+        "pronunciation": "/fermate/",
+        "english": "you stop",
+        "example": "Voi fermate bene?",
+        "example_english": "Do you stop well?"
+      },
+      "loro": {
+        "conjugation": "fermano",
+        "pronunciation": "/fermano/",
+        "english": "they stop",
+        "example": "Loro fermano spesso.",
+        "example_english": "They stop often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "fermerò",
+        "pronunciation": "/fermerò/",
+        "english": "I will stop",
+        "example": "Io fermerò ogni giorno.",
+        "example_english": "I stop every day."
+      },
+      "tu": {
+        "conjugation": "fermerai",
+        "pronunciation": "/fermerai/",
+        "english": "you (informal) will stop",
+        "example": "Tu fermerai bene.",
+        "example_english": "You stop well."
+      },
+      "lui": {
+        "conjugation": "fermerà",
+        "pronunciation": "/fermerà/",
+        "english": "he/she/it will stop",
+        "example": "Lei fermerà molto.",
+        "example_english": "She stop a lot."
+      },
+      "noi": {
+        "conjugation": "fermeremo",
+        "pronunciation": "/fermeremo/",
+        "english": "we will stop",
+        "example": "Noi fermeremo insieme.",
+        "example_english": "We stop together."
+      },
+      "voi": {
+        "conjugation": "fermerete",
+        "pronunciation": "/fermerete/",
+        "english": "you (plural) will stop",
+        "example": "Voi fermerete bene?",
+        "example_english": "Do you stop well?"
+      },
+      "loro": {
+        "conjugation": "fermeranno",
+        "pronunciation": "/fermeranno/",
+        "english": "they will stop",
+        "example": "Loro fermeranno spesso.",
+        "example_english": "They stop often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho fermato",
+        "pronunciation": "/ho fermato/",
+        "english": "I stoped",
+        "example": "Ieri ho fermato.",
+        "example_english": "Yesterday i stoped."
+      },
+      "tu": {
+        "conjugation": "hai fermato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) stoped",
+        "example": "Ieri hai fermato.",
+        "example_english": "Yesterday you (informal) stoped."
+      },
+      "lui": {
+        "conjugation": "ha fermato",
+        "pronunciation": "/ha fermato/",
+        "english": "he/she/it stoped",
+        "example": "Ieri ha fermato.",
+        "example_english": "Yesterday he/she/it stoped."
+      },
+      "noi": {
+        "conjugation": "abbiamo fermato",
+        "pronunciation": "/abbiamo/",
+        "english": "we stoped",
+        "example": "Ieri abbiamo fermato.",
+        "example_english": "Yesterday we stoped."
+      },
+      "voi": {
+        "conjugation": "avete fermato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) stoped",
+        "example": "Ieri avete fermato.",
+        "example_english": "Yesterday you (plural) stoped."
+      },
+      "loro": {
+        "conjugation": "hanno fermato",
+        "pronunciation": "/hanno/",
+        "english": "they stoped",
+        "example": "Ieri hanno fermato.",
+        "example_english": "Yesterday they stoped."
+      }
+    }
   }
 }

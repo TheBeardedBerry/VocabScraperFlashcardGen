@@ -1,145 +1,152 @@
 {
   "infinitive": "alzarsi",
-  "infinitive_pronunciation": "AHLZAhrsee",
+  "infinitive_pronunciation": "/al'tsarsi/",
   "english": "to get up/to wake up",
   "regular": true,
   "auxiliary": "essere",
   "reflexive": true,
-  "presente": {
-    "io": {
-      "conjugation": "mi alzo",
-      "pronunciation": "mee ahlzoh",
-      "english": "I get up/wake up",
-      "example": "Io mi alzo ogni giorno.",
-      "example_english": "I get up/wake up every day."
-    },
-    "tu": {
-      "conjugation": "ti alzi",
-      "pronunciation": "tee ahlzee",
-      "english": "you get up/wake up",
-      "example": "Tu ti alzi bene.",
-      "example_english": "You get up/wake up well."
-    },
-    "lui": {
-      "conjugation": "si alza",
-      "pronunciation": "see ahlzah",
-      "english": "he/she/it get up/wake ups",
-      "example": "Lei si alza molto.",
-      "example_english": "She get up/wake up a lot."
-    },
-    "noi": {
-      "conjugation": "ci alziamo",
-      "pronunciation": "cee ahlzeeahmoh",
-      "english": "we get up/wake up",
-      "example": "Noi ci alziamo insieme.",
-      "example_english": "We get up/wake up together."
-    },
-    "voi": {
-      "conjugation": "vi alzate",
-      "pronunciation": "vee ahlzahteh",
-      "english": "you get up/wake up",
-      "example": "Voi vi alzate bene?",
-      "example_english": "Do you get up/wake up well?"
-    },
-    "loro": {
-      "conjugation": "si alzano",
-      "pronunciation": "see ahlzahnoh",
-      "english": "they get up/wake up",
-      "example": "Loro si alzano spesso.",
-      "example_english": "They get up/wake up often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "mi alzerò",
-      "pronunciation": "mee ahlzehrò",
-      "english": "I will get up/wake up",
-      "example": "Io mi alzerò ogni giorno.",
-      "example_english": "I get up/wake up every day."
-    },
-    "tu": {
-      "conjugation": "ti alzerai",
-      "pronunciation": "tee ahlzehrahee",
-      "english": "you (informal) will get up/wake up",
-      "example": "Tu ti alzerai bene.",
-      "example_english": "You get up/wake up well."
-    },
-    "lui": {
-      "conjugation": "si alzerà",
-      "pronunciation": "see ahlzehrà",
-      "english": "he/she/it will get up/wake up",
-      "example": "Lei si alzerà molto.",
-      "example_english": "She get up/wake up a lot."
-    },
-    "noi": {
-      "conjugation": "ci alzeremo",
-      "pronunciation": "cee ahlzehrehmoh",
-      "english": "we will get up/wake up",
-      "example": "Noi ci alzeremo insieme.",
-      "example_english": "We get up/wake up together."
-    },
-    "voi": {
-      "conjugation": "vi alzerete",
-      "pronunciation": "vee ahlzehrehteh",
-      "english": "you (plural) will get up/wake up",
-      "example": "Voi vi alzerete bene?",
-      "example_english": "Do you get up/wake up well?"
-    },
-    "loro": {
-      "conjugation": "si alzeranno",
-      "pronunciation": "see ahlzehrahnnoh",
-      "english": "they will get up/wake up",
-      "example": "Loro si alzeranno spesso.",
-      "example_english": "They get up/wake up often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "mi sono alzato/a",
-      "pronunciation": "mee sohnoh ahlzahtoh/ah",
-      "english": "I get up/wake uped",
-      "example": "Ieri mi sono alzato/a.",
-      "example_english": "Yesterday i get up/wake uped."
-    },
-    "tu": {
-      "conjugation": "ti sei alzato/a",
-      "pronunciation": "tee sehee ahlzahtoh/ah",
-      "english": "you (informal) get up/wake uped",
-      "example": "Ieri ti sei alzato/a.",
-      "example_english": "Yesterday you (informal) get up/wake uped."
-    },
-    "lui": {
-      "conjugation": "si è alzato/a",
-      "pronunciation": "see è ahlzahtoh/ah",
-      "english": "he/she/it get up/wake uped",
-      "example": "Ieri si è alzato/a.",
-      "example_english": "Yesterday he/she/it get up/wake uped."
-    },
-    "noi": {
-      "conjugation": "ci siamo alzato/a",
-      "pronunciation": "cee seeahmoh ahlzahtoh/ah",
-      "english": "we get up/wake uped",
-      "example": "Ieri ci siamo alzato/a.",
-      "example_english": "Yesterday we get up/wake uped."
-    },
-    "voi": {
-      "conjugation": "vi siete alzato/a",
-      "pronunciation": "vee seeehteh ahlzahtoh/ah",
-      "english": "you (plural) get up/wake uped",
-      "example": "Ieri vi siete alzato/a.",
-      "example_english": "Yesterday you (plural) get up/wake uped."
-    },
-    "loro": {
-      "conjugation": "si sono alzato/a",
-      "pronunciation": "see sohnoh ahlzahtoh/ah",
-      "english": "they get up/wake uped",
-      "example": "Ieri si sono alzato/a.",
-      "example_english": "Yesterday they get up/wake uped."
-    }
-  },
   "participio_passato": {
     "form": "alzato/a",
-    "pronunciation": "AHLZahtoh",
-    "english": "get up/wake uped"
+    "pronunciation": "/alzato/",
+    "english": "get up/woke up",
+    "example": "Il bambino è stato alzato dalla mamma per andare a scuola.",
+    "example_english": "The child was woken up by his mother to go to school."
+  },
+  "part_of_speech": "verb",
+  "context": "Reflexive verb for getting out of bed or standing up from sitting",
+  "synonyms": "svegliarsi,levarsi",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "mi alzo",
+        "pronunciation": "/mi alzo/",
+        "english": "I get up/wake up",
+        "example": "Mi alzo sempre alle sei di mattina per fare jogging nel parco prima del lavoro",
+        "example_english": "I always get up at six in the morning to jog in the park before work"
+      },
+      "tu": {
+        "conjugation": "ti alzi",
+        "pronunciation": "/ti alzi/",
+        "english": "you get up/wake up",
+        "example": "Ti alzi mai prima delle otto durante il fine settimana o preferisci dormire?",
+        "example_english": "Do you ever get up before eight on weekends or do you prefer to sleep?"
+      },
+      "lui": {
+        "conjugation": "si alza",
+        "pronunciation": "/si alza/",
+        "english": "he/she gets up/wake ups",
+        "example": "Si alza dal letto molto lentamente perché soffre di dolori articolari alle gambe",
+        "example_english": "He gets up from bed very slowly because he suffers from joint pain in his legs"
+      },
+      "noi": {
+        "conjugation": "ci alziamo",
+        "pronunciation": "/ci alziamo/",
+        "english": "we get up/wake up",
+        "example": "Ci alziamo tutti insieme per applaudire la fantastica performance dell'orchestra sinfonica",
+        "example_english": "We all get up together to applaud the fantastic performance of the symphony orchestra"
+      },
+      "voi": {
+        "conjugation": "vi alzate",
+        "pronunciation": "/vi alzate/",
+        "english": "you get up/wake up",
+        "example": "Vi alzate sempre in piedi quando entra il direttore della scuola nell'aula?",
+        "example_english": "Do you always stand up when the school principal enters the classroom?"
+      },
+      "loro": {
+        "conjugation": "si alzano",
+        "pronunciation": "/si alzano/",
+        "english": "they get up/wake up",
+        "example": "Si alzano dal tavolo della cena solo dopo che tutti hanno finito di mangiare",
+        "example_english": "They get up from the dinner table only after everyone has finished eating"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "mi alzerò",
+        "pronunciation": "/mi alzerò/",
+        "english": "I will get up/wake up",
+        "example": "Io mi alzerò ogni giorno.",
+        "example_english": "I get up/wake up every day."
+      },
+      "tu": {
+        "conjugation": "ti alzerai",
+        "pronunciation": "/ti alzerai/",
+        "english": "you (informal) will get up/wake up",
+        "example": "Tu ti alzerai bene.",
+        "example_english": "You get up/wake up well."
+      },
+      "lui": {
+        "conjugation": "si alzerà",
+        "pronunciation": "/si alzerà/",
+        "english": "he/she/it will get up/wake up",
+        "example": "Lei si alzerà molto.",
+        "example_english": "She get up/wake up a lot."
+      },
+      "noi": {
+        "conjugation": "ci alzeremo",
+        "pronunciation": "/ci alzeremo/",
+        "english": "we will get up/wake up",
+        "example": "Noi ci alzeremo insieme.",
+        "example_english": "We get up/wake up together."
+      },
+      "voi": {
+        "conjugation": "vi alzerete",
+        "pronunciation": "/vi alzerete/",
+        "english": "you (plural) will get up/wake up",
+        "example": "Voi vi alzerete bene?",
+        "example_english": "Do you get up/wake up well?"
+      },
+      "loro": {
+        "conjugation": "si alzeranno",
+        "pronunciation": "/si alzeranno/",
+        "english": "they will get up/wake up",
+        "example": "Loro si alzeranno spesso.",
+        "example_english": "They get up/wake up often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "mi sono alzato/a",
+        "pronunciation": "/mi sono alzato/a/",
+        "english": "I get myself up/woke up",
+        "example": "Mi sono alzato alle cinque stamattina per vedere l'alba spettacolare dalle montagne",
+        "example_english": "I got up at five this morning to see the spectacular sunrise from the mountains"
+      },
+      "tu": {
+        "conjugation": "ti sei alzato/a",
+        "pronunciation": "/ti sei alzato/a/",
+        "english": "you (informal) get yourself up/woke up",
+        "example": "Ti sei alzato dal letto nel cuore della notte per controllare il rumore strano?",
+        "example_english": "Did you get up from bed in the middle of the night to check the strange noise?"
+      },
+      "lui": {
+        "conjugation": "si è alzato/a",
+        "pronunciation": "/si è alzato/a/",
+        "english": "he/she gets up/woke up",
+        "example": "Si è alzato dalla poltrona per salutare calorosamente tutti gli ospiti della festa",
+        "example_english": "He got up from the armchair to warmly greet all the party guests"
+      },
+      "noi": {
+        "conjugation": "ci siamo alzato/a",
+        "pronunciation": "/ci siamo alzato/a/",
+        "english": "we get ourselves up/woke up",
+        "example": "Ci siamo alzati in piedi per cantare l'inno nazionale prima della partita di calcio",
+        "example_english": "We stood up to sing the national anthem before the soccer game"
+      },
+      "voi": {
+        "conjugation": "vi siete alzato/a",
+        "pronunciation": "/vi siete alzato/a/",
+        "english": "you (plural) get yourselves up/woke up",
+        "example": "Vi siete alzati dal tavolo senza finire la cena perché eravate troppo stanchi?",
+        "example_english": "Did you get up from the table without finishing dinner because you were too tired?"
+      },
+      "loro": {
+        "conjugation": "si sono alzato/a",
+        "pronunciation": "/si sono alzato/a/",
+        "english": "they get themselves up/woke up",
+        "example": "Si sono alzati alle quattro del mattino per vedere l'eclissi lunare nel cielo",
+        "example_english": "They got up at four in the morning to see the lunar eclipse in the sky"
+      }
+    }
   }
 }

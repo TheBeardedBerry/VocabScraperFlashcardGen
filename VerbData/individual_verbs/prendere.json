@@ -1,6 +1,6 @@
 {
   "infinitive": "prendere",
-  "infinitive_pronunciation": "/ˈpren.de.re/",
+  "infinitive_pronunciation": "/ˈprendere/",
   "english": "to take",
   "regular": false,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta presa la decisione, non ci ripensò.",
         "english": "Once the decision was made, he didn't reconsider."
       }
-    ]
-  }
+    ],
+    "example": "La decisione presa è stata saggia.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To take, grab, catch, or accept something offered",
+  "synonyms": "afferrare,pigliare"
 }

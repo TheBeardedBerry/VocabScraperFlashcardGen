@@ -1,6 +1,6 @@
 {
   "infinitive": "pagare",
-  "infinitive_pronunciation": "/paˈɡa.re/",
+  "infinitive_pronunciation": "/pa'gare/",
   "english": "to pay",
   "regular": true,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "paid",
     "example": "Il conto è stato pagato.",
     "example_english": "The bill has been paid."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To pay money for goods, services, or debts",
+  "synonyms": "versare,saldare"
 }

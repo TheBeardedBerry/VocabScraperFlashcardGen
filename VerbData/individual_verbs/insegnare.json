@@ -1,6 +1,6 @@
 {
   "infinitive": "insegnare",
-  "infinitive_pronunciation": "/in.se.ɲˈɲa.re/",
+  "infinitive_pronunciation": "/inseɲ'ɲare/",
   "english": "to teach",
   "regular": true,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta insegnata la tecnica, diventa facile.",
         "english": "Once the technique is taught, it becomes easy."
       }
-    ]
-  }
+    ],
+    "example": "La materia insegnata è fondamentale.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To teach knowledge or skills to students",
+  "synonyms": "istruire,educare"
 }

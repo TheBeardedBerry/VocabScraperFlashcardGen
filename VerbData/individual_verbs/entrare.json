@@ -1,141 +1,141 @@
 {
   "infinitive": "entrare",
-  "infinitive_pronunciation": "/enˈtraːre/",
+  "infinitive_pronunciation": "/en'trare/",
   "english": "to enter",
   "regular": true,
   "auxiliary": "essere",
   "tenses": {
     "presente": {
-    "io": {
-      "conjugation": "entro",
-      "pronunciation": "/ˈentro/",
-      "english": "I enter",
-      "example": "Entro nella stanza silenziosamente.",
-      "example_english": "I enter the room quietly."
-    },
-    "tu": {
-      "conjugation": "entri",
-      "pronunciation": "/ˈentri/",
-      "english": "you enter",
-      "example": "Entri sempre dalla porta principale?",
-      "example_english": "Do you always enter through the main door?"
-    },
-    "lui": {
-      "conjugation": "entra",
-      "pronunciation": "/ˈentra/",
-      "english": "he/she/it enters",
-      "example": "Entra in ufficio alle nove.",
-      "example_english": "He enters the office at nine."
-    },
-    "noi": {
-      "conjugation": "entriamo",
-      "pronunciation": "/enˈtrjaːmo/",
-      "english": "we enter",
-      "example": "Entriamo nel teatro prima dell'inizio.",
-      "example_english": "We enter the theater before it begins."
-    },
-    "voi": {
-      "conjugation": "entrate",
-      "pronunciation": "/enˈtraːte/",
-      "english": "you enter",
-      "example": "Entrate pure, la porta è aperta.",
-      "example_english": "Please come in, the door is open."
-    },
-    "loro": {
-      "conjugation": "entrano",
-      "pronunciation": "/ˈentrano/",
-      "english": "they enter",
-      "example": "Entrano nel negozio ogni sabato.",
-      "example_english": "They enter the store every Saturday."
-    }
+      "io": {
+        "conjugation": "entro",
+        "pronunciation": "/ˈentro/",
+        "english": "I enter",
+        "example": "Entro nella stanza silenziosamente.",
+        "example_english": "I enter the room quietly."
+      },
+      "tu": {
+        "conjugation": "entri",
+        "pronunciation": "/ˈentri/",
+        "english": "you enter",
+        "example": "Entri sempre dalla porta principale?",
+        "example_english": "Do you always enter through the main door?"
+      },
+      "lui": {
+        "conjugation": "entra",
+        "pronunciation": "/ˈentra/",
+        "english": "he/she/it enters",
+        "example": "Entra in ufficio alle nove.",
+        "example_english": "He enters the office at nine."
+      },
+      "noi": {
+        "conjugation": "entriamo",
+        "pronunciation": "/enˈtrjaːmo/",
+        "english": "we enter",
+        "example": "Entriamo nel teatro prima dell'inizio.",
+        "example_english": "We enter the theater before it begins."
+      },
+      "voi": {
+        "conjugation": "entrate",
+        "pronunciation": "/enˈtraːte/",
+        "english": "you enter",
+        "example": "Entrate pure, la porta è aperta.",
+        "example_english": "Please come in, the door is open."
+      },
+      "loro": {
+        "conjugation": "entrano",
+        "pronunciation": "/ˈentrano/",
+        "english": "they enter",
+        "example": "Entrano nel negozio ogni sabato.",
+        "example_english": "They enter the store every Saturday."
+      }
     },
     "futuro_semplice": {
-    "io": {
-      "conjugation": "entrerò",
-      "pronunciation": "/entreˈroː/",
-      "english": "I will enter",
-      "example": "Entrerò all'università il prossimo anno.",
-      "example_english": "I will enter university next year."
-    },
-    "tu": {
-      "conjugation": "entrerai",
-      "pronunciation": "/entreˈraːi/",
-      "english": "you (informal) will enter",
-      "example": "Entrerai nella squadra se ti alleni.",
-      "example_english": "You will enter the team if you train."
-    },
-    "lui": {
-      "conjugation": "entrerà",
-      "pronunciation": "/entreˈraː/",
-      "english": "he/she/it will enter",
-      "example": "Entrerà in politica dopo la laurea.",
-      "example_english": "She will enter politics after graduation."
-    },
-    "noi": {
-      "conjugation": "entreremo",
-      "pronunciation": "/entreˈreːmo/",
-      "english": "we will enter",
-      "example": "Entreremo nel mercato europeo.",
-      "example_english": "We will enter the European market."
-    },
-    "voi": {
-      "conjugation": "entrerete",
-      "pronunciation": "/entreˈreːte/",
-      "english": "you (plural) will enter",
-      "example": "Entrerete tutti insieme nella sala?",
-      "example_english": "Will you all enter the hall together?"
-    },
-    "loro": {
-      "conjugation": "entreranno",
-      "pronunciation": "/entreˈranno/",
-      "english": "they will enter",
-      "example": "Entreranno nel club esclusivo.",
-      "example_english": "They will enter the exclusive club."
-    }
+      "io": {
+        "conjugation": "entrerò",
+        "pronunciation": "/entreˈroː/",
+        "english": "I will enter",
+        "example": "Entrerò all'università il prossimo anno.",
+        "example_english": "I will enter university next year."
+      },
+      "tu": {
+        "conjugation": "entrerai",
+        "pronunciation": "/entreˈraːi/",
+        "english": "you (informal) will enter",
+        "example": "Entrerai nella squadra se ti alleni.",
+        "example_english": "You will enter the team if you train."
+      },
+      "lui": {
+        "conjugation": "entrerà",
+        "pronunciation": "/entreˈraː/",
+        "english": "he/she/it will enter",
+        "example": "Entrerà in politica dopo la laurea.",
+        "example_english": "She will enter politics after graduation."
+      },
+      "noi": {
+        "conjugation": "entreremo",
+        "pronunciation": "/entreˈreːmo/",
+        "english": "we will enter",
+        "example": "Entreremo nel mercato europeo.",
+        "example_english": "We will enter the European market."
+      },
+      "voi": {
+        "conjugation": "entrerete",
+        "pronunciation": "/entreˈreːte/",
+        "english": "you (plural) will enter",
+        "example": "Entrerete tutti insieme nella sala?",
+        "example_english": "Will you all enter the hall together?"
+      },
+      "loro": {
+        "conjugation": "entreranno",
+        "pronunciation": "/entreˈranno/",
+        "english": "they will enter",
+        "example": "Entreranno nel club esclusivo.",
+        "example_english": "They will enter the exclusive club."
+      }
     },
     "passato_prossimo": {
-    "io": {
-      "conjugation": "sono entrato/a",
-      "pronunciation": "/ˈsoːno enˈtraːto/a/",
-      "english": "I entered",
-      "example": "Sono entrato/a in biblioteca alle tre.",
-      "example_english": "I entered the library at three."
-    },
-    "tu": {
-      "conjugation": "sei entrato/a",
-      "pronunciation": "/ˈsɛːi enˈtraːto/a/",
-      "english": "you (informal) entered",
-      "example": "Sei entrato/a nel posto giusto.",
-      "example_english": "You entered the right place."
-    },
-    "lui": {
-      "conjugation": "è entrato/a",
-      "pronunciation": "/ˈɛ enˈtraːto/a/",
-      "english": "he/she/it entered",
-      "example": "È entrata nella storia.",
-      "example_english": "She entered history."
-    },
-    "noi": {
-      "conjugation": "siamo entrati/e",
-      "pronunciation": "/ˈsjaːmo enˈtraːti/e/",
-      "english": "we entered",
-      "example": "Siamo entrati/e dal retro.",
-      "example_english": "We entered from the back."
-    },
-    "voi": {
-      "conjugation": "siete entrati/e",
-      "pronunciation": "/ˈsjeːte enˈtraːti/e/",
-      "english": "you (plural) entered",
-      "example": "Siete entrati/e tutti insieme?",
-      "example_english": "Did you all enter together?"
-    },
-    "loro": {
-      "conjugation": "sono entrati/e",
-      "pronunciation": "/ˈsoːno enˈtraːti/e/",
-      "english": "they entered",
-      "example": "Sono entrati/e senza bussare.",
-      "example_english": "They entered without knocking."
-    }
+      "io": {
+        "conjugation": "sono entrato/a",
+        "pronunciation": "/ˈsoːno enˈtraːto/a/",
+        "english": "I entered",
+        "example": "Sono entrato/a in biblioteca alle tre.",
+        "example_english": "I entered the library at three."
+      },
+      "tu": {
+        "conjugation": "sei entrato/a",
+        "pronunciation": "/ˈsɛːi enˈtraːto/a/",
+        "english": "you (informal) entered",
+        "example": "Sei entrato/a nel posto giusto.",
+        "example_english": "You entered the right place."
+      },
+      "lui": {
+        "conjugation": "è entrato/a",
+        "pronunciation": "/ˈɛ enˈtraːto/a/",
+        "english": "he/she/it entered",
+        "example": "È entrata nella storia.",
+        "example_english": "She entered history."
+      },
+      "noi": {
+        "conjugation": "siamo entrati/e",
+        "pronunciation": "/ˈsjaːmo enˈtraːti/e/",
+        "english": "we entered",
+        "example": "Siamo entrati/e dal retro.",
+        "example_english": "We entered from the back."
+      },
+      "voi": {
+        "conjugation": "siete entrati/e",
+        "pronunciation": "/ˈsjeːte enˈtraːti/e/",
+        "english": "you (plural) entered",
+        "example": "Siete entrati/e tutti insieme?",
+        "example_english": "Did you all enter together?"
+      },
+      "loro": {
+        "conjugation": "sono entrati/e",
+        "pronunciation": "/ˈsoːno enˈtraːti/e/",
+        "english": "they entered",
+        "example": "Sono entrati/e senza bussare.",
+        "example_english": "They entered without knocking."
+      }
     }
   },
   "participio_passato": {
@@ -144,5 +144,8 @@
     "english": "entered",
     "example": "Una volta entrato, ho chiuso la porta.",
     "example_english": "Once I entered, I closed the door."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To enter or go inside; motion verb with essere auxiliary",
+  "synonyms": "penetrare,accedere"
 }

@@ -1,6 +1,6 @@
 {
   "infinitive": "scrivere",
-  "infinitive_pronunciation": "/ˈskri.ve.re/",
+  "infinitive_pronunciation": "/ˈskrivere/",
   "english": "to write",
   "regular": false,
   "auxiliary": "avere",
@@ -151,6 +151,11 @@
         "italian": "Una volta scritto il documento, lo invieremo.",
         "english": "Once the document is written, we will send it."
       }
-    ]
-  }
+    ],
+    "example": "La lettera scritta è molto toccante.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To write text, letters, books, or messages",
+  "synonyms": "redigere,comporre"
 }

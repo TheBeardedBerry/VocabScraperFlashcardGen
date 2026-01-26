@@ -144,5 +144,8 @@
     "english": "been able",
     "example": "Non ho mai potuto visitare quella città.",
     "example_english": "I have never been able to visit that city."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "Modal verb expressing ability, possibility, or permission",
+  "synonyms": "riuscire"
 }

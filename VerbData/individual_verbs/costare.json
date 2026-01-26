@@ -1,144 +1,151 @@
 {
   "infinitive": "costare",
-  "infinitive_pronunciation": "COHSTahreh",
+  "infinitive_pronunciation": "/kos'tare/",
   "english": "to cost",
   "regular": true,
   "auxiliary": "essere",
-  "presente": {
-    "io": {
-      "conjugation": "costo",
-      "pronunciation": "COHstoh",
-      "english": "I cost",
-      "example": "Io costo ogni giorno.",
-      "example_english": "I cost every day."
-    },
-    "tu": {
-      "conjugation": "costi",
-      "pronunciation": "COHstee",
-      "english": "you cost",
-      "example": "Tu costi bene.",
-      "example_english": "You cost well."
-    },
-    "lui": {
-      "conjugation": "costa",
-      "pronunciation": "COHstah",
-      "english": "he/she/it costs",
-      "example": "Lei costa molto.",
-      "example_english": "She cost a lot."
-    },
-    "noi": {
-      "conjugation": "costiamo",
-      "pronunciation": "COHSTEeahmoh",
-      "english": "we cost",
-      "example": "Noi costiamo insieme.",
-      "example_english": "We cost together."
-    },
-    "voi": {
-      "conjugation": "costate",
-      "pronunciation": "COHSTahteh",
-      "english": "you cost",
-      "example": "Voi costate bene?",
-      "example_english": "Do you cost well?"
-    },
-    "loro": {
-      "conjugation": "costano",
-      "pronunciation": "COHSTahnoh",
-      "english": "they cost",
-      "example": "Loro costano spesso.",
-      "example_english": "They cost often."
-    }
-  },
-  "futuro_simplice": {
-    "io": {
-      "conjugation": "costerò",
-      "pronunciation": "COHStehrò",
-      "english": "I will cost",
-      "example": "Io costerò ogni giorno.",
-      "example_english": "I cost every day."
-    },
-    "tu": {
-      "conjugation": "costerai",
-      "pronunciation": "COHSTEhrahee",
-      "english": "you (informal) will cost",
-      "example": "Tu costerai bene.",
-      "example_english": "You cost well."
-    },
-    "lui": {
-      "conjugation": "costerà",
-      "pronunciation": "COHStehrà",
-      "english": "he/she/it will cost",
-      "example": "Lei costerà molto.",
-      "example_english": "She cost a lot."
-    },
-    "noi": {
-      "conjugation": "costeremo",
-      "pronunciation": "COHSTEhrehmoh",
-      "english": "we will cost",
-      "example": "Noi costeremo insieme.",
-      "example_english": "We cost together."
-    },
-    "voi": {
-      "conjugation": "costerete",
-      "pronunciation": "COHSTEhrehteh",
-      "english": "you (plural) will cost",
-      "example": "Voi costerete bene?",
-      "example_english": "Do you cost well?"
-    },
-    "loro": {
-      "conjugation": "costeranno",
-      "pronunciation": "COHSTEHrahnnoh",
-      "english": "they will cost",
-      "example": "Loro costeranno spesso.",
-      "example_english": "They cost often."
-    }
-  },
-  "passato_prossimo": {
-    "io": {
-      "conjugation": "sono costato/a",
-      "pronunciation": "SOHnoh",
-      "english": "I costed",
-      "example": "Ieri sono costato/a.",
-      "example_english": "Yesterday i costed."
-    },
-    "tu": {
-      "conjugation": "sei costato/a",
-      "pronunciation": "SEhee",
-      "english": "you (informal) costed",
-      "example": "Ieri sei costato/a.",
-      "example_english": "Yesterday you (informal) costed."
-    },
-    "lui": {
-      "conjugation": "è costato/a",
-      "pronunciation": "è cohstahtoh/ah",
-      "english": "he/she/it costed",
-      "example": "Ieri è costato/a.",
-      "example_english": "Yesterday he/she/it costed."
-    },
-    "noi": {
-      "conjugation": "siamo costato/a",
-      "pronunciation": "SEEAhmoh",
-      "english": "we costed",
-      "example": "Ieri siamo costato/a.",
-      "example_english": "Yesterday we costed."
-    },
-    "voi": {
-      "conjugation": "siete costato/a",
-      "pronunciation": "SEEEhteh",
-      "english": "you (plural) costed",
-      "example": "Ieri siete costato/a.",
-      "example_english": "Yesterday you (plural) costed."
-    },
-    "loro": {
-      "conjugation": "sono costato/a",
-      "pronunciation": "SOHnoh",
-      "english": "they costed",
-      "example": "Ieri sono costato/a.",
-      "example_english": "Yesterday they costed."
-    }
-  },
   "participio_passato": {
     "form": "costato/a",
-    "pronunciation": "COHSTahtoh",
-    "english": "costed"
+    "pronunciation": "/costato/",
+    "english": "costed",
+    "example": "Il prezzo costato era ragionevole.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To cost a certain price; uses essere auxiliary",
+  "synonyms": "valere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "costo",
+        "pronunciation": "/costo/",
+        "english": "I cost",
+        "example": "Io costo ogni giorno.",
+        "example_english": "I cost every day."
+      },
+      "tu": {
+        "conjugation": "costi",
+        "pronunciation": "/costi/",
+        "english": "you cost",
+        "example": "Tu costi bene.",
+        "example_english": "You cost well."
+      },
+      "lui": {
+        "conjugation": "costa",
+        "pronunciation": "/costa/",
+        "english": "he/she/it costs",
+        "example": "Lei costa molto.",
+        "example_english": "She cost a lot."
+      },
+      "noi": {
+        "conjugation": "costiamo",
+        "pronunciation": "/costiamo/",
+        "english": "we cost",
+        "example": "Noi costiamo insieme.",
+        "example_english": "We cost together."
+      },
+      "voi": {
+        "conjugation": "costate",
+        "pronunciation": "/costate/",
+        "english": "you cost",
+        "example": "Voi costate bene?",
+        "example_english": "Do you cost well?"
+      },
+      "loro": {
+        "conjugation": "costano",
+        "pronunciation": "/costano/",
+        "english": "they cost",
+        "example": "Loro costano spesso.",
+        "example_english": "They cost often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "costerò",
+        "pronunciation": "/costerò/",
+        "english": "I will cost",
+        "example": "Io costerò ogni giorno.",
+        "example_english": "I cost every day."
+      },
+      "tu": {
+        "conjugation": "costerai",
+        "pronunciation": "/costerai/",
+        "english": "you (informal) will cost",
+        "example": "Tu costerai bene.",
+        "example_english": "You cost well."
+      },
+      "lui": {
+        "conjugation": "costerà",
+        "pronunciation": "/costerà/",
+        "english": "he/she/it will cost",
+        "example": "Lei costerà molto.",
+        "example_english": "She cost a lot."
+      },
+      "noi": {
+        "conjugation": "costeremo",
+        "pronunciation": "/costeremo/",
+        "english": "we will cost",
+        "example": "Noi costeremo insieme.",
+        "example_english": "We cost together."
+      },
+      "voi": {
+        "conjugation": "costerete",
+        "pronunciation": "/costerete/",
+        "english": "you (plural) will cost",
+        "example": "Voi costerete bene?",
+        "example_english": "Do you cost well?"
+      },
+      "loro": {
+        "conjugation": "costeranno",
+        "pronunciation": "/costeranno/",
+        "english": "they will cost",
+        "example": "Loro costeranno spesso.",
+        "example_english": "They cost often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono costato/a",
+        "pronunciation": "/sono/",
+        "english": "I costed",
+        "example": "Ieri sono costato/a.",
+        "example_english": "Yesterday i costed."
+      },
+      "tu": {
+        "conjugation": "sei costato/a",
+        "pronunciation": "/sei/",
+        "english": "you (informal) costed",
+        "example": "Ieri sei costato/a.",
+        "example_english": "Yesterday you (informal) costed."
+      },
+      "lui": {
+        "conjugation": "è costato/a",
+        "pronunciation": "/è costato/a/",
+        "english": "he/she/it costed",
+        "example": "Ieri è costato/a.",
+        "example_english": "Yesterday he/she/it costed."
+      },
+      "noi": {
+        "conjugation": "siamo costato/a",
+        "pronunciation": "/siamo/",
+        "english": "we costed",
+        "example": "Ieri siamo costato/a.",
+        "example_english": "Yesterday we costed."
+      },
+      "voi": {
+        "conjugation": "siete costato/a",
+        "pronunciation": "/siete/",
+        "english": "you (plural) costed",
+        "example": "Ieri siete costato/a.",
+        "example_english": "Yesterday you (plural) costed."
+      },
+      "loro": {
+        "conjugation": "sono costato/a",
+        "pronunciation": "/sono/",
+        "english": "they costed",
+        "example": "Ieri sono costato/a.",
+        "example_english": "Yesterday they costed."
+      }
+    }
   }
 }

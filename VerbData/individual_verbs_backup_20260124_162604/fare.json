@@ -1,0 +1,148 @@
+{
+  "infinitive": "fare",
+  "infinitive_pronunciation": "/'fare/",
+  "english": "to do/to make",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "faccio",
+        "pronunciation": "/'fattʃo/",
+        "english": "I do/make",
+        "example": "Io faccio sempre colazione alle otto di mattina.",
+        "example_english": "I always have breakfast at eight in the morning."
+      },
+      "tu": {
+        "conjugation": "fai",
+        "pronunciation": "/'fai/",
+        "english": "you do/make",
+        "example": "Tu fai un lavoro molto interessante.",
+        "example_english": "You do very interesting work."
+      },
+      "lui": {
+        "conjugation": "fa",
+        "pronunciation": "/'fa/",
+        "english": "he/she/it does/makes",
+        "example": "Mia madre fa sempre delle torte deliziose.",
+        "example_english": "My mother always makes delicious cakes."
+      },
+      "noi": {
+        "conjugation": "facciamo",
+        "pronunciation": "/fat'tʃamo/",
+        "english": "we do/make",
+        "example": "Noi facciamo yoga ogni martedì sera.",
+        "example_english": "We do yoga every Tuesday evening."
+      },
+      "voi": {
+        "conjugation": "fate",
+        "pronunciation": "/'fate/",
+        "english": "you do/make",
+        "example": "Voi fate sempre tutto con grande precisione.",
+        "example_english": "You always do everything with great precision."
+      },
+      "loro": {
+        "conjugation": "fanno",
+        "pronunciation": "/'fanno/",
+        "english": "they do/make",
+        "example": "I bambini fanno molte domande curiose.",
+        "example_english": "The children ask many curious questions."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "farò",
+        "pronunciation": "/fa'ro/",
+        "english": "I will do/make",
+        "example": "Domani farò un esame molto importante.",
+        "example_english": "Tomorrow I will take a very important exam."
+      },
+      "tu": {
+        "conjugation": "farai",
+        "pronunciation": "/fa'rai/",
+        "english": "you will do/make",
+        "example": "Tu farai sicuramente carriera in questo campo.",
+        "example_english": "You will surely make a career in this field."
+      },
+      "lui": {
+        "conjugation": "farà",
+        "pronunciation": "/fa'ra/",
+        "english": "he/she/it will do/make",
+        "example": "Il chef farà una cena speciale per l'anniversario.",
+        "example_english": "The chef will make a special dinner for the anniversary."
+      },
+      "noi": {
+        "conjugation": "faremo",
+        "pronunciation": "/fa'remo/",
+        "english": "we will do/make",
+        "example": "La prossima settimana faremo una gita in montagna.",
+        "example_english": "Next week we will take a trip to the mountains."
+      },
+      "voi": {
+        "conjugation": "farete",
+        "pronunciation": "/fa'rete/",
+        "english": "you will do/make",
+        "example": "Voi farete un'ottima impressione al colloquio.",
+        "example_english": "You will make an excellent impression at the interview."
+      },
+      "loro": {
+        "conjugation": "faranno",
+        "pronunciation": "/fa'ranno/",
+        "english": "they will do/make",
+        "example": "Gli architetti faranno un progetto innovativo.",
+        "example_english": "The architects will create an innovative project."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho fatto",
+        "pronunciation": "/'ɔ 'fatto/",
+        "english": "I did/have done",
+        "example": "Ho fatto tutti i compiti prima di uscire.",
+        "example_english": "I did all my homework before going out."
+      },
+      "tu": {
+        "conjugation": "hai fatto",
+        "pronunciation": "/'ai 'fatto/",
+        "english": "you did/have done",
+        "example": "Tu hai fatto un ottimo lavoro con questo progetto.",
+        "example_english": "You did an excellent job with this project."
+      },
+      "lui": {
+        "conjugation": "ha fatto",
+        "pronunciation": "/'a 'fatto/",
+        "english": "he/she/it did/has done",
+        "example": "Il medico ha fatto una diagnosi accurata.",
+        "example_english": "The doctor made an accurate diagnosis."
+      },
+      "noi": {
+        "conjugation": "abbiamo fatto",
+        "pronunciation": "/ab'bjamo 'fatto/",
+        "english": "we did/have done",
+        "example": "Abbiamo fatto una bella passeggiata nel parco.",
+        "example_english": "We took a nice walk in the park."
+      },
+      "voi": {
+        "conjugation": "avete fatto",
+        "pronunciation": "/a'vete 'fatto/",
+        "english": "you did/have done",
+        "example": "Voi avete fatto la scelta giusta per il futuro.",
+        "example_english": "You made the right choice for the future."
+      },
+      "loro": {
+        "conjugation": "hanno fatto",
+        "pronunciation": "/'anno 'fatto/",
+        "english": "they did/have done",
+        "example": "I musicisti hanno fatto un concerto straordinario.",
+        "example_english": "The musicians gave an extraordinary concert."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "fatto",
+    "pronunciation": "/'fatto/",
+    "english": "done/made",
+    "example": "Il lavoro è stato fatto con grande cura e attenzione.",
+    "example_english": "The work was done with great care and attention."
+  }
+}

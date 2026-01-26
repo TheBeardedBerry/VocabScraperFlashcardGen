@@ -1,6 +1,6 @@
 {
   "infinitive": "essere",
-  "infinitive_pronunciation": "/'essere/",
+  "infinitive_pronunciation": "/ˈɛssere/",
   "english": "to be",
   "regular": false,
   "auxiliary": "essere",
@@ -144,5 +144,8 @@
     "english": "been",
     "example": "Il negozio è stato chiuso per ristrutturazione.",
     "example_english": "The store has been closed for renovation."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "Fundamental copula verb used for permanent characteristics, identity, and location with essere auxiliary",
+  "synonyms": "stare"
 }

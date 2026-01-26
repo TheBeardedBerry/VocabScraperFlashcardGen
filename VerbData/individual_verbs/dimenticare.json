@@ -1,6 +1,6 @@
 {
   "infinitive": "dimenticare",
-  "infinitive_pronunciation": "/dimentiˈkaːre/",
+  "infinitive_pronunciation": "/dimenti'kare/",
   "english": "to forget",
   "regular": true,
   "auxiliary": "avere",
@@ -144,5 +144,8 @@
     "english": "forgotten",
     "example": "Un nome dimenticato da tutti.",
     "example_english": "A name forgotten by everyone."
-  }
+  },
+  "part_of_speech": "verb",
+  "context": "To forget something or someone; loss of memory",
+  "synonyms": "scordare,non ricordare"
 }
