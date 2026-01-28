@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "volate",
         "pronunciation": "/volate/",
-        "english": "you fly",
+        "english": "you all fly",
         "example": "Voi volate bene?",
         "example_english": "Do you fly well?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "volerete",
         "pronunciation": "/volerete/",
-        "english": "you (plural) will fly",
+        "english": "you all will fly",
         "example": "Voi volerete bene?",
         "example_english": "Do you fly well?"
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete volato",
         "pronunciation": "/avete/",
-        "english": "you (plural) flyed",
+        "english": "you all flyed",
         "example": "Ieri avete volato.",
         "example_english": "Yesterday you (plural) flyed."
       },

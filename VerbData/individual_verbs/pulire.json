@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "pulite",
         "pronunciation": "/pulite/",
-        "english": "you clean",
+        "english": "you all clean",
         "example": "Voi pulite bene?",
         "example_english": "Do you clean well?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "pulirete",
         "pronunciation": "/pulirete/",
-        "english": "you (plural) will clean",
+        "english": "you all will clean",
         "example": "Voi pulirete bene?",
         "example_english": "Do you clean well?"
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete pulito",
         "pronunciation": "/avete/",
-        "english": "you (plural) cleaned",
+        "english": "you all cleaned",
         "example": "Ieri avete pulito.",
         "example_english": "Yesterday you (plural) cleaned."
       },

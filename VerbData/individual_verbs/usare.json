@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "usate",
         "pronunciation": "/usate/",
-        "english": "you use",
+        "english": "you all use",
         "example": "Voi usate bene?",
         "example_english": "Do you use well?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "userete",
         "pronunciation": "/userete/",
-        "english": "you (plural) will use",
+        "english": "you all will use",
         "example": "Voi userete bene?",
         "example_english": "Do you use well?"
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete usato",
         "pronunciation": "/avete/",
-        "english": "you (plural) used",
+        "english": "you all used",
         "example": "Ieri avete usato.",
         "example_english": "Yesterday you (plural) used."
       },

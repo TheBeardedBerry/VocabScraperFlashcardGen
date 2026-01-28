@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "ridete",
         "pronunciation": "/ridete/",
-        "english": "you laugh",
+        "english": "you all laugh",
         "example": "Voi ridete bene?",
         "example_english": "Do you laugh well?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "riderete",
         "pronunciation": "/riderete/",
-        "english": "you (plural) will laugh",
+        "english": "you all will laugh",
         "example": "Voi riderete bene?",
         "example_english": "Do you laugh well?"
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete riduto",
         "pronunciation": "/avete/",
-        "english": "you (plural) laughed",
+        "english": "you all laughed",
         "example": "Ieri avete riduto.",
         "example_english": "Yesterday you (plural) laughed."
       },

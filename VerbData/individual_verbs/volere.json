@@ -37,7 +37,7 @@
       "voi": {
         "conjugation": "volete",
         "pronunciation": "/vo'lete/",
-        "english": "you want",
+        "english": "you all want",
         "example": "Voi volete mangiare la pizza?",
         "example_english": "Do you want to eat pizza?"
       },
@@ -81,7 +81,7 @@
       "voi": {
         "conjugation": "vorrete",
         "pronunciation": "/vor'rete/",
-        "english": "you will want",
+        "english": "you all will want",
         "example": "Voi vorrete aiuto con i compiti.",
         "example_english": "You will want help with homework."
       },
@@ -125,7 +125,7 @@
       "voi": {
         "conjugation": "avete voluto",
         "pronunciation": "/a'vete vo'luto/",
-        "english": "you wanted/have wanted",
+        "english": "you all wanted/have wanted",
         "example": "Avete voluto visitare quel museo?",
         "example_english": "Did you want to visit that museum?"
       },

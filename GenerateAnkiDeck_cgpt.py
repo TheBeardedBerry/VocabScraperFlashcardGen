@@ -70,14 +70,14 @@ def get_italian_verb_model(json_data: dict, irregular=False) -> genanki.Model:
     # Infinitive cards
     templates.append({
         "name": "Infinitive - En->It",
-        "qfmt": "{{English}}",
-        "afmt": "{{FrontSide}}<hr id=\"answer\">" + "<b>Infinitive:</b> {{Infinitive}}" + BACK_COMMON
+        "qfmt": "<div style='font-size:24px;'>{{English}}</div>",
+        "afmt": "{{FrontSide}}<hr id=\"answer\">" + "<div style='font-size:24px;'>{{Infinitive}}</div>" + BACK_COMMON
     })
 
     templates.append({
         "name": "Infinitive - It->En",
-        "qfmt": "{{Infinitive}}",
-        "afmt": "{{FrontSide}}<hr id=\"answer\">" + "<b>English:</b> {{English}}" + BACK_COMMON
+        "qfmt": "<div style='font-size:24px;'>{{Infinitive}}</div>",
+        "afmt": "{{FrontSide}}<hr id=\"answer\">" + "<div style='font-size:24px;'>{{English}}</div>" + BACK_COMMON
     })
 
     valid_tenses = ["presente"]
@@ -102,24 +102,24 @@ def get_italian_verb_model(json_data: dict, irregular=False) -> genanki.Model:
             print(f"{tense} {person} - En->It")
             templates.append({
                 "name": f"{tense} {person} - En->It",
-                "qfmt": f"{{{{{prefix}_english}}}}",
+                "qfmt": f"<div style='font-size:24px;'>{{{{{prefix}_english}}}}</div>",
                 "afmt": ("{{FrontSide}}<hr id=\"answer\">"
-                         f"{{{{{prefix}_conjugation}}}}<br><br>") + back
+                         f"<div style='font-size:24px;'>{{{{{prefix}_conjugation}}}}</div><br><br>") + back
             })
             templates.append({
                 "name": f"{tense} {person} - It->En",
-                "qfmt": f"{{{{{prefix}_conjugation}}}}",
+                "qfmt": f"<div style='font-size:24px;'>{{{{{prefix}_conjugation}}}}</div>",
                 "afmt": ("{{FrontSide}}<hr id=\"answer\">"
-                         f"{{{{{prefix}_english}}}}<br><br>") + back
+                         f"<div style='font-size:24px;'>{{{{{prefix}_english}}}}</div><br><br>") + back
             })
 
     #legacy
-    if irregular:
-        model_id = stable_id("IrregularVerbModel_Blah")
-        model_name = "IrregularVerbs"
-    else:
+    if not irregular:
         model_id = stable_id("VerbModel_stuff")
         model_name = "Verbs"
+    else:
+        model_id = stable_id("IrregularVerbModel_Blah")
+        model_name = "IrregularVerbs"
 
     return genanki.Model(
         model_id,
@@ -297,6 +297,7 @@ def create_decks_from_folder(json_folder: str, output_folder: str = "."):
                 else:
                     print(f"    Warning: Could not find JSON file for {verb_infinitive}")
 
+            print(verb_data["regular"])
             if verb_data["regular"]:
                 model_to_use = model
             else:

@@ -37,7 +37,7 @@
       "voi": {
         "conjugation": "potete",
         "pronunciation": "/po'tete/",
-        "english": "you can/are able",
+        "english": "you all can/are able",
         "example": "Voi potete aiutarci a spostare questi mobili pesanti nel appartamento nuovo?",
         "example_english": "Can you help us move this heavy furniture to new apartment?"
       },
@@ -81,7 +81,7 @@
       "voi": {
         "conjugation": "potrete",
         "pronunciation": "/po'trete/",
-        "english": "you will be able",
+        "english": "you all will be able",
         "example": "Voi potrete scegliere il ristorante.",
         "example_english": "You will be able to choose the restaurant."
       },
@@ -125,7 +125,7 @@
       "voi": {
         "conjugation": "avete potuto",
         "pronunciation": "/a'vete po'tuto/",
-        "english": "you were able/could",
+        "english": "you all were able/could",
         "example": "Avete potuto risolvere il problema tecnico che bloccava il computer?",
         "example_english": "Were you able to solve technical problem that was blocking computer?"
       },

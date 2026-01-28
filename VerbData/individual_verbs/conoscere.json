@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "conoscete",
         "pronunciation": "/ko-no-she-te/",
-        "english": "you know",
+        "english": "you all know",
         "example": "Voi conoscete la strada per arrivare al centro commerciale nuovo o serve il navigatore?",
         "example_english": "Do you know the way to get to the new shopping center or do we need GPS?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "conoscerete",
         "pronunciation": "/ko-no-she-re-te/",
-        "english": "you will know",
+        "english": "you all will know",
         "example": "Voi conoscerete presto.",
         "example_english": "You will know soon."
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete conosciuto",
         "pronunciation": "/a-ve-te ko-no-shu-to/",
-        "english": "you knew/have known",
+        "english": "you all knew/have known",
         "example": "Avete conosciuto persone interessanti durante il corso di cucina che avete frequentato insieme?",
         "example_english": "Did you meet interesting people during the cooking course you attended together?"
       },

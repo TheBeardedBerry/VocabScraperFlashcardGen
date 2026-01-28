@@ -37,7 +37,7 @@
       "voi": {
         "conjugation": "rispondete",
         "pronunciation": "/rispondete/",
-        "english": "you answer",
+        "english": "you all answer",
         "example": "Voi rispondete bene?",
         "example_english": "Do you answer well?"
       },
@@ -81,7 +81,7 @@
       "voi": {
         "conjugation": "risponderete",
         "pronunciation": "/risponderete/",
-        "english": "you (plural) will answer",
+        "english": "you all will answer",
         "example": "Voi risponderete bene?",
         "example_english": "Do you answer well?"
       },
@@ -125,7 +125,7 @@
       "voi": {
         "conjugation": "avete risponduto",
         "pronunciation": "/avete/",
-        "english": "you (plural) answered",
+        "english": "you all answered",
         "example": "Ieri avete risponduto.",
         "example_english": "Yesterday you (plural) answered."
       },

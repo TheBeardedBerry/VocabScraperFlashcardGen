@@ -37,7 +37,7 @@
       "voi": {
         "conjugation": "studiate",
         "pronunciation": "/stu'djate/",
-        "english": "you study",
+        "english": "you all study",
         "example": "Studiate in biblioteca o a casa?",
         "example_english": "Do you study at the library or at home?"
       },
@@ -81,7 +81,7 @@
       "voi": {
         "conjugation": "studierete",
         "pronunciation": "/studje'rete/",
-        "english": "you will study",
+        "english": "you all will study",
         "example": "Studierete all'estero il prossimo semestre?",
         "example_english": "Will you study abroad next semester?"
       },
@@ -125,7 +125,7 @@
       "voi": {
         "conjugation": "avete studiato",
         "pronunciation": "/a'vete stu'djato/",
-        "english": "you studied/have studied",
+        "english": "you all studied/have studied",
         "example": "Avete già studiato questo argomento l'anno scorso?",
         "example_english": "Did you already study this topic last year?"
       },

@@ -47,7 +47,7 @@
       "voi": {
         "conjugation": "suonate",
         "pronunciation": "/suonate/",
-        "english": "you play (instrument)",
+        "english": "you all play (instrument)",
         "example": "Voi suonate bene?",
         "example_english": "Do you play (instrument) well?"
       },
@@ -91,7 +91,7 @@
       "voi": {
         "conjugation": "suonerete",
         "pronunciation": "/suonerete/",
-        "english": "you (plural) will play (instrument)",
+        "english": "you all will play (instrument)",
         "example": "Voi suonerete bene?",
         "example_english": "Do you play (instrument) well?"
       },
@@ -135,7 +135,7 @@
       "voi": {
         "conjugation": "avete suonato",
         "pronunciation": "/avete/",
-        "english": "you (plural) play (instrument)ed",
+        "english": "you all play (instrument)ed",
         "example": "Ieri avete suonato.",
         "example_english": "Yesterday you (plural) play (instrument)ed."
       },
