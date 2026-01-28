@@ -93,7 +93,7 @@
         "example_english": "They wrote a song together."
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "scriverò",
         "pronunciation": "/skri.ve.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To write text, letters, books, or messages",
-  "synonyms": "redigere,comporre"
+  "synonyms": "redigere,comporre",
+  "deck_guid": "492168412665",
+  "note_guid": 278928712680,
+  "deck_name": "Italian::A1::Verbs::scegliere_telefonare"
 }

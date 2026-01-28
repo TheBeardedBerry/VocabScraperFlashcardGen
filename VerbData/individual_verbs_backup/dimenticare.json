@@ -1,0 +1,151 @@
+{
+  "infinitive": "dimenticare",
+  "infinitive_pronunciation": "/dimenti'kare/",
+  "english": "to forget",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "dimentico",
+        "pronunciation": "/diˈmentiko/",
+        "english": "I forget",
+        "example": "Dimentico sempre dove ho messo le chiavi quando ho fretta di uscire di casa",
+        "example_english": "I always forget where I put my keys when I'm in a hurry to leave home"
+      },
+      "tu": {
+        "conjugation": "dimentichi",
+        "pronunciation": "/diˈmentiki/",
+        "english": "you forget",
+        "example": "Tu dimentichi mai i compleanni delle persone che ami di più nella vita?",
+        "example_english": "Do you ever forget the birthdays of people you love most in life?"
+      },
+      "lui": {
+        "conjugation": "dimentica",
+        "pronunciation": "/diˈmentika/",
+        "english": "he/she/it forgets",
+        "example": "Lei dimentica spesso gli appuntamenti importanti perché non usa mai l'agenda elettronica",
+        "example_english": "She often forgets important appointments because she never uses an electronic calendar"
+      },
+      "noi": {
+        "conjugation": "dimentichiamo",
+        "pronunciation": "/dimentiˈkjaːmo/",
+        "english": "we forget",
+        "example": "Dimentichiamo facilmente i torti subiti perché preferiamo guardare sempre al futuro",
+        "example_english": "We easily forget wrongs suffered because we prefer to always look to the future"
+      },
+      "voi": {
+        "conjugation": "dimenticate",
+        "pronunciation": "/dimentiˈkaːte/",
+        "english": "you forget",
+        "example": "Voi dimenticate spesso di spegnere le luci quando uscite dalla stanza di casa?",
+        "example_english": "Do you often forget to turn off lights when leaving rooms in the house?"
+      },
+      "loro": {
+        "conjugation": "dimenticano",
+        "pronunciation": "/diˈmentikano/",
+        "english": "they forget",
+        "example": "Dimenticano sempre di chiamare i genitori per dire che sono arrivati sani",
+        "example_english": "They always forget to call their parents to say they arrived safely"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "dimenticerò",
+        "pronunciation": "/dimentikeˈroː/",
+        "english": "I will forget",
+        "example": "Dimenticherò tutti i brutti momenti passati per concentrarmi solo sulle cose belle",
+        "example_english": "I will forget all past bad moments to focus only on beautiful things"
+      },
+      "tu": {
+        "conjugation": "dimenticerai",
+        "pronunciation": "/dimentikeˈraːi/",
+        "english": "you (informal) will forget",
+        "example": "Tu dimenticherai mai le parole crudeli che ti hanno detto durante quella discussione?",
+        "example_english": "Will you ever forget the cruel words they said to you during that argument?"
+      },
+      "lui": {
+        "conjugation": "dimenticerà",
+        "pronunciation": "/dimentikeˈraː/",
+        "english": "he/she/it will forget",
+        "example": "Lei dimenticherà presto questo dispiacere e tornerà a sorridere come prima",
+        "example_english": "She will soon forget this sorrow and return to smiling like before"
+      },
+      "noi": {
+        "conjugation": "dimenticeremo",
+        "pronunciation": "/dimentikeˈreːmo/",
+        "english": "we will forget",
+        "example": "Dimenticheremo le difficoltà di questo periodo quando tutto sarà finalmente risolto",
+        "example_english": "We will forget the difficulties of this period when everything is finally resolved"
+      },
+      "voi": {
+        "conjugation": "dimenticerete",
+        "pronunciation": "/dimentikeˈreːte/",
+        "english": "you (plural) will forget",
+        "example": "Voi dimenticherete di annaffiare le piante se non mettete un promemoria sul telefono?",
+        "example_english": "Will you forget to water the plants if you don't put a reminder on your phone?"
+      },
+      "loro": {
+        "conjugation": "dimenticeranno",
+        "pronunciation": "/dimentikeˈranno/",
+        "english": "they will forget",
+        "example": "Dimenticheranno questa brutta esperienza quando inizieranno la nuova vita in un'altra città",
+        "example_english": "They will forget this bad experience when they start their new life in another city"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho dimenticato",
+        "pronunciation": "/ˈɔ dimentiˈkaːto/",
+        "english": "I forgot",
+        "example": "Ho dimenticato completamente l'appuntamento dal medico che avevo prenotato da settimane",
+        "example_english": "I completely forgot the doctor's appointment I had booked weeks ago"
+      },
+      "tu": {
+        "conjugation": "hai dimenticato",
+        "pronunciation": "/ˈaːi dimentiˈkaːto/",
+        "english": "you (informal) forgot",
+        "example": "Hai dimenticato di comprare il regalo per il compleanno di tua madre?",
+        "example_english": "Did you forget to buy the gift for your mother's birthday?"
+      },
+      "lui": {
+        "conjugation": "ha dimenticato",
+        "pronunciation": "/ˈa dimentiˈkaːto/",
+        "english": "he/she/it forgot",
+        "example": "Ha dimenticato il portafoglio a casa e non ha potuto pagare il conto",
+        "example_english": "He forgot his wallet at home and couldn't pay the bill"
+      },
+      "noi": {
+        "conjugation": "abbiamo dimenticato",
+        "pronunciation": "/abˈbjaːmo dimentiˈkaːto/",
+        "english": "we forgot",
+        "example": "Abbiamo dimenticato di prenotare il ristorante per la cena romantica di anniversario",
+        "example_english": "We forgot to book the restaurant for the romantic anniversary dinner"
+      },
+      "voi": {
+        "conjugation": "avete dimenticato",
+        "pronunciation": "/aˈveːte dimentiˈkaːto/",
+        "english": "you (plural) forgot",
+        "example": "Avete dimenticato di chiudere il gas prima di partire per le vacanze estive?",
+        "example_english": "Did you forget to turn off the gas before leaving for summer vacation?"
+      },
+      "loro": {
+        "conjugation": "hanno dimenticato",
+        "pronunciation": "/ˈanno dimentiˈkaːto/",
+        "english": "they forgot",
+        "example": "Hanno dimenticato tutto il dolore del passato e hanno ricominciato una nuova vita",
+        "example_english": "They forgot all past pain and started a new life"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "dimenticato",
+    "pronunciation": "/dimentiˈkaːto/",
+    "english": "forgotten",
+    "example": "Un nome dimenticato da tutti.",
+    "example_english": "A name forgotten by everyone."
+  },
+  "part_of_speech": "verb",
+  "context": "To forget something or someone; loss of memory",
+  "synonyms": "scordare,non ricordare"
+}

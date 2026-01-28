@@ -20,43 +20,43 @@
         "conjugation": "fumo",
         "pronunciation": "/fumo/",
         "english": "I smoke",
-        "example": "Io fumo ogni giorno.",
-        "example_english": "I smoke every day."
+        "example": "Fumo sempre una sigaretta dopo i pasti principali anche se so che fa male",
+        "example_english": "I always smoke a cigarette after main meals even though I know it's bad"
       },
       "tu": {
         "conjugation": "fumi",
         "pronunciation": "/fumi/",
         "english": "you smoke",
-        "example": "Tu fumi bene.",
-        "example_english": "You smoke well."
+        "example": "Tu fumi ancora come quando eri giovane o hai smesso per motivi di salute?",
+        "example_english": "Do you still smoke like when you were young or did you quit for health reasons?"
       },
       "lui": {
         "conjugation": "fuma",
         "pronunciation": "/fuma/",
         "english": "he/she/it smokes",
-        "example": "Lei fuma molto.",
-        "example_english": "She smoke a lot."
+        "example": "Lei fuma solo durante le feste perché dice che la rilassa e la diverte",
+        "example_english": "She only smokes during parties because she says it relaxes and entertains her"
       },
       "noi": {
         "conjugation": "fumiamo",
         "pronunciation": "/fumiamo/",
         "english": "we smoke",
-        "example": "Noi fumiamo insieme.",
-        "example_english": "We smoke together."
+        "example": "Non fumiamo mai in casa perché rispettiamo la salute di tutti i membri",
+        "example_english": "We never smoke at home because we respect the health of all members"
       },
       "voi": {
         "conjugation": "fumate",
         "pronunciation": "/fumate/",
         "english": "you smoke",
-        "example": "Voi fumate bene?",
-        "example_english": "Do you smoke well?"
+        "example": "Voi fumate spesso durante le pause di lavoro o avete smesso completamente?",
+        "example_english": "Do you often smoke during work breaks or have you quit completely?"
       },
       "loro": {
         "conjugation": "fumano",
         "pronunciation": "/fumano/",
         "english": "they smoke",
-        "example": "Loro fumano spesso.",
-        "example_english": "They smoke often."
+        "example": "Fumano sempre fuori dal ristorante perché all'interno è severamente vietato dalla legge",
+        "example_english": "They always smoke outside the restaurant because indoors it's strictly prohibited by law"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho fumato",
         "pronunciation": "/ho fumato/",
         "english": "I smoked",
-        "example": "Ieri ho fumato.",
-        "example_english": "Yesterday i smoked."
+        "example": "Ho smesso di fumare tre anni fa e ora mi sento molto meglio",
+        "example_english": "I quit smoking three years ago and now I feel much better"
       },
       "tu": {
         "conjugation": "hai fumato",
         "pronunciation": "/hai/",
         "english": "you (informal) smoked",
-        "example": "Ieri hai fumato.",
-        "example_english": "Yesterday you (informal) smoked."
+        "example": "Hai mai fumato durante la gravidanza o hai smesso immediatamente?",
+        "example_english": "Did you ever smoke during pregnancy or did you quit immediately?"
       },
       "lui": {
         "conjugation": "ha fumato",
         "pronunciation": "/ha fumato/",
         "english": "he/she/it smoked",
-        "example": "Ieri ha fumato.",
-        "example_english": "Yesterday he/she/it smoked."
+        "example": "Ha fumato per trent'anni prima di decidere di smettere per sempre",
+        "example_english": "He smoked for thirty years before deciding to quit forever"
       },
       "noi": {
         "conjugation": "abbiamo fumato",
         "pronunciation": "/abbiamo/",
         "english": "we smoked",
-        "example": "Ieri abbiamo fumato.",
-        "example_english": "Yesterday we smoked."
+        "example": "Abbiamo smesso di fumare insieme durante la stessa settimana per motivarci",
+        "example_english": "We quit smoking together during the same week to motivate each other"
       },
       "voi": {
         "conjugation": "avete fumato",
         "pronunciation": "/avete/",
         "english": "you (plural) smoked",
-        "example": "Ieri avete fumato.",
-        "example_english": "Yesterday you (plural) smoked."
+        "example": "Avete mai fumato solo per curiosità durante l'adolescenza ribelle?",
+        "example_english": "Did you ever smoke just out of curiosity during rebellious adolescence?"
       },
       "loro": {
         "conjugation": "hanno fumato",
         "pronunciation": "/hanno/",
         "english": "they smoked",
-        "example": "Ieri hanno fumato.",
-        "example_english": "Yesterday they smoked."
+        "example": "Hanno smesso di fumare dopo aver visto i terribili effetti sui loro genitori",
+        "example_english": "They quit smoking after seeing terrible effects on their parents"
       }
     }
-  }
+  },
+  "deck_guid": "817402220559",
+  "note_guid": 521297183226,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

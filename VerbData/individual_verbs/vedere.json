@@ -93,7 +93,7 @@
         "example_english": "They saw an incredible show."
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "vedrò",
         "pronunciation": "/ve.ˈdrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To see with eyes or watch visually; observe",
-  "synonyms": "guardare,osservare"
+  "synonyms": "guardare,osservare",
+  "deck_guid": "445683909629",
+  "note_guid": 62256635352,
+  "deck_name": "Italian::A1::Verbs::uscire_volere"
 }

@@ -1,0 +1,151 @@
+{
+  "infinitive": "pagare",
+  "infinitive_pronunciation": "/pa'gare/",
+  "english": "to pay",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "pago",
+        "pronunciation": "/ˈpa.ɡo/",
+        "english": "I pay",
+        "example": "Pago sempre in contanti perché non mi fido completamente delle carte di credito",
+        "example_english": "I always pay in cash because I don't completely trust credit cards"
+      },
+      "tu": {
+        "conjugation": "paghi",
+        "pronunciation": "/ˈpa.ɡi/",
+        "english": "you pay",
+        "example": "Tu paghi mai con il bancomat o preferisci sempre usare denaro contante?",
+        "example_english": "Do you ever pay with debit card or do you always prefer using cash?"
+      },
+      "lui": {
+        "conjugation": "paga",
+        "pronunciation": "/ˈpa.ɡa/",
+        "english": "he/she/it pays",
+        "example": "Lei paga tutte le bollette puntualmente per evitare interessi di mora",
+        "example_english": "She pays all bills punctually to avoid late payment interest"
+      },
+      "noi": {
+        "conjugation": "paghiamo",
+        "pronunciation": "/paˈɡja.mo/",
+        "english": "we pay",
+        "example": "Paghiamo a turno quando usciamo a cena insieme per essere sempre equi",
+        "example_english": "We take turns paying when going out for dinner together to always be fair"
+      },
+      "voi": {
+        "conjugation": "pagate",
+        "pronunciation": "/paˈɡa.te/",
+        "english": "you pay",
+        "example": "Voi pagate spesso con il telefono o usate ancora metodi tradizionali?",
+        "example_english": "Do you often pay with phone or do you still use traditional methods?"
+      },
+      "loro": {
+        "conjugation": "pagano",
+        "pronunciation": "/ˈpa.ɡa.no/",
+        "english": "they pay",
+        "example": "Pagano sempre il prezzo pieno senza mai chiedere sconti ai commercianti",
+        "example_english": "They always pay full price without ever asking merchants for discounts"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "pagerò",
+        "pronunciation": "/pa.ɡeˈro/",
+        "english": "I will pay",
+        "example": "Pagherò tutti i debiti che ho contratto durante gli anni universitari difficili",
+        "example_english": "I will pay all debts I contracted during difficult university years"
+      },
+      "tu": {
+        "conjugation": "pagerai",
+        "pronunciation": "/pa.ɡeˈraj/",
+        "english": "you will pay",
+        "example": "Tu pagherai finalmente quella multa che hai ricevuto per divieto di sosta?",
+        "example_english": "Will you finally pay that fine you received for parking violation?"
+      },
+      "lui": {
+        "conjugation": "pagerà",
+        "pronunciation": "/pa.ɡeˈra/",
+        "english": "he/she/it will pay",
+        "example": "Lei pagherà la casa con un mutuo trentennale dalla banca locale",
+        "example_english": "She will pay for house with thirty-year mortgage from local bank"
+      },
+      "noi": {
+        "conjugation": "pageremo",
+        "pronunciation": "/pa.ɡeˈre.mo/",
+        "english": "we will pay",
+        "example": "Pagheremo insieme le spese del matrimonio dividendo tutto a metà equamente",
+        "example_english": "We will pay wedding expenses together splitting everything in half equally"
+      },
+      "voi": {
+        "conjugation": "pagerete",
+        "pronunciation": "/pa.ɡeˈre.te/",
+        "english": "you will pay",
+        "example": "Voi pagherete le tasse universitarie o avrete una borsa di studio completa?",
+        "example_english": "Will you pay university tuition or will you have complete scholarship?"
+      },
+      "loro": {
+        "conjugation": "pageranno",
+        "pronunciation": "/pa.ɡeˈran.no/",
+        "english": "they will pay",
+        "example": "Pagheranno il prezzo delle loro azioni quando la verità verrà alla luce",
+        "example_english": "They will pay price for their actions when truth comes to light"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho pagato",
+        "pronunciation": "/o paˈɡa.to/",
+        "english": "I paid",
+        "example": "Ho pagato troppo per quella macchina usata che si è rotta subito",
+        "example_english": "I paid too much for that used car that broke immediately"
+      },
+      "tu": {
+        "conjugation": "hai pagato",
+        "pronunciation": "/aj paˈɡa.to/",
+        "english": "you paid",
+        "example": "Hai pagato il conto del ristorante o dobbiamo ancora dividere la spesa?",
+        "example_english": "Did you pay restaurant bill or do we still need to split expense?"
+      },
+      "lui": {
+        "conjugation": "ha pagato",
+        "pronunciation": "/a paˈɡa.to/",
+        "english": "he/she/it paid",
+        "example": "Ha pagato un prezzo alto per imparare quella lezione di vita importante",
+        "example_english": "He paid high price to learn that important life lesson"
+      },
+      "noi": {
+        "conjugation": "abbiamo pagato",
+        "pronunciation": "/abˈbja.mo paˈɡa.to/",
+        "english": "we paid",
+        "example": "Abbiamo pagato in anticipo tutto il viaggio per ottenere uno sconto",
+        "example_english": "We paid entire trip in advance to get discount"
+      },
+      "voi": {
+        "conjugation": "avete pagato",
+        "pronunciation": "/aˈve.te paˈɡa.to/",
+        "english": "you paid",
+        "example": "Avete pagato le tasse sulla casa entro la scadenza stabilita dal comune?",
+        "example_english": "Did you pay house taxes by deadline established by municipality?"
+      },
+      "loro": {
+        "conjugation": "hanno pagato",
+        "pronunciation": "/ˈan.no paˈɡa.to/",
+        "english": "they paid",
+        "example": "Hanno pagato le conseguenze delle loro scelte sbagliate fatte in gioventù",
+        "example_english": "They paid consequences of their wrong choices made in youth"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "pagato",
+    "pronunciation": "/paˈɡa.to/",
+    "english": "paid",
+    "example": "Il conto è stato pagato.",
+    "example_english": "The bill has been paid."
+  },
+  "part_of_speech": "verb",
+  "context": "To pay money for goods, services, or debts",
+  "synonyms": "versare,saldare"
+}

@@ -1,0 +1,161 @@
+{
+  "infinitive": "capire",
+  "infinitive_pronunciation": "/ka'pire/",
+  "english": "to understand",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "capisco",
+        "pronunciation": "/ka.ˈpi.sko/",
+        "english": "I understand",
+        "example": "Capisco sempre quando qualcuno mi sta mentendo perché osservo attentamente le espressioni facciali",
+        "example_english": "I always understand when someone is lying to me because I carefully observe facial expressions"
+      },
+      "tu": {
+        "conjugation": "capisci",
+        "pronunciation": "/ka.ˈpi.ʃi/",
+        "english": "you understand",
+        "example": "Tu capisci la matematica avanzata o hai bisogno di aiuto con i problemi più difficili?",
+        "example_english": "Do you understand advanced mathematics or do you need help with the most difficult problems?"
+      },
+      "lui": {
+        "conjugation": "capisce",
+        "pronunciation": "/ka.ˈpi.ʃe/",
+        "english": "he/she/it understands",
+        "example": "Lei capisce perfettamente cinque lingue straniere grazie ai suoi viaggi internazionali frequenti",
+        "example_english": "She perfectly understands five foreign languages thanks to her frequent international travels"
+      },
+      "noi": {
+        "conjugation": "capiamo",
+        "pronunciation": "/ka.ˈpja.mo/",
+        "english": "we understand",
+        "example": "Capiamo tutti l'importanza di studiare per avere un futuro migliore e più sicuro",
+        "example_english": "We all understand the importance of studying to have a better and more secure future"
+      },
+      "voi": {
+        "conjugation": "capite",
+        "pronunciation": "/ka.ˈpi.te/",
+        "english": "you understand",
+        "example": "Voi capite mai le istruzioni complicate dei manuali tecnici senza chiedere aiuto?",
+        "example_english": "Do you ever understand complicated instructions in technical manuals without asking for help?"
+      },
+      "loro": {
+        "conjugation": "capiscono",
+        "pronunciation": "/ka.ˈpi.sko.no/",
+        "english": "they understand",
+        "example": "Capiscono immediatamente quando è il momento giusto per parlare durante le riunioni importanti",
+        "example_english": "They immediately understand when it's the right time to speak during important meetings"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho capito",
+        "pronunciation": "/o ka.ˈpi.to/",
+        "english": "I understood/have understood",
+        "example": "Ho capito immediatamente che quella persona non era sincera dalle sue parole ambigue",
+        "example_english": "I immediately understood that that person wasn't sincere from their ambiguous words"
+      },
+      "tu": {
+        "conjugation": "hai capito",
+        "pronunciation": "/ˈaj ka.ˈpi.to/",
+        "english": "you understood/have understood",
+        "example": "Hai finalmente capito come funziona il nuovo computer dopo ore di prove e errori?",
+        "example_english": "Did you finally understand how the new computer works after hours of trial and error?"
+      },
+      "lui": {
+        "conjugation": "ha capito",
+        "pronunciation": "/a ka.ˈpi.to/",
+        "english": "he/she/it understood/has understood",
+        "example": "Ha capito l'errore che aveva commesso solo dopo aver sentito le spiegazioni dettagliate",
+        "example_english": "He understood the mistake he had made only after hearing the detailed explanations"
+      },
+      "noi": {
+        "conjugation": "abbiamo capito",
+        "pronunciation": "/ab.ˈbja.mo ka.ˈpi.to/",
+        "english": "we understood/have understood",
+        "example": "Abbiamo capito che era meglio rimandare il viaggio a causa del tempo incerto",
+        "example_english": "We understood it was better to postpone the trip due to uncertain weather"
+      },
+      "voi": {
+        "conjugation": "avete capito",
+        "pronunciation": "/a.ˈve.te ka.ˈpi.to/",
+        "english": "you understood/have understood",
+        "example": "Avete capito le ragioni del suo comportamento strano durante l'ultima settimana di lavoro?",
+        "example_english": "Did you understand the reasons for his strange behavior during the last week of work?"
+      },
+      "loro": {
+        "conjugation": "hanno capito",
+        "pronunciation": "/ˈan.no ka.ˈpi.to/",
+        "english": "they understood/have understood",
+        "example": "Hanno capito troppo tardi che avrebbero dovuto ascoltare i consigli dei genitori saggi",
+        "example_english": "They understood too late that they should have listened to their wise parents' advice"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "capirò",
+        "pronunciation": "/ka.pi.ˈrɔ/",
+        "english": "I will understand",
+        "example": "Capirò finalmente il significato di quella poesia complessa dopo aver studiato letteratura",
+        "example_english": "I will finally understand the meaning of that complex poem after studying literature"
+      },
+      "tu": {
+        "conjugation": "capirai",
+        "pronunciation": "/ka.pi.ˈraj/",
+        "english": "you will understand",
+        "example": "Tu capirai l'importanza della famiglia quando avrai dei figli tutti tuoi da crescere?",
+        "example_english": "Will you understand the importance of family when you have children of your own to raise?"
+      },
+      "lui": {
+        "conjugation": "capirà",
+        "pronunciation": "/ka.pi.ˈra/",
+        "english": "he/she/it will understand",
+        "example": "Lei capirà il valore del denaro quando inizierà a lavorare e guadagnare stipendi",
+        "example_english": "She will understand the value of money when she starts working and earning salaries"
+      },
+      "noi": {
+        "conjugation": "capiremo",
+        "pronunciation": "/ka.pi.ˈre.mo/",
+        "english": "we will understand",
+        "example": "Capiremo meglio la cultura locale dopo aver vissuto in questo paese per anni",
+        "example_english": "We will better understand local culture after living in this country for years"
+      },
+      "voi": {
+        "conjugation": "capirete",
+        "pronunciation": "/ka.pi.ˈre.te/",
+        "english": "you will understand",
+        "example": "Voi capirete le conseguenze delle vostre azioni quando sarete più maturi e responsabili?",
+        "example_english": "Will you understand the consequences of your actions when you are more mature and responsible?"
+      },
+      "loro": {
+        "conjugation": "capiranno",
+        "pronunciation": "/ka.pi.ˈran.no/",
+        "english": "they will understand",
+        "example": "Capiranno l'importanza dell'amicizia vera quando attraverseranno momenti difficili della vita",
+        "example_english": "They will understand the importance of true friendship when they go through difficult moments in life"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "capito",
+    "pronunciation": "/ka.ˈpi.to/",
+    "english": "understood",
+    "examples": [
+      {
+        "italian": "Il concetto è stato capito da tutti.",
+        "english": "The concept was understood by everyone."
+      },
+      {
+        "italian": "Una volta capito il meccanismo, è facile usarlo.",
+        "english": "Once the mechanism is understood, it's easy to use."
+      }
+    ],
+    "example": "Il concetto capito è molto importante.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To understand or comprehend; -isc verb with stem expansion",
+  "synonyms": "comprendere,afferrare"
+}

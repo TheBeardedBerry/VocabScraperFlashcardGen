@@ -20,43 +20,43 @@
         "conjugation": "costo",
         "pronunciation": "/costo/",
         "english": "I cost",
-        "example": "Io costo ogni giorno.",
-        "example_english": "I cost every day."
+        "example": "Costo troppo per il budget limitato che questa famiglia ha a disposizione ogni mese",
+        "example_english": "I cost too much for the limited budget this family has available every month"
       },
       "tu": {
         "conjugation": "costi",
         "pronunciation": "/costi/",
         "english": "you cost",
-        "example": "Tu costi bene.",
-        "example_english": "You cost well."
+        "example": "Tu costi tanto quanto un'automobile nuova di marca tedesca di alta qualità e lusso",
+        "example_english": "You cost as much as a new German car of high quality and luxury"
       },
       "lui": {
         "conjugation": "costa",
         "pronunciation": "/costa/",
         "english": "he/she/it costs",
-        "example": "Lei costa molto.",
-        "example_english": "She cost a lot."
+        "example": "Lei costa più di quanto pensavamo inizialmente quando abbiamo visto il prezzo finale",
+        "example_english": "It costs more than we initially thought when we saw the final price"
       },
       "noi": {
         "conjugation": "costiamo",
         "pronunciation": "/costiamo/",
         "english": "we cost",
-        "example": "Noi costiamo insieme.",
-        "example_english": "We cost together."
+        "example": "Noi costiamo insieme il doppio del prezzo che avevano preventivato per questo progetto",
+        "example_english": "We cost together double the price they had budgeted for this project"
       },
       "voi": {
         "conjugation": "costate",
         "pronunciation": "/costate/",
         "english": "you cost",
-        "example": "Voi costate bene?",
-        "example_english": "Do you cost well?"
+        "example": "Voi costate troppo per le finanze attuali dell'azienda che sta attraversando difficoltà economiche",
+        "example_english": "You cost too much for the current finances of the company going through economic difficulties"
       },
       "loro": {
         "conjugation": "costano",
         "pronunciation": "/costano/",
         "english": "they cost",
-        "example": "Loro costano spesso.",
-        "example_english": "They cost often."
+        "example": "Loro costano una fortuna ma ne vale sicuramente la pena per la qualità offerta",
+        "example_english": "They cost a fortune but are definitely worth it for the quality offered"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "sono costato/a",
         "pronunciation": "/sono/",
         "english": "I costed",
-        "example": "Ieri sono costato/a.",
-        "example_english": "Yesterday i costed."
+        "example": "Sono costato molto di più del preventivo iniziale a causa delle spese impreviste",
+        "example_english": "I cost much more than the initial estimate due to unforeseen expenses"
       },
       "tu": {
         "conjugation": "sei costato/a",
         "pronunciation": "/sei/",
         "english": "you (informal) costed",
-        "example": "Ieri sei costato/a.",
-        "example_english": "Yesterday you (informal) costed."
+        "example": "Sei costato esattamente quello che avevamo calcolato nel nostro budget familiare mensile",
+        "example_english": "You cost exactly what we had calculated in our monthly family budget"
       },
       "lui": {
         "conjugation": "è costato/a",
         "pronunciation": "/è costato/a/",
         "english": "he/she/it costed",
-        "example": "Ieri è costato/a.",
-        "example_english": "Yesterday he/she/it costed."
+        "example": "È costato tre volte il prezzo originale dopo tutte le modifiche e personalizzazioni",
+        "example_english": "It cost three times the original price after all modifications and customizations"
       },
       "noi": {
         "conjugation": "siamo costato/a",
         "pronunciation": "/siamo/",
         "english": "we costed",
-        "example": "Ieri siamo costato/a.",
-        "example_english": "Yesterday we costed."
+        "example": "Siamo costati meno del previsto grazie agli sconti ottenuti durante i saldi estivi",
+        "example_english": "We cost less than expected thanks to discounts obtained during summer sales"
       },
       "voi": {
         "conjugation": "siete costato/a",
         "pronunciation": "/siete/",
         "english": "you (plural) costed",
-        "example": "Ieri siete costato/a.",
-        "example_english": "Yesterday you (plural) costed."
+        "example": "Siete costati troppo per il budget che avevamo stabilito per questo acquisto importante",
+        "example_english": "You cost too much for the budget we had set for this important purchase"
       },
       "loro": {
         "conjugation": "sono costato/a",
         "pronunciation": "/sono/",
         "english": "they costed",
-        "example": "Ieri sono costato/a.",
-        "example_english": "Yesterday they costed."
+        "example": "Sono costati una fortuna ma ci hanno dato grande soddisfazione per molti anni",
+        "example_english": "They cost a fortune but gave us great satisfaction for many years"
       }
     }
-  }
+  },
+  "deck_guid": "116865608807",
+  "note_guid": 274330051878,
+  "deck_name": "Italian::A1::Verbs::chiamare_creare"
 }

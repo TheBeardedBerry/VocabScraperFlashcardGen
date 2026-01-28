@@ -10,87 +10,87 @@
         "conjugation": "penso",
         "pronunciation": "/ˈpenso/",
         "english": "I think",
-        "example": "Penso che sia una buona idea.",
-        "example_english": "I think it's a good idea."
+        "example": "Penso sempre positivamente anche durante i momenti più difficili della mia vita",
+        "example_english": "I always think positively even during most difficult moments of my life"
       },
       "tu": {
         "conjugation": "pensi",
         "pronunciation": "/ˈpensi/",
         "english": "you think",
-        "example": "Cosa pensi di questo libro?",
-        "example_english": "What do you think of this book?"
+        "example": "Tu pensi mai alle conseguenze delle tue azioni prima di compierle?",
+        "example_english": "Do you ever think about consequences of your actions before taking them?"
       },
       "lui": {
         "conjugation": "pensa",
         "pronunciation": "/ˈpensa/",
         "english": "he/she/it thinks",
-        "example": "Pensa sempre agli altri.",
-        "example_english": "She always thinks of others."
+        "example": "Lei pensa troppo prima di prendere decisioni e spesso perde opportunità",
+        "example_english": "She thinks too much before making decisions and often loses opportunities"
       },
       "noi": {
         "conjugation": "pensiamo",
         "pronunciation": "/penˈsjaːmo/",
         "english": "we think",
-        "example": "Pensiamo di andare al cinema.",
-        "example_english": "We're thinking of going to the cinema."
+        "example": "Pensiamo sempre al futuro dei nostri figli quando prendiamo decisioni importanti",
+        "example_english": "We always think about our children's future when making important decisions"
       },
       "voi": {
         "conjugation": "pensate",
         "pronunciation": "/penˈsaːte/",
         "english": "you think",
-        "example": "Pensate che pioverà domani?",
-        "example_english": "Do you think it will rain tomorrow?"
+        "example": "Voi pensate spesso ai bei momenti del passato o preferite concentrarvi sul presente?",
+        "example_english": "Do you often think about beautiful moments of past or prefer focusing on present?"
       },
       "loro": {
         "conjugation": "pensano",
         "pronunciation": "/ˈpensano/",
         "english": "they think",
-        "example": "Pensano di traslocare presto.",
-        "example_english": "They're thinking of moving soon."
+        "example": "Pensano che la vita sia troppo breve per sprecarla in cose negative",
+        "example_english": "They think life is too short to waste on negative things"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "penserò",
         "pronunciation": "/penseˈroː/",
         "english": "I will think",
-        "example": "Penserò a una soluzione.",
-        "example_english": "I will think of a solution."
+        "example": "Penserò a una soluzione creativa per risolvere questo problema complicato",
+        "example_english": "I will think of creative solution to solve this complicated problem"
       },
       "tu": {
         "conjugation": "penserai",
         "pronunciation": "/penseˈraːi/",
         "english": "you (informal) will think",
-        "example": "Penserai a me quando sarò via?",
-        "example_english": "Will you think of me when I'm away?"
+        "example": "Tu penserai ancora a quella persona quando sarai lontano da qui?",
+        "example_english": "Will you still think about that person when you're far from here?"
       },
       "lui": {
         "conjugation": "penserà",
         "pronunciation": "/penseˈraː/",
         "english": "he/she/it will think",
-        "example": "Penserà bene prima di decidere.",
-        "example_english": "He will think carefully before deciding."
+        "example": "Lei penserà a noi quando si trasferirà nella nuova città",
+        "example_english": "She will think of us when she moves to new city"
       },
       "noi": {
         "conjugation": "penseremo",
         "pronunciation": "/penseˈreːmo/",
         "english": "we will think",
-        "example": "Penseremo a una strategia migliore.",
-        "example_english": "We will think of a better strategy."
+        "example": "Penseremo a un modo per aiutare quella famiglia in difficoltà economica",
+        "example_english": "We will think of way to help that family in economic difficulty"
       },
       "voi": {
         "conjugation": "penserete",
         "pronunciation": "/penseˈreːte/",
         "english": "you (plural) will think",
-        "example": "Penserete ancora a questo problema?",
-        "example_english": "Will you still think about this problem?"
+        "example": "Voi penserete alle parole che vi ho detto quando prenderete la decisione?",
+        "example_english": "Will you think about words I told you when making decision?"
       },
       "loro": {
         "conjugation": "penseranno",
         "pronunciation": "/penseˈranno/",
         "english": "they will think",
-        "example": "Penseranno a noi durante le vacanze.",
-        "example_english": "They will think of us during vacation."
+        "example": "Penseranno a noi quando guarderanno le foto di questa vacanza memorabile",
+        "example_english": "They will think of us when looking at photos of this memorable vacation"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho pensato",
         "pronunciation": "/ˈɔ penˈsaːto/",
         "english": "I thought",
-        "example": "Ho pensato molto a quello che hai detto.",
-        "example_english": "I thought a lot about what you said."
+        "example": "Ho pensato a lungo prima di prendere questa decisione che cambierà tutto",
+        "example_english": "I thought for long time before making this decision that will change everything"
       },
       "tu": {
         "conjugation": "hai pensato",
         "pronunciation": "/ˈaːi penˈsaːto/",
         "english": "you (informal) thought",
-        "example": "Hai pensato a una risposta?",
-        "example_english": "Did you think of an answer?"
+        "example": "Hai pensato alle conseguenze di quello che hai detto durante la discussione?",
+        "example_english": "Did you think about consequences of what you said during argument?"
       },
       "lui": {
         "conjugation": "ha pensato",
         "pronunciation": "/ˈa penˈsaːto/",
         "english": "he/she/it thought",
-        "example": "Ha pensato a tutto nei minimi dettagli.",
-        "example_english": "She thought of everything in detail."
+        "example": "Ha pensato per giorni al problema prima di trovare la soluzione",
+        "example_english": "He thought about problem for days before finding solution"
       },
       "noi": {
         "conjugation": "abbiamo pensato",
         "pronunciation": "/abˈbjaːmo penˈsaːto/",
         "english": "we thought",
-        "example": "Abbiamo pensato di cambiare lavoro.",
-        "example_english": "We thought about changing jobs."
+        "example": "Abbiamo pensato molto prima di decidere di trasferirci in un'altra città",
+        "example_english": "We thought a lot before deciding to move to another city"
       },
       "voi": {
         "conjugation": "avete pensato",
         "pronunciation": "/aˈveːte penˈsaːto/",
         "english": "you (plural) thought",
-        "example": "Avete pensato alle conseguenze?",
-        "example_english": "Did you think about the consequences?"
+        "example": "Avete pensato abbastanza alle vostre responsabilità di genitori prima di decidere?",
+        "example_english": "Did you think enough about your parental responsibilities before deciding?"
       },
       "loro": {
         "conjugation": "hanno pensato",
         "pronunciation": "/ˈanno penˈsaːto/",
         "english": "they thought",
-        "example": "Hanno pensato a tutto per la festa.",
-        "example_english": "They thought of everything for the party."
+        "example": "Hanno pensato che fosse facile ma si sono sbagliati completamente",
+        "example_english": "They thought it was easy but were completely wrong"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To think, reflect, or consider ideas and possibilities",
-  "synonyms": "riflettere,meditare"
+  "synonyms": "riflettere,meditare",
+  "deck_guid": "544635933530",
+  "note_guid": 485748590851,
+  "deck_name": "Italian::A1::Verbs::morire_piacere"
 }

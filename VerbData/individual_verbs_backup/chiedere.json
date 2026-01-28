@@ -1,0 +1,151 @@
+{
+  "infinitive": "chiedere",
+  "infinitive_pronunciation": "/ˈkjɛdere/",
+  "english": "to ask",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "chiedo",
+        "pronunciation": "/ˈkjɛdo/",
+        "english": "I ask",
+        "example": "Chiedo sempre informazioni dettagliate prima di prendere decisioni importanti per la mia vita",
+        "example_english": "I always ask for detailed information before making important decisions for my life"
+      },
+      "tu": {
+        "conjugation": "chiedi",
+        "pronunciation": "/ˈkjɛdi/",
+        "english": "you ask",
+        "example": "Tu chiedi mai aiuto ai professori quando non capisci gli argomenti difficili a scuola?",
+        "example_english": "Do you ever ask teachers for help when you don't understand difficult topics at school?"
+      },
+      "lui": {
+        "conjugation": "chiede",
+        "pronunciation": "/ˈkjɛde/",
+        "english": "he/she/it asks",
+        "example": "Lei chiede sempre il permesso prima di prendere in prestito le cose degli altri",
+        "example_english": "She always asks permission before borrowing other people's things"
+      },
+      "noi": {
+        "conjugation": "chiediamo",
+        "pronunciation": "/kjeˈdjamo/",
+        "english": "we ask",
+        "example": "Chiediamo scusa ogni volta che facciamo qualcosa di sbagliato senza volerlo veramente",
+        "example_english": "We ask for forgiveness every time we do something wrong without really meaning to"
+      },
+      "voi": {
+        "conjugation": "chiedete",
+        "pronunciation": "/kjeˈdete/",
+        "english": "you ask",
+        "example": "Voi chiedete spesso sconti nei negozi o pagate sempre il prezzo pieno senza negoziare?",
+        "example_english": "Do you often ask for discounts in stores or do you always pay full price without negotiating?"
+      },
+      "loro": {
+        "conjugation": "chiedono",
+        "pronunciation": "/ˈkjɛdono/",
+        "english": "they ask",
+        "example": "Chiedono consigli ai genitori prima di fare scelte importanti per il loro futuro",
+        "example_english": "They ask their parents for advice before making important choices for their future"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "chiederò",
+        "pronunciation": "/kjedeˈro/",
+        "english": "I will ask",
+        "example": "Chiederò un prestito in banca per comprare la casa dei miei sogni in centro città",
+        "example_english": "I will ask for a loan at the bank to buy my dream house in the city center"
+      },
+      "tu": {
+        "conjugation": "chiederai",
+        "pronunciation": "/kjedeˈrai/",
+        "english": "you will ask",
+        "example": "Tu chiederai finalmente quella ragazza in matrimonio dopo tre anni di fidanzamento?",
+        "example_english": "Will you finally ask that girl to marry you after three years of engagement?"
+      },
+      "lui": {
+        "conjugation": "chiederà",
+        "pronunciation": "/kjedeˈra/",
+        "english": "he/she/it will ask",
+        "example": "Lei chiederà un aumento di stipendio dopo aver lavorato duramente per due anni",
+        "example_english": "She will ask for a salary raise after working hard for two years"
+      },
+      "noi": {
+        "conjugation": "chiederemo",
+        "pronunciation": "/kjedeˈremo/",
+        "english": "we will ask",
+        "example": "Chiederemo informazioni turistiche quando arriveremo nella città che non conosciamo per niente",
+        "example_english": "We will ask for tourist information when we arrive in the city we don't know at all"
+      },
+      "voi": {
+        "conjugation": "chiederete",
+        "pronunciation": "/kjedeˈrete/",
+        "english": "you will ask",
+        "example": "Voi chiederete il conto al cameriere quando avrete finito di mangiare al ristorante?",
+        "example_english": "Will you ask the waiter for the check when you have finished eating at the restaurant?"
+      },
+      "loro": {
+        "conjugation": "chiederanno",
+        "pronunciation": "/kjedeˈranno/",
+        "english": "they will ask",
+        "example": "Chiederanno scusa per il ritardo quando si renderanno conto del disagio causato",
+        "example_english": "They will ask for forgiveness for the delay when they realize the inconvenience caused"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho chiesto",
+        "pronunciation": "/o ˈkjɛsto/",
+        "english": "I asked/have asked",
+        "example": "Ho chiesto indicazioni stradali a un passante perché mi ero perso nella città sconosciuta",
+        "example_english": "I asked a passerby for directions because I got lost in the unknown city"
+      },
+      "tu": {
+        "conjugation": "hai chiesto",
+        "pronunciation": "/ai ˈkjɛsto/",
+        "english": "you asked/have asked",
+        "example": "Hai mai chiesto un favore così grande ai tuoi amici più cari e fidati?",
+        "example_english": "Have you ever asked for such a big favor from your dearest and most trusted friends?"
+      },
+      "lui": {
+        "conjugation": "ha chiesto",
+        "pronunciation": "/a ˈkjɛsto/",
+        "english": "he/she/it asked/has asked",
+        "example": "Ha chiesto la mano di sua figlia al padre durante una cena formale in famiglia",
+        "example_english": "He asked for his daughter's hand from her father during a formal family dinner"
+      },
+      "noi": {
+        "conjugation": "abbiamo chiesto",
+        "pronunciation": "/abˈbjamo ˈkjɛsto/",
+        "english": "we asked/have asked",
+        "example": "Abbiamo chiesto il permesso prima di organizzare la festa nel giardino condominiale",
+        "example_english": "We asked for permission before organizing the party in the condominium garden"
+      },
+      "voi": {
+        "conjugation": "avete chiesto",
+        "pronunciation": "/aˈvete ˈkjɛsto/",
+        "english": "you asked/have asked",
+        "example": "Avete chiesto spiegazioni dettagliate sul funzionamento del nuovo sistema di allarme di casa?",
+        "example_english": "Did you ask for detailed explanations about how the new home alarm system works?"
+      },
+      "loro": {
+        "conjugation": "hanno chiesto",
+        "pronunciation": "/ˈanno ˈkjɛsto/",
+        "english": "they asked/have asked",
+        "example": "Hanno chiesto aiuto economico alla famiglia per superare il momento di difficoltà finanziaria",
+        "example_english": "They asked the family for financial help to overcome the moment of financial difficulty"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "chiesto",
+    "pronunciation": "/ˈkjɛsto/",
+    "english": "asked",
+    "example": "La domanda chiesta durante l'intervista era molto difficile.",
+    "example_english": "The question asked during the interview was very difficult."
+  },
+  "part_of_speech": "verb",
+  "context": "To ask questions or request something from someone",
+  "synonyms": "domandare,richiedere,interrogare"
+}

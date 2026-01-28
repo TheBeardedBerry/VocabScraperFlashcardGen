@@ -10,43 +10,43 @@
         "conjugation": "inizio",
         "pronunciation": "/iˈni.tsio/",
         "english": "I start",
-        "example": "Inizio il lavoro alle nove.",
-        "example_english": "I start work at nine."
+        "example": "Inizio sempre la giornata con una tazza di caffè caldo e dieci minuti di meditazione",
+        "example_english": "I always start the day with a cup of hot coffee and ten minutes of meditation"
       },
       "tu": {
         "conjugation": "inizi",
         "pronunciation": "/iˈni.tsi/",
         "english": "you start",
-        "example": "Tu inizi sempre con entusiasmo.",
-        "example_english": "You always start with enthusiasm."
+        "example": "Tu inizi mai nuovi progetti senza aver completato quelli che hai già cominciato?",
+        "example_english": "Do you ever start new projects without completing ones you've already begun?"
       },
       "lui": {
         "conjugation": "inizia",
         "pronunciation": "/iˈni.tsia/",
         "english": "he/she/it starts",
-        "example": "Lei inizia un nuovo corso di cucina.",
-        "example_english": "She starts a new cooking course."
+        "example": "Lei inizia ogni lezione universitaria con una citazione famosa per ispirare gli studenti",
+        "example_english": "She starts every university lesson with a famous quote to inspire students"
       },
       "noi": {
         "conjugation": "iniziamo",
         "pronunciation": "/i.ni.ˈtsia.mo/",
         "english": "we start",
-        "example": "Noi iniziamo il progetto domani.",
-        "example_english": "We start the project tomorrow."
+        "example": "Iniziamo sempre i nostri viaggi molto presto per evitare il traffico delle ore di punta",
+        "example_english": "We always start our trips very early to avoid rush hour traffic"
       },
       "voi": {
         "conjugation": "iniziate",
         "pronunciation": "/i.ni.ˈtsia.te/",
         "english": "you start",
-        "example": "Voi iniziate sempre puntualmente?",
-        "example_english": "Do you always start on time?"
+        "example": "Voi iniziate spesso conversazioni con sconosciuti o siete persone piuttosto timide?",
+        "example_english": "Do you often start conversations with strangers or are you rather shy people?"
       },
       "loro": {
         "conjugation": "iniziano",
         "pronunciation": "/iˈni.tsia.no/",
         "english": "they start",
-        "example": "Loro iniziano le lezioni a ottobre.",
-        "example_english": "They start classes in October."
+        "example": "Iniziano ogni riunione aziendale leggendo i punti principali dell'ordine del giorno",
+        "example_english": "They start every business meeting by reading main points of agenda"
       }
     },
     "passato_prossimo": {
@@ -54,87 +54,87 @@
         "conjugation": "ho iniziato",
         "pronunciation": "/o i.ni.ˈtsia.to/",
         "english": "I started/have started",
-        "example": "Ieri ho iniziato un nuovo libro.",
-        "example_english": "Yesterday I started a new book."
+        "example": "Ho iniziato a suonare il violino quando avevo sei anni con molto entusiasmo",
+        "example_english": "I started playing violin when I was six years old with great enthusiasm"
       },
       "tu": {
         "conjugation": "hai iniziato",
         "pronunciation": "/ˈaj i.ni.ˈtsia.to/",
         "english": "you started/have started",
-        "example": "Hai iniziato a studiare l'italiano?",
-        "example_english": "Have you started studying Italian?"
+        "example": "Hai iniziato il nuovo lavoro con il piede giusto o hai trovato difficoltà?",
+        "example_english": "Did you start new job on right foot or did you encounter difficulties?"
       },
       "lui": {
         "conjugation": "ha iniziato",
         "pronunciation": "/a i.ni.ˈtsia.to/",
         "english": "he/she/it started/has started",
-        "example": "Ha iniziato a lavorare qui la settimana scorsa.",
-        "example_english": "He started working here last week."
+        "example": "Ha iniziato la sua carriera artistica dipingendo ritratti per strada durante l'università",
+        "example_english": "He started his artistic career painting portraits on street during university"
       },
       "noi": {
         "conjugation": "abbiamo iniziato",
         "pronunciation": "/ab.ˈbja.mo i.ni.ˈtsia.to/",
         "english": "we started/have started",
-        "example": "Abbiamo iniziato le vacanze ieri.",
-        "example_english": "We started our vacation yesterday."
+        "example": "Abbiamo iniziato questo progetto tre anni fa senza immaginare dove ci avrebbe portato",
+        "example_english": "We started this project three years ago without imagining where it would take us"
       },
       "voi": {
         "conjugation": "avete iniziato",
         "pronunciation": "/a.ˈve.te i.ni.ˈtsia.to/",
         "english": "you started/have started",
-        "example": "Avete iniziato a guardare quel film?",
-        "example_english": "Have you started watching that movie?"
+        "example": "Avete iniziato a organizzare il matrimonio o state ancora decidendo la data?",
+        "example_english": "Did you start organizing wedding or are you still deciding date?"
       },
       "loro": {
         "conjugation": "hanno iniziato",
         "pronunciation": "/ˈan.no i.ni.ˈtsia.to/",
         "english": "they started/have started",
-        "example": "Hanno iniziato i preparativi per la festa.",
-        "example_english": "They started preparations for the party."
+        "example": "Hanno iniziato la loro storia d'amore con una semplice amicizia nata tra i banchi",
+        "example_english": "They started their love story with simple friendship born among school desks"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "inizierò",
         "pronunciation": "/i.ni.tsie.ˈrɔ/",
         "english": "I will start",
-        "example": "Inizierò l'università il mese prossimo.",
-        "example_english": "I will start university next month."
+        "example": "Inizierò un nuovo corso di pittura artistica il prossimo mese per sviluppare creatività",
+        "example_english": "I will start a new artistic painting course next month to develop creativity"
       },
       "tu": {
         "conjugation": "inizierai",
         "pronunciation": "/i.ni.tsie.ˈraj/",
         "english": "you will start",
-        "example": "Tu inizierai una nuova carriera.",
-        "example_english": "You will start a new career."
+        "example": "Tu inizierai finalmente quel libro che vuoi scrivere da quando eri al liceo?",
+        "example_english": "Will you finally start that book you've wanted to write since high school?"
       },
       "lui": {
         "conjugation": "inizierà",
         "pronunciation": "/i.ni.tsie.ˈra/",
         "english": "he/she/it will start",
-        "example": "Lei inizierà a dipingere domani.",
-        "example_english": "She will start painting tomorrow."
+        "example": "Lei inizierà a lavorare nella nuova azienda dopo aver completato il periodo di preavviso",
+        "example_english": "She will start working at new company after completing notice period"
       },
       "noi": {
         "conjugation": "inizieremo",
         "pronunciation": "/i.ni.tsie.ˈre.mo/",
         "english": "we will start",
-        "example": "Noi inizieremo presto un viaggio.",
-        "example_english": "We will start a trip soon."
+        "example": "Inizieremo la costruzione della casa quando avremo ottenuto tutti i permessi necessari",
+        "example_english": "We will start house construction when we've obtained all necessary permits"
       },
       "voi": {
         "conjugation": "inizierete",
         "pronunciation": "/i.ni.tsie.ˈre.te/",
         "english": "you will start",
-        "example": "Voi inizierete il corso la prossima settimana?",
-        "example_english": "Will you start the course next week?"
+        "example": "Voi inizierete a studiare medicina se supererete l'esame di ammissione difficile?",
+        "example_english": "Will you start studying medicine if you pass difficult admission exam?"
       },
       "loro": {
         "conjugation": "inizieranno",
         "pronunciation": "/i.ni.tsie.ˈran.no/",
         "english": "they will start",
-        "example": "Loro inizieranno le prove giovedì.",
-        "example_english": "They will start rehearsals on Thursday."
+        "example": "Inizieranno le riprese del film dopo aver trovato la location perfetta",
+        "example_english": "They will start filming after finding perfect location"
       }
     }
   },
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To begin or start something new; commence",
-  "synonyms": "cominciare,avviare"
+  "synonyms": "cominciare,avviare",
+  "deck_guid": "817402220559",
+  "note_guid": 184741289449,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

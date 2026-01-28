@@ -93,7 +93,7 @@
         "example_english": "They closed the restaurant for renovations that will last at least two complete months"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "chiuderò",
         "pronunciation": "/kju.de.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To close doors, windows, or end something",
-  "synonyms": "serrare,sigillare"
+  "synonyms": "serrare,sigillare",
+  "deck_guid": "116865608807",
+  "note_guid": 993708484968,
+  "deck_name": "Italian::A1::Verbs::chiamare_creare"
 }

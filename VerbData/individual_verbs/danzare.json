@@ -20,43 +20,43 @@
         "conjugation": "danzo",
         "pronunciation": "/danzo/",
         "english": "I dance",
-        "example": "Io danzo ogni giorno.",
-        "example_english": "I dance every day."
+        "example": "Danzo sempre con passione ogni volta che sento musica latina o ritmi sudamericani",
+        "example_english": "I always dance with passion every time I hear Latin music or South American rhythms"
       },
       "tu": {
         "conjugation": "danzi",
         "pronunciation": "/danzi/",
         "english": "you dance",
-        "example": "Tu danzi bene.",
-        "example_english": "You dance well."
+        "example": "Tu danzi elegantemente il valzer viennese come un vero principe di altri tempi?",
+        "example_english": "Do you elegantly dance the Viennese waltz like a true prince from other times?"
       },
       "lui": {
         "conjugation": "danza",
         "pronunciation": "/danza/",
         "english": "he/she/it dances",
-        "example": "Lei danza molto.",
-        "example_english": "She dance a lot."
+        "example": "Lei danza magnificamente la danza contemporanea esprimendo emozioni profonde con ogni movimento",
+        "example_english": "She magnificently dances contemporary dance expressing deep emotions with every movement"
       },
       "noi": {
         "conjugation": "danziamo",
         "pronunciation": "/danziamo/",
         "english": "we dance",
-        "example": "Noi danziamo insieme.",
-        "example_english": "We dance together."
+        "example": "Danziamo insieme ogni sabato sera nella scuola di ballo del quartiere frequentata",
+        "example_english": "We dance together every Saturday evening at the neighborhood dance school we attend"
       },
       "voi": {
         "conjugation": "danzate",
         "pronunciation": "/danzate/",
         "english": "you dance",
-        "example": "Voi danzate bene?",
-        "example_english": "Do you dance well?"
+        "example": "Voi danzate spesso durante le feste tradizionali del vostro paese di origine?",
+        "example_english": "Do you often dance during traditional festivals of your country of origin?"
       },
       "loro": {
         "conjugation": "danzano",
         "pronunciation": "/danzano/",
         "english": "they dance",
-        "example": "Loro danzano spesso.",
-        "example_english": "They dance often."
+        "example": "Danzano al ritmo della musica popolare durante le celebrazioni religiose più importanti",
+        "example_english": "They dance to the rhythm of folk music during the most important religious celebrations"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho danzato",
         "pronunciation": "/ho danzato/",
         "english": "I danced",
-        "example": "Ieri ho danzato.",
-        "example_english": "Yesterday i danced."
+        "example": "Ho danzato per tre ore consecutive senza mai fermarmi durante la festa di matrimonio",
+        "example_english": "I danced for three consecutive hours without ever stopping during the wedding party"
       },
       "tu": {
         "conjugation": "hai danzato",
         "pronunciation": "/hai/",
         "english": "you (informal) danced",
-        "example": "Ieri hai danzato.",
-        "example_english": "Yesterday you (informal) danced."
+        "example": "Hai mai danzato davanti a un pubblico così numeroso ed entusiasta come stasera?",
+        "example_english": "Have you ever danced in front of such a large and enthusiastic audience as tonight?"
       },
       "lui": {
         "conjugation": "ha danzato",
         "pronunciation": "/ha danzato/",
         "english": "he/she/it danced",
-        "example": "Ieri ha danzato.",
-        "example_english": "Yesterday he/she/it danced."
+        "example": "Ha danzato con grazia celestiale durante il spettacolo che ha commosso tutti",
+        "example_english": "He danced with celestial grace during the show that moved everyone"
       },
       "noi": {
         "conjugation": "abbiamo danzato",
         "pronunciation": "/abbiamo/",
         "english": "we danced",
-        "example": "Ieri abbiamo danzato.",
-        "example_english": "Yesterday we danced."
+        "example": "Abbiamo danzato sotto le stelle durante la festa estiva organizzata in spiaggia",
+        "example_english": "We danced under the stars during the summer party organized on the beach"
       },
       "voi": {
         "conjugation": "avete danzato",
         "pronunciation": "/avete/",
         "english": "you (plural) danced",
-        "example": "Ieri avete danzato.",
-        "example_english": "Yesterday you (plural) danced."
+        "example": "Avete danzato le danze folkloristiche tradizionali durante il festival culturale internazionale?",
+        "example_english": "Did you dance traditional folk dances during the international cultural festival?"
       },
       "loro": {
         "conjugation": "hanno danzato",
         "pronunciation": "/hanno/",
         "english": "they danced",
-        "example": "Ieri hanno danzato.",
-        "example_english": "Yesterday they danced."
+        "example": "Hanno danzato insieme per l'ultima volta prima che lei partisse per un altro continente",
+        "example_english": "They danced together for the last time before she left for another continent"
       }
     }
-  }
+  },
+  "deck_guid": "25192925024",
+  "note_guid": 541764307711,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

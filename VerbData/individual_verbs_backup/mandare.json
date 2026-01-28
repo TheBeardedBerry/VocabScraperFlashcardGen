@@ -1,0 +1,151 @@
+{
+  "infinitive": "mandare",
+  "infinitive_pronunciation": "/man'dare/",
+  "english": "to send",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "mando",
+        "pronunciation": "/ˈmando/",
+        "english": "I send",
+        "example": "Mando sempre cartoline ai miei amici quando viaggio in luoghi esotici e interessanti",
+        "example_english": "I always send postcards to my friends when traveling to exotic and interesting places"
+      },
+      "tu": {
+        "conjugation": "mandi",
+        "pronunciation": "/ˈmandi/",
+        "english": "you send",
+        "example": "Tu mandi mai messaggi romantici alla tua fidanzata durante la giornata lavorativa?",
+        "example_english": "Do you ever send romantic messages to your girlfriend during work day?"
+      },
+      "lui": {
+        "conjugation": "manda",
+        "pronunciation": "/ˈmanda/",
+        "english": "he/she/it sends",
+        "example": "Lei manda i bambini dai nonni ogni estate per due settimane complete",
+        "example_english": "She sends children to grandparents every summer for two complete weeks"
+      },
+      "noi": {
+        "conjugation": "mandiamo",
+        "pronunciation": "/manˈdjaːmo/",
+        "english": "we send",
+        "example": "Mandiamo sempre auguri speciali agli amici per ogni occasione importante dell'anno",
+        "example_english": "We always send special wishes to friends for every important occasion of year"
+      },
+      "voi": {
+        "conjugation": "mandate",
+        "pronunciation": "/manˈdaːte/",
+        "english": "you send",
+        "example": "Voi mandate spesso regali ai parenti lontani per fargli sentire il vostro affetto?",
+        "example_english": "Do you often send gifts to distant relatives to make them feel your affection?"
+      },
+      "loro": {
+        "conjugation": "mandano",
+        "pronunciation": "/ˈmandano/",
+        "english": "they send",
+        "example": "Mandano rapporti dettagliati ogni settimana al direttore dell'azienda dove lavorano",
+        "example_english": "They send detailed reports every week to director of company where they work"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "manderò",
+        "pronunciation": "/mandeˈroː/",
+        "english": "I will send",
+        "example": "Manderò una lettera di ringraziamento a tutti quelli che mi hanno aiutato",
+        "example_english": "I will send thank-you letter to all those who helped me"
+      },
+      "tu": {
+        "conjugation": "manderai",
+        "pronunciation": "/mandeˈraːi/",
+        "english": "you (informal) will send",
+        "example": "Tu manderai finalmente quella domanda di lavoro che stai procrastinando da mesi?",
+        "example_english": "Will you finally send that job application you've been procrastinating for months?"
+      },
+      "lui": {
+        "conjugation": "manderà",
+        "pronunciation": "/mandeˈraː/",
+        "english": "he/she/it will send",
+        "example": "Lei manderà gli inviti di matrimonio con almeno due mesi di anticipo",
+        "example_english": "She will send wedding invitations with at least two months advance notice"
+      },
+      "noi": {
+        "conjugation": "manderemo",
+        "pronunciation": "/mandeˈreːmo/",
+        "english": "we will send",
+        "example": "Manderemo i nostri figli in quella scuola privata che ha ottima reputazione",
+        "example_english": "We will send our children to that private school with excellent reputation"
+      },
+      "voi": {
+        "conjugation": "manderete",
+        "pronunciation": "/mandeˈreːte/",
+        "english": "you (plural) will send",
+        "example": "Voi manderete anche quest'anno cartoline di Natale a tutti i vostri conoscenti?",
+        "example_english": "Will you send Christmas cards to all your acquaintances again this year?"
+      },
+      "loro": {
+        "conjugation": "manderanno",
+        "pronunciation": "/mandeˈranno/",
+        "english": "they will send",
+        "example": "Manderanno aiuti economici alle famiglie colpite dalla calamità naturale devastante",
+        "example_english": "They will send economic aid to families affected by devastating natural disaster"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho mandato",
+        "pronunciation": "/ˈɔ manˈdaːto/",
+        "english": "I sent",
+        "example": "Ho mandato quel pacco importante tre giorni fa ma non è ancora arrivato",
+        "example_english": "I sent that important package three days ago but it hasn't arrived yet"
+      },
+      "tu": {
+        "conjugation": "hai mandato",
+        "pronunciation": "/ˈaːi manˈdaːto/",
+        "english": "you (informal) sent",
+        "example": "Hai mandato gli auguri di compleanno a tua madre che festeggiava ieri?",
+        "example_english": "Did you send birthday wishes to your mother who was celebrating yesterday?"
+      },
+      "lui": {
+        "conjugation": "ha mandato",
+        "pronunciation": "/ˈa manˈdaːto/",
+        "english": "he/she/it sent",
+        "example": "Ha mandato una email formale al direttore per richiedere un appuntamento urgente",
+        "example_english": "He sent formal email to director to request urgent appointment"
+      },
+      "noi": {
+        "conjugation": "abbiamo mandato",
+        "pronunciation": "/abˈbjaːmo manˈdaːto/",
+        "english": "we sent",
+        "example": "Abbiamo mandato tutte le nostre candidature prima della scadenza ufficiale stabilita",
+        "example_english": "We sent all our applications before established official deadline"
+      },
+      "voi": {
+        "conjugation": "avete mandato",
+        "pronunciation": "/aˈveːte manˈdaːto/",
+        "english": "you (plural) sent",
+        "example": "Avete mandato i documenti richiesti all'ufficio competente per completare la pratica?",
+        "example_english": "Did you send required documents to competent office to complete procedure?"
+      },
+      "loro": {
+        "conjugation": "hanno mandato",
+        "pronunciation": "/ˈanno manˈdaːto/",
+        "english": "they sent",
+        "example": "Hanno mandato fiori e condoglianze alla famiglia dell'amico scomparso improvvisamente",
+        "example_english": "They sent flowers and condolences to family of friend who died suddenly"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "mandato",
+    "pronunciation": "/manˈdaːto/",
+    "english": "sent",
+    "example": "Un messaggio mandato per errore.",
+    "example_english": "A message sent by mistake."
+  },
+  "part_of_speech": "verb",
+  "context": "To send people or objects to destinations",
+  "synonyms": "inviare,spedire"
+}

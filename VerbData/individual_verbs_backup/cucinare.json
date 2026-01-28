@@ -1,0 +1,151 @@
+{
+  "infinitive": "cucinare",
+  "infinitive_pronunciation": "/kutʃi'nare/",
+  "english": "to cook",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "cucino",
+        "pronunciation": "/'kutʃino/",
+        "english": "I cook",
+        "example": "Cucino sempre piatti tradizionali italiani utilizzando le ricette segrete della mia famiglia",
+        "example_english": "I always cook traditional Italian dishes using my family's secret recipes"
+      },
+      "tu": {
+        "conjugation": "cucini",
+        "pronunciation": "/'kutʃini/",
+        "english": "you cook",
+        "example": "Tu cucini magnificamente quando hai tempo libero o preferisci ordinare cibo da asporto?",
+        "example_english": "Do you cook magnificently when you have free time or do you prefer ordering takeout food?"
+      },
+      "lui": {
+        "conjugation": "cucina",
+        "pronunciation": "/'kutʃina/",
+        "english": "he/she/it cooks",
+        "example": "Lei cucina per tutta la famiglia ogni domenica preparando pranzi che durano ore",
+        "example_english": "She cooks for the whole family every Sunday preparing meals that last for hours"
+      },
+      "noi": {
+        "conjugation": "cuciniamo",
+        "pronunciation": "/kutʃi'njamo/",
+        "english": "we cook",
+        "example": "Cuciniamo insieme ogni venerdì sera provando ricette internazionali diverse ogni volta",
+        "example_english": "We cook together every Friday evening trying different international recipes each time"
+      },
+      "voi": {
+        "conjugation": "cucinate",
+        "pronunciation": "/kutʃi'nate/",
+        "english": "you cook",
+        "example": "Voi cucinate spesso piatti vegetariani o preferite sempre carne e pesce nella dieta?",
+        "example_english": "Do you often cook vegetarian dishes or do you always prefer meat and fish in your diet?"
+      },
+      "loro": {
+        "conjugation": "cucinano",
+        "pronunciation": "/'kutʃinano/",
+        "english": "they cook",
+        "example": "Cucinano solo con ingredienti biologici acquistati direttamente dai produttori locali di fiducia",
+        "example_english": "They cook only with organic ingredients bought directly from trusted local producers"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "cucinerò",
+        "pronunciation": "/kutʃine'ro/",
+        "english": "I will cook",
+        "example": "Stasera cucinerò una cena speciale.",
+        "example_english": "Tonight I will cook a special dinner."
+      },
+      "tu": {
+        "conjugation": "cucinerai",
+        "pronunciation": "/kutʃine'rai/",
+        "english": "you will cook",
+        "example": "Cucinerai tu la torta per il compleanno?",
+        "example_english": "Will you cook the cake for the birthday?"
+      },
+      "lui": {
+        "conjugation": "cucinerà",
+        "pronunciation": "/kutʃine'ra/",
+        "english": "he/she/it will cook",
+        "example": "Lo chef cucinerà dal vivo per gli ospiti.",
+        "example_english": "The chef will cook live for the guests."
+      },
+      "noi": {
+        "conjugation": "cucineremo",
+        "pronunciation": "/kutʃine'remo/",
+        "english": "we will cook",
+        "example": "Cucineremo tutto il necessario per la festa.",
+        "example_english": "We will cook everything needed for the party."
+      },
+      "voi": {
+        "conjugation": "cucinerete",
+        "pronunciation": "/kutʃine'rete/",
+        "english": "you will cook",
+        "example": "Cucinerete voi per tutti gli invitati?",
+        "example_english": "Will you cook for all the guests?"
+      },
+      "loro": {
+        "conjugation": "cucineranno",
+        "pronunciation": "/kutʃine'ranno/",
+        "english": "they will cook",
+        "example": "Cucineranno piatti tradizionali per il matrimonio.",
+        "example_english": "They will cook traditional dishes for the wedding."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho cucinato",
+        "pronunciation": "/o kutʃi'nato/",
+        "english": "I cooked/have cooked",
+        "example": "Ho cucinato per dodici persone durante la festa di laurea di mia sorella",
+        "example_english": "I cooked for twelve people during my sister's graduation party"
+      },
+      "tu": {
+        "conjugation": "hai cucinato",
+        "pronunciation": "/ai kutʃi'nato/",
+        "english": "you cooked/have cooked",
+        "example": "Hai mai cucinato qualcosa di così delizioso che tutti hanno chiesto la ricetta?",
+        "example_english": "Have you ever cooked something so delicious that everyone asked for the recipe?"
+      },
+      "lui": {
+        "conjugation": "ha cucinato",
+        "pronunciation": "/a kutʃi'nato/",
+        "english": "he/she/it cooked/has cooked",
+        "example": "Ha cucinato tutta la notte per preparare il banchetto nuziale della sua migliore amica",
+        "example_english": "He cooked all night to prepare the wedding banquet for his best friend"
+      },
+      "noi": {
+        "conjugation": "abbiamo cucinato",
+        "pronunciation": "/ab'bjamo kutʃi'nato/",
+        "english": "we cooked/have cooked",
+        "example": "Abbiamo cucinato insieme un pranzo memorabile per festeggiare il ritorno del nonno",
+        "example_english": "We cooked together a memorable lunch to celebrate grandfather's return"
+      },
+      "voi": {
+        "conjugation": "avete cucinato",
+        "pronunciation": "/a'vete kutʃi'nato/",
+        "english": "you cooked/have cooked",
+        "example": "Avete cucinato abbastanza cibo per tutti gli invitati della festa di compleanno?",
+        "example_english": "Did you cook enough food for all guests at the birthday party?"
+      },
+      "loro": {
+        "conjugation": "hanno cucinato",
+        "pronunciation": "/'anno kutʃi'nato/",
+        "english": "they cooked/have cooked",
+        "example": "Hanno cucinato specialità della loro regione di origine per farci conoscere le tradizioni",
+        "example_english": "They cooked specialties from their region of origin to introduce us to traditions"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "cucinato",
+    "pronunciation": "/kutʃi'nato/",
+    "english": "cooked",
+    "example": "Il pesce è stato cucinato alla griglia.",
+    "example_english": "The fish was cooked on the grill."
+  },
+  "part_of_speech": "verb",
+  "context": "To cook food in the kitchen; food preparation",
+  "synonyms": "preparare (cibo),fare da mangiare"
+}

@@ -1,0 +1,151 @@
+{
+  "infinitive": "danzare",
+  "infinitive_pronunciation": "/dan'tsare/",
+  "english": "to dance",
+  "regular": true,
+  "auxiliary": "avere",
+  "participio_passato": {
+    "form": "danzato",
+    "pronunciation": "/danzato/",
+    "english": "danced",
+    "example": "Il balletto danzato era magnifico.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To dance artistically; more formal than ballare",
+  "synonyms": "ballare",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "danzo",
+        "pronunciation": "/danzo/",
+        "english": "I dance",
+        "example": "Danzo sempre con passione ogni volta che sento musica latina o ritmi sudamericani",
+        "example_english": "I always dance with passion every time I hear Latin music or South American rhythms"
+      },
+      "tu": {
+        "conjugation": "danzi",
+        "pronunciation": "/danzi/",
+        "english": "you dance",
+        "example": "Tu danzi elegantemente il valzer viennese come un vero principe di altri tempi?",
+        "example_english": "Do you elegantly dance the Viennese waltz like a true prince from other times?"
+      },
+      "lui": {
+        "conjugation": "danza",
+        "pronunciation": "/danza/",
+        "english": "he/she/it dances",
+        "example": "Lei danza magnificamente la danza contemporanea esprimendo emozioni profonde con ogni movimento",
+        "example_english": "She magnificently dances contemporary dance expressing deep emotions with every movement"
+      },
+      "noi": {
+        "conjugation": "danziamo",
+        "pronunciation": "/danziamo/",
+        "english": "we dance",
+        "example": "Danziamo insieme ogni sabato sera nella scuola di ballo del quartiere frequentata",
+        "example_english": "We dance together every Saturday evening at the neighborhood dance school we attend"
+      },
+      "voi": {
+        "conjugation": "danzate",
+        "pronunciation": "/danzate/",
+        "english": "you dance",
+        "example": "Voi danzate spesso durante le feste tradizionali del vostro paese di origine?",
+        "example_english": "Do you often dance during traditional festivals of your country of origin?"
+      },
+      "loro": {
+        "conjugation": "danzano",
+        "pronunciation": "/danzano/",
+        "english": "they dance",
+        "example": "Danzano al ritmo della musica popolare durante le celebrazioni religiose più importanti",
+        "example_english": "They dance to the rhythm of folk music during the most important religious celebrations"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "danzerò",
+        "pronunciation": "/danzerò/",
+        "english": "I will dance",
+        "example": "Io danzerò ogni giorno.",
+        "example_english": "I dance every day."
+      },
+      "tu": {
+        "conjugation": "danzerai",
+        "pronunciation": "/danzerai/",
+        "english": "you (informal) will dance",
+        "example": "Tu danzerai bene.",
+        "example_english": "You dance well."
+      },
+      "lui": {
+        "conjugation": "danzerà",
+        "pronunciation": "/danzerà/",
+        "english": "he/she/it will dance",
+        "example": "Lei danzerà molto.",
+        "example_english": "She dance a lot."
+      },
+      "noi": {
+        "conjugation": "danzeremo",
+        "pronunciation": "/danzeremo/",
+        "english": "we will dance",
+        "example": "Noi danzeremo insieme.",
+        "example_english": "We dance together."
+      },
+      "voi": {
+        "conjugation": "danzerete",
+        "pronunciation": "/danzerete/",
+        "english": "you (plural) will dance",
+        "example": "Voi danzerete bene?",
+        "example_english": "Do you dance well?"
+      },
+      "loro": {
+        "conjugation": "danzeranno",
+        "pronunciation": "/danzeranno/",
+        "english": "they will dance",
+        "example": "Loro danzeranno spesso.",
+        "example_english": "They dance often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho danzato",
+        "pronunciation": "/ho danzato/",
+        "english": "I danced",
+        "example": "Ho danzato per tre ore consecutive senza mai fermarmi durante la festa di matrimonio",
+        "example_english": "I danced for three consecutive hours without ever stopping during the wedding party"
+      },
+      "tu": {
+        "conjugation": "hai danzato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) danced",
+        "example": "Hai mai danzato davanti a un pubblico così numeroso ed entusiasta come stasera?",
+        "example_english": "Have you ever danced in front of such a large and enthusiastic audience as tonight?"
+      },
+      "lui": {
+        "conjugation": "ha danzato",
+        "pronunciation": "/ha danzato/",
+        "english": "he/she/it danced",
+        "example": "Ha danzato con grazia celestiale durante il spettacolo che ha commosso tutti",
+        "example_english": "He danced with celestial grace during the show that moved everyone"
+      },
+      "noi": {
+        "conjugation": "abbiamo danzato",
+        "pronunciation": "/abbiamo/",
+        "english": "we danced",
+        "example": "Abbiamo danzato sotto le stelle durante la festa estiva organizzata in spiaggia",
+        "example_english": "We danced under the stars during the summer party organized on the beach"
+      },
+      "voi": {
+        "conjugation": "avete danzato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) danced",
+        "example": "Avete danzato le danze folkloristiche tradizionali durante il festival culturale internazionale?",
+        "example_english": "Did you dance traditional folk dances during the international cultural festival?"
+      },
+      "loro": {
+        "conjugation": "hanno danzato",
+        "pronunciation": "/hanno/",
+        "english": "they danced",
+        "example": "Hanno danzato insieme per l'ultima volta prima che lei partisse per un altro continente",
+        "example_english": "They danced together for the last time before she left for another continent"
+      }
+    }
+  }
+}

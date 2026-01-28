@@ -1,0 +1,151 @@
+{
+  "infinitive": "cantare",
+  "infinitive_pronunciation": "/kan'tare/",
+  "english": "to sing",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "canto",
+        "pronunciation": "/'kanto/",
+        "english": "I sing",
+        "example": "Canto sempre sotto la doccia perché l'acustica del bagno rende la mia voce più melodiosa",
+        "example_english": "I always sing in the shower because the bathroom acoustics make my voice more melodious"
+      },
+      "tu": {
+        "conjugation": "canti",
+        "pronunciation": "/'kanti/",
+        "english": "you sing",
+        "example": "Tu canti mai durante le feste in famiglia o sei troppo timido per esibirti?",
+        "example_english": "Do you ever sing during family parties or are you too shy to perform?"
+      },
+      "lui": {
+        "conjugation": "canta",
+        "pronunciation": "/'kanta/",
+        "english": "he/she/it sings",
+        "example": "Lei canta magnificamente nell'opera lirica e si esibisce nei teatri più prestigiosi d'Europa",
+        "example_english": "She sings magnificently in opera and performs in the most prestigious theaters in Europe"
+      },
+      "noi": {
+        "conjugation": "cantiamo",
+        "pronunciation": "/kan'tjamo/",
+        "english": "we sing",
+        "example": "Cantiamo tutti insieme durante i viaggi in auto per rendere il tempo più piacevole",
+        "example_english": "We all sing together during car trips to make time more pleasant"
+      },
+      "voi": {
+        "conjugation": "cantate",
+        "pronunciation": "/kan'tate/",
+        "english": "you sing",
+        "example": "Voi cantate spesso al karaoke o preferite ascoltare la musica senza partecipare attivamente?",
+        "example_english": "Do you often sing karaoke or do you prefer listening to music without actively participating?"
+      },
+      "loro": {
+        "conjugation": "cantano",
+        "pronunciation": "/'kantano/",
+        "english": "they sing",
+        "example": "Cantano le canzoni tradizionali del loro paese durante le feste religiose più importanti",
+        "example_english": "They sing traditional songs from their country during the most important religious festivals"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "canterò",
+        "pronunciation": "/kante'ro/",
+        "english": "I will sing",
+        "example": "Domani canterò al concerto della scuola.",
+        "example_english": "Tomorrow I will sing at the school concert."
+      },
+      "tu": {
+        "conjugation": "canterai",
+        "pronunciation": "/kante'rai/",
+        "english": "you will sing",
+        "example": "Canterai tu la canzone principale?",
+        "example_english": "Will you sing the main song?"
+      },
+      "lui": {
+        "conjugation": "canterà",
+        "pronunciation": "/kante'ra/",
+        "english": "he/she/it will sing",
+        "example": "La cantante canterà tre canzoni stasera.",
+        "example_english": "The singer will sing three songs tonight."
+      },
+      "noi": {
+        "conjugation": "canteremo",
+        "pronunciation": "/kante'remo/",
+        "english": "we will sing",
+        "example": "Canteremo l'inno nazionale prima della partita.",
+        "example_english": "We will sing the national anthem before the match."
+      },
+      "voi": {
+        "conjugation": "canterete",
+        "pronunciation": "/kante'rete/",
+        "english": "you will sing",
+        "example": "Canterete tutti insieme nel finale?",
+        "example_english": "Will you all sing together in the finale?"
+      },
+      "loro": {
+        "conjugation": "canteranno",
+        "pronunciation": "/kante'ranno/",
+        "english": "they will sing",
+        "example": "Canteranno le canzoni più famose del repertorio.",
+        "example_english": "They will sing the most famous songs from the repertoire."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho cantato",
+        "pronunciation": "/o kan'tato/",
+        "english": "I sang/have sung",
+        "example": "Ho cantato per tre ore consecutive durante il matrimonio di mia cugina in Puglia",
+        "example_english": "I sang for three consecutive hours during my cousin's wedding in Puglia"
+      },
+      "tu": {
+        "conjugation": "hai cantato",
+        "pronunciation": "/ai kan'tato/",
+        "english": "you sang/have sung",
+        "example": "Hai mai cantato davanti a un pubblico così numeroso durante uno spettacolo dal vivo?",
+        "example_english": "Have you ever sung in front of such a large audience during a live show?"
+      },
+      "lui": {
+        "conjugation": "ha cantato",
+        "pronunciation": "/a kan'tato/",
+        "english": "he/she/it sang/has sung",
+        "example": "Ha cantato una ninna nanna dolcissima per far addormentare il bambino piccolo",
+        "example_english": "He sang a very sweet lullaby to make the little child fall asleep"
+      },
+      "noi": {
+        "conjugation": "abbiamo cantato",
+        "pronunciation": "/ab'bjamo kan'tato/",
+        "english": "we sang/have sung",
+        "example": "Abbiamo cantato tutte le canzoni che sapevamo durante la festa sulla terrazza",
+        "example_english": "We sang all the songs we knew during the party on the terrace"
+      },
+      "voi": {
+        "conjugation": "avete cantato",
+        "pronunciation": "/a'vete kan'tato/",
+        "english": "you sang/have sung",
+        "example": "Avete cantato gli auguri di compleanno con tutto il cuore per la nonna ottantenne?",
+        "example_english": "Did you sing happy birthday with all your heart for the eighty-year-old grandmother?"
+      },
+      "loro": {
+        "conjugation": "hanno cantato",
+        "pronunciation": "/'anno kan'tato/",
+        "english": "they sang/have sung",
+        "example": "Hanno cantato insieme per l'ultima volta prima che la band si sciogliesse definitivamente",
+        "example_english": "They sang together for the last time before the band broke up permanently"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "cantato",
+    "pronunciation": "/kan'tato/",
+    "english": "sung",
+    "example": "La canzone è stata cantata da tutto il pubblico.",
+    "example_english": "The song was sung by the entire audience."
+  },
+  "part_of_speech": "verb",
+  "context": "To sing songs or make musical sounds with voice",
+  "synonyms": "intonare,modulare"
+}

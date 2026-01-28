@@ -1,0 +1,151 @@
+{
+  "infinitive": "viaggiare",
+  "infinitive_pronunciation": "/vjad'dʒare/",
+  "english": "to travel",
+  "regular": true,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "viaggio",
+        "pronunciation": "/'vjaddʒo/",
+        "english": "I travel",
+        "example": "Viaggio spesso per lavoro in Europa.",
+        "example_english": "I often travel to Europe for work."
+      },
+      "tu": {
+        "conjugation": "viaggi",
+        "pronunciation": "/'vjaddʒi/",
+        "english": "you travel",
+        "example": "Viaggi sempre con lo zaino in spalla?",
+        "example_english": "Do you always travel with a backpack?"
+      },
+      "lui": {
+        "conjugation": "viaggia",
+        "pronunciation": "/'vjaddʒa/",
+        "english": "he/she/it travels",
+        "example": "Mia zia viaggia per il mondo come fotografa.",
+        "example_english": "My aunt travels around the world as a photographer."
+      },
+      "noi": {
+        "conjugation": "viaggiamo",
+        "pronunciation": "/vjad'dʒamo/",
+        "english": "we travel",
+        "example": "Viaggiamo in treno attraverso l'Italia ogni estate.",
+        "example_english": "We travel by train across Italy every summer."
+      },
+      "voi": {
+        "conjugation": "viaggiate",
+        "pronunciation": "/vjad'dʒate/",
+        "english": "you travel",
+        "example": "Viaggiate in aereo o preferite l'auto?",
+        "example_english": "Do you travel by plane or do you prefer the car?"
+      },
+      "loro": {
+        "conjugation": "viaggiano",
+        "pronunciation": "/'vjaddʒano/",
+        "english": "they travel",
+        "example": "I miei nonni viaggiano in camper per tutta l'Europa.",
+        "example_english": "My grandparents travel around Europe in an RV."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "viaggerò",
+        "pronunciation": "/vjaddʒe'ro/",
+        "english": "I will travel",
+        "example": "L'anno prossimo viaggerò in Asia per sei mesi.",
+        "example_english": "Next year I will travel in Asia for six months."
+      },
+      "tu": {
+        "conjugation": "viaggerai",
+        "pronunciation": "/vjaddʒe'rai/",
+        "english": "you will travel",
+        "example": "Viaggerai da solo o con gli amici?",
+        "example_english": "Will you travel alone or with friends?"
+      },
+      "lui": {
+        "conjugation": "viaggerà",
+        "pronunciation": "/vjaddʒe'ra/",
+        "english": "he/she/it will travel",
+        "example": "Marco viaggerà negli Stati Uniti per studiare.",
+        "example_english": "Marco will travel to the United States to study."
+      },
+      "noi": {
+        "conjugation": "viaggeremo",
+        "pronunciation": "/vjaddʒe'remo/",
+        "english": "we will travel",
+        "example": "Viaggeremo in nave per raggiungere la Grecia.",
+        "example_english": "We will travel by ship to reach Greece."
+      },
+      "voi": {
+        "conjugation": "viaggerete",
+        "pronunciation": "/vjaddʒe'rete/",
+        "english": "you will travel",
+        "example": "Viaggerete in prima classe o in economia?",
+        "example_english": "Will you travel first class or economy?"
+      },
+      "loro": {
+        "conjugation": "viaggeranno",
+        "pronunciation": "/vjaddʒe'ranno/",
+        "english": "they will travel",
+        "example": "Viaggeranno per il mondo dopo la pensione.",
+        "example_english": "They will travel around the world after retirement."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho viaggiato",
+        "pronunciation": "/o vjad'dʒato/",
+        "english": "I traveled/have traveled",
+        "example": "Ho viaggiato in treno da Roma a Venezia.",
+        "example_english": "I traveled by train from Rome to Venice."
+      },
+      "tu": {
+        "conjugation": "hai viaggiato",
+        "pronunciation": "/ai vjad'dʒato/",
+        "english": "you traveled/have traveled",
+        "example": "Hai mai viaggiato in un paese dove non parli la lingua?",
+        "example_english": "Have you ever traveled to a country where you don't speak the language?"
+      },
+      "lui": {
+        "conjugation": "ha viaggiato",
+        "pronunciation": "/a vjad'dʒato/",
+        "english": "he/she/it traveled/has traveled",
+        "example": "Mio fratello ha viaggiato per tre mesi in Sud America.",
+        "example_english": "My brother traveled for three months in South America."
+      },
+      "noi": {
+        "conjugation": "abbiamo viaggiato",
+        "pronunciation": "/ab'bjamo vjad'dʒato/",
+        "english": "we traveled/have traveled",
+        "example": "Abbiamo viaggiato tutta la notte per arrivare in tempo.",
+        "example_english": "We traveled all night to arrive on time."
+      },
+      "voi": {
+        "conjugation": "avete viaggiato",
+        "pronunciation": "/a'vete vjad'dʒato/",
+        "english": "you traveled/have traveled",
+        "example": "Avete viaggiato insieme molte volte?",
+        "example_english": "Have you traveled together many times?"
+      },
+      "loro": {
+        "conjugation": "hanno viaggiato",
+        "pronunciation": "/'anno vjad'dʒato/",
+        "english": "they traveled/have traveled",
+        "example": "Hanno viaggiato per tutto il continente africano.",
+        "example_english": "They traveled throughout the African continent."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "viaggiato",
+    "pronunciation": "/vjad'dʒato/",
+    "english": "traveled",
+    "example": "La strada è molto viaggiata dai turisti.",
+    "example_english": "The road is heavily traveled by tourists."
+  },
+  "part_of_speech": "verb",
+  "context": "To travel for business, pleasure, or exploration",
+  "synonyms": "spostarsi,andare in giro"
+}

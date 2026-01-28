@@ -1,0 +1,151 @@
+{
+  "infinitive": "essere",
+  "infinitive_pronunciation": "/ˈɛssere/",
+  "english": "to be",
+  "regular": false,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "sono",
+        "pronunciation": "/'sono/",
+        "english": "I am",
+        "example": "Io sono felice di essere qui con voi.",
+        "example_english": "I am happy to be here with you."
+      },
+      "tu": {
+        "conjugation": "sei",
+        "pronunciation": "/'sei/",
+        "english": "you are",
+        "example": "Tu sei la persona più gentile che conosco.",
+        "example_english": "You are the kindest person I know."
+      },
+      "lui": {
+        "conjugation": "è",
+        "pronunciation": "/'ɛ/",
+        "english": "he/she/it is",
+        "example": "Marco è medico da dieci anni.",
+        "example_english": "Marco has been a doctor for ten years."
+      },
+      "noi": {
+        "conjugation": "siamo",
+        "pronunciation": "/'sjamo/",
+        "english": "we are",
+        "example": "Noi siamo pronti per l'avventura.",
+        "example_english": "We are ready for the adventure."
+      },
+      "voi": {
+        "conjugation": "siete",
+        "pronunciation": "/'sjete/",
+        "english": "you are",
+        "example": "Voi siete sempre i benvenuti nella nostra casa.",
+        "example_english": "You are always welcome in our house."
+      },
+      "loro": {
+        "conjugation": "sono",
+        "pronunciation": "/'sono/",
+        "english": "they are",
+        "example": "I bambini sono molto stanchi dopo la gita.",
+        "example_english": "The children are very tired after the trip."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "sarò",
+        "pronunciation": "/sa'ro/",
+        "english": "I will be",
+        "example": "Domani sarò in ufficio tutto il giorno.",
+        "example_english": "Tomorrow I will be in the office all day."
+      },
+      "tu": {
+        "conjugation": "sarai",
+        "pronunciation": "/sa'rai/",
+        "english": "you will be",
+        "example": "Tu sarai un ottimo padre un giorno.",
+        "example_english": "You will be an excellent father one day."
+      },
+      "lui": {
+        "conjugation": "sarà",
+        "pronunciation": "/sa'ra/",
+        "english": "he/she/it will be",
+        "example": "La riunione sarà alle tre del pomeriggio.",
+        "example_english": "The meeting will be at three in the afternoon."
+      },
+      "noi": {
+        "conjugation": "saremo",
+        "pronunciation": "/sa'remo/",
+        "english": "we will be",
+        "example": "L'estate prossima saremo in vacanza in Grecia.",
+        "example_english": "Next summer we will be on vacation in Greece."
+      },
+      "voi": {
+        "conjugation": "sarete",
+        "pronunciation": "/sa'rete/",
+        "english": "you will be",
+        "example": "Voi sarete i primi a sapere la notizia.",
+        "example_english": "You will be the first to know the news."
+      },
+      "loro": {
+        "conjugation": "saranno",
+        "pronunciation": "/sa'ranno/",
+        "english": "they will be",
+        "example": "I risultati saranno pronti entro venerdì.",
+        "example_english": "The results will be ready by Friday."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono stato/a",
+        "pronunciation": "/'sono 'stato/'stata/",
+        "english": "I was/have been",
+        "example": "Sono stata malata per una settimana.",
+        "example_english": "I was sick for a week."
+      },
+      "tu": {
+        "conjugation": "sei stato/a",
+        "pronunciation": "/'sei 'stato/'stata/",
+        "english": "you were/have been",
+        "example": "Tu sei stato molto coraggioso ieri sera.",
+        "example_english": "You were very brave last night."
+      },
+      "lui": {
+        "conjugation": "è stato/a",
+        "pronunciation": "/'ɛ 'stato/'stata/",
+        "english": "he/she/it was/has been",
+        "example": "È stata una giornata indimenticabile.",
+        "example_english": "It was an unforgettable day."
+      },
+      "noi": {
+        "conjugation": "siamo stati/e",
+        "pronunciation": "/'sjamo 'stati/'state/",
+        "english": "we were/have been",
+        "example": "Siamo stati fortunati a trovare quel lavoro.",
+        "example_english": "We were lucky to find that job."
+      },
+      "voi": {
+        "conjugation": "siete stati/e",
+        "pronunciation": "/'sjete 'stati/'state/",
+        "english": "you were/have been",
+        "example": "Voi siete stati i migliori studenti della classe.",
+        "example_english": "You were the best students in the class."
+      },
+      "loro": {
+        "conjugation": "sono stati/e",
+        "pronunciation": "/'sono 'stati/'state/",
+        "english": "they were/have been",
+        "example": "I turisti sono stati molto soddisfatti del servizio.",
+        "example_english": "The tourists were very satisfied with the service."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "stato/a/i/e",
+    "pronunciation": "/'stato/'stata/'stati/'state/",
+    "english": "been",
+    "example": "Il negozio è stato chiuso per ristrutturazione.",
+    "example_english": "The store has been closed for renovation."
+  },
+  "part_of_speech": "verb",
+  "context": "Fundamental copula verb used for permanent characteristics, identity, and location with essere auxiliary",
+  "synonyms": "stare"
+}

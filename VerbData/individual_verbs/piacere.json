@@ -11,43 +11,43 @@
         "conjugation": "piaccio",
         "pronunciation": "/ˈpjattʃo/",
         "english": "I please",
-        "example": "Io piaccio a Maria da molto tempo.",
-        "example_english": "Maria has liked me for a long time."
+        "example": "Piaccio sempre alle persone gentili che apprezzano la sincerità e l'onestà",
+        "example_english": "I always appeal to kind people who appreciate sincerity and honesty"
       },
       "tu": {
         "conjugation": "piaci",
         "pronunciation": "/ˈpjatʃi/",
         "english": "you please",
-        "example": "Tu piaci a tutti per la tua simpatia.",
-        "example_english": "Everyone likes you for your friendliness."
+        "example": "Tu piaci a quella ragazza che incontri ogni giorno alla fermata dell'autobus?",
+        "example_english": "Do you appeal to that girl you meet every day at bus stop?"
       },
       "lui": {
         "conjugation": "piace",
         "pronunciation": "/ˈpjatʃe/",
         "english": "he/she/it pleases",
-        "example": "Mi piace molto questo gelato al cioccolato.",
-        "example_english": "I really like this chocolate ice cream."
+        "example": "Lei piace molto ai suoi studenti perché è paziente e comprensiva",
+        "example_english": "She is very popular with her students because she's patient and understanding"
       },
       "noi": {
         "conjugation": "piacciamo",
         "pronunciation": "/pjat'tʃamo/",
         "english": "we please",
-        "example": "Noi piacciamo ai nostri nuovi vicini.",
-        "example_english": "Our new neighbors like us."
+        "example": "Piacciamo ai nostri vicini di casa perché siamo sempre disponibili ad aiutare",
+        "example_english": "We appeal to our neighbors because we're always available to help"
       },
       "voi": {
         "conjugation": "piacete",
         "pronunciation": "/pja'tʃete/",
         "english": "you please",
-        "example": "Voi piacete molto al professore.",
-        "example_english": "The professor likes you very much."
+        "example": "Voi piacete ai vostri colleghi di lavoro per la vostra professionalità?",
+        "example_english": "Do you appeal to your work colleagues for your professionalism?"
       },
       "loro": {
         "conjugation": "piacciono",
         "pronunciation": "/ˈpjattʃono/",
         "english": "they please",
-        "example": "Mi piacciono i libri di fantascienza.",
-        "example_english": "I like science fiction books."
+        "example": "Piacciono a tutti perché hanno un carattere allegro e positivo",
+        "example_english": "They appeal to everyone because they have cheerful and positive character"
       }
     },
     "futuro_simplice": {
@@ -99,43 +99,43 @@
         "conjugation": "sono piaciuto/a",
         "pronunciation": "/ˈsono pja'tʃuto/ta/",
         "english": "I pleased/was liked",
-        "example": "Sono piaciuto molto alla sua famiglia.",
-        "example_english": "His family liked me very much."
+        "example": "Sono piaciuto immediatamente ai genitori della mia fidanzata durante la cena",
+        "example_english": "I immediately appealed to my girlfriend's parents during dinner"
       },
       "tu": {
         "conjugation": "sei piaciuto/a",
         "pronunciation": "/sei pja'tʃuto/ta/",
         "english": "you pleased/were liked",
-        "example": "Sei piaciuto a tutti alla festa.",
-        "example_english": "Everyone at the party liked you."
+        "example": "Sei piaciuto al direttore durante il colloquio di lavoro che hai sostenuto?",
+        "example_english": "Did you appeal to director during job interview you took?"
       },
       "lui": {
         "conjugation": "è piaciuto/a",
         "pronunciation": "/ˈɛ pja'tʃuto/ta/",
         "english": "he/she/it pleased/was liked",
-        "example": "Il concerto mi è piaciuto tantissimo.",
-        "example_english": "I liked the concert very much."
+        "example": "È piaciuto a tutti i professori per la sua dedizione agli studi",
+        "example_english": "He appealed to all professors for his dedication to studies"
       },
       "noi": {
         "conjugation": "siamo piaciuti/e",
         "pronunciation": "/ˈsjamo pja'tʃuti/te/",
         "english": "we pleased/were liked",
-        "example": "Siamo piaciuti molto ai clienti.",
-        "example_english": "The customers liked us very much."
+        "example": "Siamo piaciuti alla famiglia che ci ha ospitato durante il viaggio",
+        "example_english": "We appealed to family that hosted us during trip"
       },
       "voi": {
         "conjugation": "siete piaciuti/e",
         "pronunciation": "/ˈsjɛte pja'tʃuti/te/",
         "english": "you pleased/were liked",
-        "example": "Siete piaciuti ai giudici della gara.",
-        "example_english": "The competition judges liked you."
+        "example": "Siete piaciuti ai clienti per il servizio eccellente che avete fornito?",
+        "example_english": "Did you appeal to customers for excellent service you provided?"
       },
       "loro": {
         "conjugation": "sono piaciuti/e",
         "pronunciation": "/ˈsono pja'tʃuti/te/",
         "english": "they pleased/were liked",
-        "example": "Mi sono piaciuti tutti i dolci che hai fatto.",
-        "example_english": "I liked all the desserts you made."
+        "example": "Sono piaciuti al pubblico durante lo spettacolo che hanno messo in scena",
+        "example_english": "They appealed to audience during show they staged"
       }
     }
   },
@@ -148,5 +148,8 @@
   },
   "part_of_speech": "verb",
   "context": "To like/please; typically used as 'mi piace' (it pleases me)",
-  "synonyms": "gradire"
+  "synonyms": "gradire",
+  "deck_guid": "544635933530",
+  "note_guid": 592958485986,
+  "deck_name": "Italian::A1::Verbs::morire_piacere"
 }

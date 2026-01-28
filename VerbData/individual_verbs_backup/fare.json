@@ -1,0 +1,151 @@
+{
+  "infinitive": "fare",
+  "infinitive_pronunciation": "/'fare/",
+  "english": "to do/to make",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "faccio",
+        "pronunciation": "/'fattʃo/",
+        "english": "I do/make",
+        "example": "Faccio sempre del mio meglio per aiutare le persone in difficoltà che incontro",
+        "example_english": "I always do my best to help people in difficulty that I meet"
+      },
+      "tu": {
+        "conjugation": "fai",
+        "pronunciation": "/'fai/",
+        "english": "you do/make",
+        "example": "Tu fai spesso viaggi internazionali per lavoro o preferisci restare in Italia?",
+        "example_english": "Do you often take international trips for work or do you prefer staying in Italy?"
+      },
+      "lui": {
+        "conjugation": "fa",
+        "pronunciation": "/'fa/",
+        "english": "he/she/it does/makes",
+        "example": "Lei fa yoga ogni mattina per mantenere il corpo flessibile e la mente serena",
+        "example_english": "She does yoga every morning to keep her body flexible and mind serene"
+      },
+      "noi": {
+        "conjugation": "facciamo",
+        "pronunciation": "/fat'tʃamo/",
+        "english": "we do/make",
+        "example": "Facciamo sempre la spesa insieme il sabato mattina al mercato del centro",
+        "example_english": "We always do grocery shopping together on Saturday morning at downtown market"
+      },
+      "voi": {
+        "conjugation": "fate",
+        "pronunciation": "/'fate/",
+        "english": "you do/make",
+        "example": "Voi fate mai volontariato durante il tempo libero per aiutare la comunità?",
+        "example_english": "Do you ever volunteer during free time to help the community?"
+      },
+      "loro": {
+        "conjugation": "fanno",
+        "pronunciation": "/'fanno/",
+        "english": "they do/make",
+        "example": "Fanno sempre una passeggiata nel parco dopo cena per digerire meglio",
+        "example_english": "They always take a walk in the park after dinner to digest better"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "farò",
+        "pronunciation": "/fa'ro/",
+        "english": "I will do/make",
+        "example": "Domani farò un esame molto importante.",
+        "example_english": "Tomorrow I will take a very important exam."
+      },
+      "tu": {
+        "conjugation": "farai",
+        "pronunciation": "/fa'rai/",
+        "english": "you will do/make",
+        "example": "Tu farai sicuramente carriera in questo campo.",
+        "example_english": "You will surely make a career in this field."
+      },
+      "lui": {
+        "conjugation": "farà",
+        "pronunciation": "/fa'ra/",
+        "english": "he/she/it will do/make",
+        "example": "Il chef farà una cena speciale per l'anniversario.",
+        "example_english": "The chef will make a special dinner for the anniversary."
+      },
+      "noi": {
+        "conjugation": "faremo",
+        "pronunciation": "/fa'remo/",
+        "english": "we will do/make",
+        "example": "La prossima settimana faremo una gita in montagna.",
+        "example_english": "Next week we will take a trip to the mountains."
+      },
+      "voi": {
+        "conjugation": "farete",
+        "pronunciation": "/fa'rete/",
+        "english": "you will do/make",
+        "example": "Voi farete un'ottima impressione al colloquio.",
+        "example_english": "You will make an excellent impression at the interview."
+      },
+      "loro": {
+        "conjugation": "faranno",
+        "pronunciation": "/fa'ranno/",
+        "english": "they will do/make",
+        "example": "Gli architetti faranno un progetto innovativo.",
+        "example_english": "The architects will create an innovative project."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho fatto",
+        "pronunciation": "/'ɔ 'fatto/",
+        "english": "I did/have done",
+        "example": "Ho fatto un errore grave che mi ha insegnato una lezione di vita",
+        "example_english": "I made a serious mistake that taught me a life lesson"
+      },
+      "tu": {
+        "conjugation": "hai fatto",
+        "pronunciation": "/'ai 'fatto/",
+        "english": "you did/have done",
+        "example": "Hai fatto tutto quello che potevi per aiutare tua sorella in quel momento?",
+        "example_english": "Did you do everything you could to help your sister in that moment?"
+      },
+      "lui": {
+        "conjugation": "ha fatto",
+        "pronunciation": "/'a 'fatto/",
+        "english": "he/she/it did/has done",
+        "example": "Ha fatto un discorso commovente che ha fatto piangere tutti i presenti",
+        "example_english": "He gave a moving speech that made all those present cry"
+      },
+      "noi": {
+        "conjugation": "abbiamo fatto",
+        "pronunciation": "/ab'bjamo 'fatto/",
+        "english": "we did/have done",
+        "example": "Abbiamo fatto una scelta difficile ma necessaria per il bene della famiglia",
+        "example_english": "We made a difficult but necessary choice for the good of the family"
+      },
+      "voi": {
+        "conjugation": "avete fatto",
+        "pronunciation": "/a'vete 'fatto/",
+        "english": "you did/have done",
+        "example": "Avete fatto i compiti di matematica o li avete rimandati a domani?",
+        "example_english": "Did you do your math homework or did you postpone it until tomorrow?"
+      },
+      "loro": {
+        "conjugation": "hanno fatto",
+        "pronunciation": "/'anno 'fatto/",
+        "english": "they did/have done",
+        "example": "Hanno fatto un lungo viaggio attraverso l'Europa in macchina durante le vacanze",
+        "example_english": "They took a long trip through Europe by car during vacation"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "fatto",
+    "pronunciation": "/'fatto/",
+    "english": "done/made",
+    "example": "Il lavoro è stato fatto con grande cura e attenzione.",
+    "example_english": "The work was done with great care and attention."
+  },
+  "part_of_speech": "verb",
+  "context": "Extremely versatile - means both 'to do' and 'to make'",
+  "synonyms": "creare,realizzare,eseguire"
+}

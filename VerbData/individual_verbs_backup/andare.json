@@ -1,0 +1,151 @@
+{
+  "infinitive": "andare",
+  "infinitive_pronunciation": "/an'dare/",
+  "english": "to go",
+  "regular": false,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "vado",
+        "pronunciation": "/'vado/",
+        "english": "I go",
+        "example": "Vado spesso al mercato biologico del centro per comprare frutta e verdura fresche",
+        "example_english": "I often go to the organic market downtown to buy fresh fruits and vegetables"
+      },
+      "tu": {
+        "conjugation": "vai",
+        "pronunciation": "/'vai/",
+        "english": "you go",
+        "example": "Tu vai sempre in palestra dopo il lavoro o preferisci correre nel parco?",
+        "example_english": "Do you always go to the gym after work or do you prefer running in the park?"
+      },
+      "lui": {
+        "conjugation": "va",
+        "pronunciation": "/'va/",
+        "english": "he/she/it goes",
+        "example": "Lei va dal parrucchiere ogni due settimane per mantenere perfetto il suo taglio elegante",
+        "example_english": "She goes to the hairdresser every two weeks to keep her elegant cut perfect"
+      },
+      "noi": {
+        "conjugation": "andiamo",
+        "pronunciation": "/an'djamo/",
+        "english": "we go",
+        "example": "Andiamo tutti insieme al cinema stasera per vedere il nuovo film di fantascienza",
+        "example_english": "We're all going to the movies tonight to see the new science fiction film"
+      },
+      "voi": {
+        "conjugation": "andate",
+        "pronunciation": "/an'date/",
+        "english": "you go",
+        "example": "Voi andate mai a teatro durante la stagione lirica o preferite altri spettacoli?",
+        "example_english": "Do you ever go to the theater during opera season or do you prefer other shows?"
+      },
+      "loro": {
+        "conjugation": "vanno",
+        "pronunciation": "/'vanno/",
+        "english": "they go",
+        "example": "Vanno in chiesa ogni domenica mattina per partecipare alla messa delle dieci",
+        "example_english": "They go to church every Sunday morning to attend the ten o'clock mass"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "andrò",
+        "pronunciation": "/an'dro/",
+        "english": "I will go",
+        "example": "L'estate prossima andrò in vacanza in Spagna.",
+        "example_english": "Next summer I will go on vacation to Spain."
+      },
+      "tu": {
+        "conjugation": "andrai",
+        "pronunciation": "/an'drai/",
+        "english": "you will go",
+        "example": "Tu andrai sicuramente lontano con questo talento.",
+        "example_english": "You will surely go far with this talent."
+      },
+      "lui": {
+        "conjugation": "andrà",
+        "pronunciation": "/an'dra/",
+        "english": "he/she/it will go",
+        "example": "Il treno andrà direttamente a Milano senza fermate.",
+        "example_english": "The train will go directly to Milan without stops."
+      },
+      "noi": {
+        "conjugation": "andremo",
+        "pronunciation": "/an'dremo/",
+        "english": "we will go",
+        "example": "Domani andremo a visitare i nostri amici a Firenze.",
+        "example_english": "Tomorrow we will go visit our friends in Florence."
+      },
+      "voi": {
+        "conjugation": "andrete",
+        "pronunciation": "/an'drete/",
+        "english": "you will go",
+        "example": "Voi andrete alla festa di compleanno di Marco?",
+        "example_english": "Will you go to Marco's birthday party?"
+      },
+      "loro": {
+        "conjugation": "andranno",
+        "pronunciation": "/an'dranno/",
+        "english": "they will go",
+        "example": "I miei genitori andranno in pensione l'anno prossimo.",
+        "example_english": "My parents will retire next year."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono andato/a",
+        "pronunciation": "/'sono an'dato/an'data/",
+        "english": "I went/have gone",
+        "example": "Sono andato al museo d'arte moderna per vedere la mostra di pittura impressionista",
+        "example_english": "I went to the modern art museum to see the impressionist painting exhibition"
+      },
+      "tu": {
+        "conjugation": "sei andato/a",
+        "pronunciation": "/'sei an'dato/an'data/",
+        "english": "you went/have gone",
+        "example": "Sei andato dal dentista per il controllo semestrale che avevi prenotato da tempo?",
+        "example_english": "Did you go to the dentist for the six-month checkup you had booked long ago?"
+      },
+      "lui": {
+        "conjugation": "è andato/a",
+        "pronunciation": "/'ɛ an'dato/an'data/",
+        "english": "he/she/it went/has gone",
+        "example": "È andato in biblioteca per studiare in silenzio lontano dalle distrazioni di casa",
+        "example_english": "He went to the library to study in silence away from home distractions"
+      },
+      "noi": {
+        "conjugation": "siamo andati/e",
+        "pronunciation": "/'sjamo an'dati/an'date/",
+        "english": "we went/have gone",
+        "example": "Siamo andati al ristorante cinese per festeggiare il compleanno di nostra madre",
+        "example_english": "We went to the Chinese restaurant to celebrate our mother's birthday"
+      },
+      "voi": {
+        "conjugation": "siete andati/e",
+        "pronunciation": "/'sjete an'dati/an'date/",
+        "english": "you went/have gone",
+        "example": "Siete andati alla riunione di condominio per discutere dei problemi dell'ascensore?",
+        "example_english": "Did you go to the condominium meeting to discuss elevator problems?"
+      },
+      "loro": {
+        "conjugation": "sono andati/e",
+        "pronunciation": "/'sono an'dati/an'date/",
+        "english": "they went/have gone",
+        "example": "Sono andati in ospedale per visitare il nonno che si stava riprendendo dall'operazione",
+        "example_english": "They went to the hospital to visit grandfather who was recovering from surgery"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "andato/a/i/e",
+    "pronunciation": "/an'dato/an'data/an'dati/an'date/",
+    "english": "gone",
+    "example": "È andato via senza dire una parola.",
+    "example_english": "He has gone away without saying a word."
+  },
+  "part_of_speech": "verb",
+  "context": "Movement away from speaker; motion verbs use essere auxiliary",
+  "synonyms": "partire,recarsi"
+}

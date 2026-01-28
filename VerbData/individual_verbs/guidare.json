@@ -20,43 +20,43 @@
         "conjugation": "guido",
         "pronunciation": "/guido/",
         "english": "I drive",
-        "example": "Io guido ogni giorno.",
-        "example_english": "I drive every day."
+        "example": "Guido sempre con prudenza rispettando tutti i limiti di velocità sulle strade",
+        "example_english": "I always drive carefully respecting all speed limits on roads"
       },
       "tu": {
         "conjugation": "guidi",
         "pronunciation": "/guidi/",
         "english": "you drive",
-        "example": "Tu guidi bene.",
-        "example_english": "You drive well."
+        "example": "Tu guidi mai di notte quando c'è nebbia fitta o aspetti che passi?",
+        "example_english": "Do you ever drive at night when there's thick fog or do you wait for it to pass?"
       },
       "lui": {
         "conjugation": "guida",
         "pronunciation": "/guida/",
         "english": "he/she/it drives",
-        "example": "Lei guida molto.",
-        "example_english": "She drive a lot."
+        "example": "Lei guida la macchina elettrica per rispettare l'ambiente e ridurre l'inquinamento",
+        "example_english": "She drives an electric car to respect environment and reduce pollution"
       },
       "noi": {
         "conjugation": "guidiamo",
         "pronunciation": "/guidiamo/",
         "english": "we drive",
-        "example": "Noi guidiamo insieme.",
-        "example_english": "We drive together."
+        "example": "Guidiamo a turno durante i viaggi lunghi per non stancarci troppo",
+        "example_english": "We take turns driving during long trips to not get too tired"
       },
       "voi": {
         "conjugation": "guidate",
         "pronunciation": "/guidate/",
         "english": "you drive",
-        "example": "Voi guidate bene?",
-        "example_english": "Do you drive well?"
+        "example": "Voi guidate spesso in autostrada o preferite le strade secondarie panoramiche?",
+        "example_english": "Do you often drive on highways or do you prefer scenic secondary roads?"
       },
       "loro": {
         "conjugation": "guidano",
         "pronunciation": "/guidano/",
         "english": "they drive",
-        "example": "Loro guidano spesso.",
-        "example_english": "They drive often."
+        "example": "Guidano molto lentamente perché sono anziani e vogliono essere sicuri",
+        "example_english": "They drive very slowly because they're elderly and want to be safe"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho guidato",
         "pronunciation": "/ho guidato/",
         "english": "I drived",
-        "example": "Ieri ho guidato.",
-        "example_english": "Yesterday i drived."
+        "example": "Ho guidato per otto ore consecutive per arrivare in tempo alla cerimonia",
+        "example_english": "I drove for eight consecutive hours to arrive on time for the ceremony"
       },
       "tu": {
         "conjugation": "hai guidato",
         "pronunciation": "/hai/",
         "english": "you (informal) drived",
-        "example": "Ieri hai guidato.",
-        "example_english": "Yesterday you (informal) drived."
+        "example": "Hai mai guidato una macchina così potente e veloce come quella di ieri?",
+        "example_english": "Have you ever driven such a powerful and fast car like yesterday's?"
       },
       "lui": {
         "conjugation": "ha guidato",
         "pronunciation": "/ha guidato/",
         "english": "he/she/it drived",
-        "example": "Ieri ha guidato.",
-        "example_english": "Yesterday he/she/it drived."
+        "example": "Ha guidato sotto la pioggia torrenziale per portare la moglie in ospedale",
+        "example_english": "He drove in torrential rain to take his wife to the hospital"
       },
       "noi": {
         "conjugation": "abbiamo guidato",
         "pronunciation": "/abbiamo/",
         "english": "we drived",
-        "example": "Ieri abbiamo guidato.",
-        "example_english": "Yesterday we drived."
+        "example": "Abbiamo guidato attraverso paesaggi meravigliosi durante il nostro viaggio estivo",
+        "example_english": "We drove through wonderful landscapes during our summer trip"
       },
       "voi": {
         "conjugation": "avete guidato",
         "pronunciation": "/avete/",
         "english": "you (plural) drived",
-        "example": "Ieri avete guidato.",
-        "example_english": "Yesterday you (plural) drived."
+        "example": "Avete guidato abbastanza oggi o volete che prenda il volante io?",
+        "example_english": "Did you drive enough today or do you want me to take the wheel?"
       },
       "loro": {
         "conjugation": "hanno guidato",
         "pronunciation": "/hanno/",
         "english": "they drived",
-        "example": "Ieri hanno guidato.",
-        "example_english": "Yesterday they drived."
+        "example": "Hanno guidato tutta la notte per arrivare prima che nascesse il bambino",
+        "example_english": "They drove all night to arrive before the baby was born"
       }
     }
-  }
+  },
+  "deck_guid": "817402220559",
+  "note_guid": 523138284683,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

@@ -20,43 +20,43 @@
         "conjugation": "lavo",
         "pronunciation": "/lavo/",
         "english": "I wash",
-        "example": "Io lavo ogni giorno.",
-        "example_english": "I wash every day."
+        "example": "Lavo sempre i piatti subito dopo aver mangiato per non accumularli nel lavandino",
+        "example_english": "I always wash dishes immediately after eating to not accumulate them in sink"
       },
       "tu": {
         "conjugation": "lavi",
         "pronunciation": "/lavi/",
         "english": "you wash",
-        "example": "Tu lavi bene.",
-        "example_english": "You wash well."
+        "example": "Tu lavi mai la macchina a mano o vai sempre all'autolavaggio automatico?",
+        "example_english": "Do you ever wash car by hand or do you always go to automatic car wash?"
       },
       "lui": {
         "conjugation": "lava",
         "pronunciation": "/lava/",
         "english": "he/she/it washs",
-        "example": "Lei lava molto.",
-        "example_english": "She wash a lot."
+        "example": "Lei lava i vestiti dei bambini separatamente dagli altri per evitare danni",
+        "example_english": "She washes children's clothes separately from others to avoid damage"
       },
       "noi": {
         "conjugation": "laviamo",
         "pronunciation": "/laviamo/",
         "english": "we wash",
-        "example": "Noi laviamo insieme.",
-        "example_english": "We wash together."
+        "example": "Laviamo insieme le finestre di casa una volta al mese per mantenerle pulite",
+        "example_english": "We wash house windows together once a month to keep them clean"
       },
       "voi": {
         "conjugation": "lavate",
         "pronunciation": "/lavate/",
         "english": "you wash",
-        "example": "Voi lavate bene?",
-        "example_english": "Do you wash well?"
+        "example": "Voi lavate spesso i capelli o aspettate che diventino troppo unti?",
+        "example_english": "Do you often wash your hair or wait until it becomes too greasy?"
       },
       "loro": {
         "conjugation": "lavano",
         "pronunciation": "/lavano/",
         "english": "they wash",
-        "example": "Loro lavano spesso.",
-        "example_english": "They wash often."
+        "example": "Lavano sempre le mani prima di mangiare seguendo le regole dell'igiene personale",
+        "example_english": "They always wash hands before eating following personal hygiene rules"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho lavato",
         "pronunciation": "/ho lavato/",
         "english": "I washed",
-        "example": "Ieri ho lavato.",
-        "example_english": "Yesterday i washed."
+        "example": "Ho lavato tre carichi di bucato oggi perché avevo accumulato troppi vestiti",
+        "example_english": "I washed three loads of laundry today because I had accumulated too many clothes"
       },
       "tu": {
         "conjugation": "hai lavato",
         "pronunciation": "/hai/",
         "english": "you (informal) washed",
-        "example": "Ieri hai lavato.",
-        "example_english": "Yesterday you (informal) washed."
+        "example": "Hai lavato le mani dopo aver toccato quegli oggetti sporchi nel garage?",
+        "example_english": "Did you wash hands after touching those dirty objects in garage?"
       },
       "lui": {
         "conjugation": "ha lavato",
         "pronunciation": "/ha lavato/",
         "english": "he/she/it washed",
-        "example": "Ieri ha lavato.",
-        "example_english": "Yesterday he/she/it washed."
+        "example": "Ha lavato la macchina prima di venderla per ottenere un prezzo migliore",
+        "example_english": "He washed car before selling it to get better price"
       },
       "noi": {
         "conjugation": "abbiamo lavato",
         "pronunciation": "/abbiamo/",
         "english": "we washed",
-        "example": "Ieri abbiamo lavato.",
-        "example_english": "Yesterday we washed."
+        "example": "Abbiamo lavato tutti i vestiti prima di fare le valigie per il viaggio",
+        "example_english": "We washed all clothes before packing suitcases for trip"
       },
       "voi": {
         "conjugation": "avete lavato",
         "pronunciation": "/avete/",
         "english": "you (plural) washed",
-        "example": "Ieri avete lavato.",
-        "example_english": "Yesterday you (plural) washed."
+        "example": "Avete lavato i capelli con lo shampoo nuovo che avete comprato ieri?",
+        "example_english": "Did you wash hair with new shampoo you bought yesterday?"
       },
       "loro": {
         "conjugation": "hanno lavato",
         "pronunciation": "/hanno/",
         "english": "they washed",
-        "example": "Ieri hanno lavato.",
-        "example_english": "Yesterday they washed."
+        "example": "Hanno lavato il cane dopo che si era rotolato nel fango del giardino",
+        "example_english": "They washed dog after it rolled in garden mud"
       }
     }
-  }
+  },
+  "deck_guid": "41780089388",
+  "note_guid": 319023540624,
+  "deck_name": "Italian::A1::Verbs::insegnare_mettere"
 }

@@ -1,0 +1,151 @@
+{
+  "infinitive": "parcheggiare",
+  "infinitive_pronunciation": "/parked'dʒare/",
+  "english": "to park",
+  "regular": true,
+  "auxiliary": "avere",
+  "participio_passato": {
+    "form": "parcheggiato",
+    "pronunciation": "/parkehgjahto/",
+    "english": "parked",
+    "example": "L'auto parcheggiata è in divieto.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To park vehicles in designated spaces",
+  "synonyms": "posteggiare,sistemare",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "parcheggio",
+        "pronunciation": "/parkehgjoh/",
+        "english": "I park",
+        "example": "Parcheggio sempre la macchina lontano dai centri commerciali per evitare graffi",
+        "example_english": "I always park car away from shopping centers to avoid scratches"
+      },
+      "tu": {
+        "conjugation": "parcheggi",
+        "pronunciation": "/parkehgi/",
+        "english": "you park",
+        "example": "Tu parcheggi mai in divieto di sosta o rispetti sempre le regole?",
+        "example_english": "Do you ever park in no-parking zones or do you always respect rules?"
+      },
+      "lui": {
+        "conjugation": "parcheggia",
+        "pronunciation": "/parkehgjah/",
+        "english": "he/she/it parks",
+        "example": "Lei parcheggia con grande difficoltà perché ha preso la patente da poco",
+        "example_english": "She parks with great difficulty because she got license recently"
+      },
+      "noi": {
+        "conjugation": "parcheggiamo",
+        "pronunciation": "/parkehgjahmo/",
+        "english": "we park",
+        "example": "Parcheggiamo sempre nello stesso posto davanti al nostro palazzo di residenza",
+        "example_english": "We always park in same spot in front of our residential building"
+      },
+      "voi": {
+        "conjugation": "parcheggiate",
+        "pronunciation": "/parkehgjahte/",
+        "english": "you park",
+        "example": "Voi parcheggiate spesso nel garage sotterraneo o preferite la strada esterna?",
+        "example_english": "Do you often park in underground garage or prefer outside street?"
+      },
+      "loro": {
+        "conjugation": "parcheggiano",
+        "pronunciation": "/parkehgjahno/",
+        "english": "they park",
+        "example": "Parcheggiano sempre in doppia fila nonostante le multe continue della polizia",
+        "example_english": "They always park in double row despite continuous police fines"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "parcheggierò",
+        "pronunciation": "/parkehgierò/",
+        "english": "I will park",
+        "example": "Io parcheggierò ogni giorno.",
+        "example_english": "I park every day."
+      },
+      "tu": {
+        "conjugation": "parcheggierai",
+        "pronunciation": "/parkehgierai/",
+        "english": "you (informal) will park",
+        "example": "Tu parcheggierai bene.",
+        "example_english": "You park well."
+      },
+      "lui": {
+        "conjugation": "parcheggierà",
+        "pronunciation": "/parkehgierà/",
+        "english": "he/she/it will park",
+        "example": "Lei parcheggierà molto.",
+        "example_english": "She park a lot."
+      },
+      "noi": {
+        "conjugation": "parcheggieremo",
+        "pronunciation": "/parkehgieremo/",
+        "english": "we will park",
+        "example": "Noi parcheggieremo insieme.",
+        "example_english": "We park together."
+      },
+      "voi": {
+        "conjugation": "parcheggierete",
+        "pronunciation": "/parkehgierete/",
+        "english": "you (plural) will park",
+        "example": "Voi parcheggierete bene?",
+        "example_english": "Do you park well?"
+      },
+      "loro": {
+        "conjugation": "parcheggieranno",
+        "pronunciation": "/parkehgieranno/",
+        "english": "they will park",
+        "example": "Loro parcheggieranno spesso.",
+        "example_english": "They park often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho parcheggiato",
+        "pronunciation": "/ho parkehgjahto/",
+        "english": "I parked",
+        "example": "Ho parcheggiato l'auto troppo vicino al muro e ora ho difficoltà",
+        "example_english": "I parked car too close to wall and now have difficulty getting out"
+      },
+      "tu": {
+        "conjugation": "hai parcheggiato",
+        "pronunciation": "/hai/",
+        "english": "you (informal) parked",
+        "example": "Hai parcheggiato nel posto riservato ai disabili senza averne il diritto?",
+        "example_english": "Did you park in disabled spot without having right to do so?"
+      },
+      "lui": {
+        "conjugation": "ha parcheggiato",
+        "pronunciation": "/ha parkehgjahto/",
+        "english": "he/she/it parked",
+        "example": "Ha parcheggiato la macchina sotto l'albero per proteggerla dal sole cocente",
+        "example_english": "He parked car under tree to protect it from blazing sun"
+      },
+      "noi": {
+        "conjugation": "abbiamo parcheggiato",
+        "pronunciation": "/abbiamo/",
+        "english": "we parked",
+        "example": "Abbiamo parcheggiato tutte le macchine in fila per non occupare troppo spazio",
+        "example_english": "We parked all cars in row to not take up too much space"
+      },
+      "voi": {
+        "conjugation": "avete parcheggiato",
+        "pronunciation": "/avete/",
+        "english": "you (plural) parked",
+        "example": "Avete parcheggiato lontano dall'entrata del centro commerciale per risparmiare soldi?",
+        "example_english": "Did you park far from shopping center entrance to save money?"
+      },
+      "loro": {
+        "conjugation": "hanno parcheggiato",
+        "pronunciation": "/hanno/",
+        "english": "they parked",
+        "example": "Hanno parcheggiato male e hanno ricevuto una multa salata dalla polizia",
+        "example_english": "They parked badly and received hefty fine from police"
+      }
+    }
+  }
+}

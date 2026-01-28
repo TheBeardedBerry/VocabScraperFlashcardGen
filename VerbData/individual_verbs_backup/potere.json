@@ -1,0 +1,151 @@
+{
+  "infinitive": "potere",
+  "infinitive_pronunciation": "/po'tere/",
+  "english": "to be able to/can/may",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "posso",
+        "pronunciation": "/'posso/",
+        "english": "I can/am able",
+        "example": "Posso sempre contare sull'aiuto della mia famiglia durante i momenti difficili",
+        "example_english": "I can always count on my family's help during difficult moments"
+      },
+      "tu": {
+        "conjugation": "puoi",
+        "pronunciation": "/'pwoi/",
+        "english": "you can/are able",
+        "example": "Tu puoi venire alla festa di compleanno che organizziamo sabato sera?",
+        "example_english": "Can you come to birthday party we're organizing Saturday evening?"
+      },
+      "lui": {
+        "conjugation": "può",
+        "pronunciation": "/'pwɔ/",
+        "english": "he/she/it can/is able",
+        "example": "Lei può suonare il pianoforte magnificamente dopo anni di studio costante",
+        "example_english": "She can play piano magnificently after years of constant study"
+      },
+      "noi": {
+        "conjugation": "possiamo",
+        "pronunciation": "/pos'sjamo/",
+        "english": "we can/are able",
+        "example": "Possiamo risolvere questo problema se lavoriamo insieme con determinazione e pazienza",
+        "example_english": "We can solve this problem if we work together with determination and patience"
+      },
+      "voi": {
+        "conjugation": "potete",
+        "pronunciation": "/po'tete/",
+        "english": "you can/are able",
+        "example": "Voi potete aiutarci a spostare questi mobili pesanti nel appartamento nuovo?",
+        "example_english": "Can you help us move this heavy furniture to new apartment?"
+      },
+      "loro": {
+        "conjugation": "possono",
+        "pronunciation": "/'possono/",
+        "english": "they can/are able",
+        "example": "Possono raggiungere qualsiasi obiettivo se continuano ad impegnarsi con passione",
+        "example_english": "They can achieve any goal if they continue working with passion"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "potrò",
+        "pronunciation": "/po'tro/",
+        "english": "I will be able",
+        "example": "Domani potrò aiutarti con il trasloco.",
+        "example_english": "Tomorrow I will be able to help you with the move."
+      },
+      "tu": {
+        "conjugation": "potrai",
+        "pronunciation": "/po'trai/",
+        "english": "you will be able",
+        "example": "Tu potrai guidare quando avrai diciotto anni.",
+        "example_english": "You will be able to drive when you turn eighteen."
+      },
+      "lui": {
+        "conjugation": "potrà",
+        "pronunciation": "/po'tra/",
+        "english": "he/she/it will be able",
+        "example": "Lei potrà viaggiare l'anno prossimo.",
+        "example_english": "She will be able to travel next year."
+      },
+      "noi": {
+        "conjugation": "potremo",
+        "pronunciation": "/po'tremo/",
+        "english": "we will be able",
+        "example": "Potremo partire presto domattina.",
+        "example_english": "We will be able to leave early tomorrow morning."
+      },
+      "voi": {
+        "conjugation": "potrete",
+        "pronunciation": "/po'trete/",
+        "english": "you will be able",
+        "example": "Voi potrete scegliere il ristorante.",
+        "example_english": "You will be able to choose the restaurant."
+      },
+      "loro": {
+        "conjugation": "potranno",
+        "pronunciation": "/po'tranno/",
+        "english": "they will be able",
+        "example": "Loro potranno studiare all'università.",
+        "example_english": "They will be able to study at university."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho potuto",
+        "pronunciation": "/'o po'tuto/",
+        "english": "I was able/could",
+        "example": "Ho potuto incontrare il mio idolo musicale durante il concerto privato",
+        "example_english": "I was able to meet my musical idol during private concert"
+      },
+      "tu": {
+        "conjugation": "hai potuto",
+        "pronunciation": "/'ai po'tuto/",
+        "english": "you were able/could",
+        "example": "Hai potuto parlare con il direttore della questione che ti preoccupava?",
+        "example_english": "Were you able to talk with director about matter that worried you?"
+      },
+      "lui": {
+        "conjugation": "ha potuto",
+        "pronunciation": "/'a po'tuto/",
+        "english": "he/she/it was able/could",
+        "example": "Ha potuto laurearsi nonostante tutte le difficoltà economiche della famiglia",
+        "example_english": "He was able to graduate despite all family's economic difficulties"
+      },
+      "noi": {
+        "conjugation": "abbiamo potuto",
+        "pronunciation": "/ab'bjamo po'tuto/",
+        "english": "we were able/could",
+        "example": "Abbiamo potuto salvare il cane che era rimasto intrappolato nel fiume",
+        "example_english": "We were able to save dog that was trapped in river"
+      },
+      "voi": {
+        "conjugation": "avete potuto",
+        "pronunciation": "/a'vete po'tuto/",
+        "english": "you were able/could",
+        "example": "Avete potuto risolvere il problema tecnico che bloccava il computer?",
+        "example_english": "Were you able to solve technical problem that was blocking computer?"
+      },
+      "loro": {
+        "conjugation": "hanno potuto",
+        "pronunciation": "/'anno po'tuto/",
+        "english": "they were able/could",
+        "example": "Hanno potuto realizzare il progetto grazie all'aiuto di tutti i volontari",
+        "example_english": "They were able to realize project thanks to help of all volunteers"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "potuto",
+    "pronunciation": "/po'tuto/",
+    "english": "been able",
+    "example": "Non ho mai potuto visitare quella città.",
+    "example_english": "I have never been able to visit that city."
+  },
+  "part_of_speech": "verb",
+  "context": "Modal verb expressing ability, possibility, or permission",
+  "synonyms": "riuscire"
+}

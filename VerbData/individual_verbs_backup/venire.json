@@ -1,0 +1,151 @@
+{
+  "infinitive": "venire",
+  "infinitive_pronunciation": "/ve'nire/",
+  "english": "to come",
+  "regular": false,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "vengo",
+        "pronunciation": "/'vengo/",
+        "english": "I come",
+        "example": "Io vengo a trovarti domani.",
+        "example_english": "I come to visit you tomorrow."
+      },
+      "tu": {
+        "conjugation": "vieni",
+        "pronunciation": "/'vjɛni/",
+        "english": "you come",
+        "example": "Tu vieni con noi al cinema?",
+        "example_english": "Are you coming with us to the movies?"
+      },
+      "lui": {
+        "conjugation": "viene",
+        "pronunciation": "/'vjɛne/",
+        "english": "he/she/it comes",
+        "example": "Lei viene dall'Italia ogni estate.",
+        "example_english": "She comes from Italy every summer."
+      },
+      "noi": {
+        "conjugation": "veniamo",
+        "pronunciation": "/ve'njamo/",
+        "english": "we come",
+        "example": "Noi veniamo alla festa insieme.",
+        "example_english": "We come to the party together."
+      },
+      "voi": {
+        "conjugation": "venite",
+        "pronunciation": "/ve'nite/",
+        "english": "you come",
+        "example": "Voi venite sempre in ritardo.",
+        "example_english": "You always come late."
+      },
+      "loro": {
+        "conjugation": "vengono",
+        "pronunciation": "/'vengono/",
+        "english": "they come",
+        "example": "Loro vengono da molto lontano.",
+        "example_english": "They come from very far away."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "verrò",
+        "pronunciation": "/ver'ro/",
+        "english": "I will come",
+        "example": "Verrò da te appena possibile.",
+        "example_english": "I will come to you as soon as possible."
+      },
+      "tu": {
+        "conjugation": "verrai",
+        "pronunciation": "/ver'rai/",
+        "english": "you will come",
+        "example": "Tu verrai alla riunione di domani?",
+        "example_english": "Will you come to tomorrow's meeting?"
+      },
+      "lui": {
+        "conjugation": "verrà",
+        "pronunciation": "/ver'ra/",
+        "english": "he/she/it will come",
+        "example": "Lei verrà con il treno delle otto.",
+        "example_english": "She will come on the eight o'clock train."
+      },
+      "noi": {
+        "conjugation": "verremo",
+        "pronunciation": "/ver'remo/",
+        "english": "we will come",
+        "example": "Verremo tutti insieme alla festa.",
+        "example_english": "We will all come to the party together."
+      },
+      "voi": {
+        "conjugation": "verrete",
+        "pronunciation": "/ver'rete/",
+        "english": "you will come",
+        "example": "Voi verrete a trovarci presto?",
+        "example_english": "Will you come to visit us soon?"
+      },
+      "loro": {
+        "conjugation": "verranno",
+        "pronunciation": "/ver'ranno/",
+        "english": "they will come",
+        "example": "Loro verranno dopo le vacanze.",
+        "example_english": "They will come after the holidays."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono venuto/a",
+        "pronunciation": "/'sono ve'nuto/ta/",
+        "english": "I came/have come",
+        "example": "Sono venuto in treno questa mattina.",
+        "example_english": "I came by train this morning."
+      },
+      "tu": {
+        "conjugation": "sei venuto/a",
+        "pronunciation": "/sei ve'nuto/ta/",
+        "english": "you came/have come",
+        "example": "Sei venuto proprio al momento giusto.",
+        "example_english": "You came just at the right time."
+      },
+      "lui": {
+        "conjugation": "è venuto/a",
+        "pronunciation": "/'ɛ ve'nuto/ta/",
+        "english": "he/she/it came/has come",
+        "example": "È venuta con l'ultimo autobus.",
+        "example_english": "She came with the last bus."
+      },
+      "noi": {
+        "conjugation": "siamo venuti/e",
+        "pronunciation": "/'sjamo ve'nuti/te/",
+        "english": "we came/have come",
+        "example": "Siamo venuti per congratularci con te.",
+        "example_english": "We came to congratulate you."
+      },
+      "voi": {
+        "conjugation": "siete venuti/e",
+        "pronunciation": "/'sjɛte ve'nuti/te/",
+        "english": "you came/have come",
+        "example": "Siete venuti da molto lontano.",
+        "example_english": "You came from very far away."
+      },
+      "loro": {
+        "conjugation": "sono venuti/e",
+        "pronunciation": "/'sono ve'nuti/te/",
+        "english": "they came/have come",
+        "example": "Sono venuti tutti alla presentazione.",
+        "example_english": "They all came to the presentation."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "venuto/a/i/e",
+    "pronunciation": "/ve'nuto/ta/ti/te/",
+    "english": "come",
+    "example": "È venuto il momento di partire.",
+    "example_english": "The time to leave has come."
+  },
+  "part_of_speech": "verb",
+  "context": "To come toward speaker; motion verb using essere auxiliary",
+  "synonyms": "arrivare,giungere"
+}

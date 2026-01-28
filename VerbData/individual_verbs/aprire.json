@@ -93,7 +93,7 @@
         "example_english": "They opened the museum to the public after three years of restorations and improvements"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "aprirò",
         "pronunciation": "/a.pri.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To open doors, windows, containers, or begin something new",
-  "synonyms": "schiudere,dischiudere"
+  "synonyms": "schiudere,dischiudere",
+  "deck_guid": "795866076341",
+  "note_guid": 722348231604,
+  "deck_name": "Italian::A1::Verbs::essere_aspettare"
 }

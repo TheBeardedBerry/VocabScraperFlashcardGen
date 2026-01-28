@@ -10,43 +10,43 @@
         "conjugation": "faccio",
         "pronunciation": "/'fattʃo/",
         "english": "I do/make",
-        "example": "Io faccio sempre colazione alle otto di mattina.",
-        "example_english": "I always have breakfast at eight in the morning."
+        "example": "Faccio sempre del mio meglio per aiutare le persone in difficoltà che incontro",
+        "example_english": "I always do my best to help people in difficulty that I meet"
       },
       "tu": {
         "conjugation": "fai",
         "pronunciation": "/'fai/",
         "english": "you do/make",
-        "example": "Tu fai un lavoro molto interessante.",
-        "example_english": "You do very interesting work."
+        "example": "Tu fai spesso viaggi internazionali per lavoro o preferisci restare in Italia?",
+        "example_english": "Do you often take international trips for work or do you prefer staying in Italy?"
       },
       "lui": {
         "conjugation": "fa",
         "pronunciation": "/'fa/",
         "english": "he/she/it does/makes",
-        "example": "Mia madre fa sempre delle torte deliziose.",
-        "example_english": "My mother always makes delicious cakes."
+        "example": "Lei fa yoga ogni mattina per mantenere il corpo flessibile e la mente serena",
+        "example_english": "She does yoga every morning to keep her body flexible and mind serene"
       },
       "noi": {
         "conjugation": "facciamo",
         "pronunciation": "/fat'tʃamo/",
         "english": "we do/make",
-        "example": "Noi facciamo yoga ogni martedì sera.",
-        "example_english": "We do yoga every Tuesday evening."
+        "example": "Facciamo sempre la spesa insieme il sabato mattina al mercato del centro",
+        "example_english": "We always do grocery shopping together on Saturday morning at downtown market"
       },
       "voi": {
         "conjugation": "fate",
         "pronunciation": "/'fate/",
         "english": "you do/make",
-        "example": "Voi fate sempre tutto con grande precisione.",
-        "example_english": "You always do everything with great precision."
+        "example": "Voi fate mai volontariato durante il tempo libero per aiutare la comunità?",
+        "example_english": "Do you ever volunteer during free time to help the community?"
       },
       "loro": {
         "conjugation": "fanno",
         "pronunciation": "/'fanno/",
         "english": "they do/make",
-        "example": "I bambini fanno molte domande curiose.",
-        "example_english": "The children ask many curious questions."
+        "example": "Fanno sempre una passeggiata nel parco dopo cena per digerire meglio",
+        "example_english": "They always take a walk in the park after dinner to digest better"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho fatto",
         "pronunciation": "/'ɔ 'fatto/",
         "english": "I did/have done",
-        "example": "Ho fatto tutti i compiti prima di uscire.",
-        "example_english": "I did all my homework before going out."
+        "example": "Ho fatto un errore grave che mi ha insegnato una lezione di vita",
+        "example_english": "I made a serious mistake that taught me a life lesson"
       },
       "tu": {
         "conjugation": "hai fatto",
         "pronunciation": "/'ai 'fatto/",
         "english": "you did/have done",
-        "example": "Tu hai fatto un ottimo lavoro con questo progetto.",
-        "example_english": "You did an excellent job with this project."
+        "example": "Hai fatto tutto quello che potevi per aiutare tua sorella in quel momento?",
+        "example_english": "Did you do everything you could to help your sister in that moment?"
       },
       "lui": {
         "conjugation": "ha fatto",
         "pronunciation": "/'a 'fatto/",
         "english": "he/she/it did/has done",
-        "example": "Il medico ha fatto una diagnosi accurata.",
-        "example_english": "The doctor made an accurate diagnosis."
+        "example": "Ha fatto un discorso commovente che ha fatto piangere tutti i presenti",
+        "example_english": "He gave a moving speech that made all those present cry"
       },
       "noi": {
         "conjugation": "abbiamo fatto",
         "pronunciation": "/ab'bjamo 'fatto/",
         "english": "we did/have done",
-        "example": "Abbiamo fatto una bella passeggiata nel parco.",
-        "example_english": "We took a nice walk in the park."
+        "example": "Abbiamo fatto una scelta difficile ma necessaria per il bene della famiglia",
+        "example_english": "We made a difficult but necessary choice for the good of the family"
       },
       "voi": {
         "conjugation": "avete fatto",
         "pronunciation": "/a'vete 'fatto/",
         "english": "you did/have done",
-        "example": "Voi avete fatto la scelta giusta per il futuro.",
-        "example_english": "You made the right choice for the future."
+        "example": "Avete fatto i compiti di matematica o li avete rimandati a domani?",
+        "example_english": "Did you do your math homework or did you postpone it until tomorrow?"
       },
       "loro": {
         "conjugation": "hanno fatto",
         "pronunciation": "/'anno 'fatto/",
         "english": "they did/have done",
-        "example": "I musicisti hanno fatto un concerto straordinario.",
-        "example_english": "The musicians gave an extraordinary concert."
+        "example": "Hanno fatto un lungo viaggio attraverso l'Europa in macchina durante le vacanze",
+        "example_english": "They took a long trip through Europe by car during vacation"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "Extremely versatile - means both 'to do' and 'to make'",
-  "synonyms": "creare,realizzare,eseguire"
+  "synonyms": "creare,realizzare,eseguire",
+  "deck_guid": "25192925024",
+  "note_guid": 375404955620,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

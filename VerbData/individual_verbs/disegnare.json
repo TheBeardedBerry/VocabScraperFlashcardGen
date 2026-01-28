@@ -20,43 +20,43 @@
         "conjugation": "disegno",
         "pronunciation": "/disenyo/",
         "english": "I draw",
-        "example": "Io disegno ogni giorno.",
-        "example_english": "I draw every day."
+        "example": "Disegno sempre paesaggi naturali quando vado in vacanza per catturare la bellezza",
+        "example_english": "I always draw natural landscapes when I go on vacation to capture beauty"
       },
       "tu": {
         "conjugation": "disegni",
         "pronunciation": "/disenyi/",
         "english": "you draw",
-        "example": "Tu disegni bene.",
-        "example_english": "You draw well."
+        "example": "Tu disegni ancora come quando eri bambino o hai perso questa passione artistica?",
+        "example_english": "Do you still draw like when you were a child or have you lost this artistic passion?"
       },
       "lui": {
         "conjugation": "disegna",
         "pronunciation": "/disenya/",
         "english": "he/she/it draws",
-        "example": "Lei disegna molto.",
-        "example_english": "She draw a lot."
+        "example": "Lei disegna ritratti magnifici che sembrano fotografie per la precisione dei dettagli",
+        "example_english": "She draws magnificent portraits that look like photographs due to detail precision"
       },
       "noi": {
         "conjugation": "disegniamo",
         "pronunciation": "/disenyiamo/",
         "english": "we draw",
-        "example": "Noi disegniamo insieme.",
-        "example_english": "We draw together."
+        "example": "Disegniamo insieme progetti architettonici per la nuova casa che vogliamo costruire",
+        "example_english": "We draw architectural projects together for the new house we want to build"
       },
       "voi": {
         "conjugation": "disegnate",
         "pronunciation": "/disenyate/",
         "english": "you draw",
-        "example": "Voi disegnate bene?",
-        "example_english": "Do you draw well?"
+        "example": "Voi disegnate spesso durante il tempo libero o preferite altre attività creative?",
+        "example_english": "Do you often draw during free time or do you prefer other creative activities?"
       },
       "loro": {
         "conjugation": "disegnano",
         "pronunciation": "/disenyano/",
         "english": "they draw",
-        "example": "Loro disegnano spesso.",
-        "example_english": "They draw often."
+        "example": "Disegnano fumetti originali che pubblicano sulla loro rivista mensile indipendente",
+        "example_english": "They draw original comics that they publish in their independent monthly magazine"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho disegnato",
         "pronunciation": "/ho disenyato/",
         "english": "I drawed",
-        "example": "Ieri ho disegnato.",
-        "example_english": "Yesterday i drawed."
+        "example": "Ho disegnato per ore quel paesaggio marino che mi aveva colpito durante",
+        "example_english": "I drew for hours that seascape that had struck me during the trip"
       },
       "tu": {
         "conjugation": "hai disegnato",
         "pronunciation": "/hai/",
         "english": "you (informal) drawed",
-        "example": "Ieri hai disegnato.",
-        "example_english": "Yesterday you (informal) drawed."
+        "example": "Hai disegnato qualcosa di bello durante il corso di arte che hai frequentato?",
+        "example_english": "Did you draw something beautiful during the art course you attended?"
       },
       "lui": {
         "conjugation": "ha disegnato",
         "pronunciation": "/ha disenyato/",
         "english": "he/she/it drawed",
-        "example": "Ieri ha disegnato.",
-        "example_english": "Yesterday he/she/it drawed."
+        "example": "Ha disegnato il progetto della sua invenzione su decine di fogli diversi",
+        "example_english": "He drew the design of his invention on dozens of different sheets"
       },
       "noi": {
         "conjugation": "abbiamo disegnato",
         "pronunciation": "/abbiamo/",
         "english": "we drawed",
-        "example": "Ieri abbiamo disegnato.",
-        "example_english": "Yesterday we drawed."
+        "example": "Abbiamo disegnato una mappa dettagliata del tesoro nascosto per i bambini",
+        "example_english": "We drew a detailed map of hidden treasure for the children"
       },
       "voi": {
         "conjugation": "avete disegnato",
         "pronunciation": "/avete/",
         "english": "you (plural) drawed",
-        "example": "Ieri avete disegnato.",
-        "example_english": "Yesterday you (plural) drawed."
+        "example": "Avete disegnato tutti i personaggi del fumetto che volete pubblicare prossimamente?",
+        "example_english": "Did you draw all characters of the comic you want to publish soon?"
       },
       "loro": {
         "conjugation": "hanno disegnato",
         "pronunciation": "/hanno/",
         "english": "they drawed",
-        "example": "Ieri hanno disegnato.",
-        "example_english": "Yesterday they drawed."
+        "example": "Hanno disegnato graffiti artistici sul muro della scuola con il permesso",
+        "example_english": "They drew artistic graffiti on the school wall with permission"
       }
     }
-  }
+  },
+  "deck_guid": "25192925024",
+  "note_guid": 968731586905,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

@@ -10,43 +10,43 @@
         "conjugation": "insegno",
         "pronunciation": "/inˈse.ɲo/",
         "english": "I teach",
-        "example": "Insegno matematica al liceo.",
-        "example_english": "I teach mathematics at high school."
+        "example": "Insegno sempre ai miei studenti l'importanza del rispetto reciproco e della collaborazione",
+        "example_english": "I always teach my students importance of mutual respect and collaboration"
       },
       "tu": {
         "conjugation": "insegni",
         "pronunciation": "/inˈse.ɲi/",
         "english": "you teach",
-        "example": "Tu insegni con grande passione.",
-        "example_english": "You teach with great passion."
+        "example": "Tu insegni mai ai tuoi figli piccoli i valori tradizionali della famiglia?",
+        "example_english": "Do you ever teach your young children traditional family values?"
       },
       "lui": {
         "conjugation": "insegna",
         "pronunciation": "/inˈse.ɲa/",
         "english": "he/she/it teaches",
-        "example": "Lei insegna ai bambini delle elementari.",
-        "example_english": "She teaches elementary school children."
+        "example": "Lei insegna matematica avanzata agli studenti del liceo scientifico con grande passione",
+        "example_english": "She teaches advanced mathematics to science high school students with great passion"
       },
       "noi": {
         "conjugation": "insegniamo",
         "pronunciation": "/in.se.ˈɲa.mo/",
         "english": "we teach",
-        "example": "Noi insegniamo insieme in questa scuola.",
-        "example_english": "We teach together at this school."
+        "example": "Insegniamo insieme ai nostri bambini l'importanza di proteggere l'ambiente naturale",
+        "example_english": "We teach our children together importance of protecting natural environment"
       },
       "voi": {
         "conjugation": "insegnate",
         "pronunciation": "/in.se.ˈɲa.te/",
         "english": "you teach",
-        "example": "Voi insegnate lingue straniere?",
-        "example_english": "Do you teach foreign languages?"
+        "example": "Voi insegnate spesso ai vostri nipoti piccoli le tradizioni culturali della vostra regione?",
+        "example_english": "Do you often teach your young grandchildren cultural traditions of your region?"
       },
       "loro": {
         "conjugation": "insegnano",
         "pronunciation": "/inˈse.ɲa.no/",
         "english": "they teach",
-        "example": "Loro insegnano all'università.",
-        "example_english": "They teach at the university."
+        "example": "Insegnano ai giovani l'arte antica della ceramica tramandando tecniche di famiglia",
+        "example_english": "They teach young people ancient art of ceramics passing down family techniques"
       }
     },
     "passato_prossimo": {
@@ -54,87 +54,87 @@
         "conjugation": "ho insegnato",
         "pronunciation": "/o in.se.ˈɲa.to/",
         "english": "I taught/have taught",
-        "example": "Ieri ho insegnato per cinque ore.",
-        "example_english": "Yesterday I taught for five hours."
+        "example": "Ho insegnato per trent'anni in diverse scuole prima di andare in pensione",
+        "example_english": "I taught for thirty years in different schools before retiring"
       },
       "tu": {
         "conjugation": "hai insegnato",
         "pronunciation": "/ˈaj in.se.ˈɲa.to/",
         "english": "you taught/have taught",
-        "example": "Hai insegnato a tuo figlio ad andare in bicicletta?",
-        "example_english": "Did you teach your son to ride a bicycle?"
+        "example": "Hai mai insegnato a qualcuno qualcosa che hai cambiato la sua vita?",
+        "example_english": "Have you ever taught someone something that changed their life?"
       },
       "lui": {
         "conjugation": "ha insegnato",
         "pronunciation": "/a in.se.ˈɲa.to/",
         "english": "he/she/it taught/has taught",
-        "example": "Ha insegnato in quella scuola per vent'anni.",
-        "example_english": "He taught at that school for twenty years."
+        "example": "Ha insegnato a sua figlia a guidare con pazienza e dedizione paterna",
+        "example_english": "He taught his daughter to drive with patience and paternal dedication"
       },
       "noi": {
         "conjugation": "abbiamo insegnato",
         "pronunciation": "/ab.ˈbja.mo in.se.ˈɲa.to/",
         "english": "we taught/have taught",
-        "example": "Abbiamo insegnato molte cose ai nostri studenti.",
-        "example_english": "We taught many things to our students."
+        "example": "Abbiamo insegnato ai nostri studenti molto più delle materie scolastiche tradizionali",
+        "example_english": "We taught our students much more than traditional school subjects"
       },
       "voi": {
         "conjugation": "avete insegnato",
         "pronunciation": "/a.ˈve.te in.se.ˈɲa.to/",
         "english": "you taught/have taught",
-        "example": "Avete insegnato storia medievale?",
-        "example_english": "Have you taught medieval history?"
+        "example": "Avete insegnato ai vostri figli l'importanza dell'onestà fin da quando erano piccoli?",
+        "example_english": "Did you teach your children importance of honesty since they were small?"
       },
       "loro": {
         "conjugation": "hanno insegnato",
         "pronunciation": "/ˈan.no in.se.ˈɲa.to/",
         "english": "they taught/have taught",
-        "example": "Hanno insegnato una lezione preziosa.",
-        "example_english": "They taught a valuable lesson."
+        "example": "Hanno insegnato a una generazione intera i valori del rispetto e della solidarietà",
+        "example_english": "They taught an entire generation values of respect and solidarity"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "insegnerò",
         "pronunciation": "/in.se.ɲe.ˈrɔ/",
         "english": "I will teach",
-        "example": "Insegnerò in una scuola privata.",
-        "example_english": "I will teach at a private school."
+        "example": "Insegnerò inglese ai bambini stranieri che arrivano nella nostra scuola multiculturale",
+        "example_english": "I will teach English to foreign children arriving at our multicultural school"
       },
       "tu": {
         "conjugation": "insegnerai",
         "pronunciation": "/in.se.ɲe.ˈraj/",
         "english": "you will teach",
-        "example": "Tu insegnerai ai tuoi figli il rispetto.",
-        "example_english": "You will teach your children respect."
+        "example": "Tu insegnerai finalmente quello che hai imparato durante i tuoi viaggi internazionali?",
+        "example_english": "Will you finally teach what you learned during your international travels?"
       },
       "lui": {
         "conjugation": "insegnerà",
         "pronunciation": "/in.se.ɲe.ˈra/",
         "english": "he/she/it will teach",
-        "example": "Lei insegnerà letteratura moderna.",
-        "example_english": "She will teach modern literature."
+        "example": "Lei insegnerà pianoforte ai bambini del quartiere aprendo una scuola di musica",
+        "example_english": "She will teach piano to neighborhood children by opening music school"
       },
       "noi": {
         "conjugation": "insegneremo",
         "pronunciation": "/in.se.ɲe.ˈre.mo/",
         "english": "we will teach",
-        "example": "Noi insegneremo con metodi innovativi.",
-        "example_english": "We will teach with innovative methods."
+        "example": "Insegneremo ai nostri figli l'importanza del lavoro onesto e della perseveranza",
+        "example_english": "We will teach our children importance of honest work and perseverance"
       },
       "voi": {
         "conjugation": "insegnerete",
         "pronunciation": "/in.se.ɲe.ˈre.te/",
         "english": "you will teach",
-        "example": "Voi insegnerete inglese l'anno prossimo?",
-        "example_english": "Will you teach English next year?"
+        "example": "Voi insegnerete le vostre competenze professionali ai nuovi colleghi che arriveranno?",
+        "example_english": "Will you teach your professional skills to new colleagues who will arrive?"
       },
       "loro": {
         "conjugation": "insegneranno",
         "pronunciation": "/in.se.ɲe.ˈran.no/",
         "english": "they will teach",
-        "example": "Loro insegneranno in diverse università.",
-        "example_english": "They will teach at different universities."
+        "example": "Insegneranno tecniche di sopravvivenza durante il campo estivo organizzato in montagna",
+        "example_english": "They will teach survival techniques during summer camp organized in mountains"
       }
     }
   },
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To teach knowledge or skills to students",
-  "synonyms": "istruire,educare"
+  "synonyms": "istruire,educare",
+  "deck_guid": "41780089388",
+  "note_guid": 545473684199,
+  "deck_name": "Italian::A1::Verbs::insegnare_mettere"
 }

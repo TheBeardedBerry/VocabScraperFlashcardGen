@@ -10,43 +10,43 @@
         "conjugation": "cucino",
         "pronunciation": "/'kutʃino/",
         "english": "I cook",
-        "example": "Cucino la pasta fresca per la famiglia.",
-        "example_english": "I cook fresh pasta for the family."
+        "example": "Cucino sempre piatti tradizionali italiani utilizzando le ricette segrete della mia famiglia",
+        "example_english": "I always cook traditional Italian dishes using my family's secret recipes"
       },
       "tu": {
         "conjugation": "cucini",
         "pronunciation": "/'kutʃini/",
         "english": "you cook",
-        "example": "Cucini divinamente il risotto!",
-        "example_english": "You cook risotto divinely!"
+        "example": "Tu cucini magnificamente quando hai tempo libero o preferisci ordinare cibo da asporto?",
+        "example_english": "Do you cook magnificently when you have free time or do you prefer ordering takeout food?"
       },
       "lui": {
         "conjugation": "cucina",
         "pronunciation": "/'kutʃina/",
         "english": "he/she/it cooks",
-        "example": "Mio nonno cucina sempre con amore.",
-        "example_english": "My grandfather always cooks with love."
+        "example": "Lei cucina per tutta la famiglia ogni domenica preparando pranzi che durano ore",
+        "example_english": "She cooks for the whole family every Sunday preparing meals that last for hours"
       },
       "noi": {
         "conjugation": "cuciniamo",
         "pronunciation": "/kutʃi'njamo/",
         "english": "we cook",
-        "example": "Cuciniamo insieme la cena di Natale.",
-        "example_english": "We cook Christmas dinner together."
+        "example": "Cuciniamo insieme ogni venerdì sera provando ricette internazionali diverse ogni volta",
+        "example_english": "We cook together every Friday evening trying different international recipes each time"
       },
       "voi": {
         "conjugation": "cucinate",
         "pronunciation": "/kutʃi'nate/",
         "english": "you cook",
-        "example": "Cucinate spesso piatti italiani?",
-        "example_english": "Do you often cook Italian dishes?"
+        "example": "Voi cucinate spesso piatti vegetariani o preferite sempre carne e pesce nella dieta?",
+        "example_english": "Do you often cook vegetarian dishes or do you always prefer meat and fish in your diet?"
       },
       "loro": {
         "conjugation": "cucinano",
         "pronunciation": "/'kutʃinano/",
         "english": "they cook",
-        "example": "I miei amici cucinano solo cibi biologici.",
-        "example_english": "My friends only cook organic food."
+        "example": "Cucinano solo con ingredienti biologici acquistati direttamente dai produttori locali di fiducia",
+        "example_english": "They cook only with organic ingredients bought directly from trusted local producers"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho cucinato",
         "pronunciation": "/o kutʃi'nato/",
         "english": "I cooked/have cooked",
-        "example": "Ho cucinato le lasagne per tutta la famiglia.",
-        "example_english": "I cooked lasagna for the whole family."
+        "example": "Ho cucinato per dodici persone durante la festa di laurea di mia sorella",
+        "example_english": "I cooked for twelve people during my sister's graduation party"
       },
       "tu": {
         "conjugation": "hai cucinato",
         "pronunciation": "/ai kutʃi'nato/",
         "english": "you cooked/have cooked",
-        "example": "Hai cucinato tu questa deliziosa minestra?",
-        "example_english": "Did you cook this delicious soup?"
+        "example": "Hai mai cucinato qualcosa di così delizioso che tutti hanno chiesto la ricetta?",
+        "example_english": "Have you ever cooked something so delicious that everyone asked for the recipe?"
       },
       "lui": {
         "conjugation": "ha cucinato",
         "pronunciation": "/a kutʃi'nato/",
         "english": "he/she/it cooked/has cooked",
-        "example": "La nonna ha cucinato per tutto il giorno.",
-        "example_english": "Grandmother cooked all day long."
+        "example": "Ha cucinato tutta la notte per preparare il banchetto nuziale della sua migliore amica",
+        "example_english": "He cooked all night to prepare the wedding banquet for his best friend"
       },
       "noi": {
         "conjugation": "abbiamo cucinato",
         "pronunciation": "/ab'bjamo kutʃi'nato/",
         "english": "we cooked/have cooked",
-        "example": "Abbiamo cucinato insieme un pranzo magnifico.",
-        "example_english": "We cooked a magnificent lunch together."
+        "example": "Abbiamo cucinato insieme un pranzo memorabile per festeggiare il ritorno del nonno",
+        "example_english": "We cooked together a memorable lunch to celebrate grandfather's return"
       },
       "voi": {
         "conjugation": "avete cucinato",
         "pronunciation": "/a'vete kutʃi'nato/",
         "english": "you cooked/have cooked",
-        "example": "Avete cucinato abbastanza per tutti?",
-        "example_english": "Have you cooked enough for everyone?"
+        "example": "Avete cucinato abbastanza cibo per tutti gli invitati della festa di compleanno?",
+        "example_english": "Did you cook enough food for all guests at the birthday party?"
       },
       "loro": {
         "conjugation": "hanno cucinato",
         "pronunciation": "/'anno kutʃi'nato/",
         "english": "they cooked/have cooked",
-        "example": "Hanno cucinato specialità regionali per il festival.",
-        "example_english": "They cooked regional specialties for the festival."
+        "example": "Hanno cucinato specialità della loro regione di origine per farci conoscere le tradizioni",
+        "example_english": "They cooked specialties from their region of origin to introduce us to traditions"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To cook food in the kitchen; food preparation",
-  "synonyms": "preparare (cibo),fare da mangiare"
+  "synonyms": "preparare (cibo),fare da mangiare",
+  "deck_guid": "25192925024",
+  "note_guid": 361255304869,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

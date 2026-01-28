@@ -20,43 +20,43 @@
         "conjugation": "indosso",
         "pronunciation": "/indosso/",
         "english": "I wear",
-        "example": "Io indosso ogni giorno.",
-        "example_english": "I wear every day."
+        "example": "Indosso sempre vestiti comodi quando devo stare molte ore in piedi al lavoro",
+        "example_english": "I always wear comfortable clothes when I have to stand many hours at work"
       },
       "tu": {
         "conjugation": "indossi",
         "pronunciation": "/indossi/",
         "english": "you wear",
-        "example": "Tu indossi bene.",
-        "example_english": "You wear well."
+        "example": "Tu indossi mai abiti eleganti durante il weekend o preferisci vestirti casual?",
+        "example_english": "Do you ever wear elegant clothes during weekend or do you prefer dressing casually?"
       },
       "lui": {
         "conjugation": "indossa",
         "pronunciation": "/indossa/",
         "english": "he/she/it wears",
-        "example": "Lei indossa molto.",
-        "example_english": "She wear a lot."
+        "example": "Lei indossa sempre gioielli preziosi che appartenevano a sua nonna materna",
+        "example_english": "She always wears precious jewelry that belonged to her maternal grandmother"
       },
       "noi": {
         "conjugation": "indossiamo",
         "pronunciation": "/indossiamo/",
         "english": "we wear",
-        "example": "Noi indossiamo insieme.",
-        "example_english": "We wear together."
+        "example": "Indossiamo tutti lo stesso colore per mostrare unità durante la manifestazione",
+        "example_english": "We all wear same color to show unity during demonstration"
       },
       "voi": {
         "conjugation": "indossate",
         "pronunciation": "/indossate/",
         "english": "you wear",
-        "example": "Voi indossate bene?",
-        "example_english": "Do you wear well?"
+        "example": "Voi indossate mai costumi tradizionali durante le feste folcloristiche del paese?",
+        "example_english": "Do you ever wear traditional costumes during village folkloric festivals?"
       },
       "loro": {
         "conjugation": "indossano",
         "pronunciation": "/indossano/",
         "english": "they wear",
-        "example": "Loro indossano spesso.",
-        "example_english": "They wear often."
+        "example": "Indossano sempre scarpe comode perché camminano molto durante il loro lavoro",
+        "example_english": "They always wear comfortable shoes because they walk a lot during their work"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho indossato",
         "pronunciation": "/ho indossato/",
         "english": "I weared",
-        "example": "Ieri ho indossato.",
-        "example_english": "Yesterday i weared."
+        "example": "Ho indossato quel vestito speciale per la prima volta durante la festa",
+        "example_english": "I wore that special dress for first time during party"
       },
       "tu": {
         "conjugation": "hai indossato",
         "pronunciation": "/hai/",
         "english": "you (informal) weared",
-        "example": "Ieri hai indossato.",
-        "example_english": "Yesterday you (informal) weared."
+        "example": "Hai indossato la cravatta che ti ha regalato tua moglie per l'anniversario?",
+        "example_english": "Did you wear tie your wife gave you for anniversary?"
       },
       "lui": {
         "conjugation": "ha indossato",
         "pronunciation": "/ha indossato/",
         "english": "he/she/it weared",
-        "example": "Ieri ha indossato.",
-        "example_english": "Yesterday he/she/it weared."
+        "example": "Ha indossato l'uniforme militare con orgoglio durante la cerimonia ufficiale",
+        "example_english": "He wore military uniform with pride during official ceremony"
       },
       "noi": {
         "conjugation": "abbiamo indossato",
         "pronunciation": "/abbiamo/",
         "english": "we weared",
-        "example": "Ieri abbiamo indossato.",
-        "example_english": "Yesterday we weared."
+        "example": "Abbiamo indossato maschere colorate durante il carnevale veneziano tradizionale",
+        "example_english": "We wore colorful masks during traditional Venetian carnival"
       },
       "voi": {
         "conjugation": "avete indossato",
         "pronunciation": "/avete/",
         "english": "you (plural) weared",
-        "example": "Ieri avete indossato.",
-        "example_english": "Yesterday you (plural) weared."
+        "example": "Avete indossato abiti formali durante la riunione aziendale importante di ieri?",
+        "example_english": "Did you wear formal attire during yesterday's important business meeting?"
       },
       "loro": {
         "conjugation": "hanno indossato",
         "pronunciation": "/hanno/",
         "english": "they weared",
-        "example": "Ieri hanno indossato.",
-        "example_english": "Yesterday they weared."
+        "example": "Hanno indossato vestiti neri durante il funerale per mostrare rispetto al defunto",
+        "example_english": "They wore black clothes during funeral to show respect for deceased"
       }
     }
-  }
+  },
+  "deck_guid": "817402220559",
+  "note_guid": 849270632254,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

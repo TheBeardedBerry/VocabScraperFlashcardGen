@@ -10,87 +10,87 @@
         "conjugation": "porto",
         "pronunciation": "/ˈporto/",
         "english": "I bring/carry",
-        "example": "Porto sempre l'ombrello.",
-        "example_english": "I always bring an umbrella."
+        "example": "Porto sempre con me un libro interessante per leggere durante i viaggi",
+        "example_english": "I always carry interesting book with me to read during trips"
       },
       "tu": {
         "conjugation": "porti",
         "pronunciation": "/ˈporti/",
         "english": "you bring/carry",
-        "example": "Porti la valigia?",
-        "example_english": "Are you carrying the suitcase?"
+        "example": "Tu porti mai fiori alla tua fidanzata per farle una sorpresa romantica?",
+        "example_english": "Do you ever bring flowers to your girlfriend to give her romantic surprise?"
       },
       "lui": {
         "conjugation": "porta",
         "pronunciation": "/ˈporta/",
         "english": "he/she/it brings/carries",
-        "example": "Porta i documenti in ufficio.",
-        "example_english": "He brings the documents to the office."
+        "example": "Lei porta i bambini a scuola ogni mattina prima di andare al lavoro",
+        "example_english": "She takes children to school every morning before going to work"
       },
       "noi": {
         "conjugation": "portiamo",
         "pronunciation": "/porˈtjaːmo/",
         "english": "we bring/carry",
-        "example": "Portiamo i regali alla festa.",
-        "example_english": "We bring gifts to the party."
+        "example": "Portiamo sempre regali quando andiamo a trovare parenti e amici",
+        "example_english": "We always bring gifts when visiting relatives and friends"
       },
       "voi": {
         "conjugation": "portate",
         "pronunciation": "/porˈtaːte/",
         "english": "you bring/carry",
-        "example": "Portate i libri a scuola.",
-        "example_english": "You bring books to school."
+        "example": "Voi portate spesso le borse della spesa pesanti ai vostri genitori anziani?",
+        "example_english": "Do you often carry heavy shopping bags for your elderly parents?"
       },
       "loro": {
         "conjugation": "portano",
         "pronunciation": "/ˈportano/",
         "english": "they bring/carry",
-        "example": "Portano fiori alla nonna.",
-        "example_english": "They bring flowers to grandma."
+        "example": "Portano fortuna a tutti quelli che li incontrano sulla loro strada",
+        "example_english": "They bring luck to everyone who meets them on their path"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "porterò",
         "pronunciation": "/porteˈroː/",
         "english": "I will bring/carry",
-        "example": "Porterò i dolci domani.",
-        "example_english": "I will bring the sweets tomorrow."
+        "example": "Porterò mia figlia all'altare nel giorno del suo matrimonio con emozione",
+        "example_english": "I will walk my daughter down aisle on her wedding day with emotion"
       },
       "tu": {
         "conjugation": "porterai",
         "pronunciation": "/porteˈraːi/",
         "english": "you (informal) will bring/carry",
-        "example": "Porterai fortuna alla squadra.",
-        "example_english": "You will bring luck to the team."
+        "example": "Tu porterai finalmente quella valigia pesante che stai trascinando da ore?",
+        "example_english": "Will you finally carry that heavy suitcase you've been dragging for hours?"
       },
       "lui": {
         "conjugation": "porterà",
         "pronunciation": "/porteˈraː/",
         "english": "he/she/it will bring/carry",
-        "example": "Porterà il caffè a tutti.",
-        "example_english": "She will bring coffee to everyone."
+        "example": "Lei porterà buone notizie alla famiglia quando tornerà dal viaggio",
+        "example_english": "She will bring good news to family when returning from trip"
       },
       "noi": {
         "conjugation": "porteremo",
         "pronunciation": "/porteˈreːmo/",
         "english": "we will bring/carry",
-        "example": "Porteremo le sedie in giardino.",
-        "example_english": "We will bring the chairs to the garden."
+        "example": "Porteremo aiuti umanitari alle popolazioni colpite dal disastro naturale",
+        "example_english": "We will bring humanitarian aid to populations affected by natural disaster"
       },
       "voi": {
         "conjugation": "porterete",
         "pronunciation": "/porteˈreːte/",
         "english": "you (plural) will bring/carry",
-        "example": "Porterete tutti i bagagli?",
-        "example_english": "Will you bring all the luggage?"
+        "example": "Voi porterete i vostri bambini al parco divertimenti durante il weekend?",
+        "example_english": "Will you take your children to amusement park during weekend?"
       },
       "loro": {
         "conjugation": "porteranno",
         "pronunciation": "/porteˈranno/",
         "english": "they will bring/carry",
-        "example": "Porteranno buone notizie.",
-        "example_english": "They will bring good news."
+        "example": "Porteranno innovazione nel settore tecnologico con le loro ricerche avanzate",
+        "example_english": "They will bring innovation to technology sector with their advanced research"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho portato",
         "pronunciation": "/ˈɔ porˈtaːto/",
         "english": "I brought/carried",
-        "example": "Ho portato i documenti in ufficio.",
-        "example_english": "I brought the documents to the office."
+        "example": "Ho portato mia madre dal medico per un controllo di routine",
+        "example_english": "I took my mother to doctor for routine checkup"
       },
       "tu": {
         "conjugation": "hai portato",
         "pronunciation": "/ˈaːi porˈtaːto/",
         "english": "you (informal) brought/carried",
-        "example": "Hai portato il regalo?",
-        "example_english": "Did you bring the gift?"
+        "example": "Hai portato tutti i documenti necessari per completare la pratica burocratica?",
+        "example_english": "Did you bring all necessary documents to complete bureaucratic procedure?"
       },
       "lui": {
         "conjugation": "ha portato",
         "pronunciation": "/ˈa porˈtaːto/",
         "english": "he/she/it brought/carried",
-        "example": "Ha portato fortuna alla famiglia.",
-        "example_english": "She brought luck to the family."
+        "example": "Ha portato felicità nella vita di tante persone con la sua generosità",
+        "example_english": "He brought happiness into many people's lives with his generosity"
       },
       "noi": {
         "conjugation": "abbiamo portato",
         "pronunciation": "/abˈbjaːmo porˈtaːto/",
         "english": "we brought/carried",
-        "example": "Abbiamo portato i bambini al parco.",
-        "example_english": "We brought the children to the park."
+        "example": "Abbiamo portato la macchina dal meccanico per riparare il motore",
+        "example_english": "We took car to mechanic to repair engine"
       },
       "voi": {
         "conjugation": "avete portato",
         "pronunciation": "/aˈveːte porˈtaːto/",
         "english": "you (plural) brought/carried",
-        "example": "Avete portato tutto il necessario.",
-        "example_english": "You brought everything necessary."
+        "example": "Avete portato abbastanza cibo per tutti gli invitati della festa?",
+        "example_english": "Did you bring enough food for all party guests?"
       },
       "loro": {
         "conjugation": "hanno portato",
         "pronunciation": "/ˈanno porˈtaːto/",
         "english": "they brought/carried",
-        "example": "Hanno portato ottime notizie.",
-        "example_english": "They brought excellent news."
+        "example": "Hanno portato scompiglio nella vita tranquilla del piccolo paese",
+        "example_english": "They brought upheaval to peaceful life of small village"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To bring, carry, or wear objects from one place to another",
-  "synonyms": "trasportare,recare"
+  "synonyms": "trasportare,recare",
+  "deck_guid": "259424387225",
+  "note_guid": 629040445080,
+  "deck_name": "Italian::A1::Verbs::piovere_rispondere"
 }

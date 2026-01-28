@@ -10,87 +10,87 @@
         "conjugation": "invito",
         "pronunciation": "/inˈvi.to/",
         "english": "I invite",
-        "example": "Invito gli amici a cena.",
-        "example_english": "I invite friends to dinner."
+        "example": "Invito sempre gli amici a casa mia per cene conviviali durante i fine settimana",
+        "example_english": "I always invite friends to my house for convivial dinners during weekends"
       },
       "tu": {
         "conjugation": "inviti",
         "pronunciation": "/inˈvi.ti/",
         "english": "you invite",
-        "example": "Tu inviti sempre Marco?",
-        "example_english": "Do you always invite Marco?"
+        "example": "Tu inviti mai persone che non conosci bene alle tue feste private?",
+        "example_english": "Do you ever invite people you don't know well to your private parties?"
       },
       "lui": {
         "conjugation": "invita",
         "pronunciation": "/inˈvi.ta/",
         "english": "he/she/it invites",
-        "example": "Lei invita tutta la famiglia.",
-        "example_english": "She invites the whole family."
+        "example": "Lei invita regolarmente i colleghi di lavoro per aperitivi dopo l'orario d'ufficio",
+        "example_english": "She regularly invites work colleagues for aperitifs after office hours"
       },
       "noi": {
         "conjugation": "invitiamo",
         "pronunciation": "/in.viˈtja.mo/",
         "english": "we invite",
-        "example": "Invitiamo i colleghi al bar.",
-        "example_english": "We invite colleagues to the bar."
+        "example": "Invitiamo sempre tutti i vicini di casa per la festa di Capodanno",
+        "example_english": "We always invite all neighbors for New Year's party"
       },
       "voi": {
         "conjugation": "invitate",
         "pronunciation": "/in.viˈta.te/",
         "english": "you invite",
-        "example": "Invitate spesso i vicini?",
-        "example_english": "Do you often invite the neighbors?"
+        "example": "Voi invitate spesso i vostri genitori anziani per il pranzo domenicale tradizionale?",
+        "example_english": "Do you often invite your elderly parents for traditional Sunday lunch?"
       },
       "loro": {
         "conjugation": "invitano",
         "pronunciation": "/inˈvi.ta.no/",
         "english": "they invite",
-        "example": "Invitano tutti alla festa.",
-        "example_english": "They invite everyone to the party."
+        "example": "Invitano persone interessanti ai loro salotti culturali che organizzano mensilmente",
+        "example_english": "They invite interesting people to their cultural salons organized monthly"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "inviterò",
         "pronunciation": "/in.vi.teˈro/",
         "english": "I will invite",
-        "example": "Ti inviterò al matrimonio.",
-        "example_english": "I will invite you to the wedding."
+        "example": "Inviterò tutti i miei compagni di università al matrimonio che celebrerò",
+        "example_english": "I will invite all my university classmates to wedding I'll celebrate"
       },
       "tu": {
         "conjugation": "inviterai",
         "pronunciation": "/in.vi.teˈraj/",
         "english": "you will invite",
-        "example": "Tu inviterai i tuoi genitori?",
-        "example_english": "Will you invite your parents?"
+        "example": "Tu inviterai finalmente quella ragazza che ti piace a cena al ristorante?",
+        "example_english": "Will you finally invite that girl you like to dinner at restaurant?"
       },
       "lui": {
         "conjugation": "inviterà",
         "pronunciation": "/in.vi.teˈra/",
         "english": "he/she/it will invite",
-        "example": "Lei inviterà il capo.",
-        "example_english": "She will invite the boss."
+        "example": "Lei inviterà il famoso scrittore alla presentazione del libro nella biblioteca",
+        "example_english": "She will invite famous writer to book presentation at library"
       },
       "noi": {
         "conjugation": "inviteremo",
         "pronunciation": "/in.vi.teˈre.mo/",
         "english": "we will invite",
-        "example": "Inviteremo tutti i parenti.",
-        "example_english": "We will invite all the relatives."
+        "example": "Inviteremo tutti i parenti per festeggiare il nostro anniversario di matrimonio d'argento",
+        "example_english": "We will invite all relatives to celebrate our silver wedding anniversary"
       },
       "voi": {
         "conjugation": "inviterete",
         "pronunciation": "/in.vi.teˈre.te/",
         "english": "you will invite",
-        "example": "Inviterete anche i bambini?",
-        "example_english": "Will you also invite the children?"
+        "example": "Voi inviterete i nuovi vicini di casa per fargli conoscere il quartiere?",
+        "example_english": "Will you invite new neighbors to introduce them to neighborhood?"
       },
       "loro": {
         "conjugation": "inviteranno",
         "pronunciation": "/in.vi.teˈran.no/",
         "english": "they will invite",
-        "example": "Inviteranno molte persone.",
-        "example_english": "They will invite many people."
+        "example": "Inviteranno musicisti professionisti per animare la festa di beneficenza",
+        "example_english": "They will invite professional musicians to entertain charity party"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho invitato",
         "pronunciation": "/o in.viˈta.to/",
         "english": "I invited",
-        "example": "Ho invitato Maria al cinema.",
-        "example_english": "I invited Maria to the movies."
+        "example": "Ho invitato venti persone alla mia festa di compleanno ma ne sono venute trenta",
+        "example_english": "I invited twenty people to my birthday party but thirty came"
       },
       "tu": {
         "conjugation": "hai invitato",
         "pronunciation": "/aj in.viˈta.to/",
         "english": "you invited",
-        "example": "Hai invitato tutti gli amici?",
-        "example_english": "Did you invite all your friends?"
+        "example": "Hai invitato i tuoi suoceri per le feste natalizie o andrete da loro?",
+        "example_english": "Did you invite your in-laws for Christmas holidays or will you go to them?"
       },
       "lui": {
         "conjugation": "ha invitato",
         "pronunciation": "/a in.viˈta.to/",
         "english": "he/she/it invited",
-        "example": "Ha invitato cinquanta persone.",
-        "example_english": "He invited fifty people."
+        "example": "Ha invitato la sua famiglia d'origine per conoscere la nuova fidanzata",
+        "example_english": "He invited his family of origin to meet new girlfriend"
       },
       "noi": {
         "conjugation": "abbiamo invitato",
         "pronunciation": "/abˈbja.mo in.viˈta.to/",
         "english": "we invited",
-        "example": "Abbiamo invitato i professori.",
-        "example_english": "We invited the teachers."
+        "example": "Abbiamo invitato troppa gente e ora non sappiamo dove farli sedere tutti",
+        "example_english": "We invited too many people and now don't know where to seat them all"
       },
       "voi": {
         "conjugation": "avete invitato",
         "pronunciation": "/aˈve.te in.viˈta.to/",
         "english": "you invited",
-        "example": "Avete invitato la nonna?",
-        "example_english": "Did you invite grandma?"
+        "example": "Avete invitato anche i bambini piccoli alla cerimonia formale che avete organizzato?",
+        "example_english": "Did you also invite small children to formal ceremony you organized?"
       },
       "loro": {
         "conjugation": "hanno invitato",
         "pronunciation": "/ˈan.no in.viˈta.to/",
         "english": "they invited",
-        "example": "Hanno invitato tutta la classe.",
-        "example_english": "They invited the whole class."
+        "example": "Hanno invitato personalità importanti all'inaugurazione del nuovo centro culturale",
+        "example_english": "They invited important personalities to inauguration of new cultural center"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To invite someone to events, parties, or gatherings",
-  "synonyms": "chiamare"
+  "synonyms": "chiamare",
+  "deck_guid": "41780089388",
+  "note_guid": 249603992223,
+  "deck_name": "Italian::A1::Verbs::insegnare_mettere"
 }

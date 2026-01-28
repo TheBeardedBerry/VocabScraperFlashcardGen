@@ -1,0 +1,161 @@
+{
+  "infinitive": "scrivere",
+  "infinitive_pronunciation": "/ˈskrivere/",
+  "english": "to write",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "scrivo",
+        "pronunciation": "/ˈskri.vo/",
+        "english": "I write",
+        "example": "Scrivo una lettera alla nonna.",
+        "example_english": "I write a letter to grandma."
+      },
+      "tu": {
+        "conjugation": "scrivi",
+        "pronunciation": "/ˈskri.vi/",
+        "english": "you write",
+        "example": "Tu scrivi poesie bellissime.",
+        "example_english": "You write beautiful poems."
+      },
+      "lui": {
+        "conjugation": "scrive",
+        "pronunciation": "/ˈskri.ve/",
+        "english": "he/she/it writes",
+        "example": "Lei scrive articoli per il giornale.",
+        "example_english": "She writes articles for the newspaper."
+      },
+      "noi": {
+        "conjugation": "scriviamo",
+        "pronunciation": "/skri.ˈvja.mo/",
+        "english": "we write",
+        "example": "Noi scriviamo insieme un libro.",
+        "example_english": "We write a book together."
+      },
+      "voi": {
+        "conjugation": "scrivete",
+        "pronunciation": "/skri.ˈve.te/",
+        "english": "you write",
+        "example": "Voi scrivete email ogni giorno?",
+        "example_english": "Do you write emails every day?"
+      },
+      "loro": {
+        "conjugation": "scrivono",
+        "pronunciation": "/ˈskri.vo.no/",
+        "english": "they write",
+        "example": "Loro scrivono romanzi di fantascienza.",
+        "example_english": "They write science fiction novels."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho scritto",
+        "pronunciation": "/o ˈskrit.to/",
+        "english": "I wrote/have written",
+        "example": "Ieri ho scritto tre pagine del mio diario.",
+        "example_english": "Yesterday I wrote three pages in my diary."
+      },
+      "tu": {
+        "conjugation": "hai scritto",
+        "pronunciation": "/ˈaj ˈskrit.to/",
+        "english": "you wrote/have written",
+        "example": "Hai scritto la relazione per il capo?",
+        "example_english": "Have you written the report for the boss?"
+      },
+      "lui": {
+        "conjugation": "ha scritto",
+        "pronunciation": "/a ˈskrit.to/",
+        "english": "he/she/it wrote/has written",
+        "example": "Ha scritto un messaggio molto dolce.",
+        "example_english": "He wrote a very sweet message."
+      },
+      "noi": {
+        "conjugation": "abbiamo scritto",
+        "pronunciation": "/ab.ˈbja.mo ˈskrit.to/",
+        "english": "we wrote/have written",
+        "example": "Abbiamo scritto molte cartoline durante il viaggio.",
+        "example_english": "We wrote many postcards during the trip."
+      },
+      "voi": {
+        "conjugation": "avete scritto",
+        "pronunciation": "/a.ˈve.te ˈskrit.to/",
+        "english": "you wrote/have written",
+        "example": "Avete scritto la lista della spesa?",
+        "example_english": "Have you written the shopping list?"
+      },
+      "loro": {
+        "conjugation": "hanno scritto",
+        "pronunciation": "/ˈan.no ˈskrit.to/",
+        "english": "they wrote/have written",
+        "example": "Hanno scritto una canzone insieme.",
+        "example_english": "They wrote a song together."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "scriverò",
+        "pronunciation": "/skri.ve.ˈrɔ/",
+        "english": "I will write",
+        "example": "Scriverò un romanzo il prossimo anno.",
+        "example_english": "I will write a novel next year."
+      },
+      "tu": {
+        "conjugation": "scriverai",
+        "pronunciation": "/skri.ve.ˈraj/",
+        "english": "you will write",
+        "example": "Tu scriverai la prefazione del libro.",
+        "example_english": "You will write the book's preface."
+      },
+      "lui": {
+        "conjugation": "scriverà",
+        "pronunciation": "/skri.ve.ˈra/",
+        "english": "he/she/it will write",
+        "example": "Lei scriverà la sua autobiografia.",
+        "example_english": "She will write her autobiography."
+      },
+      "noi": {
+        "conjugation": "scriveremo",
+        "pronunciation": "/skri.ve.ˈre.mo/",
+        "english": "we will write",
+        "example": "Noi scriveremo una lettera di protesta.",
+        "example_english": "We will write a letter of protest."
+      },
+      "voi": {
+        "conjugation": "scriverete",
+        "pronunciation": "/skri.ve.ˈre.te/",
+        "english": "you will write",
+        "example": "Voi scriverete i vostri nomi sulla lista?",
+        "example_english": "Will you write your names on the list?"
+      },
+      "loro": {
+        "conjugation": "scriveranno",
+        "pronunciation": "/skri.ve.ˈran.no/",
+        "english": "they will write",
+        "example": "Loro scriveranno la storia della città.",
+        "example_english": "They will write the city's history."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "scritto",
+    "pronunciation": "/ˈskrit.to/",
+    "english": "written",
+    "examples": [
+      {
+        "italian": "Il romanzo è stato scritto in soli tre mesi.",
+        "english": "The novel was written in just three months."
+      },
+      {
+        "italian": "Una volta scritto il documento, lo invieremo.",
+        "english": "Once the document is written, we will send it."
+      }
+    ],
+    "example": "La lettera scritta è molto toccante.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To write text, letters, books, or messages",
+  "synonyms": "redigere,comporre"
+}

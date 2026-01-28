@@ -20,43 +20,43 @@
         "conjugation": "parcheggio",
         "pronunciation": "/parkehgjoh/",
         "english": "I park",
-        "example": "Io parcheggio ogni giorno.",
-        "example_english": "I park every day."
+        "example": "Parcheggio sempre la macchina lontano dai centri commerciali per evitare graffi",
+        "example_english": "I always park car away from shopping centers to avoid scratches"
       },
       "tu": {
         "conjugation": "parcheggi",
         "pronunciation": "/parkehgi/",
         "english": "you park",
-        "example": "Tu parcheggi bene.",
-        "example_english": "You park well."
+        "example": "Tu parcheggi mai in divieto di sosta o rispetti sempre le regole?",
+        "example_english": "Do you ever park in no-parking zones or do you always respect rules?"
       },
       "lui": {
         "conjugation": "parcheggia",
         "pronunciation": "/parkehgjah/",
         "english": "he/she/it parks",
-        "example": "Lei parcheggia molto.",
-        "example_english": "She park a lot."
+        "example": "Lei parcheggia con grande difficoltà perché ha preso la patente da poco",
+        "example_english": "She parks with great difficulty because she got license recently"
       },
       "noi": {
         "conjugation": "parcheggiamo",
         "pronunciation": "/parkehgjahmo/",
         "english": "we park",
-        "example": "Noi parcheggiamo insieme.",
-        "example_english": "We park together."
+        "example": "Parcheggiamo sempre nello stesso posto davanti al nostro palazzo di residenza",
+        "example_english": "We always park in same spot in front of our residential building"
       },
       "voi": {
         "conjugation": "parcheggiate",
         "pronunciation": "/parkehgjahte/",
         "english": "you park",
-        "example": "Voi parcheggiate bene?",
-        "example_english": "Do you park well?"
+        "example": "Voi parcheggiate spesso nel garage sotterraneo o preferite la strada esterna?",
+        "example_english": "Do you often park in underground garage or prefer outside street?"
       },
       "loro": {
         "conjugation": "parcheggiano",
         "pronunciation": "/parkehgjahno/",
         "english": "they park",
-        "example": "Loro parcheggiano spesso.",
-        "example_english": "They park often."
+        "example": "Parcheggiano sempre in doppia fila nonostante le multe continue della polizia",
+        "example_english": "They always park in double row despite continuous police fines"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho parcheggiato",
         "pronunciation": "/ho parkehgjahto/",
         "english": "I parked",
-        "example": "Ieri ho parcheggiato.",
-        "example_english": "Yesterday i parked."
+        "example": "Ho parcheggiato l'auto troppo vicino al muro e ora ho difficoltà",
+        "example_english": "I parked car too close to wall and now have difficulty getting out"
       },
       "tu": {
         "conjugation": "hai parcheggiato",
         "pronunciation": "/hai/",
         "english": "you (informal) parked",
-        "example": "Ieri hai parcheggiato.",
-        "example_english": "Yesterday you (informal) parked."
+        "example": "Hai parcheggiato nel posto riservato ai disabili senza averne il diritto?",
+        "example_english": "Did you park in disabled spot without having right to do so?"
       },
       "lui": {
         "conjugation": "ha parcheggiato",
         "pronunciation": "/ha parkehgjahto/",
         "english": "he/she/it parked",
-        "example": "Ieri ha parcheggiato.",
-        "example_english": "Yesterday he/she/it parked."
+        "example": "Ha parcheggiato la macchina sotto l'albero per proteggerla dal sole cocente",
+        "example_english": "He parked car under tree to protect it from blazing sun"
       },
       "noi": {
         "conjugation": "abbiamo parcheggiato",
         "pronunciation": "/abbiamo/",
         "english": "we parked",
-        "example": "Ieri abbiamo parcheggiato.",
-        "example_english": "Yesterday we parked."
+        "example": "Abbiamo parcheggiato tutte le macchine in fila per non occupare troppo spazio",
+        "example_english": "We parked all cars in row to not take up too much space"
       },
       "voi": {
         "conjugation": "avete parcheggiato",
         "pronunciation": "/avete/",
         "english": "you (plural) parked",
-        "example": "Ieri avete parcheggiato.",
-        "example_english": "Yesterday you (plural) parked."
+        "example": "Avete parcheggiato lontano dall'entrata del centro commerciale per risparmiare soldi?",
+        "example_english": "Did you park far from shopping center entrance to save money?"
       },
       "loro": {
         "conjugation": "hanno parcheggiato",
         "pronunciation": "/hanno/",
         "english": "they parked",
-        "example": "Ieri hanno parcheggiato.",
-        "example_english": "Yesterday they parked."
+        "example": "Hanno parcheggiato male e hanno ricevuto una multa salata dalla polizia",
+        "example_english": "They parked badly and received hefty fine from police"
       }
     }
-  }
+  },
+  "deck_guid": "544635933530",
+  "note_guid": 807875176266,
+  "deck_name": "Italian::A1::Verbs::morire_piacere"
 }

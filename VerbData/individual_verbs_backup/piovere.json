@@ -1,0 +1,152 @@
+{
+  "infinitive": "piovere",
+  "infinitive_pronunciation": "/ˈpjovere/",
+  "english": "to rain",
+  "regular": false,
+  "auxiliary": "avere",
+  "special_note": "Impersonal verb - only used in 3rd person singular",
+  "participio_passato": {
+    "form": "piovuto",
+    "pronunciation": "/pi-o-vu-to/",
+    "english": "rained",
+    "example": "È piovuto molto ieri sera.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "Impersonal verb meaning 'to rain'; only 3rd person singular",
+  "synonyms": "",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Piovo sempre nel momento sbagliato quando la gente organizza feste all'aperto",
+        "example_english": "I always rain at wrong time when people organize outdoor parties"
+      },
+      "tu": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Tu piovi spesso in questa regione durante la stagione delle piogge?",
+        "example_english": "Do you often rain in this region during rainy season?"
+      },
+      "lui": {
+        "conjugation": "piove",
+        "pronunciation": "/pi-o-ve/",
+        "english": "it rains",
+        "example": "Piove sempre quando dimentichiamo l'ombrello a casa durante le uscite",
+        "example_english": "It always rains when we forget umbrella at home during outings"
+      },
+      "noi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Pioviamo tutto il giorno e i contadini sono felici per i raccolti",
+        "example_english": "We rain all day and farmers are happy for crops"
+      },
+      "voi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Piovete spesso durante l'estate in questa zona montana del paese?",
+        "example_english": "Do you often rain during summer in this mountainous area of country?"
+      },
+      "loro": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Piovono gocce enormi che fanno rumore sul tetto della casa",
+        "example_english": "They rain huge drops that make noise on house roof"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "N/A",
+        "example_english": "N/A"
+      },
+      "tu": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "N/A",
+        "example_english": "N/A"
+      },
+      "lui": {
+        "conjugation": "pioverà",
+        "pronunciation": "/pi-o-ve-ra/",
+        "english": "it will rain",
+        "example": "Domani pioverà.",
+        "example_english": "Tomorrow it will rain."
+      },
+      "noi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "N/A",
+        "example_english": "N/A"
+      },
+      "voi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "N/A",
+        "example_english": "N/A"
+      },
+      "loro": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "N/A",
+        "example_english": "N/A"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Ho piovuto tutta la notte allagando le strade della città bassa",
+        "example_english": "I rained all night flooding streets of lower city"
+      },
+      "tu": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Hai piovuto durante la partita di calcio rovinando il campo?",
+        "example_english": "Did you rain during soccer game ruining field?"
+      },
+      "lui": {
+        "conjugation": "ha piovuto",
+        "pronunciation": "/a pi-o-vu-to/",
+        "english": "it rained/has rained",
+        "example": "È piovuto per tre giorni consecutivi causando problemi di traffico",
+        "example_english": "It rained for three consecutive days causing traffic problems"
+      },
+      "noi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Abbiamo piovuto abbondantemente riempiendo tutti i pozzi della regione",
+        "example_english": "We rained abundantly filling all wells in region"
+      },
+      "voi": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Avete piovuto durante il picnic che era stato organizzato nel parco?",
+        "example_english": "Did you rain during picnic that was organized in park?"
+      },
+      "loro": {
+        "conjugation": "N/A",
+        "pronunciation": "/n/a/",
+        "english": "N/A - impersonal verb",
+        "example": "Hanno piovuto gocce di grandine danneggiando le auto parcheggiate",
+        "example_english": "They rained hail drops damaging parked cars"
+      }
+    }
+  }
+}

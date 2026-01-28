@@ -10,43 +10,43 @@
         "conjugation": "lavoro",
         "pronunciation": "/la'voro/",
         "english": "I work",
-        "example": "Lavoro come insegnante in una scuola elementare.",
-        "example_english": "I work as a teacher in an elementary school."
+        "example": "Lavoro sempre con grande passione perché amo quello che faccio nella mia vita",
+        "example_english": "I always work with great passion because I love what I do in my life"
       },
       "tu": {
         "conjugation": "lavori",
         "pronunciation": "/la'vori/",
         "english": "you work",
-        "example": "Dove lavori adesso?",
-        "example_english": "Where do you work now?"
+        "example": "Tu lavori mai durante i fine settimana o riesci a mantenere equilibrio?",
+        "example_english": "Do you ever work during weekends or do you manage to maintain balance?"
       },
       "lui": {
         "conjugation": "lavora",
         "pronunciation": "/la'vora/",
         "english": "he/she/it works",
-        "example": "Mio padre lavora in una fabbrica di automobili.",
-        "example_english": "My father works in a car factory."
+        "example": "Lei lavora come medico in ospedale aiutando pazienti con problemi gravi",
+        "example_english": "She works as doctor in hospital helping patients with serious problems"
       },
       "noi": {
         "conjugation": "lavoriamo",
         "pronunciation": "/lavo'rjamo/",
         "english": "we work",
-        "example": "Lavoriamo insieme da dieci anni.",
-        "example_english": "We have been working together for ten years."
+        "example": "Lavoriamo insieme in questa azienda da più di dieci anni ormai",
+        "example_english": "We work together in this company for more than ten years now"
       },
       "voi": {
         "conjugation": "lavorate",
         "pronunciation": "/lavo'rate/",
         "english": "you work",
-        "example": "Lavorate il fine settimana?",
-        "example_english": "Do you work on weekends?"
+        "example": "Voi lavorate spesso in squadra o preferite svolgere compiti individuali?",
+        "example_english": "Do you often work in teams or do you prefer performing individual tasks?"
       },
       "loro": {
         "conjugation": "lavorano",
         "pronunciation": "/la'vorano/",
         "english": "they work",
-        "example": "I miei colleghi lavorano molto duramente.",
-        "example_english": "My colleagues work very hard."
+        "example": "Lavorano duramente per mantenere la famiglia e dare buona educazione ai figli",
+        "example_english": "They work hard to support family and give good education to children"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho lavorato",
         "pronunciation": "/o lavo'rato/",
         "english": "I worked/have worked",
-        "example": "Ho lavorato fino a tardi ieri sera.",
-        "example_english": "I worked until late last night."
+        "example": "Ho lavorato per quindici anni nella stessa ditta prima di cambiare completamente",
+        "example_english": "I worked for fifteen years in same company before changing completely"
       },
       "tu": {
         "conjugation": "hai lavorato",
         "pronunciation": "/ai lavo'rato/",
         "english": "you worked/have worked",
-        "example": "Hai mai lavorato in un ristorante?",
-        "example_english": "Have you ever worked in a restaurant?"
+        "example": "Hai mai lavorato all'estero o hai sempre preferito restare in Italia?",
+        "example_english": "Have you ever worked abroad or have you always preferred staying in Italy?"
       },
       "lui": {
         "conjugation": "ha lavorato",
         "pronunciation": "/a lavo'rato/",
         "english": "he/she/it worked/has worked",
-        "example": "Il nonno ha lavorato tutta la vita nei campi.",
-        "example_english": "Grandfather worked in the fields his whole life."
+        "example": "Ha lavorato tutta la vita per costruire l'impero economico della famiglia",
+        "example_english": "He worked all his life to build family's economic empire"
       },
       "noi": {
         "conjugation": "abbiamo lavorato",
         "pronunciation": "/ab'bjamo lavo'rato/",
         "english": "we worked/have worked",
-        "example": "Abbiamo lavorato tutto il giorno su questo progetto.",
-        "example_english": "We worked all day on this project."
+        "example": "Abbiamo lavorato insieme su questo progetto per più di due anni consecutivi",
+        "example_english": "We worked together on this project for more than two consecutive years"
       },
       "voi": {
         "conjugation": "avete lavorato",
         "pronunciation": "/a'vete lavo'rato/",
         "english": "you worked/have worked",
-        "example": "Avete lavorato bene come squadra.",
-        "example_english": "You worked well as a team."
+        "example": "Avete lavorato abbastanza oggi o volete continuare ancora per qualche ora?",
+        "example_english": "Did you work enough today or do you want to continue for few more hours?"
       },
       "loro": {
         "conjugation": "hanno lavorato",
         "pronunciation": "/'anno lavo'rato/",
         "english": "they worked/have worked",
-        "example": "Hanno lavorato sodo per raggiungere questo successo.",
-        "example_english": "They worked hard to achieve this success."
+        "example": "Hanno lavorato senza sosta per aiutare le vittime del terremoto devastante",
+        "example_english": "They worked non-stop to help victims of devastating earthquake"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To work at a job or perform labor for income",
-  "synonyms": "operare,faticare"
+  "synonyms": "operare,faticare",
+  "deck_guid": "41780089388",
+  "note_guid": 916860390946,
+  "deck_name": "Italian::A1::Verbs::insegnare_mettere"
 }

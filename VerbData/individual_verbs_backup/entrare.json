@@ -1,0 +1,151 @@
+{
+  "infinitive": "entrare",
+  "infinitive_pronunciation": "/en'trare/",
+  "english": "to enter",
+  "regular": true,
+  "auxiliary": "essere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "entro",
+        "pronunciation": "/ˈentro/",
+        "english": "I enter",
+        "example": "Entro sempre in casa togliendo le scarpe per non sporcare i pavimenti puliti",
+        "example_english": "I always enter the house taking off my shoes to not dirty clean floors"
+      },
+      "tu": {
+        "conjugation": "entri",
+        "pronunciation": "/ˈentri/",
+        "english": "you enter",
+        "example": "Tu entri spesso nei negozi solo per curiosare senza comprare niente?",
+        "example_english": "Do you often enter stores just to browse without buying anything?"
+      },
+      "lui": {
+        "conjugation": "entra",
+        "pronunciation": "/ˈentra/",
+        "english": "he/she/it enters",
+        "example": "Lei entra in ufficio molto presto ogni mattina per evitare il traffico",
+        "example_english": "She enters the office very early every morning to avoid traffic"
+      },
+      "noi": {
+        "conjugation": "entriamo",
+        "pronunciation": "/enˈtrjaːmo/",
+        "english": "we enter",
+        "example": "Entriamo tutti insieme nel teatro per assistere allo spettacolo che abbiamo prenotato",
+        "example_english": "We all enter the theater together to attend the show we booked"
+      },
+      "voi": {
+        "conjugation": "entrate",
+        "pronunciation": "/enˈtraːte/",
+        "english": "you enter",
+        "example": "Voi entrate mai in chiesa per pregare durante i momenti difficili della vita?",
+        "example_english": "Do you ever enter church to pray during difficult moments in life?"
+      },
+      "loro": {
+        "conjugation": "entrano",
+        "pronunciation": "/ˈentrano/",
+        "english": "they enter",
+        "example": "Entrano in biblioteca ogni giorno per studiare in silenzio lontano dalle distrazioni",
+        "example_english": "They enter the library every day to study in silence away from distractions"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "entrerò",
+        "pronunciation": "/entreˈroː/",
+        "english": "I will enter",
+        "example": "Entrerò nell'università dei miei sogni se supererò brillantemente tutti gli esami",
+        "example_english": "I will enter my dream university if I pass all exams brilliantly"
+      },
+      "tu": {
+        "conjugation": "entrerai",
+        "pronunciation": "/entreˈraːi/",
+        "english": "you (informal) will enter",
+        "example": "Tu entrerai finalmente in quella squadra sportiva per cui ti alleni da mesi?",
+        "example_english": "Will you finally enter that sports team you've been training for months?"
+      },
+      "lui": {
+        "conjugation": "entrerà",
+        "pronunciation": "/entreˈraː/",
+        "english": "he/she/it will enter",
+        "example": "Lei entrerà nel mondo del lavoro dopo aver finito gli studi universitari",
+        "example_english": "She will enter the working world after finishing university studies"
+      },
+      "noi": {
+        "conjugation": "entreremo",
+        "pronunciation": "/entreˈreːmo/",
+        "english": "we will enter",
+        "example": "Entreremo nella nuova casa quando i lavori di ristrutturazione saranno completati",
+        "example_english": "We will enter the new house when renovation work is completed"
+      },
+      "voi": {
+        "conjugation": "entrerete",
+        "pronunciation": "/entreˈreːte/",
+        "english": "you (plural) will enter",
+        "example": "Voi entrerete nel negozio quando aprirà o aspetterete che passi la folla?",
+        "example_english": "Will you enter the store when it opens or wait for crowds to pass?"
+      },
+      "loro": {
+        "conjugation": "entreranno",
+        "pronunciation": "/entreˈranno/",
+        "english": "they will enter",
+        "example": "Entreranno nel mercato internazionale dopo aver studiato attentamente la concorrenza",
+        "example_english": "They will enter international market after carefully studying competition"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "sono entrato/a",
+        "pronunciation": "/ˈsoːno enˈtraːto/a/",
+        "english": "I entered",
+        "example": "Sono entrato nel ristorante giusto nel momento in cui iniziava a piovere",
+        "example_english": "I entered the restaurant just as it started raining"
+      },
+      "tu": {
+        "conjugation": "sei entrato/a",
+        "pronunciation": "/ˈsɛːi enˈtraːto/a/",
+        "english": "you (informal) entered",
+        "example": "Sei entrato dalla porta principale o hai usato l'ingresso secondario del palazzo?",
+        "example_english": "Did you enter through main door or use building's secondary entrance?"
+      },
+      "lui": {
+        "conjugation": "è entrato/a",
+        "pronunciation": "/ˈɛ enˈtraːto/a/",
+        "english": "he/she/it entered",
+        "example": "È entrato nella stanza senza bussare e ha trovato una sorpresa inaspettata",
+        "example_english": "He entered the room without knocking and found an unexpected surprise"
+      },
+      "noi": {
+        "conjugation": "siamo entrati/e",
+        "pronunciation": "/ˈsjaːmo enˈtraːti/e/",
+        "english": "we entered",
+        "example": "Siamo entrati nel museo proprio quando iniziava la visita guidata gratuita",
+        "example_english": "We entered the museum just as the free guided tour was starting"
+      },
+      "voi": {
+        "conjugation": "siete entrati/e",
+        "pronunciation": "/ˈsjeːte enˈtraːti/e/",
+        "english": "you (plural) entered",
+        "example": "Siete entrati nel cinema durante la pubblicità o avete perso l'inizio del film?",
+        "example_english": "Did you enter the cinema during ads or did you miss the beginning of the movie?"
+      },
+      "loro": {
+        "conjugation": "sono entrati/e",
+        "pronunciation": "/ˈsoːno enˈtraːti/e/",
+        "english": "they entered",
+        "example": "Sono entrati nell'ascensore tutti insieme nonostante fosse già molto affollato",
+        "example_english": "They all entered the elevator together despite it being already very crowded"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "entrato/a",
+    "pronunciation": "/enˈtraːto/a/",
+    "english": "entered",
+    "example": "Una volta entrato, ho chiuso la porta.",
+    "example_english": "Once I entered, I closed the door."
+  },
+  "part_of_speech": "verb",
+  "context": "To enter or go inside; motion verb with essere auxiliary",
+  "synonyms": "penetrare,accedere"
+}

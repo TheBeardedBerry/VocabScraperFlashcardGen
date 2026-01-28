@@ -10,43 +10,43 @@
         "conjugation": "do",
         "pronunciation": "/do/",
         "english": "I give",
-        "example": "Io do sempre una mano agli amici.",
-        "example_english": "I always give friends a hand."
+        "example": "Do sempre il massimo impegno in tutto quello che faccio nella vita quotidiana",
+        "example_english": "I always give my maximum effort in everything I do in daily life"
       },
       "tu": {
         "conjugation": "dai",
         "pronunciation": "/dai/",
         "english": "you give",
-        "example": "Tu dai buoni consigli a tutti.",
-        "example_english": "You give good advice to everyone."
+        "example": "Tu dai spesso consigli utili ai tuoi amici quando attraversano momenti difficili?",
+        "example_english": "Do you often give useful advice to your friends when they go through difficult times?"
       },
       "lui": {
         "conjugation": "dà",
         "pronunciation": "/da/",
         "english": "he/she/it gives",
-        "example": "Lei dà lezioni di piano ai bambini.",
-        "example_english": "She gives piano lessons to children."
+        "example": "Lei da lezioni private di pianoforte a bambini del quartiere ogni pomeriggio",
+        "example_english": "She gives private piano lessons to neighborhood children every afternoon"
       },
       "noi": {
         "conjugation": "diamo",
         "pronunciation": "/ˈdjamo/",
         "english": "we give",
-        "example": "Noi diamo il nostro contributo alla società.",
-        "example_english": "We give our contribution to society."
+        "example": "Diamo il benvenuto a tutti gli ospiti stranieri che visitano la nostra città",
+        "example_english": "We welcome all foreign guests who visit our city"
       },
       "voi": {
         "conjugation": "date",
         "pronunciation": "/ˈdate/",
         "english": "you give",
-        "example": "Voi date sempre il buon esempio.",
-        "example_english": "You always set a good example."
+        "example": "Voi date sempre una mano ai vicini di casa quando hanno bisogno di aiuto?",
+        "example_english": "Do you always lend a hand to neighbors when they need help?"
       },
       "loro": {
         "conjugation": "danno",
         "pronunciation": "/ˈdanno/",
         "english": "they give",
-        "example": "Loro danno molti soldi in beneficenza.",
-        "example_english": "They give a lot of money to charity."
+        "example": "Danno spettacoli di beneficenza per raccogliere fondi destinati alle famiglie bisognose",
+        "example_english": "They give charity shows to raise funds for families in need"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho dato",
         "pronunciation": "/'o ˈdato/",
         "english": "I gave/have given",
-        "example": "Ho dato il libro a mio fratello.",
-        "example_english": "I gave the book to my brother."
+        "example": "Ho dato tutte le informazioni necessarie per completare la pratica burocratica",
+        "example_english": "I gave all necessary information to complete the bureaucratic procedure"
       },
       "tu": {
         "conjugation": "hai dato",
         "pronunciation": "/'ai ˈdato/",
         "english": "you gave/have given",
-        "example": "Hai dato una risposta molto intelligente.",
-        "example_english": "You gave a very intelligent answer."
+        "example": "Hai dato il meglio di te stesso durante l'esame finale di laurea?",
+        "example_english": "Did you give your best during the final graduation exam?"
       },
       "lui": {
         "conjugation": "ha dato",
         "pronunciation": "/'a ˈdato/",
         "english": "he/she/it gave/has given",
-        "example": "Lei ha dato l'esempio ai suoi studenti.",
-        "example_english": "She set an example for her students."
+        "example": "Ha dato prova di grande coraggio durante l'emergenza che ha colpito la città",
+        "example_english": "He gave proof of great courage during the emergency that hit the city"
       },
       "noi": {
         "conjugation": "abbiamo dato",
         "pronunciation": "/ab'bjamo ˈdato/",
         "english": "we gave/have given",
-        "example": "Abbiamo dato tutto il nostro impegno.",
-        "example_english": "We gave all our effort."
+        "example": "Abbiamo dato ospitalità ai rifugiati che scappavano dalla guerra nel loro paese",
+        "example_english": "We gave hospitality to refugees fleeing from war in their country"
       },
       "voi": {
         "conjugation": "avete dato",
         "pronunciation": "/a'vete ˈdato/",
         "english": "you gave/have given",
-        "example": "Avete dato una bella lezione a tutti.",
-        "example_english": "You gave everyone a good lesson."
+        "example": "Avete dato un contributo importante per la riuscita di questo evento benefico?",
+        "example_english": "Did you give an important contribution to the success of this charity event?"
       },
       "loro": {
         "conjugation": "hanno dato",
         "pronunciation": "/'anno ˈdato/",
         "english": "they gave/have given",
-        "example": "Hanno dato il loro contributo al successo.",
-        "example_english": "They gave their contribution to the success."
+        "example": "Hanno dato vita a un'iniziativa che ha cambiato la vita di molte persone",
+        "example_english": "They gave life to an initiative that changed many people's lives"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To give something to someone; transfer possession",
-  "synonyms": "donare,consegnare"
+  "synonyms": "donare,consegnare",
+  "deck_guid": "25192925024",
+  "note_guid": 690496397068,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

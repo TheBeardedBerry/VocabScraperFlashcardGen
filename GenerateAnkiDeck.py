@@ -1,4 +1,5 @@
 import os
+import csv
 
 import genanki
 import hashlib
@@ -349,10 +350,14 @@ def main(generate_verb_cards: bool = True, generate_vocab_cards: bool = True, la
 
             first_word: Verb
 
-
             deck_type = "Verbs"
 
+            # List to store verb-to-deck mappings
+            verb_deck_mappings = []
+
             notes = []
+            current_deck_verbs = []  # Track verbs for current deck
+
             for line in lines:
                 print(line)
                 verb = Verb(line)
@@ -366,6 +371,7 @@ def main(generate_verb_cards: bool = True, generate_vocab_cards: bool = True, la
                     first_word = verb
 
                 notes.append(get_anki_verb_note(model, verb))
+                current_deck_verbs.append(verb.infinitive)  # Track this verb
 
                 if len(notes) >= verbs_per_deck or line == lines[-1]:
                     first = first_word.infinitive
@@ -373,19 +379,38 @@ def main(generate_verb_cards: bool = True, generate_vocab_cards: bool = True, la
                     unique_extension = f"{first}_{last}"
                     id_name = f"Italian::Verbs_{unique_extension}"
                     name = f"{deck_language}::{deck_level}::{deck_type}::{unique_extension}"
+                    deck_guid = stable_id(name)
                     deck = genanki.Deck(
-                        deck_id=stable_id(name),
+                        deck_id=deck_guid,
                         name=name
                     )
+
+                    # Add mappings for all verbs in this deck
+                    for verb_infinitive in current_deck_verbs:
+                        verb_deck_mappings.append({
+                            'verb_infinitive': verb_infinitive,
+                            'deck_guid': deck_guid,
+                            'deck_name': name
+                        })
 
                     for note in notes:
                         deck.add_note(note)
 
                     file_name = f"{deck_level}_{deck_type}_{unique_extension}.apkg"
-                    genanki.Package(deck).write_to_file(os.path.join("./Decks", file_name))
+                    # genanki.Package(deck).write_to_file(os.path.join("./Decks", file_name))
                     print(f"Wrote {file_name}")
                     notes = []
+                    current_deck_verbs = []  # Reset for next deck
 
+        # Write verb-to-deck mapping CSV
+        if verb_deck_mappings:
+            with open('verb_deck_mapping.csv', 'w', newline='', encoding='utf-8') as csvfile:
+                fieldnames = ['verb_infinitive', 'deck_guid', 'deck_name']
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                writer.writeheader()
+                for mapping in verb_deck_mappings:
+                    writer.writerow(mapping)
+            print(f"Wrote verb_deck_mapping.csv with {len(verb_deck_mappings)} entries")
 
     if generate_vocab_cards:
         with open(os.path.join("./VocabData", "vocab_output.csv"), "r", encoding='utf-8') as f:

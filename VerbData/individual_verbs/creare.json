@@ -20,43 +20,43 @@
         "conjugation": "creo",
         "pronunciation": "/creo/",
         "english": "I create",
-        "example": "Io creo ogni giorno.",
-        "example_english": "I create every day."
+        "example": "Creo sempre nuove ricette culinarie sperimentando ingredienti diversi nella mia cucina di casa",
+        "example_english": "I always create new culinary recipes by experimenting with different ingredients in my home kitchen"
       },
       "tu": {
         "conjugation": "crei",
         "pronunciation": "/crei/",
         "english": "you create",
-        "example": "Tu crei bene.",
-        "example_english": "You create well."
+        "example": "Tu crei opere d'arte magnifiche usando solo materiali riciclati trovati per strada",
+        "example_english": "You create magnificent works of art using only recycled materials found on the street"
       },
       "lui": {
         "conjugation": "crea",
         "pronunciation": "/crea/",
         "english": "he/she/it creates",
-        "example": "Lei crea molto.",
-        "example_english": "She create a lot."
+        "example": "Lei crea atmosfere magiche in ogni ambiente che decora con il suo gusto raffinato",
+        "example_english": "She creates magical atmospheres in every environment she decorates with her refined taste"
       },
       "noi": {
         "conjugation": "creiamo",
         "pronunciation": "/creiamo/",
         "english": "we create",
-        "example": "Noi creiamo insieme.",
-        "example_english": "We create together."
+        "example": "Creiamo insieme progetti innovativi che potrebbero rivoluzionare il mercato tecnologico mondiale",
+        "example_english": "We create innovative projects together that could revolutionize the global technology market"
       },
       "voi": {
         "conjugation": "create",
         "pronunciation": "/create/",
         "english": "you create",
-        "example": "Voi create bene?",
-        "example_english": "Do you create well?"
+        "example": "Voi create sempre confusione quando organizzate eventi senza pianificare i dettagli in anticipo",
+        "example_english": "You always create confusion when organizing events without planning details in advance"
       },
       "loro": {
         "conjugation": "creano",
         "pronunciation": "/creano/",
         "english": "they create",
-        "example": "Loro creano spesso.",
-        "example_english": "They create often."
+        "example": "Creano prodotti di altissima qualità utilizzando solo le migliori materie prime disponibili",
+        "example_english": "They create very high quality products using only the best raw materials available"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho creato",
         "pronunciation": "/ho creato/",
         "english": "I created",
-        "example": "Ieri ho creato.",
-        "example_english": "Yesterday i created."
+        "example": "Ho creato un sito web professionale per la piccola impresa di famiglia",
+        "example_english": "I created a professional website for the small family business"
       },
       "tu": {
         "conjugation": "hai creato",
         "pronunciation": "/hai/",
         "english": "you (informal) created",
-        "example": "Ieri hai creato.",
-        "example_english": "Yesterday you (informal) created."
+        "example": "Hai creato una situazione imbarazzante con le tue parole dette senza riflettere",
+        "example_english": "You created an embarrassing situation with your words spoken without thinking"
       },
       "lui": {
         "conjugation": "ha creato",
         "pronunciation": "/ha creato/",
         "english": "he/she/it created",
-        "example": "Ieri ha creato.",
-        "example_english": "Yesterday he/she/it created."
+        "example": "Ha creato un capolavoro artistico che è stato esposto in musei internazionali",
+        "example_english": "He created an artistic masterpiece that has been displayed in international museums"
       },
       "noi": {
         "conjugation": "abbiamo creato",
         "pronunciation": "/abbiamo/",
         "english": "we created",
-        "example": "Ieri abbiamo creato.",
-        "example_english": "Yesterday we created."
+        "example": "Abbiamo creato ricordi indimenticabili durante la nostra vacanza in famiglia alle Maldive",
+        "example_english": "We created unforgettable memories during our family vacation in the Maldives"
       },
       "voi": {
         "conjugation": "avete creato",
         "pronunciation": "/avete/",
         "english": "you (plural) created",
-        "example": "Ieri avete creato.",
-        "example_english": "Yesterday you (plural) created."
+        "example": "Avete creato un'atmosfera festosa perfetta per celebrare questo anniversario importante",
+        "example_english": "You created a perfect festive atmosphere to celebrate this important anniversary"
       },
       "loro": {
         "conjugation": "hanno creato",
         "pronunciation": "/hanno/",
         "english": "they created",
-        "example": "Ieri hanno creato.",
-        "example_english": "Yesterday they created."
+        "example": "Hanno creato un'applicazione mobile che ha rivoluzionato il modo di comunicare",
+        "example_english": "They created a mobile application that revolutionized the way people communicate"
       }
     }
-  }
+  },
+  "deck_guid": "116865608807",
+  "note_guid": 878499348993,
+  "deck_name": "Italian::A1::Verbs::chiamare_creare"
 }

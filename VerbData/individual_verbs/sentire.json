@@ -93,7 +93,7 @@
         "example_english": "They felt great relief."
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "sentirò",
         "pronunciation": "/sen.ti.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "Can mean both 'to hear' and 'to feel' depending on context",
-  "synonyms": "udire,percepire"
+  "synonyms": "udire,percepire",
+  "deck_guid": "492168412665",
+  "note_guid": 450162167364,
+  "deck_name": "Italian::A1::Verbs::scegliere_telefonare"
 }

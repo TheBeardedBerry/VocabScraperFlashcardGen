@@ -93,7 +93,7 @@
         "example_english": "They started doubting his intentions after discovering some suspicious facts"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "comincerò",
         "pronunciation": "/ko.min.tʃe.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To begin or start something; initiation of action",
-  "synonyms": "iniziare,avviare"
+  "synonyms": "iniziare,avviare",
+  "deck_guid": "116865608807",
+  "note_guid": 654295544189,
+  "deck_name": "Italian::A1::Verbs::chiamare_creare"
 }

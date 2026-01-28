@@ -1,0 +1,151 @@
+{
+  "infinitive": "scegliere",
+  "infinitive_pronunciation": "/ʃeʎ'ʎere/",
+  "english": "to choose",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "scelgo",
+        "pronunciation": "/'ʃelgo/",
+        "english": "I choose",
+        "example": "Scelgo sempre il miglior ristorante della città.",
+        "example_english": "I always choose the best restaurant in town."
+      },
+      "tu": {
+        "conjugation": "scegli",
+        "pronunciation": "/'ʃeʎʎi/",
+        "english": "you choose",
+        "example": "Tu scegli i tuoi amici con cura.",
+        "example_english": "You choose your friends carefully."
+      },
+      "lui": {
+        "conjugation": "sceglie",
+        "pronunciation": "/'ʃeʎʎe/",
+        "english": "he/she/it chooses",
+        "example": "Lei sceglie sempre vestiti eleganti.",
+        "example_english": "She always chooses elegant clothes."
+      },
+      "noi": {
+        "conjugation": "scegliamo",
+        "pronunciation": "/ʃeʎ'ʎamo/",
+        "english": "we choose",
+        "example": "Scegliamo insieme il film da guardare.",
+        "example_english": "We choose together which movie to watch."
+      },
+      "voi": {
+        "conjugation": "scegliete",
+        "pronunciation": "/ʃeʎ'ʎete/",
+        "english": "you choose",
+        "example": "Voi scegliete sempre la strada più lunga.",
+        "example_english": "You always choose the longest route."
+      },
+      "loro": {
+        "conjugation": "scelgono",
+        "pronunciation": "/'ʃelgono/",
+        "english": "they choose",
+        "example": "Loro scelgono i migliori ingredienti per cucinare.",
+        "example_english": "They choose the best ingredients for cooking."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "sceglierò",
+        "pronunciation": "/ʃeʎʎe'ro/",
+        "english": "I will choose",
+        "example": "Sceglierò la migliore università per i miei studi.",
+        "example_english": "I will choose the best university for my studies."
+      },
+      "tu": {
+        "conjugation": "sceglierai",
+        "pronunciation": "/ʃeʎʎe'rai/",
+        "english": "you will choose",
+        "example": "Tu sceglierai la strada giusta per il tuo futuro.",
+        "example_english": "You will choose the right path for your future."
+      },
+      "lui": {
+        "conjugation": "sceglierà",
+        "pronunciation": "/ʃeʎʎe'ra/",
+        "english": "he/she/it will choose",
+        "example": "Lei sceglierà il candidato più qualificato.",
+        "example_english": "She will choose the most qualified candidate."
+      },
+      "noi": {
+        "conjugation": "sceglieremo",
+        "pronunciation": "/ʃeʎʎe'remo/",
+        "english": "we will choose",
+        "example": "Sceglieremo la destinazione per le vacanze.",
+        "example_english": "We will choose the destination for vacation."
+      },
+      "voi": {
+        "conjugation": "sceglierete",
+        "pronunciation": "/ʃeʎʎe'rete/",
+        "english": "you will choose",
+        "example": "Voi sceglierete il regalo perfetto per lei.",
+        "example_english": "You will choose the perfect gift for her."
+      },
+      "loro": {
+        "conjugation": "sceglieranno",
+        "pronunciation": "/ʃeʎʎe'ranno/",
+        "english": "they will choose",
+        "example": "Loro sceglieranno la proposta migliore.",
+        "example_english": "They will choose the best proposal."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho scelto",
+        "pronunciation": "/'o 'ʃelto/",
+        "english": "I chose/have chosen",
+        "example": "Ho scelto di studiare medicina all'università.",
+        "example_english": "I chose to study medicine at university."
+      },
+      "tu": {
+        "conjugation": "hai scelto",
+        "pronunciation": "/'ai 'ʃelto/",
+        "english": "you chose/have chosen",
+        "example": "Hai scelto la risposta corretta all'esame.",
+        "example_english": "You chose the correct answer on the exam."
+      },
+      "lui": {
+        "conjugation": "ha scelto",
+        "pronunciation": "/'a 'ʃelto/",
+        "english": "he/she/it chose/has chosen",
+        "example": "Ha scelto il momento sbagliato per parlare.",
+        "example_english": "He chose the wrong time to speak."
+      },
+      "noi": {
+        "conjugation": "abbiamo scelto",
+        "pronunciation": "/ab'bjamo 'ʃelto/",
+        "english": "we chose/have chosen",
+        "example": "Abbiamo scelto di rimanere a casa stasera.",
+        "example_english": "We chose to stay home tonight."
+      },
+      "voi": {
+        "conjugation": "avete scelto",
+        "pronunciation": "/a'vete 'ʃelto/",
+        "english": "you chose/have chosen",
+        "example": "Avete scelto un pessimo momento per arrivare.",
+        "example_english": "You chose a terrible time to arrive."
+      },
+      "loro": {
+        "conjugation": "hanno scelto",
+        "pronunciation": "/'anno 'ʃelto/",
+        "english": "they chose/have chosen",
+        "example": "Hanno scelto il ristorante più caro del centro.",
+        "example_english": "They chose the most expensive restaurant downtown."
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "scelto",
+    "pronunciation": "/'ʃelto/",
+    "english": "chosen",
+    "example": "Il candidato scelto inizierà il lavoro lunedì.",
+    "example_english": "The chosen candidate will start work on Monday."
+  },
+  "part_of_speech": "verb",
+  "context": "To make a selection from available options; implies deliberate decision-making",
+  "synonyms": "selezionare,decidere"
+}

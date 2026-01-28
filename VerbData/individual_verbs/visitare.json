@@ -49,7 +49,7 @@
         "example_english": "They visit the old city."
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "visiterò",
         "pronunciation": "/viziteˈroː/",
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To visit places, people, or tourist destinations",
-  "synonyms": "andare a trovare"
+  "synonyms": "andare a trovare",
+  "deck_guid": "445683909629",
+  "note_guid": 282230262411,
+  "deck_name": "Italian::A1::Verbs::uscire_volere"
 }

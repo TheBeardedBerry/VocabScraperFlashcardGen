@@ -1,0 +1,161 @@
+{
+  "infinitive": "prendere",
+  "infinitive_pronunciation": "/ˈprendere/",
+  "english": "to take",
+  "regular": false,
+  "auxiliary": "avere",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "prendo",
+        "pronunciation": "/ˈpren.do/",
+        "english": "I take",
+        "example": "Prendo sempre l'autobus delle otto per arrivare puntuale al lavoro ogni mattina",
+        "example_english": "I always take eight o'clock bus to arrive punctually at work every morning"
+      },
+      "tu": {
+        "conjugation": "prendi",
+        "pronunciation": "/ˈpren.di/",
+        "english": "you take",
+        "example": "Tu prendi mai decisioni impulsive o rifletti sempre attentamente prima di agire?",
+        "example_english": "Do you ever make impulsive decisions or always think carefully before acting?"
+      },
+      "lui": {
+        "conjugation": "prende",
+        "pronunciation": "/ˈpren.de/",
+        "english": "he/she/it takes",
+        "example": "Lei prende lezioni di pianoforte da un maestro famoso per migliorare tecnica",
+        "example_english": "She takes piano lessons from famous teacher to improve technique"
+      },
+      "noi": {
+        "conjugation": "prendiamo",
+        "pronunciation": "/pren.ˈdja.mo/",
+        "english": "we take",
+        "example": "Prendiamo sempre tempo per noi stessi durante i weekend per rilassarci completamente",
+        "example_english": "We always take time for ourselves during weekends to relax completely"
+      },
+      "voi": {
+        "conjugation": "prendete",
+        "pronunciation": "/pren.ˈde.te/",
+        "english": "you take",
+        "example": "Voi prendete spesso iniziative personali o aspettate sempre che altri decidano?",
+        "example_english": "Do you often take personal initiatives or always wait for others to decide?"
+      },
+      "loro": {
+        "conjugation": "prendono",
+        "pronunciation": "/ˈpren.do.no/",
+        "english": "they take",
+        "example": "Prendono sempre la strada più lunga per evitare il traffico intenso del centro",
+        "example_english": "They always take longest route to avoid heavy downtown traffic"
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "ho preso",
+        "pronunciation": "/o ˈpre.so/",
+        "english": "I took/have taken",
+        "example": "Ho preso la decisione giusta quando ho cambiato lavoro due anni fa",
+        "example_english": "I made right decision when I changed jobs two years ago"
+      },
+      "tu": {
+        "conjugation": "hai preso",
+        "pronunciation": "/ˈaj ˈpre.so/",
+        "english": "you took/have taken",
+        "example": "Hai preso tutti i medicinali che il dottore ti aveva prescritto?",
+        "example_english": "Did you take all medicines doctor had prescribed for you?"
+      },
+      "lui": {
+        "conjugation": "ha preso",
+        "pronunciation": "/a ˈpre.so/",
+        "english": "he/she/it took/has taken",
+        "example": "Ha preso coraggio e ha confessato i suoi sentimenti alla ragazza",
+        "example_english": "He took courage and confessed his feelings to girl"
+      },
+      "noi": {
+        "conjugation": "abbiamo preso",
+        "pronunciation": "/ab.ˈbja.mo ˈpre.so/",
+        "english": "we took/have taken",
+        "example": "Abbiamo preso l'ultimo treno disponibile per arrivare in tempo alla cerimonia",
+        "example_english": "We took last available train to arrive on time for ceremony"
+      },
+      "voi": {
+        "conjugation": "avete preso",
+        "pronunciation": "/a.ˈve.te ˈpre.so/",
+        "english": "you took/have taken",
+        "example": "Avete preso abbastanza foto durante la vacanza per ricordare bei momenti?",
+        "example_english": "Did you take enough photos during vacation to remember beautiful moments?"
+      },
+      "loro": {
+        "conjugation": "hanno preso",
+        "pronunciation": "/ˈan.no ˈpre.so/",
+        "english": "they took/have taken",
+        "example": "Hanno preso una strada sbagliata e si sono persi nella campagna",
+        "example_english": "They took wrong road and got lost in countryside"
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "prenderò",
+        "pronunciation": "/pren.de.ˈrɔ/",
+        "english": "I will take",
+        "example": "Prenderò una decisione importante che cambierà completamente la mia vita futura",
+        "example_english": "I will make important decision that will completely change my future life"
+      },
+      "tu": {
+        "conjugation": "prenderai",
+        "pronunciation": "/pren.de.ˈraj/",
+        "english": "you will take",
+        "example": "Tu prenderai finalmente quella vacanza che ti meriti dopo anni di lavoro?",
+        "example_english": "Will you finally take that vacation you deserve after years of work?"
+      },
+      "lui": {
+        "conjugation": "prenderà",
+        "pronunciation": "/pren.de.ˈra/",
+        "english": "he/she/it will take",
+        "example": "Lei prenderà la laurea con il massimo dei voti se continuerà così",
+        "example_english": "She will get degree with highest marks if she continues like this"
+      },
+      "noi": {
+        "conjugation": "prenderemo",
+        "pronunciation": "/pren.de.ˈre.mo/",
+        "english": "we will take",
+        "example": "Prenderemo un appartamento più grande quando nascerà il secondo figlio",
+        "example_english": "We will take bigger apartment when second child is born"
+      },
+      "voi": {
+        "conjugation": "prenderete",
+        "pronunciation": "/pren.de.ˈre.te/",
+        "english": "you will take",
+        "example": "Voi prenderete il treno ad alta velocità per arrivare prima alla destinazione?",
+        "example_english": "Will you take high-speed train to arrive earlier at destination?"
+      },
+      "loro": {
+        "conjugation": "prenderanno",
+        "pronunciation": "/pren.de.ˈran.no/",
+        "english": "they will take",
+        "example": "Prenderanno misure drastiche se la situazione economica non migliorerà presto",
+        "example_english": "They will take drastic measures if economic situation doesn't improve soon"
+      }
+    }
+  },
+  "participio_passato": {
+    "form": "preso",
+    "pronunciation": "/ˈpre.so/",
+    "english": "taken",
+    "examples": [
+      {
+        "italian": "Il treno è stato preso all'ultimo momento.",
+        "english": "The train was taken at the last moment."
+      },
+      {
+        "italian": "Una volta presa la decisione, non ci ripensò.",
+        "english": "Once the decision was made, he didn't reconsider."
+      }
+    ],
+    "example": "La decisione presa è stata saggia.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "To take, grab, catch, or accept something offered",
+  "synonyms": "afferrare,pigliare"
+}

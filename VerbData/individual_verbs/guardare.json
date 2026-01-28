@@ -13,43 +13,43 @@
         "conjugation": "guardo",
         "pronunciation": "/'gwardo/",
         "english": "I watch/look at",
-        "example": "Io guardo la televisione ogni sera.",
-        "example_english": "I watch television every evening."
+        "example": "Guardo sempre il telegiornale della sera per rimanere informato sugli eventi mondiali",
+        "example_english": "I always watch the evening news to stay informed about world events"
       },
       "tu": {
         "conjugation": "guardi",
         "pronunciation": "/'gwardi/",
         "english": "you watch/look at",
-        "example": "Tu guardi spesso film in inglese?",
-        "example_english": "Do you often watch movies in English?"
+        "example": "Tu guardi mai film stranieri con i sottotitoli per migliorare le lingue?",
+        "example_english": "Do you ever watch foreign films with subtitles to improve languages?"
       },
       "lui": {
         "conjugation": "guarda",
         "pronunciation": "/'gwarda/",
         "english": "he/she/it watches/looks at",
-        "example": "Anna guarda le stelle dal balcone.",
-        "example_english": "Anna watches the stars from the balcony."
+        "example": "Lei guarda attentamente ogni dettaglio quando visita musei d'arte contemporanea",
+        "example_english": "She carefully looks at every detail when visiting contemporary art museums"
       },
       "noi": {
         "conjugation": "guardiamo",
         "pronunciation": "/gwar'djamo/",
         "english": "we watch/look at",
-        "example": "Noi guardiamo la partita insieme al bar.",
-        "example_english": "We watch the game together at the bar."
+        "example": "Guardiamo insieme le stelle ogni notte estiva dal terrazzo della nostra casa",
+        "example_english": "We watch stars together every summer night from our house terrace"
       },
       "voi": {
         "conjugation": "guardate",
         "pronunciation": "/gwar'date/",
         "english": "you watch/look at",
-        "example": "Voi guardate sempre i documentari?",
-        "example_english": "Do you always watch documentaries?"
+        "example": "Voi guardate spesso documentari sulla natura o preferite programmi di intrattenimento?",
+        "example_english": "Do you often watch nature documentaries or do you prefer entertainment programs?"
       },
       "loro": {
         "conjugation": "guardano",
         "pronunciation": "/'gwardano/",
         "english": "they watch/look at",
-        "example": "I bambini guardano i cartoni animati.",
-        "example_english": "The children watch cartoons."
+        "example": "Guardano sempre i loro figli giocare nel parco con orgoglio e tenerezza",
+        "example_english": "They always watch their children play in the park with pride and tenderness"
       }
     },
     "futuro_simplice": {
@@ -101,43 +101,43 @@
         "conjugation": "ho guardato",
         "pronunciation": "/o gwar'dato/",
         "english": "I watched/have watched",
-        "example": "Ho guardato un documentario interessante ieri.",
-        "example_english": "I watched an interesting documentary yesterday."
+        "example": "Ho guardato quel film per tre volte consecutive perché mi aveva colpito",
+        "example_english": "I watched that movie three consecutive times because it had struck me"
       },
       "tu": {
         "conjugation": "hai guardato",
         "pronunciation": "/ai gwar'dato/",
         "english": "you watched/have watched",
-        "example": "Hai guardato il telegiornale stamattina?",
-        "example_english": "Did you watch the news this morning?"
+        "example": "Hai guardato abbastanza televisione oggi o vuoi vedere ancora qualche programma?",
+        "example_english": "Did you watch enough television today or do you want to see some more programs?"
       },
       "lui": {
         "conjugation": "ha guardato",
         "pronunciation": "/a gwar'dato/",
         "english": "he/she/it watched/has watched",
-        "example": "Sofia ha guardato tutti gli episodi in una sera.",
-        "example_english": "Sofia watched all the episodes in one evening."
+        "example": "Ha guardato sua figlia fare i primi passi con le lacrime agli occhi",
+        "example_english": "He watched his daughter take her first steps with tears in his eyes"
       },
       "noi": {
         "conjugation": "abbiamo guardato",
         "pronunciation": "/ab'bjamo gwar'dato/",
         "english": "we watched/have watched",
-        "example": "Abbiamo guardato il concerto dal vivo.",
-        "example_english": "We watched the concert live."
+        "example": "Abbiamo guardato l'alba dalla montagna durante la nostra escursione mattutina",
+        "example_english": "We watched sunrise from the mountain during our morning hike"
       },
       "voi": {
         "conjugation": "avete guardato",
         "pronunciation": "/a'vete gwar'dato/",
         "english": "you watched/have watched",
-        "example": "Avete guardato l'intervista al presidente?",
-        "example_english": "Have you watched the interview with the president?"
+        "example": "Avete guardato il documentario sulla storia italiana che passava ieri sera?",
+        "example_english": "Did you watch the documentary on Italian history that was on last night?"
       },
       "loro": {
         "conjugation": "hanno guardato",
         "pronunciation": "/'anno gwar'dato/",
         "english": "they watched/have watched",
-        "example": "Hanno guardato il film tre volte.",
-        "example_english": "They watched the movie three times."
+        "example": "Hanno guardato le foto del matrimonio per ore ricordando quel giorno speciale",
+        "example_english": "They looked at wedding photos for hours remembering that special day"
       }
     }
   },
@@ -147,5 +147,8 @@
     "english": "watched",
     "example": "Il programma guardato ieri era molto divertente.",
     "example_english": "The program watched yesterday was very entertaining."
-  }
+  },
+  "deck_guid": "817402220559",
+  "note_guid": 31428944210,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

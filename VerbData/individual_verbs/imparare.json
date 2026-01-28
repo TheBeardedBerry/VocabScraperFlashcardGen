@@ -10,87 +10,87 @@
         "conjugation": "imparo",
         "pronunciation": "/ˈim.pa.ro/",
         "english": "I learn",
-        "example": "Imparo l'italiano da tre mesi.",
-        "example_english": "I have been learning Italian for three months."
+        "example": "Imparo sempre cose nuove leggendo libri interessanti durante il tempo libero disponibile",
+        "example_english": "I always learn new things by reading interesting books during available free time"
       },
       "tu": {
         "conjugation": "impari",
         "pronunciation": "/ˈim.pa.ri/",
         "english": "you learn",
-        "example": "Tu impari molto velocemente.",
-        "example_english": "You learn very quickly."
+        "example": "Tu impari facilmente le lingue straniere o hai difficoltà con la pronuncia?",
+        "example_english": "Do you easily learn foreign languages or do you have difficulty with pronunciation?"
       },
       "lui": {
         "conjugation": "impara",
         "pronunciation": "/ˈim.pa.ra/",
         "english": "he/she/it learns",
-        "example": "Lei impara a cucinare dalla nonna.",
-        "example_english": "She learns to cook from grandma."
+        "example": "Lei impara a cucinare piatti tradizionali guardando i video tutorial online",
+        "example_english": "She learns to cook traditional dishes by watching online tutorial videos"
       },
       "noi": {
         "conjugation": "impariamo",
         "pronunciation": "/im.pa.ˈrja.mo/",
         "english": "we learn",
-        "example": "Noi impariamo cose nuove ogni giorno.",
-        "example_english": "We learn new things every day."
+        "example": "Impariamo insieme a ballare il tango frequentando le lezioni serali della scuola",
+        "example_english": "We learn to dance tango together by attending evening lessons at school"
       },
       "voi": {
         "conjugation": "imparate",
         "pronunciation": "/im.pa.ˈra.te/",
         "english": "you learn",
-        "example": "Voi imparate dalle vostre esperienze?",
-        "example_english": "Do you learn from your experiences?"
+        "example": "Voi imparate mai dai vostri errori o continuate a ripeterli sempre?",
+        "example_english": "Do you ever learn from your mistakes or do you continue repeating them always?"
       },
       "loro": {
         "conjugation": "imparano",
         "pronunciation": "/ˈim.pa.ra.no/",
         "english": "they learn",
-        "example": "Loro imparano lingue straniere.",
-        "example_english": "They learn foreign languages."
+        "example": "Imparano rapidamente perché hanno molta motivazione e dedizione allo studio",
+        "example_english": "They learn quickly because they have lots of motivation and dedication to study"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "imparerò",
         "pronunciation": "/im.pa.re.ˈrɔ/",
         "english": "I will learn",
-        "example": "Imparerò a suonare il pianoforte.",
-        "example_english": "I will learn to play the piano."
+        "example": "Imparerò a suonare la chitarra durante le vacanze estive che ho pianificato",
+        "example_english": "I will learn to play guitar during summer vacation I have planned"
       },
       "tu": {
         "conjugation": "imparerai",
         "pronunciation": "/im.pa.re.ˈraj/",
         "english": "you will learn",
-        "example": "Tu imparerai presto a guidare.",
-        "example_english": "You will learn to drive soon."
+        "example": "Tu imparerai finalmente a nuotare o continuerai ad avere paura dell'acqua?",
+        "example_english": "Will you finally learn to swim or will you continue being afraid of water?"
       },
       "lui": {
         "conjugation": "imparerà",
         "pronunciation": "/im.pa.re.ˈra/",
         "english": "he/she/it will learn",
-        "example": "Lei imparerà dai suoi errori.",
-        "example_english": "She will learn from her mistakes."
+        "example": "Lei imparerà l'arte della fotografia frequentando il corso professionale specializzato",
+        "example_english": "She will learn the art of photography by attending specialized professional course"
       },
       "noi": {
         "conjugation": "impareremo",
         "pronunciation": "/im.pa.re.ˈre.mo/",
         "english": "we will learn",
-        "example": "Noi impareremo insieme questa materia.",
-        "example_english": "We will learn this subject together."
+        "example": "Impareremo a usare il computer meglio durante il corso che inizia lunedì",
+        "example_english": "We will learn to use computer better during course that starts Monday"
       },
       "voi": {
         "conjugation": "imparerete",
         "pronunciation": "/im.pa.re.ˈre.te/",
         "english": "you will learn",
-        "example": "Voi imparerete molto da questa esperienza.",
-        "example_english": "You will learn a lot from this experience."
+        "example": "Voi imparerete il francese se andrete a vivere a Parigi per lavoro?",
+        "example_english": "Will you learn French if you go to live in Paris for work?"
       },
       "loro": {
         "conjugation": "impareranno",
         "pronunciation": "/im.pa.re.ˈran.no/",
         "english": "they will learn",
-        "example": "Loro impareranno nuove competenze.",
-        "example_english": "They will learn new skills."
+        "example": "Impareranno l'importanza dell'amicizia quando avranno bisogno di aiuto vero",
+        "example_english": "They will learn importance of friendship when they need real help"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho imparato",
         "pronunciation": "/o im.pa.ˈra.to/",
         "english": "I learned/have learned",
-        "example": "Ieri ho imparato una ricetta nuova.",
-        "example_english": "Yesterday I learned a new recipe."
+        "example": "Ho imparato a guidare a sedici anni con mio padre molto paziente",
+        "example_english": "I learned to drive at sixteen with my very patient father"
       },
       "tu": {
         "conjugation": "hai imparato",
         "pronunciation": "/ˈaj im.pa.ˈra.to/",
         "english": "you learned/have learned",
-        "example": "Hai imparato a usare il computer?",
-        "example_english": "Have you learned to use the computer?"
+        "example": "Hai imparato qualcosa di utile durante il corso di informatica che hai frequentato?",
+        "example_english": "Did you learn something useful during computer course you attended?"
       },
       "lui": {
         "conjugation": "ha imparato",
         "pronunciation": "/a im.pa.ˈra.to/",
         "english": "he/she/it learned/has learned",
-        "example": "Ha imparato la lezione a memoria.",
-        "example_english": "He learned the lesson by heart."
+        "example": "Ha imparato tre lingue straniere vivendo all'estero per molti anni consecutivi",
+        "example_english": "He learned three foreign languages by living abroad for many consecutive years"
       },
       "noi": {
         "conjugation": "abbiamo imparato",
         "pronunciation": "/ab.ˈbja.mo im.pa.ˈra.to/",
         "english": "we learned/have learned",
-        "example": "Abbiamo imparato molto in questa classe.",
-        "example_english": "We learned a lot in this class."
+        "example": "Abbiamo imparato molto sulla vita durante quel viaggio che ha cambiato tutto",
+        "example_english": "We learned a lot about life during that trip that changed everything"
       },
       "voi": {
         "conjugation": "avete imparato",
         "pronunciation": "/a.ˈve.te im.pa.ˈra.to/",
         "english": "you learned/have learned",
-        "example": "Avete imparato bene la grammatica?",
-        "example_english": "Have you learned grammar well?"
+        "example": "Avete imparato a cucinare dai vostri nonni quando eravate bambini piccoli?",
+        "example_english": "Did you learn to cook from your grandparents when you were small children?"
       },
       "loro": {
         "conjugation": "hanno imparato",
         "pronunciation": "/ˈan.no im.pa.ˈra.to/",
         "english": "they learned/have learned",
-        "example": "Hanno imparato a rispettare le regole.",
-        "example_english": "They learned to respect the rules."
+        "example": "Hanno imparato la lezione dopo aver fatto quell'errore che è costato caro",
+        "example_english": "They learned lesson after making that mistake that cost dearly"
       }
     }
   },
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To learn new skills, knowledge, or information",
-  "synonyms": "apprendere,studiare"
+  "synonyms": "apprendere,studiare",
+  "deck_guid": "817402220559",
+  "note_guid": 245113053123,
+  "deck_name": "Italian::A1::Verbs::fermare_iniziare"
 }

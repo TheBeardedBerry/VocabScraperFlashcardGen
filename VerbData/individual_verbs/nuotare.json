@@ -20,43 +20,43 @@
         "conjugation": "nuoto",
         "pronunciation": "/nuoto/",
         "english": "I swim",
-        "example": "Io nuoto ogni giorno.",
-        "example_english": "I swim every day."
+        "example": "Nuoto sempre in piscina ogni mattina per mantenermi in forma fisica ottimale",
+        "example_english": "I always swim in pool every morning to maintain optimal physical shape"
       },
       "tu": {
         "conjugation": "nuoti",
         "pronunciation": "/nuoti/",
         "english": "you swim",
-        "example": "Tu nuoti bene.",
-        "example_english": "You swim well."
+        "example": "Tu nuoti mai nel mare aperto o preferisci le piscine coperte e riscaldate?",
+        "example_english": "Do you ever swim in open sea or do you prefer covered and heated pools?"
       },
       "lui": {
         "conjugation": "nuota",
         "pronunciation": "/nuota/",
         "english": "he/she/it swims",
-        "example": "Lei nuota molto.",
-        "example_english": "She swim a lot."
+        "example": "Lei nuota come un pesce nell'acqua grazie agli anni di allenamento costante",
+        "example_english": "She swims like fish in water thanks to years of constant training"
       },
       "noi": {
         "conjugation": "nuotiamo",
         "pronunciation": "/nuotiamo/",
         "english": "we swim",
-        "example": "Noi nuotiamo insieme.",
-        "example_english": "We swim together."
+        "example": "Nuotiamo insieme nel lago durante le vacanze estive in montagna",
+        "example_english": "We swim together in lake during summer vacation in mountains"
       },
       "voi": {
         "conjugation": "nuotate",
         "pronunciation": "/nuotate/",
         "english": "you swim",
-        "example": "Voi nuotate bene?",
-        "example_english": "Do you swim well?"
+        "example": "Voi nuotate spesso durante l'estate o preferite prendere il sole sulla sabbia?",
+        "example_english": "Do you often swim during summer or do you prefer sunbathing on sand?"
       },
       "loro": {
         "conjugation": "nuotano",
         "pronunciation": "/nuotano/",
         "english": "they swim",
-        "example": "Loro nuotano spesso.",
-        "example_english": "They swim often."
+        "example": "Nuotano tutti i giorni nell'oceano nonostante le onde alte e pericolose",
+        "example_english": "They swim every day in ocean despite high and dangerous waves"
       }
     },
     "futuro_simplice": {
@@ -108,44 +108,47 @@
         "conjugation": "ho nuotato",
         "pronunciation": "/ho nuotato/",
         "english": "I swimed",
-        "example": "Ieri ho nuotato.",
-        "example_english": "Yesterday i swimed."
+        "example": "Ho nuotato per due ore consecutive senza mai fermarmi per riposare",
+        "example_english": "I swam for two consecutive hours without ever stopping to rest"
       },
       "tu": {
         "conjugation": "hai nuotato",
         "pronunciation": "/hai/",
         "english": "you (informal) swimed",
-        "example": "Ieri hai nuotato.",
-        "example_english": "Yesterday you (informal) swimed."
+        "example": "Hai nuotato nelle acque gelide del mare del Nord durante il viaggio?",
+        "example_english": "Did you swim in icy waters of North Sea during trip?"
       },
       "lui": {
         "conjugation": "ha nuotato",
         "pronunciation": "/ha nuotato/",
         "english": "he/she/it swimed",
-        "example": "Ieri ha nuotato.",
-        "example_english": "Yesterday he/she/it swimed."
+        "example": "Ha nuotato per salvare quel bambino che stava annegando nel fiume",
+        "example_english": "He swam to save that child who was drowning in river"
       },
       "noi": {
         "conjugation": "abbiamo nuotato",
         "pronunciation": "/abbiamo/",
         "english": "we swimed",
-        "example": "Ieri abbiamo nuotato.",
-        "example_english": "Yesterday we swimed."
+        "example": "Abbiamo nuotato sotto le cascate durante l'avventura nella giungla tropicale",
+        "example_english": "We swam under waterfalls during adventure in tropical jungle"
       },
       "voi": {
         "conjugation": "avete nuotato",
         "pronunciation": "/avete/",
         "english": "you (plural) swimed",
-        "example": "Ieri avete nuotato.",
-        "example_english": "Yesterday you (plural) swimed."
+        "example": "Avete nuotato abbastanza oggi o volete fare ancora qualche vasca in piscina?",
+        "example_english": "Did you swim enough today or do you want to do few more laps in pool?"
       },
       "loro": {
         "conjugation": "hanno nuotato",
         "pronunciation": "/hanno/",
         "english": "they swimed",
-        "example": "Ieri hanno nuotato.",
-        "example_english": "Yesterday they swimed."
+        "example": "Hanno nuotato insieme per l'ultima volta prima che lui si trasferisse",
+        "example_english": "They swam together for last time before he moved away"
       }
     }
-  }
+  },
+  "deck_guid": "544635933530",
+  "note_guid": 1090852263577,
+  "deck_name": "Italian::A1::Verbs::morire_piacere"
 }

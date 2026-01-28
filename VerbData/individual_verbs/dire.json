@@ -10,43 +10,43 @@
         "conjugation": "dico",
         "pronunciation": "/'diko/",
         "english": "I say/tell",
-        "example": "Io dico sempre quello che penso veramente.",
-        "example_english": "I always say what I really think."
+        "example": "Dico sempre la verità anche quando può ferire i sentimenti delle persone care",
+        "example_english": "I always tell the truth even when it might hurt the feelings of dear people"
       },
       "tu": {
         "conjugation": "dici",
         "pronunciation": "/'ditʃi/",
         "english": "you say/tell",
-        "example": "Tu dici cose molto sagge e profonde.",
-        "example_english": "You say very wise and profound things."
+        "example": "Tu dici spesso cose divertenti che fanno ridere tutti durante le cene in famiglia?",
+        "example_english": "Do you often say funny things that make everyone laugh during family dinners?"
       },
       "lui": {
         "conjugation": "dice",
         "pronunciation": "/'ditʃe/",
         "english": "he/she/it says/tells",
-        "example": "Il professore dice che l'esame sarà difficile.",
-        "example_english": "The professor says that the exam will be difficult."
+        "example": "Lei dice sempre quello che pensa senza preoccuparsi delle conseguenze sociali delle sue parole",
+        "example_english": "She always says what she thinks without worrying about social consequences of her words"
       },
       "noi": {
         "conjugation": "diciamo",
         "pronunciation": "/di'tʃamo/",
         "english": "we say/tell",
-        "example": "Noi diciamo sempre la verità ai nostri figli.",
-        "example_english": "We always tell the truth to our children."
+        "example": "Diciamo sempre le nostre opinioni apertamente durante le discussioni politiche importanti",
+        "example_english": "We always express our opinions openly during important political discussions"
       },
       "voi": {
         "conjugation": "dite",
         "pronunciation": "/'dite/",
         "english": "you say/tell",
-        "example": "Voi dite cose interessanti durante le discussioni.",
-        "example_english": "You say interesting things during discussions."
+        "example": "Voi dite mai bugie innocenti per non ferire i sentimenti degli altri?",
+        "example_english": "Do you ever tell innocent lies to avoid hurting others' feelings?"
       },
       "loro": {
         "conjugation": "dicono",
         "pronunciation": "/'dikono/",
         "english": "they say/tell",
-        "example": "I giornali dicono che pioverà tutto il fine settimana.",
-        "example_english": "The newspapers say it will rain all weekend."
+        "example": "Dicono sempre parole di incoraggiamento ai figli prima degli esami scolastici difficili",
+        "example_english": "They always say encouraging words to their children before difficult school exams"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho detto",
         "pronunciation": "/'ɔ 'detto/",
         "english": "I said/have said",
-        "example": "Ho detto al mio capo che ho bisogno di una pausa.",
-        "example_english": "I told my boss that I need a break."
+        "example": "Ho detto cose di cui ora mi pento profondamente e vorrei poter tornare indietro",
+        "example_english": "I said things I now deeply regret and wish I could go back"
       },
       "tu": {
         "conjugation": "hai detto",
         "pronunciation": "/'ai 'detto/",
         "english": "you said/have said",
-        "example": "Tu hai detto esattamente quello che pensavo anch'io.",
-        "example_english": "You said exactly what I was thinking too."
+        "example": "Hai detto la cosa giusta al momento giusto per risolvere quella situazione tesa?",
+        "example_english": "Did you say the right thing at the right moment to resolve that tense situation?"
       },
       "lui": {
         "conjugation": "ha detto",
         "pronunciation": "/'a 'detto/",
         "english": "he/she/it said/has said",
-        "example": "Il dottore ha detto che tutto andrà bene.",
-        "example_english": "The doctor said that everything will be fine."
+        "example": "Ha detto parole molto commoventi durante il discorso funebre per il nonno",
+        "example_english": "He said very moving words during the funeral speech for grandfather"
       },
       "noi": {
         "conjugation": "abbiamo detto",
         "pronunciation": "/ab'bjamo 'detto/",
         "english": "we said/have said",
-        "example": "Abbiamo detto ai bambini di comportarsi bene.",
-        "example_english": "We told the children to behave well."
+        "example": "Abbiamo detto tutto quello che avevamo nel cuore durante quella conversazione importante",
+        "example_english": "We said everything we had in our hearts during that important conversation"
       },
       "voi": {
         "conjugation": "avete detto",
         "pronunciation": "/a'vete 'detto/",
         "english": "you said/have said",
-        "example": "Voi avete detto parole molto importanti oggi.",
-        "example_english": "You said very important words today."
+        "example": "Avete detto cose terribili durante la lite che ora vorreste non aver mai pronunciato?",
+        "example_english": "Did you say terrible things during the fight that you now wish you had never said?"
       },
       "loro": {
         "conjugation": "hanno detto",
         "pronunciation": "/'anno 'detto/",
         "english": "they said/have said",
-        "example": "I testimoni hanno detto di aver visto tutto chiaramente.",
-        "example_english": "The witnesses said they saw everything clearly."
+        "example": "Hanno detto addio per sempre prima che lui partisse per il servizio militare",
+        "example_english": "They said goodbye forever before he left for military service"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To say or tell something; verbal communication",
-  "synonyms": "raccontare,esprimere"
+  "synonyms": "raccontare,esprimere",
+  "deck_guid": "25192925024",
+  "note_guid": 205259336061,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

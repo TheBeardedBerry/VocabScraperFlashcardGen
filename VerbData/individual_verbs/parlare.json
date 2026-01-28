@@ -10,43 +10,43 @@
         "conjugation": "parlo",
         "pronunciation": "/'parlo/",
         "english": "I speak/talk",
-        "example": "Parlo italiano ogni giorno con mia nonna.",
-        "example_english": "I speak Italian every day with my grandmother."
+        "example": "Parlo sempre con entusiasmo delle mie passioni quando incontro persone interessate",
+        "example_english": "I always speak enthusiastically about my passions when meeting interested people"
       },
       "tu": {
         "conjugation": "parli",
         "pronunciation": "/'parli/",
         "english": "you speak/talk",
-        "example": "Tu parli inglese molto bene!",
-        "example_english": "You speak English very well!"
+        "example": "Tu parli mai in pubblico o hai troppa paura del giudizio altrui?",
+        "example_english": "Do you ever speak in public or are you too afraid of others' judgment?"
       },
       "lui": {
         "conjugation": "parla",
         "pronunciation": "/'parla/",
         "english": "he/she/it speaks/talks",
-        "example": "Marco parla sempre al telefono.",
-        "example_english": "Marco is always talking on the phone."
+        "example": "Lei parla fluentemente cinque lingue straniere grazie ai suoi viaggi internazionali",
+        "example_english": "She speaks fluently five foreign languages thanks to her international travels"
       },
       "noi": {
         "conjugation": "parliamo",
         "pronunciation": "/par'ljamo/",
         "english": "we speak/talk",
-        "example": "Noi parliamo di politica a cena.",
-        "example_english": "We talk about politics at dinner."
+        "example": "Parliamo sempre ad alta voce quando siamo emozionati per qualche notizia",
+        "example_english": "We always speak loudly when excited about some news"
       },
       "voi": {
         "conjugation": "parlate",
         "pronunciation": "/par'late/",
         "english": "you speak/talk",
-        "example": "Di cosa parlate quando siete insieme?",
-        "example_english": "What do you talk about when you're together?"
+        "example": "Voi parlate spesso di politica durante le cene oppure evitate argomenti controversi?",
+        "example_english": "Do you often talk about politics during dinners or avoid controversial topics?"
       },
       "loro": {
         "conjugation": "parlano",
         "pronunciation": "/'parlano/",
         "english": "they speak/talk",
-        "example": "I bambini parlano tre lingue diverse.",
-        "example_english": "The children speak three different languages."
+        "example": "Parlano sempre bene di tutti perché credono nell'importanza della gentilezza universale",
+        "example_english": "They always speak well of everyone because they believe in importance of universal kindness"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho parlato",
         "pronunciation": "/o par'lato/",
         "english": "I spoke/have spoken",
-        "example": "Ho parlato con lei stamattina al mercato.",
-        "example_english": "I spoke with her this morning at the market."
+        "example": "Ho parlato con il medico specialista dei risultati preoccupanti degli esami",
+        "example_english": "I spoke with specialist doctor about worrying exam results"
       },
       "tu": {
         "conjugation": "hai parlato",
         "pronunciation": "/ai par'lato/",
         "english": "you spoke/have spoken",
-        "example": "Hai parlato troppo velocemente durante la presentazione.",
-        "example_english": "You spoke too fast during the presentation."
+        "example": "Hai parlato abbastanza durante la riunione o avevi ancora cose da dire?",
+        "example_english": "Did you speak enough during meeting or did you still have things to say?"
       },
       "lui": {
         "conjugation": "ha parlato",
         "pronunciation": "/a par'lato/",
         "english": "he/she/it spoke/has spoken",
-        "example": "Il professore ha parlato per due ore.",
-        "example_english": "The professor spoke for two hours."
+        "example": "Ha parlato per tre ore consecutive senza mai fermarsi durante il dibattito",
+        "example_english": "He spoke for three consecutive hours without ever stopping during debate"
       },
       "noi": {
         "conjugation": "abbiamo parlato",
         "pronunciation": "/ab'bjamo par'lato/",
         "english": "we spoke/have spoken",
-        "example": "Abbiamo parlato del viaggio tutta la sera.",
-        "example_english": "We talked about the trip all evening."
+        "example": "Abbiamo parlato tutta la notte di progetti futuri e sogni da realizzare",
+        "example_english": "We talked all night about future projects and dreams to realize"
       },
       "voi": {
         "conjugation": "avete parlato",
         "pronunciation": "/a'vete par'lato/",
         "english": "you spoke/have spoken",
-        "example": "Avete parlato con i vostri genitori ieri?",
-        "example_english": "Did you speak with your parents yesterday?"
+        "example": "Avete parlato con i vostri figli dell'importanza di essere onesti sempre?",
+        "example_english": "Did you talk with your children about importance of always being honest?"
       },
       "loro": {
         "conjugation": "hanno parlato",
         "pronunciation": "/'anno par'lato/",
         "english": "they spoke/have spoken",
-        "example": "Hanno parlato in dialetto per tutto il tempo.",
-        "example_english": "They spoke in dialect the whole time."
+        "example": "Hanno parlato male di noi alle spalle durante la festa di compleanno",
+        "example_english": "They spoke badly of us behind our backs during birthday party"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "General speaking; both casual conversation and formal speech",
-  "synonyms": "conversare,chiacchierare,comunicare"
+  "synonyms": "conversare,chiacchierare,comunicare",
+  "deck_guid": "544635933530",
+  "note_guid": 860393149897,
+  "deck_name": "Italian::A1::Verbs::morire_piacere"
 }

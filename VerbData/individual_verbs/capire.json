@@ -93,7 +93,7 @@
         "example_english": "They understood too late that they should have listened to their wise parents' advice"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "capirò",
         "pronunciation": "/ka.pi.ˈrɔ/",
@@ -157,5 +157,8 @@
   },
   "part_of_speech": "verb",
   "context": "To understand or comprehend; -isc verb with stem expansion",
-  "synonyms": "comprendere,afferrare"
+  "synonyms": "comprendere,afferrare",
+  "deck_guid": "534128169818",
+  "note_guid": 819221454649,
+  "deck_name": "Italian::A1::Verbs::avere_cercare"
 }

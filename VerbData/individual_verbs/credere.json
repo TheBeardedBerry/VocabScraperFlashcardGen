@@ -10,87 +10,87 @@
         "conjugation": "credo",
         "pronunciation": "/ˈkreːdo/",
         "english": "I believe",
-        "example": "Credo nella giustizia.",
-        "example_english": "I believe in justice."
+        "example": "Credo fermamente che l'educazione sia la chiave per un futuro migliore per tutti",
+        "example_english": "I firmly believe that education is the key to a better future for everyone"
       },
       "tu": {
         "conjugation": "credi",
         "pronunciation": "/ˈkreːdi/",
         "english": "you believe",
-        "example": "Credi in te stesso?",
-        "example_english": "Do you believe in yourself?"
+        "example": "Tu credi ancora nelle favole romantiche o sei diventato più pragmatico con l'età?",
+        "example_english": "Do you still believe in romantic fairy tales or have you become more pragmatic with age?"
       },
       "lui": {
         "conjugation": "crede",
         "pronunciation": "/ˈkreːde/",
         "english": "he/she/it believes",
-        "example": "Crede fermamente nei suoi principi.",
-        "example_english": "She firmly believes in her principles."
+        "example": "Lei crede ciecamente in tutto quello che le dicono senza verificare mai le informazioni",
+        "example_english": "She blindly believes everything they tell her without ever verifying the information"
       },
       "noi": {
         "conjugation": "crediamo",
         "pronunciation": "/crediamo/",
         "english": "we believe",
-        "example": "Noi crediamo insieme.",
-        "example_english": "We believe together."
+        "example": "Crediamo tutti nell'importanza dell'amicizia vera che dura per tutta la vita",
+        "example_english": "We all believe in the importance of true friendship that lasts a lifetime"
       },
       "voi": {
         "conjugation": "credete",
         "pronunciation": "/credete/",
         "english": "you believe",
-        "example": "Voi credete bene?",
-        "example_english": "Do you believe well?"
+        "example": "Voi credete veramente che sia possibile risolvere tutti i problemi del mondo?",
+        "example_english": "Do you really believe it's possible to solve all the world's problems?"
       },
       "loro": {
         "conjugation": "credono",
         "pronunciation": "/credono/",
         "english": "they believe",
-        "example": "Loro credono spesso.",
-        "example_english": "They believe often."
+        "example": "Credono fermamente nei valori tradizionali della famiglia che i nonni hanno tramandato",
+        "example_english": "They firmly believe in traditional family values that grandparents have passed down"
       }
     },
-    "futuro_semplice": {
+    "futuro_simplice": {
       "io": {
         "conjugation": "crederò",
         "pronunciation": "/crederò/",
         "english": "I will believe",
-        "example": "Io crederò ogni giorno.",
-        "example_english": "I believe every day."
+        "example": "Crederò nelle tue parole solo quando vedrai i fatti concreti che le supportano",
+        "example_english": "I will believe your words only when I see concrete facts that support them"
       },
       "tu": {
         "conjugation": "crederai",
         "pronunciation": "/crederai/",
         "english": "you (informal) will believe",
-        "example": "Tu crederai bene.",
-        "example_english": "You believe well."
+        "example": "Tu crederai finalmente in te stesso quando realizzerai tutti i tuoi talenti nascosti?",
+        "example_english": "Will you finally believe in yourself when you realize all your hidden talents?"
       },
       "lui": {
         "conjugation": "crederà",
         "pronunciation": "/crederà/",
         "english": "he/she/it will believe",
-        "example": "Lei crederà molto.",
-        "example_english": "She believe a lot."
+        "example": "Lei crederà nella magia dell'amore quando incontrerà la persona giusta della sua vita",
+        "example_english": "She will believe in the magic of love when she meets the right person in her life"
       },
       "noi": {
         "conjugation": "crederemo",
         "pronunciation": "/crederemo/",
         "english": "we will believe",
-        "example": "Noi crederemo insieme.",
-        "example_english": "We believe together."
+        "example": "Crederemo nel progetto solo dopo aver visto i primi risultati positivi e concreti",
+        "example_english": "We will believe in the project only after seeing the first positive and concrete results"
       },
       "voi": {
         "conjugation": "crederete",
         "pronunciation": "/crederete/",
         "english": "you (plural) will believe",
-        "example": "Voi crederete bene?",
-        "example_english": "Do you believe well?"
+        "example": "Voi crederete nell'importanza dello studio quando vedrete i benefici nel vostro futuro?",
+        "example_english": "Will you believe in the importance of studying when you see the benefits in your future?"
       },
       "loro": {
         "conjugation": "crederanno",
         "pronunciation": "/crederanno/",
         "english": "they will believe",
-        "example": "Loro crederanno spesso.",
-        "example_english": "They believe often."
+        "example": "Crederanno nel cambiamento solo quando toccheranno con mano i miglioramenti nella società",
+        "example_english": "They will believe in change only when they experience improvements in society firsthand"
       }
     },
     "passato_prossimo": {
@@ -98,43 +98,43 @@
         "conjugation": "ho creduto",
         "pronunciation": "/ho creduto/",
         "english": "I believed",
-        "example": "Ieri ho creduto.",
-        "example_english": "Yesterday i believed."
+        "example": "Ho creduto per anni in quella persona prima di scoprire la sua vera natura",
+        "example_english": "I believed in that person for years before discovering their true nature"
       },
       "tu": {
         "conjugation": "hai creduto",
         "pronunciation": "/hai/",
         "english": "you (informal) believed",
-        "example": "Ieri hai creduto.",
-        "example_english": "Yesterday you (informal) believed."
+        "example": "Hai mai creduto così profondamente in qualcosa da rischiare tutto quello che avevi?",
+        "example_english": "Have you ever believed so deeply in something that you risked everything you had?"
       },
       "lui": {
         "conjugation": "ha creduto",
         "pronunciation": "/ha creduto/",
         "english": "he/she/it believed",
-        "example": "Ieri ha creduto.",
-        "example_english": "Yesterday he/she/it believed."
+        "example": "Ha creduto nelle sue capacità e alla fine è riuscito a realizzare il sogno",
+        "example_english": "He believed in his abilities and finally managed to achieve his dream"
       },
       "noi": {
         "conjugation": "abbiamo creduto",
         "pronunciation": "/abbiamo/",
         "english": "we believed",
-        "example": "Ieri abbiamo creduto.",
-        "example_english": "Yesterday we believed."
+        "example": "Abbiamo creduto nell'impossibile e siamo riusciti a superare tutte le difficoltà incontrate",
+        "example_english": "We believed in the impossible and managed to overcome all difficulties encountered"
       },
       "voi": {
         "conjugation": "avete creduto",
         "pronunciation": "/avete/",
         "english": "you (plural) believed",
-        "example": "Ieri avete creduto.",
-        "example_english": "Yesterday you (plural) believed."
+        "example": "Avete creduto alle promesse elettorali di quel politico durante l'ultima campagna presidenziale?",
+        "example_english": "Did you believe the electoral promises of that politician during the last presidential campaign?"
       },
       "loro": {
         "conjugation": "hanno creduto",
         "pronunciation": "/hanno/",
         "english": "they believed",
-        "example": "Ieri hanno creduto.",
-        "example_english": "Yesterday they believed."
+        "example": "Hanno creduto fino all'ultimo nella possibilità di salvare l'azienda di famiglia",
+        "example_english": "They believed until the end in the possibility of saving the family business"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To believe in something or someone; faith or opinion",
-  "synonyms": "ritenere,pensare"
+  "synonyms": "ritenere,pensare",
+  "deck_guid": "25192925024",
+  "note_guid": 677691012187,
+  "deck_name": "Italian::A1::Verbs::credere_fare"
 }

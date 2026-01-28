@@ -1,0 +1,152 @@
+{
+  "infinitive": "scusarsi",
+  "infinitive_pronunciation": "/sku'sarsi/",
+  "english": "to apologize",
+  "regular": true,
+  "auxiliary": "essere",
+  "reflexive": true,
+  "participio_passato": {
+    "form": "scusato/a",
+    "pronunciation": "/scusato/",
+    "english": "apologized",
+    "example": "Si è scusato per il ritardo.",
+    "example_english": "Example in English"
+  },
+  "part_of_speech": "verb",
+  "context": "Reflexive: to apologize or excuse oneself for mistakes",
+  "synonyms": "chiedere scusa,chiedere perdono",
+  "tenses": {
+    "presente": {
+      "io": {
+        "conjugation": "mi scuso",
+        "pronunciation": "/mi scuso/",
+        "english": "I apologize",
+        "example": "Io mi scuso ogni giorno.",
+        "example_english": "I apologize every day."
+      },
+      "tu": {
+        "conjugation": "ti scusi",
+        "pronunciation": "/ti scusi/",
+        "english": "you apologize",
+        "example": "Tu ti scusi bene.",
+        "example_english": "You apologize well."
+      },
+      "lui": {
+        "conjugation": "si scusa",
+        "pronunciation": "/si scusa/",
+        "english": "he/she/it apologizes",
+        "example": "Lei si scusa molto.",
+        "example_english": "She apologize a lot."
+      },
+      "noi": {
+        "conjugation": "ci scusiamo",
+        "pronunciation": "/ci scusiamo/",
+        "english": "we apologize",
+        "example": "Noi ci scusiamo insieme.",
+        "example_english": "We apologize together."
+      },
+      "voi": {
+        "conjugation": "vi scusate",
+        "pronunciation": "/vi scusate/",
+        "english": "you apologize",
+        "example": "Voi vi scusate bene?",
+        "example_english": "Do you apologize well?"
+      },
+      "loro": {
+        "conjugation": "si scusano",
+        "pronunciation": "/si scusano/",
+        "english": "they apologize",
+        "example": "Loro si scusano spesso.",
+        "example_english": "They apologize often."
+      }
+    },
+    "futuro_simplice": {
+      "io": {
+        "conjugation": "mi scuserò",
+        "pronunciation": "/mi scuserò/",
+        "english": "I will apologize",
+        "example": "Io mi scuserò ogni giorno.",
+        "example_english": "I apologize every day."
+      },
+      "tu": {
+        "conjugation": "ti scuserai",
+        "pronunciation": "/ti scuserai/",
+        "english": "you (informal) will apologize",
+        "example": "Tu ti scuserai bene.",
+        "example_english": "You apologize well."
+      },
+      "lui": {
+        "conjugation": "si scuserà",
+        "pronunciation": "/si scuserà/",
+        "english": "he/she/it will apologize",
+        "example": "Lei si scuserà molto.",
+        "example_english": "She apologize a lot."
+      },
+      "noi": {
+        "conjugation": "ci scuseremo",
+        "pronunciation": "/ci scuseremo/",
+        "english": "we will apologize",
+        "example": "Noi ci scuseremo insieme.",
+        "example_english": "We apologize together."
+      },
+      "voi": {
+        "conjugation": "vi scuserete",
+        "pronunciation": "/vi scuserete/",
+        "english": "you (plural) will apologize",
+        "example": "Voi vi scuserete bene?",
+        "example_english": "Do you apologize well?"
+      },
+      "loro": {
+        "conjugation": "si scuseranno",
+        "pronunciation": "/si scuseranno/",
+        "english": "they will apologize",
+        "example": "Loro si scuseranno spesso.",
+        "example_english": "They apologize often."
+      }
+    },
+    "passato_prossimo": {
+      "io": {
+        "conjugation": "mi sono scusato/a",
+        "pronunciation": "/mi sono scusato/a/",
+        "english": "I apologized",
+        "example": "Ieri mi sono scusato/a.",
+        "example_english": "Yesterday i apologized."
+      },
+      "tu": {
+        "conjugation": "ti sei scusato/a",
+        "pronunciation": "/ti sei scusato/a/",
+        "english": "you (informal) apologized",
+        "example": "Ieri ti sei scusato/a.",
+        "example_english": "Yesterday you (informal) apologized."
+      },
+      "lui": {
+        "conjugation": "si è scusato/a",
+        "pronunciation": "/si è scusato/a/",
+        "english": "he/she/it apologized",
+        "example": "Ieri si è scusato/a.",
+        "example_english": "Yesterday he/she/it apologized."
+      },
+      "noi": {
+        "conjugation": "ci siamo scusato/a",
+        "pronunciation": "/ci siamo scusato/a/",
+        "english": "we apologized",
+        "example": "Ieri ci siamo scusato/a.",
+        "example_english": "Yesterday we apologized."
+      },
+      "voi": {
+        "conjugation": "vi siete scusato/a",
+        "pronunciation": "/vi siete scusato/a/",
+        "english": "you (plural) apologized",
+        "example": "Ieri vi siete scusato/a.",
+        "example_english": "Yesterday you (plural) apologized."
+      },
+      "loro": {
+        "conjugation": "si sono scusato/a",
+        "pronunciation": "/si sono scusato/a/",
+        "english": "they apologized",
+        "example": "Ieri si sono scusato/a.",
+        "example_english": "Yesterday they apologized."
+      }
+    }
+  }
+}

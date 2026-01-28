@@ -10,43 +10,43 @@
         "conjugation": "mangio",
         "pronunciation": "/'mandʒo/",
         "english": "I eat",
-        "example": "Mangio sempre la colazione alle otto.",
-        "example_english": "I always eat breakfast at eight."
+        "example": "Mangio sempre verdure fresche e frutta di stagione per mantenermi in salute",
+        "example_english": "I always eat fresh vegetables and seasonal fruit to stay healthy"
       },
       "tu": {
         "conjugation": "mangi",
         "pronunciation": "/'mandʒi/",
         "english": "you eat",
-        "example": "Che cosa mangi di solito a pranzo?",
-        "example_english": "What do you usually eat for lunch?"
+        "example": "Tu mangi mai cibo piccante o preferisci sapori più delicati e tradizionali?",
+        "example_english": "Do you ever eat spicy food or do you prefer more delicate and traditional flavors?"
       },
       "lui": {
         "conjugation": "mangia",
         "pronunciation": "/'mandʒa/",
         "english": "he/she/it eats",
-        "example": "Mia figlia mangia solo verdure fresche.",
-        "example_english": "My daughter eats only fresh vegetables."
+        "example": "Lei mangia solo prodotti biologici perché è molto attenta alla qualità degli alimenti",
+        "example_english": "She only eats organic products because she's very careful about food quality"
       },
       "noi": {
         "conjugation": "mangiamo",
         "pronunciation": "/man'dʒamo/",
         "english": "we eat",
-        "example": "Noi mangiamo insieme ogni domenica.",
-        "example_english": "We eat together every Sunday."
+        "example": "Mangiamo insieme tutti i giorni alla stessa ora per mantenere le tradizioni",
+        "example_english": "We eat together every day at same time to maintain traditions"
       },
       "voi": {
         "conjugation": "mangiate",
         "pronunciation": "/man'dʒate/",
         "english": "you eat",
-        "example": "Mangiate abbastanza frutta e verdura?",
-        "example_english": "Do you eat enough fruits and vegetables?"
+        "example": "Voi mangiate spesso al ristorante o cucinate sempre in casa per risparmiare?",
+        "example_english": "Do you often eat at restaurants or do you always cook at home to save money?"
       },
       "loro": {
         "conjugation": "mangiano",
         "pronunciation": "/'mandʒano/",
         "english": "they eat",
-        "example": "I miei gatti mangiano solo cibo di qualità.",
-        "example_english": "My cats eat only quality food."
+        "example": "Mangiano solo cibo fatto in casa perché non si fidano della ristorazione",
+        "example_english": "They only eat homemade food because they don't trust restaurant industry"
       }
     },
     "futuro_simplice": {
@@ -98,43 +98,43 @@
         "conjugation": "ho mangiato",
         "pronunciation": "/o man'dʒato/",
         "english": "I ate/have eaten",
-        "example": "Ho mangiato troppo gelato ieri sera.",
-        "example_english": "I ate too much ice cream last night."
+        "example": "Ho mangiato troppo durante la festa e ora mi sento molto appesantito",
+        "example_english": "I ate too much during party and now feel very heavy"
       },
       "tu": {
         "conjugation": "hai mangiato",
         "pronunciation": "/ai man'dʒato/",
         "english": "you ate/have eaten",
-        "example": "Hai già mangiato o preparo qualcosa?",
-        "example_english": "Have you already eaten or should I prepare something?"
+        "example": "Hai mangiato qualcosa di particolare durante la tua vacanza all'estero?",
+        "example_english": "Did you eat something particular during your vacation abroad?"
       },
       "lui": {
         "conjugation": "ha mangiato",
         "pronunciation": "/a man'dʒato/",
         "english": "he/she/it ate/has eaten",
-        "example": "Marco ha mangiato tutto il tiramisù.",
-        "example_english": "Marco ate all the tiramisu."
+        "example": "Ha mangiato quel piatto tradizionale che sua nonna cucinava sempre",
+        "example_english": "He ate that traditional dish his grandmother always cooked"
       },
       "noi": {
         "conjugation": "abbiamo mangiato",
         "pronunciation": "/ab'bjamo man'dʒato/",
         "english": "we ate/have eaten",
-        "example": "Abbiamo mangiato una pizza deliziosa ieri.",
-        "example_english": "We ate a delicious pizza yesterday."
+        "example": "Abbiamo mangiato in quel ristorante stellato che volevamo provare da tempo",
+        "example_english": "We ate at that starred restaurant we wanted to try for long time"
       },
       "voi": {
         "conjugation": "avete mangiato",
         "pronunciation": "/a'vete man'dʒato/",
         "english": "you ate/have eaten",
-        "example": "Avete mangiato abbastanza o volete altro?",
-        "example_english": "Have you eaten enough or do you want more?"
+        "example": "Avete mangiato abbastanza durante la cena o volete ancora qualcosa di dolce?",
+        "example_english": "Did you eat enough during dinner or do you want something sweet?"
       },
       "loro": {
         "conjugation": "hanno mangiato",
         "pronunciation": "/'anno man'dʒato/",
         "english": "they ate/have eaten",
-        "example": "I bambini hanno mangiato tutta la torta.",
-        "example_english": "The children ate the whole cake."
+        "example": "Hanno mangiato insieme per l'ultima volta prima che si separassero per sempre",
+        "example_english": "They ate together for last time before separating forever"
       }
     }
   },
@@ -147,5 +147,8 @@
   },
   "part_of_speech": "verb",
   "context": "To eat food; consumption of meals or snacks",
-  "synonyms": "consumare,nutrirsi"
+  "synonyms": "consumare,nutrirsi",
+  "deck_guid": "41780089388",
+  "note_guid": 861018994771,
+  "deck_name": "Italian::A1::Verbs::insegnare_mettere"
 }
