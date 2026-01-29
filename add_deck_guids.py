@@ -109,8 +109,8 @@ def update_verb_json_files(mappings, verb_dir):
 def main():
     """Main function to orchestrate the deck GUID addition process."""
     # File paths
-    csv_file_path = "verb_deck_mapping.csv"
-    verb_dir = "VerbData/individual_verbs"
+    csv_file_path = "SourceData/A1/Verbs/ProcessData/verb_deck_mapping.csv"
+    verb_dir = "SourceData/A1/Verbs"
 
     print("Adding deck GUIDs to verb JSON files...")
     print(f"CSV file: {csv_file_path}")

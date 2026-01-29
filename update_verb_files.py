@@ -8,7 +8,7 @@ from datetime import datetime
 from typing import Dict, List, Tuple
 
 class VerbFileUpdater:
-    def __init__(self, csv_file='verb_enhancements.csv', verb_dir='VerbData/individual_verbs'):
+    def __init__(self, csv_file='verb_enhancements.csv', verb_dir='SourceData/Verbs'):
         self.csv_file = csv_file
         self.verb_dir = verb_dir
         self.enhancements = {}

@@ -1,41 +1,25 @@
-# Copyright © 2026 Christopher C Berry All Rights Reserved.
+# Copyright (C) 2026 Christopher C Berry All Rights Reserved.
 # _______________________________________________
 # GenerateVocabDeck.py
 # Reads A1 vocabulary data from CSV, assigns stable GUIDs for decks and notes,
 # updates the CSV in-place, and generates Anki .apkg decks grouped by category.
 
-import os
+import argparse
 import csv
-import hashlib
+import json
+import os
+from pathlib import Path
+
 import genanki
 
+from helpers import stable_id, load_csv, save_csv
+from schemas import VOCAB_MODEL_FIELDS, VOCAB_MODEL_SEED, validate_vocab_row
 
-def stable_id(name: str) -> int:
-    """
-    Generate a stable numeric ID from a string using MD5.
-    """
-    digest = hashlib.md5(name.encode("utf-8"), usedforsecurity=False).hexdigest()
-    return int(digest[:10], 16)
+TEMPLATE_DIR = Path(__file__).parent / "templates" / "vocab"
 
 
-# ---------------------------------------------------------------------------
-# Column indices (0-based)
-# ---------------------------------------------------------------------------
-COL_ITALIAN = 0
-COL_ENGLISH = 1
-COL_POS = 2
-COL_IPA = 3
-COL_GENDER = 4
-COL_CONTEXT = 5
-COL_SYNONYMS = 6
-COL_EXAMPLE = 7
-COL_EXAMPLE_EN = 8
-COL_CATEGORY = 9
-COL_DECK_NAME = 10
-COL_DECK_GUID = 11
-COL_NOTE_GUID = 12
-
-NUM_COLUMNS = 13
+def _read_template(name: str) -> str:
+    return (TEMPLATE_DIR / name).read_text(encoding="utf-8")
 
 
 def build_vocab_model() -> genanki.Model:
@@ -44,125 +28,69 @@ def build_vocab_model() -> genanki.Model:
       - En->It  (front: English, back: everything else)
       - It->En  (front: Italian, back: everything else)
     """
-    fields = [
-        {"name": "Italian"},
-        {"name": "English"},
-        {"name": "PartOfSpeech"},
-        {"name": "IPA"},
-        {"name": "Gender"},
-        {"name": "Context"},
-        {"name": "Synonyms"},
-        {"name": "ExampleIT"},
-        {"name": "ExampleEN"},
-        {"name": "Category"},
-    ]
-
-    # Shared block that shows all metadata
-    info_block_en_it = """
-    <div style="max-width:500px; margin:auto;">
-    <div style="font-size:24px;">{{Italian}}</div><br><br>
-    <b>Pronunciation:</b> {{IPA}}<br>
-    <b>Part of Speech:</b> {{PartOfSpeech}}<br>
-    <b>Gender:</b> {{Gender}}<br>
-    <b>Context:</b> {{Context}}<br>
-    {{#Synonyms}}<b>Synonyms:</b> {{Synonyms}}<br>{{/Synonyms}}
-    <hr>
-    <b>Example:</b> {{ExampleIT}}<br>
-    <b>Translation:</b> {{ExampleEN}}<br>
-    </div>
-    """
-
-    info_block_it_en = """
-    <div style="max-width:500px; margin:auto;">
-    <div style="font-size:24px;">{{English}}</div><br><br>
-    <b>Pronunciation:</b> {{IPA}}<br>
-    <b>Part of Speech:</b> {{PartOfSpeech}}<br>
-    <b>Gender:</b> {{Gender}}<br>
-    <b>Context:</b> {{Context}}<br>
-    {{#Synonyms}}<b>Synonyms:</b> {{Synonyms}}<br>{{/Synonyms}}
-    <hr>
-    <b>Example:</b> {{ExampleIT}}<br>
-    <b>Translation:</b> {{ExampleEN}}<br>
-    </div>
-        """
+    fields = [{"name": n} for n in VOCAB_MODEL_FIELDS]
+    css = _read_template("card.css")
 
     templates = [
         {
             "name": "En->It",
-            "qfmt": '<div style="font-size:24px;">{{English}}</div>',
-            "afmt": '{{FrontSide}}<hr id="answer">' + info_block_en_it,
+            "qfmt": _read_template("en_it_front.html"),
+            "afmt": _read_template("en_it_back.html"),
         },
         {
             "name": "It->En",
-            "qfmt": '<div style="font-size:24px;">{{Italian}}</div>',
-            "afmt": '{{FrontSide}}<hr id="answer">' + info_block_it_en,
+            "qfmt": _read_template("it_en_front.html"),
+            "afmt": _read_template("it_en_back.html"),
         },
     ]
 
-    model_name = "Words"
-    model_id = stable_id(model_name)
+    model_id = stable_id(VOCAB_MODEL_SEED)
 
     return genanki.Model(
         model_id,
-        model_name,
+        VOCAB_MODEL_SEED,
         fields=fields,
         templates=templates,
-        css="""
-        .card { font-family: Arial; font-size: 18px; text-align: center; }
-        """,
+        css=css,
     )
 
 
-def load_csv(csv_path: str):
-    """Read the CSV and return (header, rows).  Rows are lists of strings."""
+def load_vocab_csv(csv_path: str) -> list[dict]:
+    """Read the vocab CSV using DictReader and return a list of row dicts."""
     with open(csv_path, "r", encoding="utf-8") as f:
         content = f.read().replace("\r\n", "\n").replace("\r", "\n")
-    reader = csv.reader(content.strip().split("\n"))
-    all_rows = list(reader)
-    header = all_rows[0]
-    data_rows = all_rows[1:]
-    return header, data_rows
+    reader = csv.DictReader(content.strip().split("\n"))
+    # Strip whitespace from header names so keys like "Italian   " become "Italian"
+    reader.fieldnames = [name.strip() for name in reader.fieldnames]
+    return list(reader)
 
 
-def save_csv(csv_path: str, header, rows):
-    """Write header + rows back to the CSV."""
-    with open(csv_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(header)
-        writer.writerows(rows)
-
-
-def ensure_guids(rows):
+def ensure_guids(rows: list[dict]) -> int:
     """
-    For every data row, ensure Deck Name, Deck GUID, and Note GUID are populated.
+    For every row dict, ensure Deck Name, Deck GUID, and Note GUID are populated.
     Modifies rows in-place and returns the number of rows updated.
     """
     updated = 0
     for row in rows:
-        # Pad row to NUM_COLUMNS if needed
-        while len(row) < NUM_COLUMNS:
-            row.append("")
-
-        italian = row[COL_ITALIAN].strip()
-        english = row[COL_ENGLISH].strip()
-        category = row[COL_CATEGORY].strip()
+        italian = row.get("Italian", "").strip()
+        category = row.get("Category", "").strip()
 
         if not italian or not category:
             continue
 
         deck_name = f"Italian::A1::Vocab::{category}"
         deck_guid = str(stable_id(deck_name))
-        note_guid = str(stable_id(f"{italian}"))
+        note_guid = str(stable_id(italian))
 
         changed = False
-        if row[COL_DECK_NAME].strip() != deck_name:
-            row[COL_DECK_NAME] = deck_name
+        if row.get("Deck Name", "").strip() != deck_name:
+            row["Deck Name"] = deck_name
             changed = True
-        if row[COL_DECK_GUID].strip() != deck_guid:
-            row[COL_DECK_GUID] = deck_guid
+        if row.get("Deck GUID", "").strip() != deck_guid:
+            row["Deck GUID"] = deck_guid
             changed = True
-        if not row[COL_NOTE_GUID].strip():
-            row[COL_NOTE_GUID] = note_guid
+        if not row.get("Note GUID", "").strip():
+            row["Note GUID"] = note_guid
             changed = True
 
         if changed:
@@ -171,18 +99,36 @@ def ensure_guids(rows):
     return updated
 
 
-def generate_decks(rows, output_folder: str):
+def save_vocab_csv(csv_path: str, rows: list[dict], fieldnames: list[str]):
+    """Write row dicts back to CSV."""
+    with open(csv_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def generate_decks(rows: list[dict], output_folder: str):
     """
     Group rows by deck name, create one .apkg per deck.
     """
     model = build_vocab_model()
 
+    # Validate all rows up front
+    all_errors = []
+    for row in rows:
+        errors = validate_vocab_row(row)
+        all_errors.extend(errors)
+
+    if all_errors:
+        print(f"\n=== VALIDATION ERRORS ({len(all_errors)}) ===")
+        for err in all_errors:
+            print(f"  {err}")
+        print()
+
     # Group by deck name
     deck_groups = {}
     for row in rows:
-        if len(row) < NUM_COLUMNS:
-            continue
-        deck_name = row[COL_DECK_NAME].strip()
+        deck_name = row.get("Deck Name", "").strip()
         if not deck_name:
             continue
         deck_groups.setdefault(deck_name, []).append(row)
@@ -191,23 +137,23 @@ def generate_decks(rows, output_folder: str):
 
     created = []
     for deck_name, group in sorted(deck_groups.items()):
-        deck_guid = int(group[0][COL_DECK_GUID].strip())
+        deck_guid = int(group[0]["Deck GUID"].strip())
         deck = genanki.Deck(deck_id=deck_guid, name=deck_name)
 
         notes_added = 0
         for row in group:
-            note_guid = int(row[COL_NOTE_GUID].strip())
+            note_guid = int(row["Note GUID"].strip())
             fields = [
-                row[COL_ITALIAN].strip(),
-                row[COL_ENGLISH].strip(),
-                row[COL_POS].strip(),
-                row[COL_IPA].strip(),
-                row[COL_GENDER].strip(),
-                row[COL_CONTEXT].strip(),
-                row[COL_SYNONYMS].strip(),
-                row[COL_EXAMPLE].strip(),
-                row[COL_EXAMPLE_EN].strip(),
-                row[COL_CATEGORY].strip(),
+                row.get("Italian", "").strip(),
+                row.get("English", "").strip(),
+                row.get("Part of Speech", "").strip(),
+                row.get("IPA Pronunciation", "").strip(),
+                row.get("Gender", "").strip(),
+                row.get("Context", "").strip(),
+                row.get("Synonyms", "").strip(),
+                row.get("Example Sentence", "").strip(),
+                row.get("Example Sentence English", "").strip(),
+                row.get("Category", "").strip(),
             ]
 
             note = genanki.Note(guid=note_guid, model=model, fields=fields)
@@ -227,19 +173,36 @@ def generate_decks(rows, output_folder: str):
     return created
 
 
+def load_config():
+    """Load paths from config.json."""
+    config_path = Path(__file__).parent / "config.json"
+    with open(config_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
 def main():
-    csv_path = "A1_Vocab.csv"
-    output_folder = "./Decks"
+    parser = argparse.ArgumentParser(description="Generate Anki vocab decks")
+    parser.add_argument("--level", default="A1", help="CEFR level (default: A1)")
+    parser.add_argument("--source", help="Override source CSV path")
+    parser.add_argument("--output", help="Override output folder path")
+    args = parser.parse_args()
+
+    config = load_config()
+    level_config = config["levels"].get(args.level, {}).get("vocab", {})
+
+    csv_path = args.source or level_config.get("source", "SourceData/A1/Vocab/CardSource/A1_Vocab.csv")
+    output_folder = args.output or level_config.get("output", "Decks/A1/Vocab")
 
     print("Loading CSV...")
-    header, rows = load_csv(csv_path)
+    rows = load_vocab_csv(csv_path)
+    fieldnames = list(rows[0].keys()) if rows else []
 
     print("Ensuring GUIDs...")
     updated = ensure_guids(rows)
     print(f"  Updated {updated} rows with deck/note GUIDs.")
 
     print("Saving CSV...")
-    save_csv(csv_path, header, rows)
+    save_vocab_csv(csv_path, rows, fieldnames)
 
     print("Generating Anki decks...")
     created = generate_decks(rows, output_folder)

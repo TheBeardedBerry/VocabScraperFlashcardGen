@@ -125,7 +125,29 @@ All 99 Italian verb JSON files have been systematically updated with:
 
 The enhancement system (CSV + Python script) allows for efficient future updates to verb data while maintaining consistency across all files.
 
+## Architecture
+
+### Shared Modules
+- **`helpers.py`**: Common utilities — `stable_id()`, `load_csv()`, `save_csv()`, `backup_file()`. All scripts import from here.
+- **`schemas.py`**: Canonical schema definitions — verb tenses/persons/fields, vocab column names, model seed strings, validation functions. The verb field list is deterministic (not derived from data).
+- **`config.json`**: Path configuration mapping CEFR levels to source/output directories. Both generators read from this instead of hardcoding paths.
+
+### Deck Generation
+- **`GenerateAnkiDeck_cgpt.py`**: Verb deck generator. Accepts `--level`, `--source`, `--output` CLI args. Runs GUID assignment as a separate step before read-only generation. Validates verb data against the schema before building cards.
+- **`GenerateVocabDeck.py`**: Vocab deck generator. Uses `csv.DictReader` (not positional indices). Accepts same CLI args.
+- **`GenerateAnkiDeck.py`**: **Deprecated.** Legacy script kept for reference only; depends on deleted `patterns/verbs.json`.
+
+### Templates
+Card HTML templates live in `templates/verb/` and `templates/vocab/` as separate files. Conjugation templates use `PREFIX` and `TENSE_NAME` placeholders that are replaced at model-build time.
+
+### Model Seed Strings
+The strings `"VerbModel_stuff"`, `"IrregularVerbModel_Blah"`, and `"Words"` are used to generate stable Anki model IDs. They are defined as constants in `schemas.py` and must never be changed or existing Anki imports will break.
+
+### Active Tenses
+`schemas.ACTIVE_TENSES` controls which tenses get card templates. Currently `["presente"]`. To enable cards for `futuro_simplice` or `passato_prossimo`, add them to this list. The model always includes fields for all tenses regardless.
+
 ## Development Notes
 - All verb files were successfully updated except for 3 that contained placeholder content (morire, ottenere, scegliere) which have since been manually completed
 - The CSV-driven approach ensures data consistency and makes bulk updates manageable
 - Future Claude instances should use the update_verb_files.py script rather than manual file-by-file editing
+- To add a new CEFR level (e.g., A2), add an entry to `config.json` and run the generators with `--level A2`

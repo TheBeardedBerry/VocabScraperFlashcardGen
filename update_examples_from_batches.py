@@ -19,7 +19,7 @@ from pathlib import Path
 
 
 class ExampleUpdater:
-    def __init__(self, verb_dir='VerbData/individual_verbs'):
+    def __init__(self, verb_dir='SourceData/Verbs'):
         self.verb_dir = Path(verb_dir)
         self.batch_files = []
         self.updates_applied = 0

@@ -1,6 +1,37 @@
-import datetime, unicodedata
+import csv
+import datetime
+import hashlib
+import unicodedata
 from os import path, mkdir, rename
 from shutil import copyfile
+
+def stable_id(name: str) -> int:
+    """
+    Generate a stable numeric ID from a string using MD5.
+    Not used for security — only for generating deterministic IDs.
+    """
+    digest = hashlib.md5(name.encode("utf-8"), usedforsecurity=False).hexdigest()
+    return int(digest[:10], 16)
+
+
+def load_csv(csv_path: str):
+    """Read the CSV and return (header, rows). Rows are lists of strings."""
+    with open(csv_path, "r", encoding="utf-8") as f:
+        content = f.read().replace("\r\n", "\n").replace("\r", "\n")
+    reader = csv.reader(content.strip().split("\n"))
+    all_rows = list(reader)
+    header = all_rows[0]
+    data_rows = all_rows[1:]
+    return header, data_rows
+
+
+def save_csv(csv_path: str, header, rows):
+    """Write header + rows back to the CSV."""
+    with open(csv_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        writer.writerows(rows)
+
 
 def backup_file(file_path):
     timestamp = datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S')

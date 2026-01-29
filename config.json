@@ -1,0 +1,14 @@
+{
+  "levels": {
+    "A1": {
+      "verbs": {
+        "source": "SourceData/A1/Verbs/CardSource",
+        "output": "Decks/A1/Verbs"
+      },
+      "vocab": {
+        "source": "SourceData/A1/Vocab/CardSource/A1_Vocab.csv",
+        "output": "Decks/A1/Vocab"
+      }
+    }
+  }
+}
